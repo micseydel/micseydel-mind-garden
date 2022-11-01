@@ -1,33 +1,43 @@
-# The gist
+# What is Obsidian?
 
-Obsidian is the lens through which I view [[My Mind Graph]]. See [[My PKMS journey]] for more details on how I got to it. I need to expand on [[0_mind_garden/private_mind_garden/buffer/pkm/Networked Thinking]], since Obsidian is simply one tool (I personally believe the best today) for engaging in a paradigm that I was interested in because of Wikipedia, which is a proven system for organizing data at scale over time.
+[Obsidian](https://obsidian.md/) is a [[Personal knowledge management systems (PKMS)]] tool. It is often used for [[Networked Thinking]], as opposed to Evernote or Apple Notes. It is not a SaaS (software as a service) as is so common today, instead the files are local to your device. Those files are *plaintext* meaning that I don't need special software to review and understand them.
 
-The [[About this mind garden|mind garden]] you are viewing right now uses [Obsidian Publish](https://obsidian.md/publish). I also use Obsidian Sync, though I'm confident it eats my data sometimes. I'll publish results on that soon hopefully. I rely on Git with Obsidian Sync as an adjunct, I am *extremely skeptical* of sync mechanisms.
+# Why do I use Obsidian?
 
-In its simplest form, Obsidian is great for creating a private, personal wiki. It reminds me of Arch Linux in the sense that it requires configuration "straight out of the box." Sort of. You could just use wikilinks ("bidirectional links" `[[Like this]]` where backlinks at the bottom of these pages are automatically generated) and not even worry about learning Markdown or touching plugins until you find yourself missing out.
+* It's plaintext
+	* Future-proof
+	* As a coder, this means I am totally unlimited in changing that text
+* It's local-first
+	* I don't have worry about a [changed privacy policy](https://thenextweb.com/news/evernote-employees-can-now-read-your-notes-heres-how-to-stop-them)
+	* I'm able to take responsibility for security rather than trusting a profit-driven corporation
+* It suits my needs
+	* I can use Git with it
+	* No other tool has looked as appealing (Roam Research was close)
+	* I wanted to build a personal wiki
 
-I use the Periodic Notes plugin, and mostly avoid plugins but need to write more about that and [[Compromise]].
+The biggest drawback for me is how shiny and new it is. That said, for now I have avoided looking at themes or many extensions, which I mention because many complain that they cannot help themselves but to customize it.
 
-# Why I use it
+# Wiki comparison
 
-The top reasons are
-* Privacy - it's an application that is offline *first*
-* Plaintext - will write about this more from my data engineer lens
-* Future-proof
-    * Markdown is pretty likely to stick around
-    * Obsidian is written in Javascript and does not require internet access
-* Stability
-    * It's as stable as I want it to be - I can pick a version and learn to live with whatever issues there are, I can run experimental builds, or somewhere in between
-    * SaaS inherently gives up control, couples your success to alignment with the company (e.g. you're not too expensive of a customer, they're competent, they have processes to resolve issues when competency is not enough, uptime, etc.)
-* I can use Git with it
+[According to Wikipedia](https://en.wikipedia.org/wiki/Wiki),
+> A wiki is an online ==hypertext publication== collaboratively edited and managed by its own audience, using a web browser. A typical wiki ==contains multiple pages for the subjects or scope of the project, and could be either open to the public or limited== to use within an organization for maintaining its internal knowledge base. 
 
-The plugin system is a HUGE plus and I love that the appearance can be customized but haven't gotten to that yet. People complain that Obsidian sucks you into customization, I can't speak to that personally but if you don't have the willpower to deal with it, I guess Evernote is fine. The problem with Evernote is that people "clip" too much because it's too easy and *feels* more productive than it is, so pick your poison. I prefer offline, non-SaaSy poison.
+In its simplest form, Obsidian is great for creating a private, personal wiki. The [[About this mind garden|mind garden]] you are viewing right now uses [Obsidian Publish](https://obsidian.md/publish). While it may not be as editable as Wikipedia, especially via Obsidian Publish, the entire thing is [on Github](https://github.com/micseydel/micseydel-mind-garden/) so it *can* be collaborated on.
+
+If I wasn't using Obsidian, I would most likely still be striving for something wiki-like.
 
 # Should you use Obsidian?
 
-Picking a PKMS or "second brain" tool or set of tools is highly personal. I would personally recommend and love if everyone tried Obsidian, but if it doesn't immediately resonate with you I would recommend trying at least one other tool as well.
+Picking a [[Personal knowledge management systems (PKMS)|PKMS]] or "[[My PKMS journey - the short version#Building a Second Brain - Tiago Forte|second brain]]" tool or set of tools is highly personal. I would personally recommend and love if everyone tried Obsidian, but if it doesn't immediately resonate with you I would recommend trying at least one other tool as well.
 
 If you already have a PKMS going, I would ask yourself what your goals are. Is anything coming up where you want to make sure your system is stable? Do you have problems with your current system? Are they written down? I hate to say it, but if the answer to that last question is *no* then it's probably not the tool holding you back!
+
+# Alternatives
+
+* Roam (tried)
+* Logseq
+* Tiddlywiki
+* Vimwiki (will investigate for an "emergency eject")
 
 # Comparison to Minecraft
 

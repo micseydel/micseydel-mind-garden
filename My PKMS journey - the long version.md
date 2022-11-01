@@ -1,10 +1,13 @@
-See: [[Personal knowledge management systems (PKMS)]] for general background.
+See also: [[My PKMS journey - the short version|the short version]].
 
 # Modern - 2018 onward
 
-As of 2018(ish) I was using primarily Google Docs but also Trello and Google Keep. I had a very slow start, primarily working out of a "Scratchpad" doc and not really creating separate records until it was 20+ pages.
+As of 2018(ish) I was using primarily Google Docs but also Trello and Google Keep. I had a very slow start, primarily working out of a "Scratchpad" doc and I didn't consider creating a second doc until the first was 20+ pages.
 
 (note for later I should mention my *work* notes from that time although I no longer have access)
+* Daily notes
+* Scratchpad
+* What else??
 
 In summer 2020 I was doing therapy and would collect notes in my Scratchpad. I started splitting out different session notes into separate docs, then started creating them proactively and then created a template that changed over time. My system grew organically based on needs.
 
@@ -20,7 +23,7 @@ In April, _Too Many Thoughts Living Rent-Free In Your Head? Try Mind Gardening_�
 
 (to add - notes on how I nearly gave up because I used to use tables so heavily)
 
-I think I originally looked at Roam Research, [[public_mind_garden/Obsidian|Obsidian]] and Logseq to experiment with migrating from Google Docs. I was going to build a mind garden but decided to do something more private first. I chose Roam Research initially but made a conscious effort to *not* learn keyboard shortcuts or any features specific to Roam, because I didn't want to have to do more than one serious migration in the short term. I didn't want to fall prey to "shiny new tool syndrome" (a term I'd learn later) after having so carefully stayed on Google Docs.
+I think I originally looked at Roam Research, [[Obsidian]] and Logseq to experiment with migrating from Google Docs. I was going to build a mind garden but decided to do something more private first. I chose Roam Research initially but made a conscious effort to *not* learn keyboard shortcuts or any features specific to Roam, because I didn't want to have to do more than one serious migration in the short term. I didn't want to fall prey to "shiny new tool syndrome" (a term I'd learn later) after having so carefully stayed on Google Docs.
 
 Roam ended up being incredibly addictive. It was a wiki like I wanted, and it had bullet points like my bullet journal, but unlike Google Docs I could very easily *collapse bullets* (this is seriously so important to me) as well as *link to blocks* and easily break notes into smaller ones.
 
@@ -28,25 +31,23 @@ I ended up creating a "mind graph" note which was a kind of center hub which lin
 
 I accidentally stumbled across block embeds and block references. I could not help but use them, though I was afraid of lock-in. I tested out [this migration script](https://github.com/renerocksai/rj2obs) and found that it had issues but would serve as an "emergency eject" if Roam became unreliable. Roam did hourly backups, which is also a little anxiety-inducing for me. I know that insights can be contextual, so it's not simply a matter of re-doing an hour of work if something went wrong.
 
-In May I would read *What is Networked Thinking and How It Can Benefit You* ([appsntips](https://www.appsntips.com/what-is-networked-thinking/)) which would give me the ==concept handle== "networked thinking" to describe things. At this point I may have seen Building a Second Brain (BASB) and Linking Your Thinking  (LYT) materials as well as references to Zettelkasten, and I wasn't interested in any of it. Being a [[How I got into coding|self-taught coder]], I felt like I could figure things out myself, at least insofar as identifying major blockers or points of friction in my system worthy of asking questions. I did my own thing until...
+In May I would read *What is Networked Thinking and How It Can Benefit You* ([appsntips](https://www.appsntips.com/what-is-networked-thinking/)) which would give me the ==concept handle== "networked thinking" to describe things. At this point I may have seen Building a Second Brain (BASB) and Linking Your Thinking  (LYT) materials as well as references to Zettelkasten, and I wasn't interested in any of it. Being a self-taught coder, I felt like I could figure things out myself, at least insofar as identifying major blockers or points of friction in my system worthy of asking questions. I did my own thing until...
 
 ## Building a Second Brain - Tiago Forte
 
-I haven't found the link yet, but I came across something somewhere that referred to their PKMS as a "collaborator" (probably a Zettelkasten). I feel pretty connected with my notes, but this seemed a bit much. Later it occurred to me - I could perhaps understand that perspective if psychedelics were involved.
+I haven't found the link yet, but I came across something somewhere that referred to their PKMS as a "collaborator" (probably a Zettelkasten, looking back). I feel pretty connected with my notes, but this seemed a bit much. Later it occurred to me - I could perhaps understand that perspective if psychedelics were involved.
 
-I Google'd **"second brain" psychedelics** even though I'd been referring to my "mind graph" and had not used the BASB terminology at all, because "second brain" seemed to be the primary term people used to refer to their notes. That lead me to _Tiago Forte on Intuition, Breathwork & What it Feels like to Have a Second Brain_ ([Curious Humans on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2N1cmlvdXMtaHVtYW5z/episode/OTU3ODRjNTUtZDFhOC00NGIyLWE4MjMtMDZlY2M1ZTE4ZWI3?sa=X&ved=0CAUQkfYCahcKEwjoy-agxrf4AhUAAAAAHQAAAAAQLA)).  He talked about having a throat issue and being prescribed a serious anti-seizure medication and boy does that sound personally familiar! See: [[Personal Trauma#Trauma Symptoms]]
+I Google'd **"second brain" psychedelics** even though I'd been referring to my "mind graph" and had not used the BASB terminology at all, because "second brain" seemed to be the primary term people used to refer to their notes. That lead me to _Tiago Forte on Intuition, Breathwork & What it Feels like to Have a Second Brain_ ([Curious Humans on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2N1cmlvdXMtaHVtYW5z/episode/OTU3ODRjNTUtZDFhOC00NGIyLWE4MjMtMDZlY2M1ZTE4ZWI3?sa=X&ved=0CAUQkfYCahcKEwjoy-agxrf4AhUAAAAAHQAAAAAQLA)).  He talked about having a throat issue and being prescribed a serious anti-seizure medication and boy does that sound personally familiar! See: [[Personal Trauma#Gagging]]
 
 He had just released his book that week, so I ordered it and signed up for the book club. I updated my LinkedIn to say I'm building a second brain and took on the terminology.
 
 ## Obsidian
 
-Though Roam Research is amazing in a lot of ways, I am currently using (and very happy with) Obsidian. See also: [[First time using Obsidian in the doctor's office]]
-
-I wrote a script that I plan to publish which builds on one I found someone else had written. My code (1) tried to use fewer side-effects and be more like a pipeline and (2) does references in Obsidian's newer formatting.
+Though Roam Research is amazing in a lot of ways, I am currently using (and very happy with) [[Obsidian]]. I wrote a script that I plan to publish which builds on one I found someone else had written. My code (1) tried to use fewer side-effects and be more like a pipeline and (2) does references in Obsidian's newer formatting.
 
 # After move to Obsidian
 
-I joined the [[Building a Second Brain|BASB]] course cohort 15. I haven't been able to get it the attention it might deserve but we'll see how cohort 16 goes.
+I joined the [[Personal knowledge management systems (PKMS)#Building a Second Brain|BASB]] course cohort 15. I haven't been able to get it the attention it might deserve but we'll see how cohort 16 goes.
 
 # Historical - prior to 2018
 

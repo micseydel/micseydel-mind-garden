@@ -1,42 +1,21 @@
-# Lead-up
+# The gist
 
-Since lockdown started, I've been a [[COVID Hermiting|COVID hermit]]. I have a personal zero-COVID policy so I have mostly not breathed the same air as others for quite a long time.
+I am currently living alone for the first time in my life. In February 2021 I quit my job and in April 2021 I left my living situation due to it becoming unsafe. In the aftermath of April 2021 my entire support network crumbled.
 
-Quick timeline
-* February 2021 I quit my job - it was the right time, following an acquisition
-* April 2021
-    * I was rear-ended on the freeway and my car nearly totaled
-    * Roommate drama, I was advised by my therapist (who *knew* the roommate) to move out for my own safety
-* June
-    * I got my own place, having never lived alone before
-    * Around this time, I started dating someone, lost another friend, and then broke up with and lost the friend I had started dating 🙃
-* Various drama through November
-    * Then I got cats! See: [[Peanut 🥜]]
-    * Things were chill until February 2022
-    * I started [putting myself back together](https://youtu.be/Vgcg7K0KoBw?t=129)
-* February 2022 - Peanut started having a medical issue
-* April - learned about [[0_mind_garden/private_mind_garden/buffer/pkm/Networked Thinking]]
-* Worked on my notes, organizing thoughts on everything that happened, [[Healing and Therapy]]
-* August/September - Peanut started getting better
+In November 2021 I got cats. Beginning in February 2022 one of them revealed having a chronic condition. Per my [[Current Goals]], everything else I'm doing takes a backseat to taking care of them. When my cats are doing ok, I focus on [[Current Goals#❤️‍🩹 Healing|healing]] and processing complex trauma.
 
-# Now
+Last year was quite a mess but this year (2022 at the time of this writing) has been spent [putting myself back together](https://youtu.be/Vgcg7K0KoBw?t=129). In April 2022 I learned about [[Networked Thinking]] which revolutionized my ability to get and stay organized.
 
-## Internal - The Work
+# Day to day
 
-I have been doing talk therapy for [[Healing and Therapy|some time]], and recently added [EMDR](https://www.emdr.com/what-is-emdr/) and [Hakomi](https://hakomiinstitute.com/) as adjuncts after finding that a somatic approach is an essential ingredient for my own healing. I feel like I'm a lock that needs to be picked, and each pin is a different modality. Things "bind" briefly at times but I do end up backtracking.
+At the time of this writing, I am doing regular talk therapy as well as seeing adjunct practitioners for [EMDR](https://www.emdr.com/what-is-emdr/) and [Hakomi](https://hakomiinstitute.com/). Between these activities and the note-making I do around them, this is a substantial portion of where my time goes. I'm trying to do [[The Work]] and not just show up to the sessions.
 
-## External work
+## Activities
 
-For the last few years in an [[Personal knowledge management systems (PKMS)|accelerating manner]], I was keeping personal notes in Google Docs until March 2022. In April, I discovered Roam Research and [Networked Thinking](https://www.appsntips.com/what-is-networked-thinking/) originally via [this post about mind gardening](https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity). This allowed a massive increase in my ability to organize things.
+Besides explicit healing activities, I am doing things that might look lazy from the outside. I play video games sometimes, and I've found that inducing flow can help get thoughts on separate topics unstuck. I basically bounce back and forth between the game and my notes. Multi-tasking isn't particularly efficient, but I find that this allows me to have thoughts I can't have intentionally (much like the [Wu-Wei Paradox](https://www.psychologytoday.com/intl/blog/the-athletes-way/202201/the-wu-wei-paradox-striving-less-generates-more-success)).
 
-I have since switched from Roam to Obsidian, and am additionally working on [[My Cognitive Tinkerframe]] which includes writing Python code to handle voice memos about my cats.
+I also watch a lot of TV right now. I'm often watching shows from earlier in my life (e.g. [[About Me (Michael Seydel)#Select Favorites|Fringe]]) and it's interesting to feel how my perspective has changed. TV shows give me different lenses with which to view the world, and re-watching shows helps with anxiety.
 
-## Day to day
+I also spend a decent chunk of time on Reddit. This might sound silly, but the CPTSD sub has been incredibly useful and I plan to (eventually) write in depth about my experience with Reddit. Reddit also gives me new lenses, though I obviously have to be careful with that.
 
-As of early October 2022, Peanut is my highest priority. The quick timeline above skips over a lot, I spent at least half that time acutely dealing with various crises. Since April 2021 I have not felt like I had a break more than a week or so and I've never started "[catching up](https://www.reddit.com/r/CPTSD/comments/xx5t0u/70_of_my_energy_is_spent_trying_to_survive_30_is/)". Peanut recently was doing good for about a month and I have a plan but it's stressful 😕
-
-So I work on my notes, take voice memos, read [[About Me (Michael Seydel)#Books|books]] and listen to podcasts on walks. I play video games and take breaks to make notes. I'm generally trying to balance [[Current Goals]] with simply resting and slowing down. The books and other media give me lenses I wouldn't have come up with on my own. Video games allow flow state so that my unconscious mind can process things. I also use THC regularly to give myself new perspectives and look forward to examining that more with [[My Cognitive Tinkerframe]].
-
-# Future
-
-I want to continue working on my tinkerframe, [[Healing and Therapy]], and start socializing in whatever capacity [[COVID Hermiting|makes sense at the time]]. While the near-term will be spent primarily on own needs, I'd like to write about my healing in case others might benefit from it and to share code I write for my tinkerframe, but sharing is a secondary priority for me right now.
+When things with my cats and healing go well enough, I focus on [[My Cognitive Tinkerframe]].
