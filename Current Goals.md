@@ -63,8 +63,11 @@ I need to subject my COVID Hermiting beliefs to more skepticism, broaden the sou
 
 # Potential future plans
 
+Next job
 * AI
 * Climate change
     * Materials science
 * Social justice
 * Large scale/durable data organizing
+
+Additional mind garden - a professional one where I host as much of my professional-related notes as possible.

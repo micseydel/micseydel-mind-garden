@@ -20,7 +20,7 @@ I do not currently have a blog, but if I did, posts would
 * get put through [Grammarly](https://app.grammarly.com/)
 * be peer-reviewed privately before public posts
 
-That's all a lot more work 😆
+That's all a lot more work 😆 It's also all friction that would be a perfectionist distraction from my true goal, which is to get my ideas out there and start publicly living my note-making lifestyle.
 
 That said, a blog can fulfill similar functions to this garden. Public things like this can also act like a "[[Personal knowledge management systems (PKMS)#Building a Second Brain|second brain]]" even if you're not keeping a lot of private notes.
 
