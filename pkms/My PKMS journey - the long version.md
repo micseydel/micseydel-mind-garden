@@ -63,4 +63,9 @@ I think that if I had maintained that momentum, I would be a much better tinker 
 
 # To add
 
-I was anti folder and pro tag, but have actually used links instead of tags.
+* I was anti folder and pro tag, but have actually used links instead of tags.
+* Work
+	* Hourly bullets
+	* Getting pinged too much
+* Palm device, dad as a rolemodel
+* Links to Slack messages in my work notes

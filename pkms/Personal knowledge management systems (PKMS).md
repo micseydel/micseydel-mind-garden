@@ -23,3 +23,7 @@ See also: [[My PKMS journey - the short version]]
 ## Zettelkasten
 
 This is a term you might see used, but I have to dig in and learn more. I know that prior to computers being invented, someone was using *paper* for this, although modern practitioners are likely to involve digital tools.
+
+# Dependencies / infrastructure
+
+I personally try to limit dependencies in my PKMS. For example, I thought Roam Research was good enough to use anyway, but SaaS for PKMS will always make me nervous.
