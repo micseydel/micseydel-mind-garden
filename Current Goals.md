@@ -1,17 +1,22 @@
 # Summary
 
 1. [[#🐱 Cats]]
+    1. #takecareofmycats 
 2. [[#❤️‍🩹 Healing]] - [[#👩‍⚕️ Therapy|👩‍⚕️]] ==[[#🌱 Mind Garden|🌱]]== [[#🕸 Mind Graph|🕸]]
+    1. #mindgardening 
+    2. #mindgraphing 
 3. [[#🛠 Tinkerframe]]
-4. [[#👩‍🍳 Cook more]]
-5. [[#🏃 Exercise more]]
-6. [[#👬 Socialize *safely*]]
+    1. #tinkering 
+4. ~
+    1. [[#👩‍🍳 Cook more]]
+    2. [[#🏃 Exercise more]]
+    3. [[#👬 Socialize *safely*]]
 
 # Details
 
 ## 🐱 My Cats
 
-One of my cats - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it.
+One of my cats - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
 
 Desired outcome: I feel confident and secure that Peanut's needs are being met. FIC episodes seem largely preventable and when they happen, I'm prepared.
 
@@ -31,17 +36,17 @@ I maintain [maps of content (MOCs)](https://forum.obsidian.md/t/a-case-for-mocs/
 
 ### 🌱 Mind Garden
 
-Working on my [[About this mind garden|mind garden]] (or my [[#🕸 Mind Graph|mind graph]] for that matter) is a creative activity that I often find restorative. It is related to my [[#🛠 Tinkerframe]] as well but counts toward healing for now. That may change as my feelings around expression, productivity, and whatever else change.
+Working on my [[About this mind garden|mind garden]] (or my [[#🕸 Mind Graph|mind graph]] for that matter) is a creative activity that I often find restorative. It is related to my [[#🛠 Tinkerframe]] as well but counts toward healing for now. That may change as my feelings around expression, productivity, and whatever else change. #mindgardening
 
 ### 🕸 Mind Graph
 
 These are my private notes. Anything that *can* go in my [[#🌱 Mind Garden|mind garden]] I would prefer live in the garden over my private graph, though...
 
-I default to writing here instead of my garden because having to consider an external audience increases cognitive load. If the notes were not 100% private -- if a partner or doctor could read them -- that would be a constant additional cognitive load as well as potential pressure to *appear* perfect, which might induce an ego reaction instead of curiosity.
+I default to writing here instead of my garden because having to consider an external audience increases cognitive load. If the notes were not 100% private -- if a partner or doctor could read them -- that would be a constant additional cognitive load as well as potential pressure to *appear* perfect, which might induce an ego reaction instead of curiosity. #mindgraphing
 
 ## 🛠 Tinkerframe
 
-Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[#👩‍🍳 Cook more]] and [[#👬 Socialize *safely*]].
+Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[#👩‍🍳 Cook more]] and [[#👬 Socialize *safely*]]. #tinkering
 
 Desired outcome: establish a pattern of approaching life problems scientifically, meaning using hypotheses, experiments, data points and such.
 

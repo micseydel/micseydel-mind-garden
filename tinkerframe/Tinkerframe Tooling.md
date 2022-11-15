@@ -1,6 +1,6 @@
 There's a sense in which a [[My Cognitive Tinkerframe|cognitive tinkerframe]] is "just" [[Personal knowledge management systems (PKMS)|PKMS]] with a particular focus. For that reason the tooling choices are specific to me, much like a [[Personal knowledge management systems (PKMS)#Building a Second Brain|"second brain"]] is personal to the individual.
 
-I consider [[Obsidian]] to be the *lens* through which I view plaintext wiki-links Markdown stored in Git. That plaintext can be manipulated outside of Obsidian.
+I consider [[Obsidian]] to be the *lens* through which I view plaintext wiki-links Markdown stored in Git. That plaintext can be manipulated outside of Obsidian. Obsidian can be configured to have different UI for the notes that go into this public garden.
 
 # Additional tools
 
@@ -33,3 +33,8 @@ I currently have a [Litter Robot](https://www.litter-robot.com/litter-robot-iii-
 I would love to have something like Google Glass, but better. A single LED (mono/tri/multi-color) that flashes in pre-programmed ways at the corner of my vision could be an amazing compromise. Or maybe something more... [discreet](https://github.com/RonSijm/ButtFish) 🤷♟
 
 I would also love to augment Google Photos.
+
+# Triage
+
+https://www.reddit.com/r/Python/comments/yrldcw/micropython_officially_becomes_part_of_the/
+Consider playing with [bleeding-edge Python](https://www.reddit.com/r/Python/comments/xcalho/python_3110rc2_is_out/)
