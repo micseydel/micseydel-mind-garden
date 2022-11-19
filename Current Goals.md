@@ -1,12 +1,12 @@
 # Summary
 
 1. [[#🐱 My Cats]]
-    1. #takecareofmycats 
+    * #takecareofmycats 
 2. [[#❤️‍🩹 Healing]] - [[#👩‍⚕️ Therapy|👩‍⚕️]] ==[[#🌱 Mind Garden|🌱]]== [[#🕸 Mind Graph|🕸]]
-    1. #mindgardening 
-    2. #mindgraphing 
+    * #mindgardening 
+    * #mindgraphing 
 3. [[#🛠 Tinkerframe]]
-    1. #tinkering 
+    * #tinkering 
 4. ~
     1. [[#👩‍🍳 Cook more]]
     2. [[#🏃 Exercise more]]
