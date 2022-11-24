@@ -18,7 +18,7 @@
 
 One of my cats - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
 
-Desired outcome: I feel confident and secure that Peanut's needs are being met. FIC episodes seem largely preventable and when they happen, I'm prepared.
+Desired outcome: I feel confident and secure that Peanut's needs are being met. FIC episodes seem largely preventable and when they happen, I'm prepared. I can leave, occasionally, for an entire day feeling secure that Peanut will cope ok.
 
 ## ❤️‍🩹 Healing
 
