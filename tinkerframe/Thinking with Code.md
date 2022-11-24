@@ -19,4 +19,4 @@ The above could be built by any competent coder. A mobile dev could eliminate th
 
 Once I've built the SMS part of the code, I could connect that to a *different* chat bot. I could also continue developing the chat bot and leave the SMS code alone. Or I could replace SMS but still re-use the logic around doing the math and generating a report.
 
-Once this system is in place, it's not hard to tinker on it. Instead of flipping a coin, it can weight the probability of its suggested based on how confident it is the intervention will work. It could be expanded past just two interventions. I might add Alexa voice support so that I don't have to touch my phone.
+Once this system is in place, it's not hard to tinker on it. Instead of flipping a coin, it can weight the probability of its suggestions based on how confident it is the intervention will work. It could be expanded past just two interventions. I might add Alexa voice support so that I don't have to touch my phone.

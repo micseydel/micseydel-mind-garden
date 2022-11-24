@@ -21,3 +21,5 @@ Given a fight/flight/freeze/fawn situation, I am most likely to *freeze*. I have
 # See also
 
 * [[Networked Thinking#Processing Trauma]]
+* [[EMDR]]
+* [[Hakomi]]

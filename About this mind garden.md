@@ -5,10 +5,13 @@ aliases:
 
 # Intro
 
-Like a garden, this is an "organic" space in the sense that if you leave and return, new things may have blossomed, some will have been pruned, and some will have matured. All links here should be considered temporary, though I hope at some point to provide better support for bookmarks.
+Like a garden, this is an "organic" space in the sense that if you leave and return, new things may have blossomed, some will have been pruned, and some will have matured.
 
 I want to [[Learning in public|learn in public]]. I also consider this a way for me to build a reputation, in the sense that I can establish a public pattern of trying to be consistent and elaborating on apparent inconsistencies. It's a way to hold myself accountable and empower those who want to hold me accountable to do so as well. 
+
 Besides accountability, peer review is lovely! I am currently a COVID hermit and want to write about why so others can (potentially) point out where I might be mistaken. You can also checkout [[About Me (Michael Seydel)|About Me]] or [[My Cognitive Tinkerframe]].
+
+==NOTE==: the current version of this garden is a kind of beta, so bookmarks aren't necessarily supported yet and deadlinks haven't been cleaned up well either.
 
 # How is it different from a blog?
 
@@ -31,7 +34,7 @@ I feel like often when I'm talking about my life, it's like showing someone a ta
 
 ## History
 
-The full history of this garden can be found [on Github](https://github.com/micseydel/micseydel-mind-garden/). I may create a changelog note for here as well.
+The full history of this garden can be found [on Github](https://github.com/micseydel/micseydel-mind-garden/). I may create a changelog note for here as well. I'll rebase for a v1.0 version and try to have a clean history once this garden is out of beta.
 
 # Bonus
 

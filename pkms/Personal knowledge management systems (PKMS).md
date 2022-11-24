@@ -14,7 +14,7 @@ See also: [[My PKMS journey - the short version]]
 
 ## Building a Second Brain
 
-[Building a Second Brain](https://www.buildingasecondbrain.com/) is the system invented by Tiago Forte. It is available as a book as well as a course. You can think of BASB as PKMS with *productivity* being an important part of the community. If you see talk about CODE (capture, organize, distill, express) or PARA (projects, areas, resources and archive) those are BASB terms.
+[Building a Second Brain](https://www.buildingasecondbrain.com/) is the system invented by Tiago Forte. It is available as a book as well as a course. You can think of BASB as PKMS through a *productivity* lens, as well as the community vibe. If you see talk about CODE (capture, organize, distill, express) or PARA (projects, areas, resources and archive) those are BASB [[Jargon#Building a Second Brain (BASB)|terms]].
 
 ## Linking Your Thinking
 

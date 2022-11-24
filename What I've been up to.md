@@ -8,7 +8,7 @@ Last year was quite a mess but this year (2022 at the time of this writing) has 
 
 # Day to day
 
-At the time of this writing, I am doing regular talk therapy as well as seeing adjunct practitioners for [EMDR](https://www.emdr.com/what-is-emdr/) and [Hakomi](https://hakomiinstitute.com/). Between these activities and the note-making I do around them, this is a substantial portion of where my time goes. I'm trying to do [[The Work]] and not just show up to the sessions.
+At the time of this writing, I am doing regular talk therapy as well as seeing adjunct practitioners for [[EMDR]] and [[Hakomi]]. Between these activities and the note-making I do around them, this is a substantial portion of where my time goes. I'm trying to do [[The Work]] and not just show up to the sessions.
 
 ## Activities
 

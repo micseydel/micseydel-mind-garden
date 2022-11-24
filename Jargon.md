@@ -8,7 +8,7 @@ This section is for terms that I use but you won't likely see used by others. I'
 
 ### Mind graph 🧠🕸
 
-This is the phrase I use to describe my private, personal notes. Because they are essentially an offline website [[Obsidian#Wiki comparison|like Wikipedia]], it's important to think of them as a *graph* (like a social network) rather than something rigid/silo'd like a folder structure.
+This is the phrase I use to describe my private, personal notes. Because they are essentially an offline website [[Obsidian#Wiki comparison|like Wikipedia]], it's important to think of them as a *graph* (like a social network) rather than something rigid/silo'd like a filing cabinet or folder structure.
 
 ### My Cognitive Tinkerframe 🧠🛠🖼
 

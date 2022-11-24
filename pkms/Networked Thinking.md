@@ -1,8 +1,10 @@
 [This random website](https://www.appsntips.com/what-is-networked-thinking/) is where I learned the term. I should probably re-read it, but after learning about [mind gardening](https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity) I stumbled across this term. The tl;dr is that I'd rather do my [[Personal knowledge management systems (PKMS)|PKM]] in a wiki than a filing cabinet.
 
+I need to look into [[Personal knowledge management systems (PKMS)#Linking Your Thinking|"linking your thinking" (LYT)]] more but don't feel blocked enough to deep-dive,.
+
 # Folders
 
-I am not a fan of folders. I don't use them in [[My Mind Graph]] very much, and I spent zero time most days thinking about folders - the folders I do have (periodic notes, non-text attachments) are managed via configuration. I recently reviewed some of my old Google Drive noets and I did *not* miss using folders.
+I am not a fan of folders. I don't use them in [[My Mind Graph]] very much, and I spend zero time most days thinking about folders - the folders I do have (periodic notes, non-text attachments) are managed via configuration. I recently reviewed some of my old Google Drive noets and I did *not* miss using folders.
 
 That said, now that I have avoided them a lot for several months, I am experimenting with using them in a private instance as well as for [[My Cognitive Tinkerframe]] in this vault.
 

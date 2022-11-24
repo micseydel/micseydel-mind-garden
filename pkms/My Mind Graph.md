@@ -4,7 +4,7 @@ The equivalent term others use might be "[[Jargon#Building a Second Brain (BASB)
 
 # Implementation
 
-You might just want to hear that I use [[Obsidian]]. In my mind, my mind graph isn't tied to a tool like Obsidian, but rather it is the (admittedly Obsidian-biased) Markdown that I store in Git. I named the folder "deliberate_knowledge_accretion" and use DKA as an alias for the vault/repo at times.
+You might just want to hear that I use [[Obsidian]]. In my mind, my mind graph isn't tied to a tool like Obsidian, but rather it is the (admittedly Obsidian-biased) Markdown that I store in *Git*. I named the folder "deliberate_knowledge_accretion" and use DKA as an alias for the vault/repo at times.
 
 ## Details
 
