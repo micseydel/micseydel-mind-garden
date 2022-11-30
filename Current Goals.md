@@ -8,17 +8,20 @@
 3. [[#🛠 Tinkerframe]]
     * #tinkering 
 4. ~
-    1. [[#👩‍🍳 Cook more]]
-    2. [[#🏃 Exercise more]]
-    3. [[#👬 Socialize *safely*]]
+    1. [[Secondary Goals#👩‍🍳 Cook more]]
+    2. [[Secondary Goals#🏃 Exercise more]]
+    3. [[Secondary Goals#👬 Socialize *safely*]]
 
 # Details
 
 ## 🐱 My Cats
 
-One of my cats - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
+One of [[My Cats]] - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
 
-Desired outcome: I feel confident and secure that Peanut's needs are being met. FIC episodes seem largely preventable and when they happen, I'm prepared. I can leave, occasionally, for an entire day feeling secure that Peanut will cope ok.
+Measureable outcomes -
+* [FIC](https://veterinarypartner.vin.com/default.aspx?pid=19239&id=4951488) episodes seem largely preventable and when they happen, I'm prepared
+* I can leave, occasionally, for an entire day feeling secure that Peanut will cope ok
+* I feel confident and secure that Peanut's needs are being met
 
 ## ❤️‍🩹 Healing
 
@@ -28,15 +31,13 @@ Desired outcome: be able to react to triggers with skeptical curiosity instead o
 
 ### 👩‍⚕️ Therapy
 
-I am currently doing regular talk therapy with adjuncts for EMDR and Hakomi. Hakomi requires no preparation other than being present in the moment, whereas EMDR requires practice between sessions to prevent regression.
+I am currently doing regular talk therapy with [[EMDR]] and [[Hakomi]] as adjuncts. [[Hakomi]] requires no preparation other than being present in the moment, whereas [[EMDR]] requires practice between sessions to prevent regression.
 
-For talk therapy in particular, I have a long-lived note-making system. Within the current incarnation using Obsidian, I maintain two predictably-named notes for future sessions, with aliases that include "next" and "next next" for quick searching. Before each session, I prepare a list of positives and potential topics along with any check-ins we might be doing. I also track insights and action items for afterward.
-
-I maintain [maps of content (MOCs)](https://forum.obsidian.md/t/a-case-for-mocs/2418/15) in my [[#🕸 Mind Graph]] for each modality. The total effort of all of this is quite a bit every week. I don't intend for it to be sustainable, but the value for my healing is too great right now to "take it easy" or not worry about it.
+This goal relies heavily on [[My Mind Graph]] and would best be supported more by [[My Cognitive Tinkerframe]]. My mind graph has helped with the volume of critical thinking and change I'm confronted with on a weekly basis, but I'm confident I can do even better. I believe my tinkerframe will allow me to integrate more of what I learn into my life, more effectively.
 
 ### 🌱 Mind Garden
 
-Working on my [[About this mind garden|mind garden]] (or my [[#🕸 Mind Graph|mind graph]] for that matter) is a creative activity that I often find restorative. It is related to my [[#🛠 Tinkerframe]] as well but counts toward healing for now. That may change as my feelings around expression, productivity, and whatever else change. #mindgardening
+Working on my [[About this mind garden|mind garden]] (or my [[My Mind Graph]] for that matter) is a creative activity that I often find restorative. It is related to my [[#🛠 Tinkerframe]] as well but counts toward healing for now. That may change as my feelings around expression, productivity, and whatever else change. #mindgardening
 
 ### 🕸 Mind Graph
 
@@ -46,33 +47,23 @@ I default to writing here instead of my garden because having to consider an ext
 
 ## 🛠 Tinkerframe
 
-Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[#👩‍🍳 Cook more]] and [[#👬 Socialize *safely*]]. #tinkering
+Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[Secondary Goals#👩‍🍳 Cook more]] and [[Secondary Goals#👬 Socialize *safely*]]. #tinkering
 
-Desired outcome: establish a pattern of approaching life problems scientifically, meaning using hypotheses, experiments, data points and such.
+Desired outcome: establish a pattern of approaching life problems [[My scientific method|scientifically]], meaning using hypotheses, experiments, data points and such.
 
 See: [[My Cognitive Tinkerframe]]
 
-## 👩‍🍳 Cook more
+# Secondary Goals
 
-It might seem like this should be higher priority. I have complex trauma around food and cooking, so the [[#🛠 Tinkerframe]] may help, on top of [[#👩‍⚕️ Therapy]].
-
-Desired outcome: cooking habit such that I feel no need to eat out.
-
-## 🏃 Exercise more
-
-I'd like to get in the habit of doing two runs a week, of whatever length I feel comfortable. Risk of injury discourages me somewhat.
-
-## 👬 Socialize *safely*
-
-I need to subject my COVID Hermiting beliefs to more skepticism, broaden the sources from which I am picking numbers. I would love to prioritize this more highly but the above goals all supersede this, especially the first three.
+See: [[Secondary Goals]]
 
 # Potential future plans
 
-Next job
+Next job? High impact?
 * AI
 * Climate change
     * Materials science
 * Social justice
 * Large scale/durable data organizing
 
-Additional mind garden - a professional one where I host as much of my professional-related notes as possible.
+Additional mind garden - a professional one where I host documentation snippets, like a personal [StackOverflow](https://stackoverflow.co/). I might also keep the more technical aspects of [[My Cognitive Tinkerframe]] there.

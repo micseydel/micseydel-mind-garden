@@ -35,7 +35,7 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 * [[Musings (Cognitive Tinkerframe)]]
 	* [[Tinkerframe as lab assistant]] 👨‍🔬
 
-## To elaborate
+## To elaborate on
 
 * Specialized lenses
 	* SWE
@@ -50,3 +50,4 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 		* Most weave them by hand, without paying attention
 		* BASB is like using a loom
 		* Tinkerframe is like a programmable power loom
+			* I want to use this garden as a way to showcase *integrating* into my life tapestry things I learn in [[Current Goals#👩‍⚕️ Therapy]].

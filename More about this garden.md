@@ -23,3 +23,8 @@ Mention why SSH didn't work - required too new of tools
 ## Version 1.0
 
 I intend for this to have a changelog, separate from Git commits.
+
+# Posts I want to make
+
+* My system for [[Current Goals#👩‍⚕️ Therapy]] notes
+* My thoughts on spirituality
