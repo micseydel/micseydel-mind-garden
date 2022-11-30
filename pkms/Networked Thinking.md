@@ -11,3 +11,8 @@ That said, now that I have avoided them a lot for several months, I am experimen
 I was originally using Google Docs, but switched to Roam Reseach and eventually [[Obsidian]]. Nothing as complicated as my tinkerframe idea is needed, I would just recommend either daily journaling in Roam or installing the daily or periodic notes plugin for Obsidian. All you need to do to get started is write daily notes, you don't even have to understand Markdown.
 
 I found networked thinking to be preferable to what I was doing before due to the non-linear nature of processing trauma. I tried very hard to linearize everything, but it was impossible.
+
+# Tools
+
+* [[micseydel-private-mind-garden/micseydel-mind-garden/pkms/Obsidian]]
+* [[Logseq]] (for outlining)
