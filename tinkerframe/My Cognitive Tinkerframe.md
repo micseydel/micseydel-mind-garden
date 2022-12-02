@@ -45,6 +45,7 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 	* PKMS (general)
 	* BASB
 		* [[Tinkerframe as lab assistant#From a BASB lens]]
+* Debugger
 * Tapestry
 	* If our lives are a tapestry
 		* Most weave them by hand, without paying attention
