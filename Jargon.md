@@ -8,11 +8,13 @@ This section is for terms that I use but you won't likely see used by others. I'
 
 ### Mind graph 🧠🕸
 
-This is the phrase I use to describe my private, personal notes. Because they are essentially an offline website [[Obsidian#Wiki comparison|like Wikipedia]], it's important to think of them as a *graph* (like a social network) rather than something rigid/silo'd like a filing cabinet or folder structure.
+This is the phrase I use to describe my [[My Mind Graph|private, personal notes]]. Because they are essentially an offline website [[Obsidian#Wiki comparison|like Wikipedia]], it's important to think of them as a *graph* (a web - like a social network) rather than something rigid/silo'd like a filing cabinet or folder structure.
+
+They are part of my [[The Extended Mind (book)|extended mind]] so mind... graph. There ya go. They even have decent emojis!
 
 ### My Cognitive Tinkerframe 🧠🛠🖼
 
-This is my primary tool for [[Cognitive Bypass]] (kind of a special term, but hopefully intuitive relative to a "coronary" bypass).
+This is my fusion of [[My Mind Graph]] and and an attempt at an iterative [[My scientific method|personal scientific method]].
 
 See: [[My Cognitive Tinkerframe]]
 

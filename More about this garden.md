@@ -4,7 +4,7 @@ See also: [[About this mind garden]]
 
 ## Continuing with beta
 
-Hopefully I can finish these things this year.
+Hopefully I can finish these things this year. I'd mostly like to handle [[#Accessible images (and process)|simple accessibility]] and see it with [[#Posts to include|basic posts]] before using [[#GPG-signed commits]].
 
 ### Accessible images (and process)
 
@@ -19,12 +19,9 @@ Mention why SSH didn't work - required too new of tools
 
 * COVID hermiting ([e.g.](https://www.news-medical.net/amp/news/20221127/Long-COVID-brain-fog-and-fatigue-negatively-impact-all-facets-of-daily-life.aspx))
 * Thoughts on spirituality
+* Maybe
+	* My system for [[Current Goals#👩‍⚕️ Therapy]] notes
 
 ## Version 1.0
 
 I intend for this to have a changelog, separate from Git commits.
-
-# Posts I want to make
-
-* My system for [[Current Goals#👩‍⚕️ Therapy]] notes
-* My thoughts on spirituality

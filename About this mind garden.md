@@ -5,40 +5,27 @@ aliases:
 
 # Intro
 
-Like a garden, this is an "organic" space in the sense that if you leave and return, new things may have blossomed, some will have been pruned, and some will have matured.
+Like a garden, this is an "organic" space in the sense that if you leave and return, new things may have blossomed, some will have been pruned, and some will have matured. If you're on desktop you can mouse over links to preview them.
 
-I want to [[Learning in public|learn in public]]. I also consider this a way for me to build a reputation, in the sense that I can establish a public pattern of trying to be consistent and elaborating on apparent inconsistencies. It's a way to hold myself accountable and empower those who want to hold me accountable to do so as well. 
+This is currently a ==beta== :) The biggest consequence of that right now is that you can't rely on bookmarks. You can learn more [[About Me (Michael Seydel)|About Me]] or continue below for more about the garden or [[#See also]] below.
 
-Besides accountability, peer review is lovely! I am currently a COVID hermit and want to write about why so others can (potentially) point out where I might be mistaken. You can also checkout [[About Me (Michael Seydel)|About Me]] or [[My Cognitive Tinkerframe]].
+## Learning in public
 
-==NOTE==: the current version of this garden is a kind of beta, so bookmarks aren't necessarily supported yet and deadlinks haven't been cleaned up well either.
+For the moment, I want to use this space to [[Learning in public|learn in public]]. I want to continuously flesh out [[My Cognitive Tinkerframe]] 🧠🧑🏼‍🔬🛠🖼 and if possible, live using it publicly. I have longer-term goals but this is my focus for now.
 
-# How is it different from a blog?
+## Milestones
 
-I do not currently have a blog, but if I did, posts would 
-* be fairly linear
-* have a date
-* note edits with dates
-* get put through [Grammarly](https://app.grammarly.com/)
-* be peer-reviewed privately before public posts
+I want to get this garden into a place where people can use cryptography tools to verify that I was the author, then release a v1.0 where I commit to not modifying the history suddenly. I want to include posts about why I'm a COVID hermit and my thoughts on spirituality.
 
-That's all a lot more work 😆 It's also all friction that would be a perfectionist distraction from my true goal, which is to get my ideas out there and start publicly living my note-making lifestyle.
+Rather than not write until I've found perfection, I want to start externalizing thoughts that I can get others' feedback on, then document any changes in my thinking on various topics. I see this as a way to establish credibility and long-term consistency, as well as to weave my "[[Life Tapestry (metaphor)|ilfe tapestry]]".
 
-That said, a blog can fulfill similar functions to this garden. Public things like this can also act like a "[[Personal knowledge management systems (PKMS)#Building a Second Brain|second brain]]" even if you're not keeping a lot of private notes.
-
-# Advantage over a blog
-
-The non-linear nature of this garden means that instead of pruning down to an acceptable word count for a blog and carefully considering how much detail to include, I just try to have reasonable sized and organized notes and any reader can go into the level of detail they want.
-
-I feel like often when I'm talking about my life, it's like showing someone a tapestry with a magnifying glass. Some parts will look different enough than others that they don't make sense without context. This at least lets you take that magnifying glass and move it around 😆
+See also: [[More about this garden#Intended milestones]]
 
 ## History
 
 The full history of this garden can be found [on Github](https://github.com/micseydel/micseydel-mind-garden/). I may create a changelog note for here as well. I'll rebase for a v1.0 version and try to have a clean history once this garden is out of beta.
 
-# Bonus
+# See also
 
-I'll write more about this later, but the notes for this garden live *within* my [[Obsidian]] vault.  I also have a "private" (password protected) mind garden which lives within my notes, and here is a visualization of that:
-![[Pasted image 20221106093243.png]]
-
-See also: [[My Mind Graph#Details]]
+* [[More about this garden]]
+* [[Mind gardening compared to blogging]]

@@ -1,6 +1,6 @@
 There's a sense in which a [[My Cognitive Tinkerframe|cognitive tinkerframe]] is "just" [[Personal knowledge management systems (PKMS)|PKMS]] with a particular focus. For that reason the tooling choices are specific to me, much like a [[Personal knowledge management systems (PKMS)#Building a Second Brain|"second brain"]] is personal to the individual.
 
-I consider [[Obsidian]] to be the *lens* through which I view plaintext wiki-links Markdown stored in Git. That plaintext can be manipulated outside of Obsidian. Obsidian can be configured to have different UI for the notes that go into this public garden.
+I consider [[Obsidian]] to be the *lens* through which I view plaintext wiki-links Markdown stored in [[Git]]. That plaintext can be manipulated outside of Obsidian. Obsidian can be configured to have different UI for the notes that go into this public garden.
 
 # Additional tools
 

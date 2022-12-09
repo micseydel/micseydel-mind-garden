@@ -1,0 +1,5 @@
+- [[To expand upon]]
+- attention as finite - bounded by and more finite even than time, without delegation e.g. to a computer
+- thinking with code - configuring ==keyboard shortcuts==, kinda like PARA, making them consistent across applications to decrease learning curves and mental load
+- I strongly prefer things that allow for customizability because that allows me to encode my preferences
+- Obsidian lets people encode preferences  and potentially thinking with plugins, at a decent but still coarse granularity, but then has gateways into programming view Dataview, and DataviewJS which uses the same language as the plugin system, which is a language that works for building websites, backends and mostly whatever you want (not embedded systems to my knowledge)

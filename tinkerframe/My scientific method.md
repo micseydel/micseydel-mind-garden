@@ -1,12 +1,23 @@
-I recently looked into "*the* scientific method" and found far more uncertainty than I expected 😆 Such is science 🤷
+# Background
 
-This page is currently a #stub
+Here are some basic science things
+* Observations
+* Experiments
+* Hypothesis / predictions
+* Peer-review
+* Replication
+* [[Encoding|Pre-registration]]
 
-How are intentions and hypotheses related?
-* Experiment template? Costs? Worst/average case cost? Catastophication?
-* How has science changed over time? Systemically? How has it adapted, are there maldaptations? Compare to the evolution of my mind graph
-* Testable hypotheses is like pruning futures, or figuring out what timeline you're in
-* Framing a *hope* as a hypothesis
-	* Helps to be more open-minded
-	* Helps to remember that life is iterative, not one-off
-	* The *correct* hypothesis might even turn out to be better since it matches reality better
+I recently looked into "*the* scientific method" and found far more uncertainty than I expected 😆 Such is science 🤷 The above are all generally included in modern science though. You might wonder why double-blind placebo-controlled trials aren't up there...
+
+People think of science as being something that *a scientist* does in a lab, that the scientist had to go to college for. That's what I might call "top-down science" where it's more centralized, including academic journals being involved. But there's also "citizen science" and what I'd call "bottom-up science" where individuals doing science could aggregate their findings without centralizing on any authority (e.g. journals or universities).
+
+# Me
+
+[[My Cognitive Tinkerframe]] is honestly my best attempt at a personal scientific method that works best for me. It focuses on *testable hypotheses* and "pruning" mental models based on observations, where those mental models are my best attempts at getting a grasp on reality.
+
+I find that science helps me keep a curious mindset. As such, *hopes*, *fears* and similar are all *hypotheses*. I can ground myself in a locus-of-control kind of way by [[Encoding]] my fears/hopes/whatever as hypotheses and then focusing on the testable ones. This helps me to be more open-minded and to remember that life is iterative, not one-off.
+
+# Future work on this topic
+
+I want to look more into the history of science, particularly before it was done "at scale" (e.g. large clinical trials). I want to see what systematic adaptations have occurred in science, for example due to financial scarcity as markets go through up/down cycles. Are there any [[Calibration|maladaptations]] that have been retained from a bygone era?
