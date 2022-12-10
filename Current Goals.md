@@ -1,16 +1,12 @@
 # Summary
 
 1. [[#🐱 My Cats]]
-    * #takecareofmycats 
 2. [[#❤️‍🩹 Healing]] - [[#👩‍⚕️ Therapy|👩‍⚕️]] ==[[#🌱 Mind Garden|🌱]]== [[#🕸 Mind Graph|🕸]]
-    * #mindgardening 
-    * #mindgraphing 
 3. [[#🛠 Tinkerframe]]
-    * #tinkering 
-4. ~
-    1. [[Secondary Goals#👩‍🍳 Cook more]]
-    2. [[Secondary Goals#🏃 Exercise more]]
-    3. [[Secondary Goals#👬 Socialize *safely*]]
+4. Secondary
+    1. [[Secondary Goals#👩‍🍳 Cook more|👩‍🍳 Cook more]]
+    2. [[Secondary Goals#🏃 Exercise more|🏃 Exercise more]]
+    3. [[Secondary Goals#👬 Socialize *safely*|👬 Socialize safely]]
 
 # Details
 
