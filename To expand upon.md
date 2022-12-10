@@ -12,3 +12,4 @@
 			* [[Tinkerframe as lab assistant#From a BASB lens]]
 * [[Integration]]
 * [[Explore-exploit tradeoff]]
+* [[Epistemology]]
