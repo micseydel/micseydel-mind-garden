@@ -24,7 +24,9 @@ This helps humans, who naturally have flaws and biases, to stay honest. It's eas
 
 After my intentions are written as text in my notes, I use Git to literally "commit" those notes to my mind graph. I can delete the note, but I can't easily modify the history and generally make a habit not to modify the history. This helps me stay honest with myself.
 
-I have struggled with depression and learned helplessness so it's easy to fall into a pattern of giving up. It's easy to just forget that I cared and to seek distraction from my disappointment. Instead, I can write down an intention, for example, debugging a particular electronic device I'm having issues with, and each time I think I should give up I can write down why. Usually this gets me pretty far along to a solution, I can easily take a break and return to it since it's all in my notes, and if I ultimately cannot figure it out then I have a rich record of my attempts for when I seek help.
+I have struggled with depression and learned helplessness so it's easy to fall into a pattern of giving up. It's easy to just forget that I cared and to seek distraction from a disappointment. Instead, I can write down an intention, for example, debugging a particular electronic device I'm having issues with, and each time I think I should give up I can write down why. Usually this gets me pretty far along to a solution, I can easily take a break and return to it since it's all in my notes, and if I ultimately cannot figure it out then I have a rich record of my attempts for when I seek help.
+
+**Templates** (and checklists) are also a way to encode intentions. I didn't use templates for my daily notes for a long time, and am so glad that I do now. I don't have to rigidly follow my template, I can always deviate as-needed, I can change the template or review its history in Git.
 
 # Encoding in public
 
