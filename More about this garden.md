@@ -21,6 +21,7 @@ Mention why SSH didn't work - required too new of tools
 * Thoughts on spirituality
 * Maybe
 	* My system for [[Current Goals#👩‍⚕️ Therapy]] notes
+	* Chesteron's Fence (and Elon Musk)
 
 ## Version 1.0
 
