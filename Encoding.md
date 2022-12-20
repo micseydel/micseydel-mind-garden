@@ -8,7 +8,7 @@ aliases:
 > [!info]- For PKMSers
 > This is not about [[Personal knowledge management systems (PKMS)#Linking Your Thinking|LYT's E.N.C.O.D.E.]]. Nor is it about [[Personal knowledge management systems (PKMS)#Building a Second Brain|BASB's C.O.D.E.]]. The terminology overlap is unfortunate 😆
 
-# Comparision to science
+# Comparison to science
 
 In contemporary science, pre-registration ([wikipedia](https://en.wikipedia.org/wiki/Preregistration_(science)), [Center for Open Science](https://www.cos.io/initiatives/prereg)) is an essential tool for limiting bias, be it intentional or not. Wikipedia says it's...
 
