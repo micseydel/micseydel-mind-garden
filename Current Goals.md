@@ -1,7 +1,7 @@
 # Summary
 
-1. [[#🐱 My Cats]]
-2. [[#❤️‍🩹 Healing]] - [[#👩‍⚕️ Therapy|👩‍⚕️]] ==[[#🌱 Mind Garden|🌱]]== [[#🕸 Mind Graph|🕸]]
+1. [[#🐱 My Cats]] ==‼️==
+2. [[#❤️‍🩹 Healing]] - [[#👩‍⚕️ Therapy|👩‍⚕️]] [[#🌱 Mind Garden|🌱]] [[#🕸 Mind Graph|🕸]]
 3. [[#🛠 Tinkerframe]]
 4. Secondary
     1. [[Secondary Goals#👩‍🍳 Cook more|👩‍🍳 Cook more]]
