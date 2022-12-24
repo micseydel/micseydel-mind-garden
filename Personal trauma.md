@@ -16,7 +16,7 @@ I would guess that these happen based on triggering thoughts, but the reality is
 
 ## Freeze
 
-Given a fight/flight/freeze/fawn situation, I am most likely to *freeze*. I have to [[Calibration|recalibrate]] my sensitivity to get by day-to-day.
+Given a fight/flight/freeze/fawn situation, I am most likely to *freeze*. I have to [[Calibration|recalibrate]] my [sensitivity](https://twitter.com/_chismosa_/status/1600942287415975936) to get by day-to-day.
 
 # See also
 
