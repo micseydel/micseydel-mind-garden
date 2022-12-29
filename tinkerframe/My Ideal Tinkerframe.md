@@ -10,3 +10,9 @@
 
 - Notify me when beliefs I hold appear to be inconsistent
 - Notify me when a changed belief means a domino effect that I should look into
+
+# To organize
+
+- *Reframing*
+- Skill graph (not a tree)
+- Performs encoding for me
