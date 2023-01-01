@@ -38,3 +38,4 @@ I would also love to augment Google Photos.
 
 https://www.reddit.com/r/Python/comments/yrldcw/micropython_officially_becomes_part_of_the/
 Consider playing with [bleeding-edge Python](https://www.reddit.com/r/Python/comments/xcalho/python_3110rc2_is_out/)
+[[Text Renaissance]]
