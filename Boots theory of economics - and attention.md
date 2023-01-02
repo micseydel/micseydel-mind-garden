@@ -12,3 +12,8 @@ I think there is an important analog, of people's attention. [[Personal knowledg
 Many **people perceive themselves as having "no time"** and attention is bounded by time (people do not generally have *more* attention than time). While sometimes this is simply a matter of poor time management, I think there is a very real phenomena today where people (especially parents and those who have to hustle to survive) have a true scarcity of attention that can result in a kind of debt-trap cycle like the situation cited above. Many **people are "paycheck to paycheck" on attention** and lack a surplus to escape the debt cycle.
 
 I don't have a solution even though this is clearly unfair. I think that [direct cash gifts can help people escape poverty](https://www.youtube.com/watch?v=nAoIuWCzkac&t=382s)  and that a similar gift of attention could help if the opportunity is leveraged, but I can't personally say I know how to bootstrap parents into a note-making habit 🤷
+
+# Triage
+
+- https://www.facebook.com/PoliticalAtheismIsTheFuture/posts/pfbid0y2jAWp6FwUtuUnDop1hVDBtvRdHA2VB1nnwhbiYPtysLTUFBKWAVmkkSMAegp9Xml
+    - Attentional "check engine light"
