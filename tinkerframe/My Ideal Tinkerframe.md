@@ -20,3 +20,4 @@
 ## Misc tooling
 
 - Screenshots automatically go to vault instead of desktop (on OS X at least)
+- Automatically put Fitbit data into daily notes, or something that the daily notes template links to
