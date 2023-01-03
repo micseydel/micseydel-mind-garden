@@ -16,3 +16,7 @@
 - *Reframing*
 - Skill graph (not a tree)
 - Performs encoding for me
+
+## Misc tooling
+
+- Screenshots automatically go to vault instead of desktop (on OS X at least)
