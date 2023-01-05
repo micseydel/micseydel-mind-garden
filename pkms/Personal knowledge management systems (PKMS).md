@@ -27,3 +27,7 @@ This is a term you might see used, but I have to dig in and learn more. I know t
 # Dependencies / infrastructure
 
 I personally try to limit dependencies in my PKMS. For example, I thought Roam Research was good enough to use anyway, but SaaS for PKMS will always make me nervous.
+
+# To integrate
+
+- [[Voice memos (2023-01-04)#^5661f5]]
