@@ -21,3 +21,6 @@ I find that science helps me keep a curious mindset. As such, *hopes*, *fears* a
 # Future work on this topic
 
 I want to look more into the history of science, particularly before it was done "at scale" (e.g. large clinical trials). I want to see what systematic adaptations have occurred in science, for example due to financial scarcity as markets go through up/down cycles. Are there any [[Calibration|maladaptations]] that have been retained from a bygone era?
+
+Triage
+- *For the émigré philosopher Imre Lakatos, science degenerates unless it is theoretically and experimentally progressive* ([r/philosophy](https://www.reddit.com/r/philosophy/comments/105ty1o/for_the_%C3%A9migr%C3%A9_philosopher_imre_lakatos_science/))

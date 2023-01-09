@@ -22,3 +22,8 @@
 - Screenshots automatically go to vault instead of desktop (on OS X at least)
 - Automatically put Fitbit data into daily notes, or something that the daily notes template links to
 - Browser history integrated into my notes
+- Fully tracking of my system
+    - Tracking for each note, when it was last modified, opened, linked to, etc
+    - Why? Because when people talk about it being ok to lose notes, because you don't look at most of the old notes, I can investigate very specific questions about that
+        - How many notes are never touched after they're created?
+        - Heat map of my graph, hubs, over time (with git or excessive yaml pushed out to separate files)
