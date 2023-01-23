@@ -5,6 +5,7 @@
 - Preventing taking too much medication
     - Like me with acetaminophen
 - Voice memos for anything related to my cats
+- Location-based snoozing
 
 # Aspirational
 

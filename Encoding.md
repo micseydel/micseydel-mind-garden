@@ -5,6 +5,8 @@ aliases:
 
 ==Note==: this is too long and I need to break it up
 
+https://www.youtube.com/watch?v=F__elfR3w8c
+
 > [!info]- For PKMSers
 > This is not about [[Personal knowledge management systems (PKMS)#Linking Your Thinking|LYT's E.N.C.O.D.E.]]. Nor is it about [[Personal knowledge management systems (PKMS)#Building a Second Brain|BASB's C.O.D.E.]]. The terminology overlap is unfortunate 😆
 

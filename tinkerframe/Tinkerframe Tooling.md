@@ -8,7 +8,7 @@ I consider [[Obsidian]] to be the *lens* through which I view plaintext wiki-lin
 
 As of this writing, I have some Python code written, but that is largely because I am familiar enough with Python to get things done quickly. I plan to learn Typescript, but have also been meaning to re-evaluate Scala's role here. I expect to include Kotlin for Android development but that is not part of my short-term plans.
 
-In an ideal world, I would be able to use a single language to wrote code that works offline across my laptop, phone and ideally iPad as well.
+In an ideal world, I would be able to use a single language to write code that works offline across my laptop, phone and ideally iPad as well.
 
 ### Typescript
 

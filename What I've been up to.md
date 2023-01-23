@@ -14,7 +14,7 @@ At the time of this writing, I am doing regular talk therapy as well as seeing a
 
 Besides explicit healing activities, I am doing things that might look lazy from the outside. I play video games sometimes, and I've found that inducing flow can help get thoughts on separate topics unstuck. I basically bounce back and forth between the game and my notes. Multi-tasking isn't particularly efficient, but I find that this allows me to have thoughts I can't have intentionally (much like the [Wu-Wei Paradox](https://www.psychologytoday.com/intl/blog/the-athletes-way/202201/the-wu-wei-paradox-striving-less-generates-more-success)).
 
-I also watch a lot of TV right now. I'm often watching shows from earlier in my life (e.g. [[About Me (Michael Seydel)#Select Favorites|Fringe]]) and it's interesting to feel how my perspective has changed. TV shows give me different lenses with which to view the world, and re-watching shows helps with anxiety.
+I also watch a lot of TV right now. I'm often watching shows from earlier in my life (e.g. [[Favorites#Shows]]) and it's interesting to feel how my perspective has changed. TV shows give me different lenses with which to view the world, and re-watching shows helps with anxiety.
 
 I also spend a decent chunk of time on Reddit. This might sound silly, but the CPTSD sub has been incredibly useful and I plan to (eventually) write in depth about my experience with Reddit. Reddit also gives me new lenses, though I obviously have to be careful with that.
 

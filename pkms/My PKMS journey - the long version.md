@@ -2,7 +2,7 @@ See also: [[My PKMS journey - the short version|the short version]].
 
 # Modern - 2018 onward
 
-As of 2018(ish) I was using primarily Google Docs but also Trello and Google Keep. I had a very slow start, primarily working out of a "Scratchpad" doc and I didn't consider creating a second doc until the first was 20+ pages.
+As of 2018(ish) I was using primarily Google Docs but also Trello and Google Keep. I had a very slow start, primarily working out of a "Scratchpad" doc and I didn't consider creating a second doc until the first was 20+ pages. I had also been centering things around Google Inbox due to its snoozing features, and it was a painful lurch in 2019 when Google had said they were porting all the features but then it turned out location-based snoozing wasn't included 😬
 
 (note for later I should mention my *work* notes from that time although I no longer have access)
 * Daily notes
