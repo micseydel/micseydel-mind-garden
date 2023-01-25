@@ -11,7 +11,7 @@ This is currently a ==beta== :) The biggest consequence of that right now is tha
 
 ## Learning in public
 
-For the moment, I want to use this space to [[Learning in public|learn in public]]. I want to continuously flesh out [[My Cognitive Tinkerframe]] 🧠🧑🏼‍🔬🛠🖼 and if possible, live using it publicly. I have longer-term goals but this is my focus for now.
+For the moment, I want to use this space to [[Learning in public|learn in public]]. I want to continuously flesh out [[My Cognitive Tinkerframe]] 🧑🏼‍🔬🧠🛠🖼 and if possible, live using it publicly. I have longer-term goals but this is my focus for now.
 
 ## Milestones
 

@@ -70,3 +70,4 @@ I think that if I had maintained that momentum, I would be a much better tinker 
 * Palm device, dad as a rolemodel
 * Links to Slack messages in my work notes
 * I no longer have a ton of tabs open, I create a note with links and instead of feeling like I have to *use* all those tabs before I close them, they're exactly where and when I need them
+* Python forum - loss as a kind of SB loss
