@@ -28,3 +28,4 @@
     - Why? Because when people talk about it being ok to lose notes, because you don't look at most of the old notes, I can investigate very specific questions about that
         - How many notes are never touched after they're created?
         - Heat map of my graph, hubs, over time (with git or excessive yaml pushed out to separate files)
+- [Flywheel](https://notes.andymatuschak.org/z45gUHaD2DcqH3zMWhwHaXESZLCWWk6tHLDi6)
