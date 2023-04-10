@@ -34,3 +34,5 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 	* [[Artificial Intelligence (AI) and my Tinkerframe]]
 * [[Tinkerframe as lab assistant]] 👨‍🔬
 * [[To expand upon]] 🔮
+* [[Intentionality]]
+* [[How to eat an elephant]]
