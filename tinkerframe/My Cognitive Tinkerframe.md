@@ -35,4 +35,5 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 * [[Tinkerframe as lab assistant]] 👨‍🔬
 * [[To expand upon]] 🔮
 * [[Intentionality]]
+    * Annealing
 * [[How to eat an elephant]]
