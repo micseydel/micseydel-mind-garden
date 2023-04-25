@@ -6,7 +6,7 @@ For contrast, here's the [[Personal knowledge management systems (PKMS)#Building
 An individualized *system* for
 * ==Tinkering== with one's [[The Extended Mind (book)|extended mind]]
 * ...by [[Externalized cognition|externalizing cognition]]
-* ...and applying the [[My scientific method|scientific method]]
+* ...and applying the [[My scientific method (needs review)|scientific method]]
 
 A tinkerframe is an individualized system for tinkering with one's extended mind by externalizing cognition and applying the scientific method.
 

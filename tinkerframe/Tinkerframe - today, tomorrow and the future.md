@@ -1,6 +1,6 @@
 # Today
 
-Primarily [[My Mind Graph]] and my whiteboard. Working on [[My scientific method]].
+Primarily [[My Mind Graph]] and my whiteboard. Working on [[My scientific method (needs review)]].
 
 # Tomorrow
 

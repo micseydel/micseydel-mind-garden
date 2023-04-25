@@ -45,7 +45,7 @@ I default to writing here instead of my garden because having to consider an ext
 
 Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[Secondary Goals#👩‍🍳 Cook more]] and [[Secondary Goals#👬 Socialize *safely*]]. #tinkering
 
-Desired outcome: establish a pattern of approaching life problems [[My scientific method|scientifically]], meaning using hypotheses, experiments, data points and such.
+Desired outcome: establish a pattern of approaching life problems [[My scientific method (needs review)|scientifically]], meaning using hypotheses, experiments, data points and such.
 
 See: [[My Cognitive Tinkerframe]]
 

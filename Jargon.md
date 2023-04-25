@@ -14,7 +14,7 @@ They are part of my [[The Extended Mind (book)|extended mind]] so mind... graph.
 
 ### My Cognitive Tinkerframe 🧠🛠🖼
 
-This is my fusion of [[My Mind Graph]] and and an attempt at an iterative [[My scientific method|personal scientific method]].
+This is my fusion of [[My Mind Graph]] and and an attempt at an iterative [[My scientific method (needs review)|personal scientific method]].
 
 See: [[My Cognitive Tinkerframe]]
 

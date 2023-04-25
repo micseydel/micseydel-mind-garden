@@ -6,7 +6,7 @@ Around the time I got my [[CPTSD]] diagnosis, I started realizing I couldn't nec
 
 ## The solution
 
-An external system that is as separate from other minds as possible. Leveraging [[My scientific method|scientific ideas]] like focusing on testable hypotheses, I started tinkering with how I interacted with my cats. For example, here are testable hypotheses when my cat is meowing:
+An external system that is as separate from other minds as possible. Leveraging [[My scientific method (needs review)|scientific ideas]] like focusing on testable hypotheses, I started tinkering with how I interacted with my cats. For example, here are testable hypotheses when my cat is meowing:
 * He wants fresh kibble
 * He wants fresh water
 * He wants the litter cleaned

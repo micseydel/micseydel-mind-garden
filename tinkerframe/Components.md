@@ -3,7 +3,7 @@
 - Whiteboard - easy to color-code and draw connections
 - Sticky notes
 - Therapy
-- [[My scientific method]]
+- [[My scientific method (needs review)]]
 
 # Simple tech
 
