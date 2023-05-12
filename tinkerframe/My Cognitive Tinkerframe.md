@@ -38,3 +38,4 @@ Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvi
 * [[Intentionality]]
     * Annealing
 * [[How to eat an elephant]]
+* [[Until you make the unconscious conscious, it will direct your life and you will call it fate]]
