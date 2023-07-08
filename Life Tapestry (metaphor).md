@@ -7,3 +7,5 @@ If our lives are a tapestry
 [[Integration]] is like weaving.
 
 I need to elaborate on why this connects to my thoughts on spirituality.
+
+- GTD is like looking at the fibers instead of the tapestry? Important to do something, but not exclusively.
