@@ -54,3 +54,7 @@ Similarly, having someone else's encoding of your intention might be ok, but whe
 1. One less mind involved where miscommunication could occur
 2. You may find during the encoding process potential inconsistencies
 3. If your intention changes, you're familiar enough with the encoding to change it yourself
+
+# Triage
+
+- [[Programming language for law specification]]
