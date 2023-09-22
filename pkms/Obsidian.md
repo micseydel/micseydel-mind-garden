@@ -41,4 +41,4 @@ If you already have a PKMS going, I would ask yourself what your goals are. Is a
 
 # Comparison to Minecraft
 
-I've never really played Minecraft but *Why is Obsidian like Minecraft?* ([r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/uzs4xk/why_is_obsidian_like_minecraft/)) was a fun read. If you're someone who's played Minecraft it would probably speak to you, but I think I got the spirit of it.
+I've never really played Minecraft but *Why is Obsidian like Minecraft?* ([r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/uzs4xk/why_is_obsidian_like_minecraft/)) was a fun read. If you're someone who's played Minecraft it would probably speak to you, but I think I got the spirit of it. See also: [[Obsidian Comparison to Minecraft]]
