@@ -8,7 +8,7 @@ Last year was quite a mess but this year (2022 at the time of this writing) has 
 
 # Day to day
 
-At the time of this writing, I am doing regular talk therapy as well as seeing adjunct practitioners for [[EMDR]] and [[Hakomi]]. Between these activities and the note-making I do around them, this is a substantial portion of where my time goes. I'm trying to do [[The Work]] and not just show up to the sessions.
+At the time of this writing, I am doing regular talk therapy as well as seeing adjunct practitioners for `[[EMDR]]` and [[Hakomi]]. Between these activities and the note-making I do around them, this is a substantial portion of where my time goes. I'm trying to do [[The Work]] and not just show up to the sessions.
 
 ## Activities
 
@@ -18,4 +18,4 @@ I also watch a lot of TV right now. I'm often watching shows from earlier in my 
 
 I also spend a decent chunk of time on Reddit. This might sound silly, but the CPTSD sub has been incredibly useful and I plan to (eventually) write in depth about my experience with Reddit. Reddit also gives me new lenses, though I obviously have to be careful with that.
 
-When things with my cats and healing go well enough, I focus on [[My Cognitive Tinkerframe]].
+When things with my cats and healing go well enough, I focus on `[[My Cognitive Tinkerframe]]`.

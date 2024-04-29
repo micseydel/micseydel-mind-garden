@@ -11,13 +11,13 @@ This is currently a ==beta== :) The biggest consequence of that right now is tha
 
 ## Learning in public
 
-For the moment, I want to use this space to [[Learning in public|learn in public]]. I want to continuously flesh out [[My Cognitive Tinkerframe]] 🧑🏼‍🔬🧠🛠🖼 and if possible, live using it publicly. I have longer-term goals but this is my focus for now.
+For the moment, I want to use this space to [[Learning in public|learn in public]]. I want to continuously flesh out `[[My Cognitive Tinkerframe]]` 🧑🏼‍🔬🧠🛠🖼 and if possible, live using it publicly. I have longer-term goals but this is my focus for now.
 
 ## Milestones
 
 I want to get this garden into a place where people can use cryptography tools to verify that I was the author, then release a v1.0 where I commit to not modifying the history suddenly. I want to include posts about why I'm a COVID hermit and my thoughts on spirituality.
 
-Rather than not write until I've found perfection, I want to start externalizing thoughts that I can get others' feedback on, then document any changes in my thinking on various topics. I see this as a way to establish credibility and long-term consistency, as well as to weave my "[[Life Tapestry (metaphor)|ilfe tapestry]]".
+Rather than not write until I've found perfection, I want to start externalizing thoughts that I can get others' feedback on, then document any changes in my thinking on various topics. I see this as a way to establish credibility and long-term consistency, as well as to weave my "`[[Life Tapestry (metaphor)|ilfe tapestry]]`".
 
 See also: [[More about this garden#Intended milestones]]
 

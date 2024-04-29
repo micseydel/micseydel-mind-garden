@@ -1,4 +1,4 @@
-I'm not sure exactly how open I want to be here, but I have a diagnosis of [[CPTSD]] and before that, psychiatrists experimented with giving me medication normally meant for ADHD and schizophrenia. While I have some worry about being discriminated against, I also very much think that being "out" about things can benefit those who can't be. I want to destigmatize existing as a person who has some serious stuff to work through.
+I'm not sure exactly how open I want to be here, but I have a diagnosis of `[[CPTSD]]` and before that, psychiatrists experimented with giving me medication normally meant for ADHD and schizophrenia. While I have some worry about being discriminated against, I also very much think that being "out" about things can benefit those who can't be. I want to destigmatize existing as a person who has some serious stuff to work through.
 
 # Symtoms
 
@@ -16,10 +16,10 @@ I would guess that these happen based on triggering thoughts, but the reality is
 
 ## Freeze
 
-Given a fight/flight/freeze/fawn situation, I am most likely to *freeze*. I have to [[Calibration|recalibrate]] my [sensitivity](https://twitter.com/_chismosa_/status/1600942287415975936) to get by day-to-day.
+Given a fight/flight/freeze/fawn situation, I am most likely to *freeze*. I have to `[[Calibration|recalibrate]]` my [sensitivity](https://twitter.com/_chismosa_/status/1600942287415975936) to get by day-to-day.
 
 # See also
 
 * [[Networked Thinking#Processing Trauma]]
-* [[EMDR]]
+* `[[EMDR]]`
 * [[Hakomi]]

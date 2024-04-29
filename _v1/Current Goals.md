@@ -12,7 +12,7 @@
 
 ## 🐱 My Cats
 
-One of [[My Cats]] - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
+One of `[[My Cats]]` - Peanut - needs special attention although his sister is easier. My [[#🛠 Tinkerframe]] will help but I do not neglect him for it. #takecareofmycats
 
 Measureable outcomes -
 * [FIC](https://veterinarypartner.vin.com/default.aspx?pid=19239&id=4951488) episodes seem largely preventable and when they happen, I'm prepared
@@ -27,9 +27,9 @@ Desired outcome: be able to react to triggers with skeptical curiosity instead o
 
 ### 👩‍⚕️ Therapy
 
-I am currently doing regular talk therapy with [[EMDR]] and [[Hakomi]] as adjuncts. [[Hakomi]] requires no preparation other than being present in the moment, whereas [[EMDR]] requires practice between sessions to prevent regression.
+I am currently doing regular talk therapy with `[[EMDR]]` and [[Hakomi]] as adjuncts. [[Hakomi]] requires no preparation other than being present in the moment, whereas `[[EMDR]]` requires practice between sessions to prevent regression.
 
-This goal relies heavily on [[My Mind Graph]] and would best be supported more by [[My Cognitive Tinkerframe]]. My mind graph has helped with the volume of critical thinking and change I'm confronted with on a weekly basis, but I'm confident I can do even better. I believe my tinkerframe will allow me to integrate more of what I learn into my life, more effectively.
+This goal relies heavily on [[My Mind Graph]] and would best be supported more by `[[My Cognitive Tinkerframe]]`. My mind graph has helped with the volume of critical thinking and change I'm confronted with on a weekly basis, but I'm confident I can do even better. I believe my tinkerframe will allow me to integrate more of what I learn into my life, more effectively.
 
 ### 🌱 Mind Garden
 
@@ -45,9 +45,9 @@ I default to writing here instead of my garden because having to consider an ext
 
 Primarily intended to help with [[#🐱 My Cats]] and [[#❤️‍🩹 Healing]] for now but the effort will be reused for future gains, especially around [[Secondary Goals#👩‍🍳 Cook more]] and [[Secondary Goals#👬 Socialize *safely*]]. #tinkering
 
-Desired outcome: establish a pattern of approaching life problems [[My scientific method (needs review)|scientifically]], meaning using hypotheses, experiments, data points and such.
+Desired outcome: establish a pattern of approaching life problems `[[My scientific method|scientifically]]`, meaning using hypotheses, experiments, data points and such.
 
-See: [[My Cognitive Tinkerframe]]
+See: `[[My Cognitive Tinkerframe]]`
 
 # Secondary Goals
 
@@ -62,4 +62,4 @@ Next job? High impact?
 * Social justice
 * Large scale/durable data organizing
 
-Additional mind garden - a professional one where I host documentation snippets, like a personal [StackOverflow](https://stackoverflow.co/). I might also keep the more technical aspects of [[My Cognitive Tinkerframe]] there.
+Additional mind garden - a professional one where I host documentation snippets, like a personal [StackOverflow](https://stackoverflow.co/). I might also keep the more technical aspects of `[[My Cognitive Tinkerframe]]` there.

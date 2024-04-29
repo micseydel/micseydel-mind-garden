@@ -29,4 +29,4 @@ Using [[Jargon#CODE (knowledge pipeline)]]
 
 # Tony Stark comparison
 
-I couldn't resist this, but [[My Mind Graph]] is kind of like the arc reactor and [[My Cognitive Tinkerframe]] is kind of like Jarvis. Please don't compare me to Elon Musk 😆 I created my mind graph for acute survival, and am now using it to "power" my tinkerframe in order to escape my current situation.
+I couldn't resist this, but [[My Mind Graph]] is kind of like the arc reactor and `[[My Cognitive Tinkerframe]]` is kind of like Jarvis. Please don't compare me to Elon Musk 😆 I created my mind graph for acute survival, and am now using it to "power" my tinkerframe in order to escape my current situation.

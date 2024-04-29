@@ -1,4 +1,4 @@
-See also: [[My PKMS journey - the short version|the short version]].
+See also: `[[My PKMS journey - the short version|the short version]].`
 
 # Modern - 2018 onward
 
@@ -23,7 +23,7 @@ In April, _Too Many Thoughts Living Rent-Free In Your Head? Try Mind Gardening_Â
 
 (to add - notes on how I nearly gave up because I used to use tables so heavily)
 
-I think I originally looked at Roam Research, [[Obsidian]] and Logseq to experiment with migrating from Google Docs. I was going to build a mind garden but decided to do something more private first. I chose Roam Research initially but made a conscious effort to *not* learn keyboard shortcuts or any features specific to Roam, because I didn't want to have to do more than one serious migration in the short term. I didn't want to fall prey to "shiny new tool syndrome" (a term I'd learn later) after having so carefully stayed on Google Docs.
+I think I originally looked at Roam Research, [[_v1/pkms/Obsidian]] and Logseq to experiment with migrating from Google Docs. I was going to build a mind garden but decided to do something more private first. I chose Roam Research initially but made a conscious effort to *not* learn keyboard shortcuts or any features specific to Roam, because I didn't want to have to do more than one serious migration in the short term. I didn't want to fall prey to "shiny new tool syndrome" (a term I'd learn later) after having so carefully stayed on Google Docs.
 
 Roam ended up being incredibly addictive. It was a wiki like I wanted, and it had bullet points like my bullet journal, but unlike Google Docs I could very easily *collapse bullets* (this is seriously so important to me) as well as *link to blocks* and easily break notes into smaller ones.
 
@@ -43,7 +43,7 @@ He had just released his book that week, so I ordered it and signed up for the b
 
 ## Obsidian
 
-Though Roam Research is amazing in a lot of ways, I am currently using (and very happy with) [[Obsidian]]. I wrote a script that I plan to publish which builds on one I found someone else had written. My code (1) tried to use fewer side-effects and be more like a pipeline and (2) does references in Obsidian's newer formatting.
+Though Roam Research is amazing in a lot of ways, I am currently using (and very happy with) [[_v1/pkms/Obsidian]]. I wrote a script that I plan to publish which builds on one I found someone else had written. My code (1) tried to use fewer side-effects and be more like a pipeline and (2) does references in Obsidian's newer formatting.
 
 # After move to Obsidian
 

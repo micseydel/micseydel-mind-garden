@@ -1,6 +1,6 @@
 * [[Learning in public]]
-* [[Life Tapestry (metaphor)]]
-* [[My Cognitive Tinkerframe]]
+* `[[Life Tapestry (metaphor)]]`
+* `[[My Cognitive Tinkerframe]]`
 	* Specialized lenses
 		* SWE
 			* [[My Mind Graph]] is the datastore
@@ -10,6 +10,6 @@
 		* PKMS (general)
 		* BASB
 			* [[Tinkerframe as lab assistant#From a BASB lens]]
-* [[Integration]]
+* `[[Integration]]`
 * [[Explore-exploit tradeoff]]
 * [[Epistemology]]

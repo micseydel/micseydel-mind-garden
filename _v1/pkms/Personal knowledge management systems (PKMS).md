@@ -8,9 +8,9 @@ aliases:
 
 Personal knowledge management (PKM) is the practice of taking notes that are useful in a lifelong fashion. [[#Building a Second Brain]] is probably the largest community doing it right now so if you see "BASB" or "second brain" that's PKM. There's also [[#Linking Your Thinking]] (LYT or "light") though I haven't looked into it much yet. When **S** is at the end, it's about the *system* rather than the *practice*.
 
-I think the "personal" part of PKM is particularly important. As a software engineer, I've done substantial KM using wiki software like Confluence, but "personal" KM means that you can develop intimate ==rapport== with your system instead of worrying about how others might engage with what you write. If you took two brilliant people and gave them the same information to organize into a PKMS, there would clearly be overlap but the systems would be wildly different and not interchangeable.
+I think the "personal" part of PKM is particularly important. As a software engineer, I've done substantial KM using wiki software like [Confluence](https://www.atlassian.com/software/confluence), but "personal" KM means that you can develop intimate ==*rapport*== with your system instead of worrying about how others might engage with what you write. If you took two brilliant people and gave them the same information to organize into a PKMS, there would clearly be overlap but the systems would be wildly different and not interchangeable.
 
-See also: [[My PKMS journey - the short version]]
+See also: `[[My PKMS journey - the short version]]`
 
 ## Building a Second Brain
 

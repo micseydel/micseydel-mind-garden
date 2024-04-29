@@ -20,7 +20,7 @@ The COS says
 
 > Preregistration separates _hypothesis-generating_  (exploratory) from _hypothesis-testing_ (confirmatory) research.
 
-This helps humans, who naturally have flaws and biases, to stay honest. It's easy to make excuses after the fact for why you changed things, if those excuses can be hidden and never revealed. We all do it, but I'm trying to include in [[My Cognitive Tinkerframe]] the habit of "pre-registering" (encoding) my intentions in [[My Mind Graph]].
+This helps humans, who naturally have flaws and biases, to stay honest. It's easy to make excuses after the fact for why you changed things, if those excuses can be hidden and never revealed. We all do it, but I'm trying to include in `[[My Cognitive Tinkerframe]]` the habit of "pre-registering" (encoding) my intentions in [[My Mind Graph]].
 
 # Personal Intentionality
 
@@ -38,13 +38,13 @@ Encoding in public has two primary benefits:
 
 A trivial example might be new years' resolutions. Putting them out publicly means that others might helpfully point out that too much change too fast isn't sustainable. Others might followup with you during your journey.
 
-"Encoding" could be done as a single simple post to social media. I'm trying to build an [[Integration|integrated]] [[Life Tapestry (metaphor)|life tapestry]] though, not just make a Tweet that will be forgotten. I want to weave my intentions into my larger [[My Mind Graph|mind graph]] in order to prevent things falling by the wayside, as well as to achieve synergies between goals.
+"Encoding" could be done as a single simple post to social media. I'm trying to build an `[[Integration|integrated]] [[Life Tapestry (metaphor)|life tapestry]]` though, not just make a Tweet that will be forgotten. I want to weave my intentions into my larger [[My Mind Graph|mind graph]] in order to prevent things falling by the wayside, as well as to achieve synergies between goals.
 
 # Magic
 
 When it comes to computer programming, I can encode my intentions such that they can be carried out for me, without involving any other agents/minds. This feels like *magic* to me - my will can be carried out on a continuous basis with finite (rather than continuous) energy investment from me. Where does the energy come from? Electricity!
 
-[[My Cognitive Tinkerframe]] includes encoding intentions unambiguously, using a computer programming language, such that a computer could carry out the intention for me. As a simple example, probably one of the biggest bits of code I've written since leaving my last job was to automate turning my air purifier on and off based on my indoor air quality sensor's reading.
+`[[My Cognitive Tinkerframe]]` includes encoding intentions unambiguously, using a computer programming language, such that a computer could carry out the intention for me. As a simple example, probably one of the biggest bits of code I've written since leaving my last job was to automate turning my air purifier on and off based on my indoor air quality sensor's reading.
 
 ## Programming and relativism
 

@@ -3,7 +3,7 @@
 - Whiteboard - easy to color-code and draw connections
 - Sticky notes
 - Therapy
-- [[My scientific method (needs review)]]
+- `[[My scientific method]]`
 
 # Simple tech
 
@@ -16,4 +16,4 @@
 - [[My Mind Graph]]
     * Github (gardens)
     * Private Git server
-    * [[Obsidian]] along with their Sync and Publish services
+    * [[_v1/pkms/Obsidian]] along with their Sync and Publish services

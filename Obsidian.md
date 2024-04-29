@@ -1,0 +1,1 @@
+[Obsidian](http://obsidian.md) is Markdown editor, an app used for "personal knowledge management (system(s))" (PKMS). It is local-first and text-based, empowering me to control my PKMS rather than have it control me.

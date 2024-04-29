@@ -15,4 +15,4 @@ That said, a blog can fulfill similar functions to this garden. Public things li
 
 The non-linear nature of this garden means that instead of pruning down to an acceptable word count for a blog and carefully considering how much detail to include, I just try to have reasonable sized and organized notes and any reader can go into the level of detail they want.
 
-I feel like often when I'm talking about my life, it's like showing someone a [[Life Tapestry (metaphor)|tapestry]] with a magnifying glass. Some parts will look different enough from the norm that they don't make sense without context (like why a certain family member isn't in a certain part). This at least lets you take that magnifying glass and move it around 😆
+I feel like often when I'm talking about my life, it's like showing someone a `[[Life Tapestry (metaphor)|tapestry]]` with a magnifying glass. Some parts will look different enough from the norm that they don't make sense without context (like why a certain family member isn't in a certain part). This at least lets you take that magnifying glass and move it around 😆

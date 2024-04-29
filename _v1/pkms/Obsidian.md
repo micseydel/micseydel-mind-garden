@@ -28,7 +28,7 @@ If I wasn't using Obsidian, I would most likely still be striving for something 
 
 # Should you use Obsidian?
 
-Picking a [[Personal knowledge management systems (PKMS)|PKMS]] or "[[My PKMS journey - the short version#Building a Second Brain - Tiago Forte|second brain]]" tool or set of tools is highly personal. I would personally recommend and love if everyone tried Obsidian, but if it doesn't immediately resonate with you I would recommend trying at least one other tool as well.
+Picking a [[Personal knowledge management systems (PKMS)|PKMS]] or "`[[My PKMS journey - the short version#Building a Second Brain - Tiago Forte|second brain]]`" tool or set of tools is highly personal. I would personally recommend and love if everyone tried Obsidian, but if it doesn't immediately resonate with you I would recommend trying at least one other tool as well.
 
 If you already have a PKMS going, I would ask yourself what your goals are. Is anything coming up where you want to make sure your system is stable? Do you have problems with your current system? Are they written down? I hate to say it, but if the answer to that last question is *no* then it's probably not the tool holding you back!
 
