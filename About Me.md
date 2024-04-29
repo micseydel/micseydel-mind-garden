@@ -3,7 +3,7 @@
 	- Building and solving problems with [[My Tinker Cast]]
 	- [[Why I'm still Coviding (2024)|Still Coviding]]
 
-## About this garden
+## ~~About this garden~~
 
 - Think of it as an organic blog, whose contents may grow, stagnate or be pruned
 - Prior incarnation had big goals...
