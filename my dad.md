@@ -1,0 +1,1 @@
+- Robert Michael Seydel - died January 2024, aged 61

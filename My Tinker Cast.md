@@ -11,3 +11,4 @@ tags: []
 	- Not "AI" in the sense that it is intended to support a human, not operate fully without supervision
 - [[Tinker Cast - examples]]
 - [[Tinker Cast - implementation details]]
+- [[Tinker Cast - inspiration]]

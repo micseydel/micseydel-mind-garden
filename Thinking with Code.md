@@ -21,3 +21,8 @@ Further science might include
 - More than two options, e.g. acetaminophen or meditation
 - A "placebo" option - "take no action" and it follows ups as usual
 - Other experiments like determining when trash collection typically happens
+
+# LLMs can benefit as well
+
+- https://arxiv.org/abs/2210.07128 (via [r/LocalLLAMA](https://www.reddit.com/r/LocalLLaMA/comments/14ajglx/comment/joazy4z/?utm_source=share&utm_medium=web2x&context=3))
+	- > In this paper, we show that when we instead frame structured commonsense reasoning tasks as code generation tasks, ==pre-trained LMs of code are better structured commonsense reasoners than LMs of natural language==, **even when the downstream task does not involve source code at all**. Thus, our main insight is that large language models of code are good structured commonsense reasoners. Further, we show that Code-LLMs can be even better structured reasoners than NL-LLMs (LLMs of natural language).

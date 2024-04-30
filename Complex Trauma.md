@@ -1,0 +1,3 @@
+- Diagnosed in 2022-02
+- Caused primarily by [[my dad]]
+- Affects my [[empathic integrity]] and therefore, my [[epistemic integrity]]
