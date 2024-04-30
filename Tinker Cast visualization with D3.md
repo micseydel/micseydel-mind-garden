@@ -1,0 +1,19 @@
+- Initial graph
+	- ![[Pasted image 20240430044503.png]]
+- Node example - Hue smart lights
+	- ![[Pasted image 20240430044529.png]]
+	- The fan out toward the right is because each bulb has its own actor -
+		- ![[Pasted image 20240430044617.png]]
+	- What are the connections to the right?
+		- Distress listener
+			- ![[Pasted image 20240430044709.png]]
+		- Hue listener
+			- ![[Pasted image 20240430044727.png]]
+		- Cat notifications manager
+			- ![[Pasted image 20240430044743.png]]
+- "Neuron cluster"
+	- ![[Pasted image 20240430044958.png]]
+	- Here you can clearly see I used my lights on the right
+	- The other red edges on the left are other transcription "listeners" considering the transcription
+- Cluster when the litter is sifted
+	- ![[Pasted image 20240430045125.png]]
