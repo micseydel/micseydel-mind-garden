@@ -18,7 +18,7 @@ None of these has an obvious solution, but I can develop (ideally boolean/falsif
 
 In 2022 or 2023, I developed and named this idea specifically to help with (heal or accomadate) my [[CPTSD]].  Here's what I came up with:
 
-![[Cognitive Tinker Frame (definition)]]
+![[Cognitive Tinker Frame]]
 
 ## In practice...
 

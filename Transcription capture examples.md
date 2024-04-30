@@ -1,0 +1,8 @@
+- Top-level view
+	- ![[Pasted image 20240429183955.png|400]]
+- Example contents of the top note (note automatically [[Integration|integrated]]) with [[Obsidian]]'s user interface
+	- ![[Pasted image 20240429184051.png]]
+- Cat transcriptions
+	- ![[Pasted image 20240429184248.png]]
+	- You can see most of the notes are handled well pre-supervision
+	- The notes at the bottom are the ones that need my attention, along with (potentially) details from natural language processing that wasn't a perfect match

@@ -4,4 +4,5 @@
 	- [[Why I'm still Coviding (2024)|Still Coviding]]
 - About this digital [garden](https://www.refinery29.com/en-us/2022/04/10953988/mind-gardening-organize-thoughts-increase-productivity)
 	- Brand new, needs work
+	- Intentionally not perfectionist
 - Feel free to [email](mailto:contact@micseydel.me) me questions!

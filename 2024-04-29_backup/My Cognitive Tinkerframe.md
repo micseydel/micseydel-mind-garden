@@ -21,6 +21,6 @@ Usually he's satisfied after I test each of these hypotheses, but my trauma brai
 
 Analog tools like a [conspiracy board](https://knowyourmeme.com/memes/pepe-silvia) or `[[Personal knowledge management systems (PKMS)#Zettelkasten|Zettelkasten]]` could solve a lot of problems, but the biggest advantage of a digital system is that you can encode *programs* and not just *data*. The definition...
 
-![[Cognitive Tinker Frame (definition)]]
+![[Cognitive Tinker Frame]]
 
 ...does not require any digital tools, but the whiteboard example above could obviously very easily be turned into an app, or web flowchart rather than a simple list.

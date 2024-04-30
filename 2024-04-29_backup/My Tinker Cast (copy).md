@@ -1,8 +1,6 @@
 ---
-aliases:
-  - Building my Tinker Cast
-tags:
-  - stub
+aliases: 
+tags: []
 ---
 
 # ==FIXME==
