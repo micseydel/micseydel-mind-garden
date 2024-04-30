@@ -1,7 +1,7 @@
 - ![[bottom of my daily note]] in my [[personal knowledge management system]]
 - [ ] [[Transcription capture examples]]
 - [ ] [[Cat sifting report example]]
-- [ ] Graph visuals
+- [ ] [[Graph visuals]]
 - Mention
 	- Hue lights
 	- ~~Daily note creation (always annoyed me with Obsidian that I had to create the file, and clicking a link might accidentally create an empty file I have to delete...)~~
