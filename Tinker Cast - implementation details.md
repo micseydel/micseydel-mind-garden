@@ -1,0 +1,9 @@
+- [Akka 2.6](https://doc.akka.io/docs/akka/2.6/typed/guide/actors-motivation.html) -
+	- "cast" is word play with the [actor model](https://en.wikipedia.org/wiki/Actor_model) 
+	- ...and the feeling of casting/"magic" that using a voice-driven interface can inspire
+- OpenAI Whisper (audio transcription)
+	- Capture on Android via [Easy Recorder](https://play.google.com/store/search?q=easy%20recorder&c=apps&hl=en&gl=US)
+	- Sync via [Syncthing](https://syncthing.net/)
+	- [JVM folder watcher API](https://docs.oracle.com/javase/tutorial/essential/io/notification.html) detects sync'd files
+- Rasa open source (natural language processing)
+- Inspired by [[Maps of Content (MOCs)]]

@@ -5,4 +5,4 @@
 	- (I'm happy to keep my asteroid belt, but those clusters are kind of like short term memories)
 - Animation from about 6 weeks ago using Obsidian Canvas
 	- ![[Screen Recording 2024-03-16 at 9.26.30 PM.mp4]]
-- [[Tinker Cast visualization with D3]]
+- ![[Tinker Cast visualization with D3]]
