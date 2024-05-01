@@ -15,6 +15,6 @@
 		- a [Rolodex](https://en.wikipedia.org/wiki/Rolodex)
 		- a [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot)
 	- and making sure I had
-		- ...access to his computers, **even if I broke them sometimes (or frequently)**
+		- access to his computers, **even if I broke them sometimes (or frequently)**
 		- a laptop in 7th grade
 		- a [Palm Treo](https://en.wikipedia.org/wiki/Treo_650) in high school (before the iPhone was released)
