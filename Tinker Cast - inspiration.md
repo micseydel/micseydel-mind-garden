@@ -6,7 +6,7 @@
 		- I tried hiring help that caused more problems than anything
 		- My experience with veterinarians is that they are not reliable
 	- At my [last job](https://www.linkedin.com/in/micseydel/) (working with the [former CTO of Evernote](https://hackernoon.com/livongos-cto-dave-engberg-on-servant-leadership-communicating-with-executive-peers-more-620a2a92b203), ironically enough) I did **data engineering** for the first time
-- All of this combined resulted in me wanting a way to support myself without relying on unreliable humans
+- All of this combined resulted in me wanting to have a reliable way of relying on other people less, while mitigating the burden that results in
 
 # Longer ago
 
