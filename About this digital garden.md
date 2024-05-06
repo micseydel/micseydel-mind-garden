@@ -1,0 +1,2 @@
+- Inspired from [garden](https://www.refinery29.com/en-us/2022/04/10953988/mind-gardening-organize-thoughts-increase-productivity)
+- A space for [[Random musings]]

@@ -1,0 +1,2 @@
+- If I got sent back in time 20 years - the first thing I'd do is probably start a project to replicate [[Obsidian]]
+- 

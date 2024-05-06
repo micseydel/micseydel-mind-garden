@@ -12,6 +12,7 @@
 
 - [[my dad]]
 	- set a good [[Externalized cognition|externalized cognition]] example, using -
+		- paper and pencil (and straightedge and whatever else) for [drafting](https://www.britannica.com/topic/drafting), first with paper and pencil and later with CAD
 		- a [Rolodex](https://en.wikipedia.org/wiki/Rolodex)
 		- a [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot)
 	- and making sure I had
