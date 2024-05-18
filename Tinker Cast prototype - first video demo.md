@@ -1,0 +1,50 @@
+- ![](https://youtu.be/CojlV7-cYzA)
+- (transcription follows)
+- \[00:00:00\]  My name is Michael Seydel and what you see here is a graph or network that may remind you of a social network visualization.
+- \[00:00:08\]  In this case, you're looking at the neurons and synapses of my voice-driven digital external brain.
+- \[00:00:15\]  I want to briefly demo two use cases.
+- \[00:00:18\]  The first is around rudimentary distress detection.
+- \[00:00:22\]  I'll record a voice note on my phone that will take a moment to sync, transcribe, and then propagate.
+- \[00:00:30\]  "I'm feeling distress."
+- \[00:00:35\]  I haven't optimized for speed, so Syncthing has to notice the new audio file in the background and then sync it before anything interesting happens.
+- \[00:00:45\]  I need to show that...
+- \[00:00:55\]  Alright.
+- \[00:00:57\]  I know that was pretty fast, but basically we saw two things.
+- \[00:01:02\]  The simpler one is that my lights flashed in response to distress detection.
+- \[00:01:10\]  And a push notification is on the way, though it's not visible.
+- \[00:01:14\]  The other is that this visualization that was the digital neurons communicating in real time.
+- \[00:01:21\]  The second use case is around my cat's litter use.
+- \[00:01:25\]  I basically do a bit of natural language processing to build a report that summarizes the litter use for the day...
+    - (Rasa open source)
+- \[00:01:32\]  And let me switch over to today's.
+- \[00:01:37\]  So this is today's litter box report.
+- \[00:01:41\]  We see a summary and then the data that the summary is composed of with links back to the source data.
+- \[00:01:47\]  And if I use Obsidian, I can see all the contents of that source note.
+- \[00:01:56\]  This particular report has a problem, though.
+- \[00:01:58\]  I happen to know that it's missing some data.
+- \[00:02:01\]  If we go over and look at cat transcriptions for the day, we can see all of them because they were filtered.
+- \[00:02:07\]  But we can also see the ones that were not automatically integrated.
+- \[00:02:11\]  And earlier I went and I highlighted this particular use.
+- \[00:02:16\]  That was at 4.01am.
+- \[00:02:20\]  So I'm going to go ahead here and I'm going to update this data.
+- \[00:02:25\]  And now note that I have not fixed the summary, but...
+- \[00:02:33\]  Yeah, here my food reminder went off as well, but you see a distress detection push notification.
+    - (not on the screen 🙄)
+- \[00:02:39\]  And now here I'm going to go ahead and make another note.
+- \[00:02:42\]  I am going to say...
+- \[00:02:46\]  "I just sifted the front litter box and found a pee clump."
+- \[00:02:55\]  So again, it'll take a moment to process everything, but...
+- \[00:03:01\]  When the new data comes in, what we should see is a correct output.
+- \[00:03:06\]  We shouldn't see my lack of updating the summary be a problem.
+- \[00:03:16\]  Alright, there we go.
+- \[00:03:18\]  So we can clearly see that the note that I just made is there.
+- \[00:03:23\]  It has all the details like the other ones do.
+- \[00:03:27\]  And then if we hop back to the graph...
+- \[00:03:31\]  So we didn't see the graph operating in real time, but if I do a refresh...
+- \[00:03:39\]  If I use this slider to go backwards, it's using...
+- \[00:03:45\]  Just the historical data bucketed by the minutes.
+    - (for the day)
+- \[00:03:48\]  I expected some stuff on the right side.
+    - (maybe a bug, e.g. the frames might be reversed 🤷)
+- \[00:03:52\]  Yeah, essentially that is what the graph looks like when one of these litter reports is updated.
+- \[00:04:00\]  There's other stuff going on here that I'll get into more detail later, but I just wanted to share that much for now.
