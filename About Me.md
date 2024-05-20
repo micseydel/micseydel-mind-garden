@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - Name: Michael Seydel (they/them 💛🤍💜🖤)
 - Biggest current focuses
 	- [[Why I'm still Coviding (2024)|Still Coviding]]

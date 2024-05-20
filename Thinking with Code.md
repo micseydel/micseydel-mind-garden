@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 ## Example - how to deal with a headache?
 
 Let's say you have the problem that you're not sure if **naproxen** or **ibuprofen** works better for you. The following would not be complicated:

@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - Offline-first
 	- Fail-safe - [plaintext](https://www.mentalnodes.com/a-text-renaissance)
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model) - atomic units of work

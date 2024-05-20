@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 This is a phrase that often gets tossed around in mental health spaces, especially informal ones like on social media. [Here is a reddit comment](https://www.reddit.com/r/TalkTherapy/comments/v4ztge/you_gotta_do_the_work_whatever_that_is/ib7rkhr/?context=3) (with highlights added) I wrote on 2022-06-04, in response to someone asking what the work *is*:
 
 > I had this question recently. ==For me, a big part of "the work" is research and note-taking to organize my thoughts==. I Google'd "what does it mean to do the work" and found these two links worth looking at:

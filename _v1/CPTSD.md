@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 Per [webmd](https://www.webmd.com/mental-health/what-to-know-complex-ptsd-symptoms):
 > Complex PTSD is caused by prolonged or chronic trauma. Those with complex PTSD usually have at least some of the symptoms of PTSD, but they could also have other symptoms.
 

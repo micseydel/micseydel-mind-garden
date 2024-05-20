@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 Initially, I came up with my [[#Cognitive Tinker Frame]] framework as something that I thought hit a **niche** that Building a Second Brain, Zettelkasten, Linking Your Thinking and everything else doesn't really get into - the use of ==*science*== by regular people. ==*Tinkering*==, like the science we learn about in history, not the (theoretically) high-quality peer-reviewed large-scale double-blind science we expect today.
 
 I won't single out which community I've seen this in, but "**do what works for you**" was a common response to the questions I was most excited to get real answers to. I mean, if I knew what worked for me, I wouldn't be asking a question, right? And when **I asked people how they know what worked for them**, the answer was usually 🤷 How weird is that?

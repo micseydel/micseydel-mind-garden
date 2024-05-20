@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:13-07:00
+---
 ## Artificial Intelligence
 
 I am confident [human-AI fusion is the way of the future](https://www.irishexaminer.com/opinion/commentanalysis/arid-30975938.html). That said, for now I am focusing on primarily non-AI solutions, other than for things like voice memo transcription or image classification.

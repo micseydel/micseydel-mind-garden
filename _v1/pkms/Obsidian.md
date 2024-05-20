@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # What is Obsidian?
 
 [Obsidian](https://obsidian.md/) is a [[Personal knowledge management systems (PKMS)]] tool. It is often used for [[Networked Thinking]], as opposed to Evernote or Apple Notes. It is not a SaaS (software as a service) as is so common today, instead the files are local to your device. Those files are *plaintext* meaning that I don't need special software to review and understand them.

@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - [Akka 2.6](https://doc.akka.io/docs/akka/2.6/typed/guide/actors-motivation.html) -
 	- "cast" is word play with the [actor model](https://en.wikipedia.org/wiki/Actor_model) 
 	- ...and the feeling of casting/"magic" that using a voice-driven interface can inspire

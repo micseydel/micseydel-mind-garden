@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 [This random website](https://www.appsntips.com/what-is-networked-thinking/) is where I learned the term. I should probably re-read it, but after learning about [mind gardening](https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity) I stumbled across this term. The tl;dr is that I'd rather do my [[Personal knowledge management systems (PKMS)|PKM]] in a wiki than a filing cabinet.
 
 I need to look into [[Personal knowledge management systems (PKMS)#Linking Your Thinking|"linking your thinking" (LYT)]] more but don't feel blocked enough to deep-dive, and I've instead kept up somewhat with the BASB Facebook group and Obsidian subreddit.
