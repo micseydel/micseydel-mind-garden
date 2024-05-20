@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - [[To expand upon]]
 - attention as finite - bounded by and more finite even than time, without delegation e.g. to a computer
 - thinking with code - configuring ==keyboard shortcuts==, kinda like PARA, making them consistent across applications to decrease learning curves and mental load

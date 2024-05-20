@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 I'm a self-taught coder who got a bachelor's and [became an "engineer"](https://www.linkedin.com/in/micseydel/) in silicon valley. I use they/them pronouns and identify as
 * Gray asexual 💜🖤🤍
 * Polyamorous 💙❤️🖤

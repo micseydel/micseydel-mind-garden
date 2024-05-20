@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 ## A Tinkerframe isn't limited to code
 
 There's nothing about a "cognitive tinkerframe" that requires digital tooling be involved. Anything I do that helps me to use the scientific method to bypass cognitive limits is part of my cognitive tinkerframe. (See also: [[#Precedent]])

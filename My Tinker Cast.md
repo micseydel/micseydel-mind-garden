@@ -1,6 +1,8 @@
 ---
 aliases: 
 tags: []
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
 ---
 - A digital event-driven implementation of [[Cognitive Tinker Frame|an idea]] I had in 2022
 - It can be thought of as a novel form of **personal digital assistant**

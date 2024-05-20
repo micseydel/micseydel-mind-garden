@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - Initial graph
 	- ![[Pasted image 20240430044503.png]]
 - Node example - Hue smart lights

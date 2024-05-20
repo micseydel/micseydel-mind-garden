@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # Definition
 
 [RationalWiki on this](https://rationalwiki.org/wiki/Just_asking_questions) topic opens:

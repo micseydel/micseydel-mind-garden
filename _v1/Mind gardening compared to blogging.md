@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # How is it different from a blog?
 
 I do not currently have a blog, but if I did, posts would 

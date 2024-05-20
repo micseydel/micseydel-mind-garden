@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:13-07:00
+---
 (I took a break from this for [[My Tinker Cast]], but am about to start integrating the two more fully. This is an older write up, see also: [[Tinker Cast - conception]])
 # Introduction
 

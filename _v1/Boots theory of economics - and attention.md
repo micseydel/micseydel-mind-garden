@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # Boots theory
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Boots_theory) quoting Discworld:

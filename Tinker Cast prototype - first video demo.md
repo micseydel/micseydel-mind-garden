@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - ![](https://youtu.be/CojlV7-cYzA)
 - (transcription follows)
 - \[00:00:00\]  My name is Michael Seydel and what you see here is a graph or network that may remind you of a social network visualization.

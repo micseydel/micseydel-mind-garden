@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:13-07:00
+---
 # Historical
 
 In high school, the code that I had written acted as a kind of narrow PKM, essentially just a reference for different patterns. When I eventually lost that code by accident, it hurt, and it would have hurt more had I realized what I was giving up by not being able to build on that code, missing out on years of compounding gains...

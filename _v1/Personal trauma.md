@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 I'm not sure exactly how open I want to be here, but I have a diagnosis of `[[CPTSD]]` and before that, psychiatrists experimented with giving me medication normally meant for ADHD and schizophrenia. While I have some worry about being discriminated against, I also very much think that being "out" about things can benefit those who can't be. I want to destigmatize existing as a person who has some serious stuff to work through.
 
 # Symtoms

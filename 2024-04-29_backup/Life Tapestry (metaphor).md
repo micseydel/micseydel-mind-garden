@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:13-07:00
+---
 If our lives are a tapestry
 * Most people weave them by hand, often on autopilot or improv
 * Some take a structured *loom* approach, which shows progress less **quickly at first and more quickly as time goes on**

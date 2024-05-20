@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # Official definition
 
 > a trusted place outside your head where you can collect and organize your most important ideas and insights and use them to do your best work.

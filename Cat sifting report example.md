@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 - Generated entirely from voice notes
 	- ![[Pasted image 20240429184822.png]]
 - Manual addition of the [[Transcription capture examples|not-quite-match]]

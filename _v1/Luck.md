@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 [Luck surface area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 
 To look into

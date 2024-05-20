@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 # The gist
 
 I am currently living alone for the first time in my life. In February 2021 I quit my job and in April 2021 I left my living situation due to it becoming unsafe. In the aftermath of April 2021 my entire support network crumbled.

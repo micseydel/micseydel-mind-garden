@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T15:28:05-07:00
+updated: 2024-05-20T15:28:14-07:00
+---
 ![[Jargon#Mind graph 🧠🕸]]
 
 The equivalent term others use might be "[[Jargon#Building a Second Brain (BASB)|second brain]]" or [[Jargon#Zettelkasten|Zettelkasten]]. This is where anything I learn via `[[My Cognitive Tinkerframe]]` lives. It is highly personalized to me.
