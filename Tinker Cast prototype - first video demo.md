@@ -1,5 +1,24 @@
-- ![](https://youtu.be/CojlV7-cYzA)
-- (transcription follows)
+ ![](https://youtu.be/CojlV7-cYzA)
+
+# Highlights
+
+- https://youtu.be/CojlV7-cYzA?si=TqRmls30LOZE2Wv-&t=222
+	- ![[Pasted image 20240520154714.png]]
+	- Here, "Gossiper" (pink node with a mouth speaking) notifies *Listener*s (mostly ears)
+	- We see that only the cat listener reacts, the others drop the message
+	- This might happen if I say "I noticed the front litter box was used" because that currently does not set a timer (green nodes), such notes are not highly integrated
+- https://youtu.be/CojlV7-cYzA?si=z_EMk09kHRf6afRb&t=232
+	- ![[Pasted image 20240520154930.png]]
+	- Here, we have a transcription that
+		- undergoes natural language processing (with Rasa)
+		- undergoes entity extraction (formalized structure, no longer English)
+		- is added to a report that...
+		- ...includes an aggregate summary
+	- (the food tracking stuff is probably because of the per-minute bucketing, it's not related)
+	- This is a good example of [[Idea Provenance]] - if anything goes wrong, I can each each step taken
+
+# Transcription
+
 - \[00:00:00\]  My name is Michael Seydel and what you see here is a graph or network that may remind you of a social network visualization.
 - \[00:00:08\]  In this case, you're looking at the neurons and synapses of my voice-driven digital external brain.
 - \[00:00:15\]  I want to briefly demo two use cases.
