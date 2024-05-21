@@ -10,4 +10,4 @@ updated: 2024-05-20T17:23:30-07:00
 	- [I'm worried about hidden costs](https://www.donotpanic.news/p/the-billionaire-who-wants-to-live?utm_medium=android)
 		- > Today, for whatever reason, in [response to a tweet I wrote](https://x.com/bryan_johnson/status/1756316495603462402?s=20) about research showing covid ages a person biologically, he admitted a mild infection in November 2022 (months before those interviews) stripped him of ==15% of his lung capacity==.
 		- (most of us would simply not notice a 15% reduction, since we rarely if ever hit 85% capacity)
-	- I have an exceptionally high number of [[ACEs (Adverse Childhood Events)]] that have [likely impaired my immune system]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3318917/)
+	- I have an exceptionally high number of [[ACEs (Adverse Childhood Events)]] that have [likely impaired my immune system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3318917/)
