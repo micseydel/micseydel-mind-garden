@@ -13,7 +13,7 @@
 		- undergoes natural language processing (with Rasa)
 		- undergoes entity extraction (formalized structure, no longer English)
 		- is added to a report that...
-		- ...includes an aggregate summary
+		- ...includes an [[Cat sifting report example|aggregate summary]]
 	- (the food tracking stuff is probably because of the per-minute bucketing, it's not related)
 	- This is a good example of [[Idea Provenance]] - if anything goes wrong, I can each each step taken
 
