@@ -1,6 +1,6 @@
 ---
 created: 2024-05-20T15:28:05-07:00
-updated: 2024-05-20T15:28:14-07:00
+updated: 2024-05-20T17:23:30-07:00
 ---
 - Feel free to ask questions or ask for sources - I'll expand this as needed
 - **I don't want to get long COVID**

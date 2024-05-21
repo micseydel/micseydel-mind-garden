@@ -1,3 +1,7 @@
+---
+created: 2024-05-20T17:23:30-07:00
+updated: 2024-05-20T17:23:31-07:00
+---
 - [Select CDC fast facts](https://www.cdc.gov/aces/about/?CDC_AAref_Val=https://www.cdc.gov/violenceprevention/aces/fastfact.html)
 	- > ACEs are common. About ==64%== of adults in the United States reported they had experienced ==at least one== type of ACE before age 18. ==Nearly one in six (17.3%)== adults reported they had experienced ==four or more types== of ACEs.[7](https://www.cdc.gov/aces/about/?CDC_AAref_Val=https://www.cdc.gov/violenceprevention/aces/fastfact.html#cdcreference_7)
 	- > Preventing ACEs could potentially reduce many health conditions. ==Estimates show up to 1.9 million heart disease cases and 21 million depression cases potentially could have been avoided by preventing ACEs==.[1](https://www.cdc.gov/aces/about/?CDC_AAref_Val=https://www.cdc.gov/violenceprevention/aces/fastfact.html#cdcreference_1)
