@@ -1,6 +1,6 @@
 ---
 created: 2024-05-20T15:28:05-07:00
-updated: 2024-05-20T15:28:15-07:00
+updated: 2024-05-20T17:38:22-07:00
 ---
 - Prior to using [[My Tinker Cast]]...
 - I migrated from Google Docs and Trello and such to Roam Research and then/now...
