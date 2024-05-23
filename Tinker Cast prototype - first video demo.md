@@ -19,7 +19,7 @@ updated: 2024-05-20T17:23:30-07:00
 		- is added to a report that...
 		- ...includes an [[Cat sifting report example|aggregate summary]]
 	- (the food tracking stuff is probably because of the per-minute bucketing, it's not related)
-	- This is a good example of [[Idea Provenance]] - if anything goes wrong, I can each each step taken
+	- This is a good example of [[Idea Provenance]] - if anything goes wrong, I can audit each step taken
 
 # Transcription
 
