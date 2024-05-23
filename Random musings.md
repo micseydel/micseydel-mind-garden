@@ -6,7 +6,7 @@ updated: 2024-05-20T15:28:14-07:00
 
 # Misc ideas to revisit
 
-- https://www.facebook.com/FarnamStreet/posts/pfbid02dUKGKHtZJqPw1EnqP8NUA2U6xMa9vWBFbVKTd23F2X5g1UWV19wYzqFuCnn9r1sRl
+- [Consider preferring making decisions that can be undone](https://www.facebook.com/FarnamStreet/posts/pfbid02dUKGKHtZJqPw1EnqP8NUA2U6xMa9vWBFbVKTd23F2X5g1UWV19wYzqFuCnn9r1sRl)
     - > It’s more advantageous to structure decisions so that they are easily reversible than to spend too much time trying to make the perfect choice.
     - > Don't think: Is this the right decision?
     - > Think: If this is the wrong decision, how can I undo it?

@@ -7,3 +7,7 @@ updated: 2024-05-20T17:23:30-07:00
 - **Idea Provenance** is simply the chronology of an idea
 	- e.g. a screenshot of a Tumblr post of a screenshot of a reddit post on Facebook
 	- e.g. "I considered buying Y thing because..." or "I wouldn't have had that idea if not for..."
+
+# Simple example
+
+- ![[Pasted image 20240521181416.png]]
