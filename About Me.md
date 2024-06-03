@@ -6,8 +6,7 @@ updated: 2024-05-20T17:38:22-07:00
 - Biggest current focuses
 	- [[Why I'm still Coviding (2024)|Still Coviding]]
 	- Building and solving problems with [[My Tinker Cast]]
-		- [[Tinker Cast prototype - first video demo]]
-		- ![](https://youtu.be/CojlV7-cYzA)
+		- ==[[Tinkerbrain videos - request for comment]]==
 - [[About this digital garden]]
 	- Brand new, needs work
 	- Intentionally not perfectionist

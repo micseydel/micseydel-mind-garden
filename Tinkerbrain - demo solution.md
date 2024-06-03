@@ -1,0 +1,25 @@
+- ![](https://www.youtube.com/watch?v=hBFKl2Ezf7E&ab_channel=MichaelSeydel)
+	- \[00:00:00\]  My name is Michael and I have two cats. What you see here on the screen is a Notes app called Obsidian.
+	- \[00:00:08\]  I have three big problems. The first is that one of the kitties that I have has a life-threatening
+	- \[00:00:15\]  chronic condition. The second is that I have complex trauma related to caretaking. And the
+	- \[00:00:21\]  third, the kind of key thing, is app frustrations while trying to manage this chronic condition.
+	- \[00:00:27\]  Of course you want to see the kitties. Peanut on the left is the one with the chronic condition
+	- \[00:00:32\]  and his sister on the right shares his birthday. Peanut does not like going to the vet even if it
+	- \[00:00:41\]  was free and everything. You know, we want to manage his chronic condition. So the thing is
+	- \[00:00:48\]  that I need to monitor his litter use and if I notice that he hasn't peed for 12 hours, you know,
+	- \[00:00:55\]  that's concerning. And at 24 hours it is a life-threatening medical emergency that I have
+	- \[00:01:00\]  to go to the vet and spend money for. So I have been using Google Keep to take short transcribed
+	- \[00:01:07\]  waste notes to help me answer the question, when did he last pee? Now we are going to switch to
+	- \[00:01:13\]  some showing stuff. So here's a video of me trying to use Google Keep back in October,
+	- \[00:01:21\]  several months ago. It goes pretty fast but what happens is Google Keep says, hey,
+	- \[00:01:27\]  there are new features you need to refresh. I did it and then Google Keep says, hey,
+	- \[00:01:32\]  something went wrong. You can try again but until you do this refresh, syncing will not be functional.
+	- \[00:01:38\]  Meaning all my notes are stuck on the phone. I can't look at them on the desktop.
+	- \[00:01:43\]  So, you know, I tried it. It never got working. Maybe it works today but I haven't used it for
+	- \[00:01:48\]  a while. But the thing is I couldn't do myself what I needed this tool to help me with. And this
+	- \[00:01:56\]  tool wasn't reliable or particularly helpful in my moment of need. And now I want to talk a little
+	- \[00:02:02\]  bit about Spoon Theory here. What's going on? You know, it's actually probably my fault. You know,
+	- \[00:02:08\]  I think I'm like a malfunction magnet because your shit keeps malfunctioning around me.
+	- \[00:02:14\]  A demo bot just tore through Lanning's house. Okay, sorry. That was not Spoon Theory. That
+	- \[00:02:19\]  was Detective Spooner for my robot. That was that again. But the point being,
+	- \[00:02:24\]  it's frustrating when stuff doesn't work and that's not what I want to experience is those frustrations.

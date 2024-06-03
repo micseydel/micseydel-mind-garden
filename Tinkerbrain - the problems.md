@@ -1,0 +1,48 @@
+- ![](https://www.youtube.com/watch?v=Q4euu2CdaEk&ab_channel=MichaelSeydel)
+	- \[00:00:00\]  In my prior video, I talked about frustrations with Google Keep.
+	- \[00:00:05\]  In this video, I am going to eventually demo the solution that I'm using today.
+	- \[00:00:10\]  First, I just want to mention that I have three things on the screen.
+	- \[00:00:15\]  In the middle, you see a network of the digital neurons in my extended brain.
+	- \[00:00:21\]  On the right, we see my phone being streamed so that you can see when I take a voice memo.
+	- \[00:00:27\]  On the left, we have Obsidian like we did in the last video, but this time we see the
+	- \[00:00:32\]  actual report that I use to take care of my kitties.
+	- \[00:00:36\]  Now let's briefly show how Obsidian works before getting into details.
+	- \[00:00:40\]  So this is a note.
+	- \[00:00:42\]  I can edit it, I can do whatever.
+	- \[00:00:44\]  The way Obsidian works, it has a markdown that when you're not editing it, it looks
+	- \[00:00:48\]  pretty.
+	- \[00:00:49\]  If that is confusing, don't worry about it too much.
+	- \[00:00:53\]  But when I hover over one of these links by holding a key, I can see the content of
+	- \[00:01:00\]  the voice note.
+	- \[00:01:02\]  So earlier today, I said I sifted poop and pee from the front letterbox and this report
+	- \[00:01:08\]  was created.
+	- \[00:01:14\]  Now I want to do a quick demo where you actually see it in action.
+	- \[00:01:19\]  Now note that we have a total pee count of two and a poop count of one, along with two
+	- \[00:01:26\]  notes that show what has actually been done.
+	- \[00:01:29\]  Now I'm going to make a note here.
+	- \[00:01:34\]  I just sifted a pee clump from the back letterbox.
+	- \[00:01:41\]  Alright, now we see a new entry has been made in this report and we can do the same
+	- \[00:01:54\]  thing.
+	- \[00:01:55\]  We can see the transcription.
+	- \[00:02:00\]  It went really fast, but we can actually see these metaphorical neurons firing, the synapses
+	- \[00:02:08\]  being used.
+	- \[00:02:10\]  Let me refresh to show what the...
+	- \[00:02:12\]  Yeah, so this is what the cluster of neurons look like when I refresh the page.
+	- \[00:02:16\]  It kind of batched them.
+	- \[00:02:18\]  But basically, a voice note gets sent out to multiple listeners and then the cat listener
+	- \[00:02:24\]  sends it through this pipeline.
+	- \[00:02:27\]  I'll talk more about that later.
+	- \[00:02:29\]  I want to show more about how I actually use the notes.
+	- \[00:02:34\]  Now in this case, if we jump into the note that I just took, what we can see on the right,
+	- \[00:02:41\]  these are called backlinks.
+	- \[00:02:42\]  If you go to Wikipedia and you see a list of pages that link to that page, that's what
+	- \[00:02:47\]  we see here.
+	- \[00:02:50\]  If I click into structured cats notes, we can see...
+	- \[00:02:54\]  So I said I just sifted a pee clump from the back letterbox.
+	- \[00:02:58\]  And then what it's showing up here is what it heard.
+	- \[00:03:01\]  So it heard that I sifted a pee clump, it heard whatever else.
+	- \[00:03:06\]  And in the last video, I mentioned that the main question is, did Peanut pee?
+	- \[00:03:14\]  And I'll do a further demo at another time, but I can jump to kind of the note for all
+	- \[00:03:22\]  cat transcriptions and I can try to figure that out.
+	- \[00:03:30\]  But that's it for now, and next time I will show a little bit more about what's actually
+	- \[00:03:37\]  going on with these digital neurons.

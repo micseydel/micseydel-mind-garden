@@ -12,4 +12,6 @@ updated: 2024-05-20T15:28:14-07:00
 	- [JVM folder watcher API](https://docs.oracle.com/javase/tutorial/essential/io/notification.html) detects sync'd files
 	- Flask hosts Whisper for the Akka cast to access
 - [Rasa open source](https://rasa.com/docs/rasa/#rasa-open-source) (natural language processing, entity extraction)
+	- Here's a good example of [[Idea Provenance]] where I spoke groggily ("the back litter box was dirty")
+		- ![[Pasted image 20240528120816.png]]
 - Inspired by [[Maps of Content (MOCs)]]
