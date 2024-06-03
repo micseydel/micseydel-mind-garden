@@ -1,3 +1,4 @@
+- ==Warning: I forgot to add bleeps toward the end==
 - ![](https://www.youtube.com/watch?v=Q4euu2CdaEk&ab_channel=MichaelSeydel)
 	- \[00:00:00\]  In my prior video, I talked about frustrations with Google Keep.
 	- \[00:00:05\]  In this video, I am going to eventually demo the solution that I'm using today.
