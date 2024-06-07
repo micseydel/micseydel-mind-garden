@@ -1,49 +1,28 @@
-- ![](https://www.youtube.com/watch?v=hBFKl2Ezf7E&ab_channel=MichaelSeydel)
-	- 
-	- \[00:00:00\]  In my prior video, I talked about frustrations with Google Keep.
-	- \[00:00:05\]  In this video, I am going to eventually demo the solution that I'm using today.
-	- \[00:00:10\]  First, I just want to mention that I have three things on the screen.
-	- \[00:00:15\]  In the middle, you see a network of the digital neurons in my extended brain.
-	- \[00:00:21\]  On the right, we see my phone being streamed so that you can see when I take a voice memo.
-	- \[00:00:27\]  On the left, we have Obsidian like we did in the last video, but this time we see the
-	- \[00:00:32\]  actual report that I use to take care of my kitties.
-	- \[00:00:36\]  Now let's briefly show how Obsidian works before getting into details.
-	- \[00:00:40\]  So this is a note.
-	- \[00:00:42\]  I can edit it, I can do whatever.
-	- \[00:00:44\]  The way Obsidian works, it has a markdown that when you're not editing it, it looks
-	- \[00:00:48\]  pretty.
-	- \[00:00:49\]  If that is confusing, don't worry about it too much.
-	- \[00:00:53\]  But when I hover over one of these links by holding a key, I can see the content of
-	- \[00:01:00\]  the voice note.
-	- \[00:01:02\]  So earlier today, I said I sifted poop and pee from the front letterbox and this report
-	- \[00:01:08\]  was created.
-	- \[00:01:14\]  Now I want to do a quick demo where you actually see it in action.
-	- \[00:01:19\]  Now note that we have a total pee count of two and a poop count of one, along with two
-	- \[00:01:26\]  notes that show what has actually been done.
-	- \[00:01:29\]  Now I'm going to make a note here.
-	- \[00:01:34\]  I just sifted a pee clump from the back letterbox.
-	- \[00:01:41\]  Alright, now we see a new entry has been made in this report and we can do the same
-	- \[00:01:54\]  thing.
-	- \[00:01:55\]  We can see the transcription.
-	- \[00:02:00\]  It went really fast, but we can actually see these metaphorical neurons firing, the synapses
-	- \[00:02:08\]  being used.
-	- \[00:02:10\]  Let me refresh to show what the...
-	- \[00:02:12\]  Yeah, so this is what the cluster of neurons look like when I refresh the page.
-	- \[00:02:16\]  It kind of batched them.
-	- \[00:02:18\]  But basically, a voice note gets sent out to multiple listeners and then the cat listener
-	- \[00:02:24\]  sends it through this pipeline.
-	- \[00:02:27\]  I'll talk more about that later.
-	- \[00:02:29\]  I want to show more about how I actually use the notes.
-	- \[00:02:34\]  Now in this case, if we jump into the note that I just took, what we can see on the right,
-	- \[00:02:41\]  these are called backlinks.
-	- \[00:02:42\]  If you go to Wikipedia and you see a list of pages that link to that page, that's what
-	- \[00:02:47\]  we see here.
-	- \[00:02:50\]  If I click into structured cats notes, we can see...
-	- \[00:02:54\]  So I said I just sifted a pee clump from the back letterbox.
-	- \[00:02:58\]  And then what it's showing up here is what it heard.
-	- \[00:03:01\]  So it heard that I sifted a pee clump, it heard whatever else.
-	- \[00:03:06\]  And in the last video, I mentioned that the main question is, did Peanut pee?
-	- \[00:03:14\]  And I'll do a further demo at another time, but I can jump to kind of the note for all
-	- \[00:03:22\]  cat transcriptions and I can try to figure that out.
-	- \[00:03:30\]  But that's it for now, and next time I will show a little bit more about what's actually
-	- \[00:03:37\]  going on with these digital neurons.
+- ![](https://youtu.be/cN7z1_I0EzE)
+- \[00:00:00\]  In my prior video, I mentioned wanting to move away from Google Keep for my short transcribed voice notes.
+- \[00:00:06\]  Here, I want to demo what I've built to replace my Google Keep use.
+- \[00:00:12\]  What you see on the screen currently are the neurons and synapses of my digital external brain.
+- \[00:00:18\]  If I click on this one, I end up opening my notes app, Obsidian.
+- \[00:00:26\]  This particular note is a summary of the litter box sifting for the day.
+- \[00:00:31\]  As you can see, we have one of each of the two types, along with a single event where they were sifted.
+- \[00:00:38\]  Now, to show a live demo, on the right is streaming video from my phone.
+- \[00:00:46\]  This is live.
+- \[00:00:48\]  I'm going to swipe down on the top right.
+- \[00:00:51\]  I'm going to take a recording and we're going to see what happens.
+- \[00:00:58\]  I just sifted a pea clump from the back litter box.
+- \[00:01:12\]  Alright, so we can see that the total pea has been updated.
+- \[00:01:16\]  We can see that the events list has been updated.
+- \[00:01:19\]  I'll get back to the events list in a moment, but you may have seen something happen over here on the graph.
+- \[00:01:24\]  If we go back one frame, we can see essentially this digital neuron cluster that was involved in all the things for generating this report.
+- \[00:01:35\]  Now, let me show you a little bit more about what's going on here.
+- \[00:01:40\]  This app is called Obsidian, and one of its features is backlinks, these link dimensions.
+- \[00:01:46\]  Essentially, this note, litterboxes sifting, is mentioned by my note for the day.
+- \[00:01:52\]  I mention that because this event, there's a note associated with it.
+- \[00:01:58\]  There's a lot going on, you don't need to care about all these details, but you can see the text of my transcribed voice note there.
+- \[00:02:05\]  Now, we can keep using backlinks, and we can jump to all cat transcriptions.
+- \[00:02:11\]  Now, it's the beginning of the day, so I don't have a lot of demo data here,
+- \[00:02:15\]  but what you can definitely see is that some of these things are automatically crossed off.
+- \[00:02:21\]  So in this case, we automatically integrated the litterbox note, so there's no need to really review it.
+- \[00:02:27\]  That's the point of this not automatically structured, is that's what I actually want to review, and the all is just there for context.
+- \[00:02:36\]  That's kind of the gist of what I wanted to show here, just this idea of an external digital brain being able to do more than what apps typically do,
+- \[00:02:46\]  as well as providing what I call idea provenance, the idea that you can trace back what's going on.

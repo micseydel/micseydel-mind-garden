@@ -1,26 +1,30 @@
-- ==Warning: I forgot to add bleeps toward the end==
-- ![](https://www.youtube.com/watch?v=Q4euu2CdaEk&ab_channel=MichaelSeydel)
-	- \[00:00:00\]  My name is Michael and I have two cats. What you see here on the screen is a Notes app called Obsidian.
-	- \[00:00:08\]  I have three big problems. The first is that one of the kitties that I have has a life-threatening
-	- \[00:00:15\]  chronic condition. The second is that I have complex trauma related to caretaking. And the
-	- \[00:00:21\]  third, the kind of key thing, is app frustrations while trying to manage this chronic condition.
-	- \[00:00:27\]  Of course you want to see the kitties. Peanut on the left is the one with the chronic condition
-	- \[00:00:32\]  and his sister on the right shares his birthday. Peanut does not like going to the vet even if it
-	- \[00:00:41\]  was free and everything. You know, we want to manage his chronic condition. So the thing is
-	- \[00:00:48\]  that I need to monitor his litter use and if I notice that he hasn't peed for 12 hours, you know,
-	- \[00:00:55\]  that's concerning. And at 24 hours it is a life-threatening medical emergency that I have
-	- \[00:01:00\]  to go to the vet and spend money for. So I have been using Google Keep to take short transcribed
-	- \[00:01:07\]  waste notes to help me answer the question, when did he last pee? Now we are going to switch to
-	- \[00:01:13\]  some showing stuff. So here's a video of me trying to use Google Keep back in October,
-	- \[00:01:21\]  several months ago. It goes pretty fast but what happens is Google Keep says, hey,
-	- \[00:01:27\]  there are new features you need to refresh. I did it and then Google Keep says, hey,
-	- \[00:01:32\]  something went wrong. You can try again but until you do this refresh, syncing will not be functional.
-	- \[00:01:38\]  Meaning all my notes are stuck on the phone. I can't look at them on the desktop.
-	- \[00:01:43\]  So, you know, I tried it. It never got working. Maybe it works today but I haven't used it for
-	- \[00:01:48\]  a while. But the thing is I couldn't do myself what I needed this tool to help me with. And this
-	- \[00:01:56\]  tool wasn't reliable or particularly helpful in my moment of need. And now I want to talk a little
-	- \[00:02:02\]  bit about Spoon Theory here. What's going on? You know, it's actually probably my fault. You know,
-	- \[00:02:08\]  I think I'm like a malfunction magnet because your shit keeps malfunctioning around me.
-	- \[00:02:14\]  A demo bot just tore through Lanning's house. Okay, sorry. That was not Spoon Theory. That
-	- \[00:02:19\]  was Detective Spooner for my robot. That was that again. But the point being,
-	- \[00:02:24\]  it's frustrating when stuff doesn't work and that's not what I want to experience is those frustrations.
+- ==Warning: I forgot to a add bleep toward the end==
+- ![](https://youtu.be/jB3UtzQpikQ)
+- \[00:00:00\]  My name is Michael and I have two cats
+- \[00:00:06\]  Here, besides my cute cats, is Obsidian Canvas
+- \[00:00:13\]  One of those two cats, Peanut, developed a life-threatening chronic condition a few months
+- \[00:00:18\]  after I adopted them.
+- \[00:00:21\]  This chronic condition requires me to monitor his litter use daily and can definitely be
+- \[00:00:25\]  stressful for both of us.
+- \[00:00:28\]  The same month as his diagnosis, I myself was diagnosed with complex trauma.
+- \[00:00:33\]  Complex trauma can impact someone's cognition or memory, and so I've been using apps to
+- \[00:00:39\]  try to stay organized.
+- \[00:00:45\]  The particular app I'm going to talk about here is Google Keep because it let me take
+- \[00:00:50\]  short transcribed voice notes that would help me to figure out when did Peanut last pee.
+- \[00:01:03\]  This is a video of Google Keep taken back in October.
+- \[00:01:08\]  Essentially when I open the app it says, hey you have to do a refresh.
+- \[00:01:13\]  I hit the refresh button and figure it's going to be fine.
+- \[00:01:17\]  It then says that the refresh failed and that syncing won't be functional until it succeeds.
+- \[00:01:23\]  I hit try again because, you know, this is not something I really care about.
+- \[00:01:27\]  I just want to get past it and couldn't get past it.
+- \[00:01:33\]  This problem definitely changed my relationship with Google Keep.
+- \[00:01:37\]  I went from feeling like it was very helpful and could do what I needed it to do to feeling
+- \[00:01:43\]  like I couldn't do this thing and it needed its help and it couldn't do it anymore.
+- \[00:01:49\]  Now let me play a short video here about Spoon Theory.
+- \[00:01:54\]  You notice it's actually probably my fault.
+- \[00:01:55\]  You know, I think I'm like a malfunction magnet because your shit keeps malfunctioning around me.
+- \[00:02:01\]  A demo bot just tore through landm-
+- \[00:02:03\]  Okay, it turns out that actually was not Spoon Theory.
+- \[00:02:08\]  That was Detective Spooner from the same meme.
+- \[00:02:11\]  But the point stands.
+- \[00:02:12\]  It's frustrating when tech doesn't work and I wanted to find a solution.
