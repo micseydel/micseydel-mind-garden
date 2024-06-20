@@ -8,3 +8,13 @@
 - (2023-07-31; 0:08:02) [[Michael Levin - Can Cells Think]]
 - (2024-03-08; 0:56:11) [[Michael Levin - Novel beings novel goals (John Templeton Foundation)]]
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]
+
+# Not-transcribed
+
+- (2023-04-01; 1:20:06) [What are Cognitive Light Cones?](https://www.youtube.com/watch?v=YnObwxJZpZc) 
+- (2023-07-03; 1:24:54) [Discussing 3 Recently Published Papers with Michael Levin](https://www.youtube.com/watch?v=KfrEDUv29r0)
+- (2024-01-17; 1:35:08) [New Groundbreaking Research, Anthrobots, Hyper-Embryos](https://www.youtube.com/watch?v=hG6GIzNM0aM) 
+- (2024-01-30; 1:33:58) [The intelligence of life with Michael Levin | Living Mirrors](https://www.youtube.com/watch?v=-pf6poBJ2Bc)
+- (2024-03-23; 1:11:33) [Toward AI-Driven Discovery of Electroceuticals](https://www.youtube.com/watch?v=9pG6V4SagZE)
+- (2024-04-17; 0:42:23) [Rethinking Biology: A Conversation](https://www.youtube.com/watch?v=Lzf0HOfC86c)
+- (2024-06-18; 1:04:55) [Endogenous Bioelectrical Networks: An Interface to Regenerative Medicine](https://www.youtube.com/watch?v=Plamq6cfo9M)
