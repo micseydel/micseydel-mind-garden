@@ -359,6 +359,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:33:15\]  that can be used. One thing we have is this thing we develop called voltage-sensitive fluorescent
 - \[00:33:21\]  dye imaging. And that means that without having to poke the cells with electrodes,
 - \[00:33:26\]  you can get in real time, this is a time lapse of a frog embryo, this is a frog putting its face
+    - ([[bioelectric face]] video by Dany Adams)
 - \[00:33:31\]  together, you can get a map of all the electrical states, and thus you can learn, you can try to
 - \[00:33:36\]  learn to decode what the system is trying to build, what are the computations that they're doing.
 - \[00:33:43\]  This, we call this the electric face. This is a bioelectric map of the face ectoderm long
