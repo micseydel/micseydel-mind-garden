@@ -1,16 +1,19 @@
-> [!info] FYI
-> These are generated with OpenAI Whisper
-> - They have not been hand-corrected (at the time of this writing)
-> - I will integrate any corrections folks share
-> - I can embed screenshots from specific timestamps as well
+> [!info]- FYI
+> These are generated with OpenAI Whisper, feel free to suggest:
+> - corrections
+> - screenshots to embed
+> 
+> I haven't necessarily watched all of them, but I have most.
+
+# Transcriptions
 
 - (2022-04-30; 1:31:21) [[Regeneration, Intelligence in Life and Memory - Dr Michael Levin|Regeneration, Intelligence in Life and Memory]]
 - (2023-04-01; 1:20:06) [[What are Cognitive Light Cones (Michael Levin Interview)|What are Cognitive Light Cones]]
 - (2023-04-03; 1:31:48) [[Michael Levin - Electricity of Life|Electricity of Life]]
 - (2023-05-11; 1:21:27) [[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond|Agency, Attractors, and Observer-Dependent Computation]]
 - (2023-07-03; 1:24:54) [[Discussing 3 Recently Published Papers with Michael Levin|Discussing 3 Recently Published Papers]]
-- (2023-07-31; ==0:08:02==) [[Michael Levin - Can Cells Think|Can Cells Think]] ⭐️
-- [ ] (2023-11-02; 0:57:59) [Growing "Brains" in Artificial Neural Networks](https://www.youtube.com/watch?v=Zquh-J7Hxn8&ab_channel=MichaelLevin%27sAcademicContent)
+- (2023-07-31; ==0:08:02==) [[Michael Levin - Can Cells Think|Can Cells Think?]] ⭐️
+- (2023-11-02; 0:57:59) [[Growing (Brains) in Artificial Neural Networks]]
 - (2024-01-17; 1:35:08) [[New Groundbreaking Research, Anthrobots, Hyper-Embryos]]
 - (2024-01-30; 1:33:58) [[The intelligence of life with Michael Levin|The intelligence of life]]
 - (2024-03-08; 0:56:11) [[Michael Levin - Novel beings novel goals (John Templeton Foundation)|Novel beings novel goals (John Templeton Foundation)]]
@@ -18,10 +21,12 @@
 - (2024-04-17; ==0:42:23==) [[Rethinking Biology]]
 - (2024-04-26; 0:55:02) [[Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you (Michael Levin transcription)|Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you]] ⭐️
 - [ ] (2024-05-08; 1:18:57) [Discussion with Michael Pollan of new ideas on memories and Selves](https://www.youtube.com/watch?v=HQD3hVG8mO0&ab_channel=MichaelLevin%27sAcademicContent)
+    - Discussion with Michael Pollan of new ideas on memories and Selves
+    - 
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]
 - (2024-06-18; 1:04:55) [[Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine (Michael Levin)|Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine]]
 
-# Channels
+## By channel
 
 - [Carlos Farias](https://www.youtube.com/@Carlos.Explains/search?query=michael%20levin)
     - (2023-04-01; 1:20:06) [[What are Cognitive Light Cones (Michael Levin Interview)|What are Cognitive Light Cones]]
