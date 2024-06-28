@@ -277,7 +277,7 @@
 - \[00:10:55\]  Because if you're good at navigating
 - \[00:10:57\]  a particular kind of space,
 - \[00:10:59\]  we can swap some sensors and some effectors
-- \[00:11:01\]  and you can use all the competencies you have
+- \[00:11:01\]  and you can use all the competencies you have ^a3563b
 - \[00:11:05\]  to navigate some other space.
 - \[00:11:07\]  So just for example, hybrids, right?
 - \[00:11:10\]  Hybrids are when you take a brain
@@ -391,7 +391,7 @@
 - \[00:15:21\]  One of which, well, a few things that I think keep coming up
 - \[00:15:26\]  sometimes like a phrase or an idea that's from our
 - \[00:15:30\]  discussions or from listening to you on other podcasts,
-- \[00:15:33\]  you say all intelligence is collective intelligence,
+- \[00:15:33\]  you say all intelligence is collective intelligence, ^c897dc
 - \[00:15:36\]  which I think is really great.
 - \[00:15:37\]  I think the emphasis, a lot of people need to hear that.
 - \[00:15:40\]  The other thing, and I think you just touched on it a bit,
@@ -1726,7 +1726,7 @@
 - \[01:11:40\]  but now they're using this stigmatically,
 - \[01:11:42\]  this outside tool because there's some problem.
 - \[01:11:45\]  So we are all really in that state.
-- \[01:11:48\]  It's just, we're using an internal scratch pad.
+- \[01:11:48\]  It's just, we're using an internal scratch pad. ^190348
 - \[01:11:50\]  You know, right now,
 - \[01:11:52\]  you don't have any access to what happened years ago.
 - \[01:11:55\]  You just have the memories and they're actively rebuilt.
@@ -1779,7 +1779,7 @@
 - \[01:13:35\]  You are reconstructing yourself from these past memories.
 - \[01:13:39\]  And so I think that's a deep kind of philosophical thing
 - \[01:13:43\]  because, you know,
-- \[01:13:44\]  your self isn't some permanent monadic structure
+- \[01:13:44\]  your self isn't some permanent monadic structure ^7b0ccd
 - \[01:13:49\]  that just kind of exists.
 - \[01:13:51\]  It's an active construction.
 - \[01:13:53\]  It's a process.
@@ -1868,7 +1868,7 @@
 - \[01:16:45\]  to be better, to have, you know,
 - \[01:16:46\]  to improve your cognitive, you know,
 - \[01:16:49\]  apparatus and so on.
-- \[01:16:50\]  And the commitment is the last thing,
+- \[01:16:50\]  And the commitment is the last thing, ^dc431f
 - \[01:16:53\]  the bodhisattva vow, which is huge.
 - \[01:16:56\]  It's this commitment.
 - \[01:16:58\]  It's a meta goal.

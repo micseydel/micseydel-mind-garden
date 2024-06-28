@@ -174,7 +174,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:09:14\]  that means that when I am saying that something is intelligent or something is
 - \[00:09:18\]  on the cognitive spectrum,
 - \[00:09:19\]  what I really mean is that there is some degree of utility and I don't believe in
-- \[00:09:22\]  binaries for almost anywhere. So there's some, you know, some, some, um,
+- \[00:09:22\]  binaries for almost anywhere. So there's some, you know, some, some, um, ^515824
 - \[00:09:26\]  degree of utility that you can get with that system by using the tools of
 - \[00:09:31\]  cognitive science, behavioral science and things like that. So,
 - \[00:09:34\]  so when I talk about intelligence and really weird embodiments,
@@ -206,7 +206,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:11:02\]  where the ground truth is. Yeah. It's, it's,
 - \[00:11:06\]  it always ends up being wise to take this kind of situated observer dependent
 - \[00:11:10\]  perspective, I think. Right. And, um,
-- \[00:11:14\]  maybe we can jump into your technological approach to mind everywhere.
+- \[00:11:14\]  maybe we can jump into your technological approach to mind everywhere. ^1ccc57
 - \[00:11:17\]  Cause that's the, that's kind of the core aspect, right.
 - \[00:11:20\]  Of what I'm describing here.
 - \[00:11:22\]  Yeah. Yeah. Yeah. I think, um,
@@ -269,7 +269,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:14:39\]  if you want to build a tower out of dogs,
 - \[00:14:41\]  because they have a high level of intelligence or yeah,
 - \[00:14:44\]  I guess we're talking about intelligence here. Um,
-- \[00:14:46\]  then you move from, from control to persuadability,
+- \[00:14:46\]  then you move from, from control to persuadability, ^b7ab8b
 - \[00:14:49\]  to a kind of relationship with them, whether you're trying to, um,
 - \[00:14:52\]  train them to form a tower. And so that's,
 - \[00:14:56\]  that captures this kind of technological approach that if, if a good,
@@ -304,7 +304,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:16:21\]  It offloads that onto the system. You don't need to know as the, um,
 - \[00:16:26\]  as the one doing the, uh, the, the, the programming in that case. And so, yeah,
 - \[00:16:29\]  I think, I think it's really important to try to, uh,
-- \[00:16:33\]  find the right level of interaction because you don't want to deal with high
+- \[00:16:33\]  find the right level of interaction because you don't want to deal with high ^467dcc
 - \[00:16:37\]  level beings as they, as though they were simple machines, because that,
 - \[00:16:41\]  that leads to huge, um, ethical abscess and also inefficiencies. And,
 - \[00:16:46\]  and again, uh, you don't want to, uh, try to, uh, you know, um,
@@ -364,7 +364,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:19:40\]  because that's equally problematic because again, they didn't do experiments.
 - \[00:19:43\]  And so it, it doesn't really help you if you don't, if, if,
 - \[00:19:46\]  if that belief doesn't give you a protocol for interacting with it,
-- \[00:19:49\]  to change the weather or get it to do whatever, uh,
+- \[00:19:49\]  to change the weather or get it to do whatever, uh, ^fb18b2
 - \[00:19:51\]  then what, you know, what's, what's this model doing for you. Right. And so, um,
 - \[00:19:56\]  the other, the other important thing here is that oftentimes people will take,
 - \[00:20:01\]  uh, claims about, uh, the, this,
@@ -421,7 +421,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:23:04\]  And that has huge implications for, uh, for biomedicine, for example,
 - \[00:23:07\]  for drug resistance and things like that.
 - \[00:23:10\]  Right. And does this take us into, um,
-- \[00:23:12\]  poly computing and observer dependent computation?
+- \[00:23:12\]  poly computing and observer dependent computation? ^bb4e29
 - \[00:23:16\]  Yeah. Yeah. Um, yeah. And the, uh, yes. And the idea that, uh,
 - \[00:23:21\]  one thing that we can do as scientists and,
 - \[00:23:23\]  and that I think evolution is doing is not just changing out the
@@ -796,7 +796,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:44:07\]  have a memory that's still, still stored in these organisms. Right.
 - \[00:44:11\]  Yeah. Uh, well, a couple of things.
 - \[00:44:13\]  One is that there are many different kinds of memory and not all of it is
-- \[00:44:17\]  behavioral memory. So there are physiological memories,
+- \[00:44:17\]  behavioral memory. So there are physiological memories, ^404c50
 - \[00:44:19\]  there are transcriptional memories and so on. And so, uh, one thing to,
 - \[00:44:24\]  I think really emphasize is that, uh, not,
 - \[00:44:28\]  not all memory needs the brain, uh, because,

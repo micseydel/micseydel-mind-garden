@@ -530,7 +530,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:21:38\]  where that agency leads to what you want.
 - \[00:21:41\]  Yeah, the amazing thing about biology
 - \[00:21:43\]  is that your whole body, every level,
-- \[00:21:46\]  seems to be deforming the energy landscape
+- \[00:21:46\]  seems to be deforming the energy landscape ^ae9ab5
 - \[00:21:49\]  for the level below it to take advantage
 - \[00:21:51\]  of their competencies in navigating that landscape,
 - \[00:21:54\]  but to get it to go where you want it to go.
@@ -614,7 +614,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:25:15\]  that are going to happen.
 - \[00:25:15\]  Like how much competency do you have at that?
 - \[00:25:17\]  And so with the framework that I'm developing,
-- \[00:25:20\]  it's called TAME, Technological Approach to Mind Everywhere.
+- \[00:25:20\]  it's called TAME, Technological Approach to Mind Everywhere. ^7aaef3
 - \[00:25:24\]  This framework, the most basic thing about it says,
 - \[00:25:27\]  the any kind of intelligence claim,
 - \[00:25:30\]  two things about intelligence claims.
@@ -681,7 +681,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:27:52\]  You can have interesting learning capacities.
 - \[00:27:55\]  You can be able to use the tools that you have
 - \[00:27:59\]  in novel and creative ways.
-- \[00:28:01\]  You can have delayed gratification,
+- \[00:28:01\]  You can have delayed gratification, ^a6c468
 - \[00:28:04\]  the capability of a context, a sensitive attention.
 - \[00:28:08\]  You can have all of these things
 - \[00:28:09\]  without having that kind of metacognitive self-awareness.

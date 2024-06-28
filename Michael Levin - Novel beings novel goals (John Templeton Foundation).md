@@ -949,13 +949,13 @@
 - \[00:53:44\]  Everything that Darwin meant when he said endless forms, most beautiful is a tiny corner
 - \[00:53:49\]  of this state space of possible bodies and minds, which is going to be here with us in
 - \[00:53:54\]  the coming decades.
-- \[00:53:55\]  And that means that we have to drop some old untenable categories, these binary categories
+- \[00:53:55\]  And that means that we have to drop some old untenable categories, these binary categories ^29ac76
 - \[00:54:02\]  of man, machine, all this stuff.
 - \[00:54:05\]  These are no good.
 - \[00:54:06\]  We're going to have to get beyond questions of what do you look like and how did you get
 - \[00:54:09\]  here?
 - \[00:54:10\]  How did you get here?
-- \[00:54:11\]  How did you evolve versus engineer in order to understand how to ethically relate to others?
+- \[00:54:11\]  How did you evolve versus engineer in order to understand how to ethically relate to others? ^edbab8
 - \[00:54:15\]  We are going to have to work out ways to relate to minds and bodies that are nowhere on the
 - \[00:54:20\]  tree of life with us that are not like us and come up with much better categories than
 - \[00:54:25\]  what we've been working with before.
@@ -963,7 +963,7 @@
 - \[00:54:32\]  them, and they are so easy to distinguish from the kinds of things that we have been
 - \[00:54:37\]  dealing with in the human world, but they are not the difficult case.
 - \[00:54:42\]  They are just the most easy kind of first part.
-- \[00:54:44\]  We are going to have all sorts of hybrid beings that are part evolved, part designed and part
+- \[00:54:44\]  We are going to have all sorts of hybrid beings that are part evolved, part designed and part ^c0c90b
 - \[00:54:51\]  software.
 - \[00:54:52\]  So, okay, I'm going to stop here and just tell you that, summarize what I've said.
 - \[00:54:57\]  Intelligence is everywhere.
