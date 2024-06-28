@@ -238,8 +238,8 @@ tags:
 - \[00:23:17\]  getting the same amount of influence. So Angela, in the paper, there's the term
 - \[00:23:22\]  inter embryonic communication and inter embryonic interaction. So what would be
 - \[00:23:27\]  the difference between those two? Yeah, so I'm thinking inter embryo
-- \[00:23:32\]  communication is, in our paper, we talk about like a potential molecule calcium and ATP
-- \[00:23:38\]  that can be used as a communicator. So it's almost like a little message that's being sent between
+- \[00:23:32\]  communication is, in our paper, we talk about like a potential molecule calcium and ATP ^7a0d7a
+- \[00:23:38\]  that can be used as a communicator. So it's almost like a little message that's being sent between ^8c3580
 - \[00:23:43\]  embryos. inter embryo communication, inter embryo interactions is when these embryos are able to
 - \[00:23:51\]  grow together. So now, if you have an N of one, you may still be sending out messages, but you
 - \[00:23:56\]  have no other embryos to interact with. Versus in these larger groups, we have both the message
