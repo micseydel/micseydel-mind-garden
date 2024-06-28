@@ -2,6 +2,7 @@
 > These are generated with OpenAI Whisper
 > - They have not been hand-corrected
 > - I will integrate any corrections folks share
+> - I can embed screenshots from specific timestamps as well
 
 - (2023-04-03; 1:31:48) [[Michael Levin - Electricity of Life]]
 - (2023-05-11; 1:21:27) [[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond|Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond]]

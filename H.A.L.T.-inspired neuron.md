@@ -1,0 +1,7 @@
+- H - audio notes tracking last-ate time
+- A - audio notes checking for word-use
+- L - the simplest code
+	- ![[Pasted image 20240622154736.png|320]]
+- Tired - Fitbit sleep
+- Extras
+	- CO2 - capture via Aranet4, push notification when [>1000PPM](https://www.hsph.harvard.edu/healthybuildings/2021/09/09/impacts-of-indoor-air-quality-on-cognitive-function/)
