@@ -4,6 +4,7 @@ tags:
 ---
 
 - ![](https://www.youtube.com/watch?v=whZRH7IGAq0)
+    - (2023-05-11; 1:21:27)
 - \[00:00:00\]  So what Josh and I propose in this paper is that one of the things evolution does is not just change the hardware,
 - \[00:00:07\]  but it also provides new observers and new capabilities that extract more benefit from the exact same piece of hardware activity
 - \[00:00:19\]  by viewing them in different ways. It's the perspective that can change.
