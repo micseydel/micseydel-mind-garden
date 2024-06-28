@@ -496,7 +496,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:44:18\]  that that's, that that information did not originate internally, that that came from outside.
 - \[00:44:23\]  And with information that comes from outside, you have to be very cautious with it because that
 - \[00:44:28\]  could be a parasite trying to hack you. It could be somebody else trying to, you know, so, so
-- \[00:44:34\]  basically once you know that it comes from the outside, you are free to ignore it. You are free
+- \[00:44:34\]  basically once you know that it comes from the outside, you are free to ignore it. You are free ^089504
 - \[00:44:38\]  to respond to it. You may, you may let it alter your model of what's going on in the world. In
 - \[00:44:44\]  other words, you may learn from it or you may not. You got all those options. But one thing you know
 - \[00:44:49\]  very clearly is which information is yours. That's all the stuff inside of you and what's coming from
@@ -521,7 +521,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:46:38\]  and tensions that are hard for individual cells to have on that scale. And you can, so that
 - \[00:46:44\]  mind meld is another way to scale to a higher level system. Because as long as the individuals
 - \[00:46:51\]  can maintain I'm me and you're you, then there's capacity for cheating and for defections in the
-- \[00:46:57\]  game theory sense and all kinds of calculus about, well, what's good for me versus what's good for
+- \[00:46:57\]  game theory sense and all kinds of calculus about, well, what's good for me versus what's good for ^b512f9
 - \[00:47:02\]  the system. Once you have this kind of mind meld, all of that largely goes away. You can't defect ^934c23
 - \[00:47:08\]  against the cell that's gap junction to you, but you can't poison it because it'll come back to
 - \[00:47:12\]  you immediately. It scales up cooperation, it scales up computational ability, and it scales
@@ -647,7 +647,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:58:50\]  grows and shrinks, it grows during development and grows during evolutionary,
 - \[00:58:54\]  you know, the course of evolution, and then it shrinks during cancer. And that's really
 - \[00:59:01\]  important to think about that these cancer cells are not any more selfish than normal cells,
-- \[00:59:06\]  you know, in a lot of game theory, you treat the cells as more selfish, not more selfish,
+- \[00:59:06\]  you know, in a lot of game theory, you treat the cells as more selfish, not more selfish, ^32a999
 - \[00:59:09\]  they're exactly as selfish as every cell, they just have a tiny little self. So all the other
 - \[00:59:13\]  cells are also being incredibly selfish, but their self is huge. And so they're all working towards
 - \[00:59:18\]  this common purpose that we see of as an organ, or in fact, the whole organism. But it's not because
@@ -832,7 +832,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[01:15:22\]  but, but, but I am fortunate enough to be working with a set of scientists interested in certain
 - \[01:15:28\]  ideas in the Buddhist tradition. And we have a paper out now, and we've got a couple of other
 - \[01:15:34\]  papers in the works on the kind of conciliants of this cognitive light cone idea, with the idea of
-- \[01:15:43\]  enlarging one's ability to feel compassion, and to active compassion. I don't mean feeling emotions
+- \[01:15:43\]  enlarging one's ability to feel compassion, and to active compassion. I don't mean feeling emotions ^60af8f
 - \[01:15:50\]  about things. I mean, actively, you know, working towards the welfare of all beings. And so,
 - \[01:15:54\]  so to me, this is, this is really fun. There's some good, there's some good diagrams in there
 - \[01:15:59\]  that I think you'll like. There's some, there's some really fundamentally important aspects here,
