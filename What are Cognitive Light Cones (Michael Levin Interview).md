@@ -850,7 +850,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[01:17:07\]  and, yeah, you know, we don't have time for all that. But there is a whole paper on it. And there's
 - \[01:17:11\]  more, there's more coming. Oh, really? What's the paper called? I will give me a second. I'll turn
 - \[01:17:18\]  it here. I just love to link to it. And I want to read it myself, of course, too. And the TAME paper
-- \[01:17:25\]  as well. Yeah, so it's called, so it's called biology, Buddhism, and AI, care as the driver of
+- \[01:17:25\]  as well. Yeah, so it's called, so it's called biology, Buddhism, and AI, care as the driver of ^49828c
 - \[01:17:32\]  intelligence. And it's this idea that care and compassion, and the intelligence are mutually
 - \[01:17:37\]  reinforcing feedback loop, so that as you as one grows, the other should grow too. And that's,
 - \[01:17:42\]  that's anyway, so so I'm going to, I'm putting it on the on the chat here. So you can.

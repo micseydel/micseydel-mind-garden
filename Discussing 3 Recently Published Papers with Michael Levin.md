@@ -1872,7 +1872,7 @@
 - \[01:16:53\]  the bodhisattva vow, which is huge.
 - \[01:16:56\]  It's this commitment.
 - \[01:16:58\]  It's a meta goal.
-- \[01:16:59\]  It's the commitment to enlarge your cognitive apparatus,
+- \[01:16:59\]  It's the commitment to enlarge your cognitive apparatus, ^c56f23
 - \[01:17:02\]  to enable bigger goals,
 - \[01:17:03\]  to enable you to pursue bigger goals
 - \[01:17:05\]  with more compassion facing outwards.
