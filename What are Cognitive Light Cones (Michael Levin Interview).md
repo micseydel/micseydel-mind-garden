@@ -307,7 +307,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:27:35\]  surprise and infotaxis. And I was somewhat familiar with surprise before that the concept
 - \[00:27:43\]  of surprise from, say, information theory. Infotaxis was a little bit, was a little bit
 - \[00:27:48\]  newer to me, but one of the things I didn't realize was this concept of likening
-- \[00:27:56\]  these agents. They want to minimize their surprise level, which is a concept from like the free energy
+- \[00:27:56\]  these agents. They want to minimize their surprise level, which is a concept from like the free energy ^a2b478
 - \[00:28:01\]  principle. Well, it's a bunch of other places, but I mean, you've of course published with,
 - \[00:28:06\]  with, with Carl Friston as well. I'm talking to him next month, which will be great. I can't wait
 - \[00:28:10\]  to talk to him about that stuff, but I didn't equate it to a stress. So like stress and surprise,
@@ -391,7 +391,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:34:56\]  back to where they're going is stress. And so what you need for this in that system,
 - \[00:35:00\]  what you need for this is for every cell to, to, to, to be able to be stressed by and to
 - \[00:35:09\]  spread its stress to other neighbors in, in response to conditions that are really
-- \[00:35:17\]  failures of alignment at a larger scale. So for example, so just to, just to give you an example,
+- \[00:35:17\]  failures of alignment at a larger scale. So for example, so just to, just to give you an example, ^4dca15
 - \[00:35:21\]  if, if, if, if we were to take a, an eye and stick it on the tail of a tadpole, right. And, and sort
 - \[00:35:29\]  of, you know, transplanted, you could have a situation where no individual cell is damaged.
 - \[00:35:34\]  Nobody's injured, nobody's poisoned, there's no DNA damage. There's no reason for any individual
@@ -433,10 +433,10 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:38:39\]  So, so what you, what you've got here is a system where kind of like a, like a cooling magnet,
 - \[00:38:44\]  right? Where you have all these domains. And as you cool the thing, they try to find a globally
 - \[00:38:48\]  acceptable configuration where everybody, where the total amount of stress, meaning geometric
-- \[00:38:55\]  frustration, right? The alignment is, is the, or the free energy is another way to put it,
+- \[00:38:55\]  frustration, right? The alignment is, is the, or the free energy is another way to put it, ^091562
 - \[00:38:59\]  is, is as optimized as possible. But what will happen is that sometimes it's impossible for
 - \[00:39:04\]  everybody to be happy, right? You can, you can set up situations where the geometric frustration is
-- \[00:39:08\]  such that you always have some kind of lack of alignment somewhere. So, so the other cells,
+- \[00:39:08\]  such that you always have some kind of lack of alignment somewhere. So, so the other cells, ^fac8d5
 - \[00:39:16\]  so basically the temperature of that system, temperature, not physically, but in terms of free
 - \[00:39:20\]  energy, the temperature of that system is low. The other cells are happy. They're not going
 - \[00:39:24\]  anywhere. The barrier to get them to move is, is very high because if they move, they become,
@@ -463,7 +463,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:41:11\]  them. And again, I realized this is, this is a, an example that's very kind of physical, but,
 - \[00:41:16\]  but the same idea in all sorts of all sorts of spaces by what you're doing by spreading that
 - \[00:41:22\]  stress specifically in a way that looks like all of their, all of the other agents stress is you
-- \[00:41:31\]  are making your problems be their problems. It's, it's a way to, it's a way to get alignment. It's
+- \[00:41:31\]  are making your problems be their problems. It's, it's a way to, it's a way to get alignment. It's ^2ed648
 - \[00:41:37\]  a way to get coordination towards a common goal. It's a way to get this kind of unification, this
 - \[00:41:44\]  kind of unity that's needed for a com for a, for a complex multi-component system to achieve larger
 - \[00:41:50\]  goals. So, so that's, that's one thing, the spreading of stress to, to, to get, and, and,
@@ -522,7 +522,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:46:44\]  mind meld is another way to scale to a higher level system. Because as long as the individuals
 - \[00:46:51\]  can maintain I'm me and you're you, then there's capacity for cheating and for defections in the
 - \[00:46:57\]  game theory sense and all kinds of calculus about, well, what's good for me versus what's good for
-- \[00:47:02\]  the system. Once you have this kind of mind meld, all of that largely goes away. You can't defect
+- \[00:47:02\]  the system. Once you have this kind of mind meld, all of that largely goes away. You can't defect ^934c23
 - \[00:47:08\]  against the cell that's gap junction to you, but you can't poison it because it'll come back to
 - \[00:47:12\]  you immediately. It scales up cooperation, it scales up computational ability, and it scales
 - \[00:47:20\]  up the goals that the system is able to pursue. Now, I'll just stop after one more point,
