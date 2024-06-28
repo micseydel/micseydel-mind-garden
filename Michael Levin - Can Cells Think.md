@@ -1,4 +1,5 @@
 - ![](https://www.youtube.com/watch?v=0a3xg4M9Oa8)
+    - (2023-07-31; 0:08:02)
 - \[00:00:00\]  People tend to think of intelligence as being of two kinds.
 - \[00:00:09\]  There is the quote-unquote real intelligence, which is what we are supposed to have.
 - \[00:00:13\]  And then there's this idea of a collective intelligence.

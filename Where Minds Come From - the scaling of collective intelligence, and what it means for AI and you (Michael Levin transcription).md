@@ -6,6 +6,7 @@ updated: 2024-06-27T09:02:21-07:00
 ---
 
 - ![](https://www.youtube.com/watch?v=44W9Mw4AGT8)
+    - (2024-04-26; 0:55:02)
 - \[00:00:00\]  So thanks everybody for being here and letting me share some ideas with you.
 - \[00:00:05\]  If anybody's interested in the details of it, you can track them down at this website.
 - \[00:00:10\]  Here's all the papers, the software, the data sets, everything.

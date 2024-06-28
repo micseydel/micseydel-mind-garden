@@ -3,6 +3,7 @@ tags:
 - transcription
 ---
 - ![](https://www.youtube.com/watch?v=c8iFtaltX-s)
+    - (2024-06-14; 2:18:44)
 - \[00:00:00\]  The hardware does not define you.
 - \[00:00:01\]  I get lots of emails from people who say,
 - \[00:00:04\]  I've read your papers, I understand I'm a collective

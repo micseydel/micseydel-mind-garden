@@ -1,5 +1,6 @@
 
 - ![](https://www.youtube.com/watch?v=AI8M6ikI9wI&ab_channel=JohnTempletonFoundation)
+    - (2024-03-08; 0:56:11)
 - \[00:00:00\]  All right, I think I'm going to get us started.
 - \[00:00:02\]  I want to welcome everyone that's there in the cafe and who's online to the second in
 - \[00:00:08\]  our 2024 lecture series.
