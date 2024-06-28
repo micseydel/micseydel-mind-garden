@@ -1,0 +1,1461 @@
+---
+tags:
+  - transcription
+created: 2024-06-28T16:34:18-07:00
+updated: 2024-06-28T16:34:28-07:00
+---
+- ![Discussion with Michael Pollan of new ideas on memories and Selves](https://www.youtube.com/watch?v=HQD3hVG8mO0&ab_channel=MichaelLevin%27sAcademicContent)
+    - (2024-05-08; 1:18:57)
+- \[00:00:00\]  Great.
+- \[00:00:01\]  So this is Mike Levin on Wednesday, May 8th.
+- \[00:00:09\]  From home, it looks like?
+- \[00:00:10\]  I'm at home today.
+- \[00:00:11\]  Yeah.
+- \[00:00:12\]  Yeah, me too.
+- \[00:00:13\]  Me too.
+- \[00:00:14\]  Well, I thought this selves piece was absolutely fascinating.
+- \[00:00:17\]  Just fireworks of ideas coming off it.
+- \[00:00:21\]  Just very rich.
+- \[00:00:23\]  So I'd love to ask you a few questions about it, just to unpack it, and then we can make
+- \[00:00:27\]  it from there.
+- \[00:00:28\]  Sure.
+- \[00:00:29\]  So first of all, connect this thinking and this piece to your lab work.
+- \[00:00:35\]  What brought you to these thoughts?
+- \[00:00:38\]  And what were you seeing that made you want to answer the questions you answer in this
+- \[00:00:42\]  piece?
+- \[00:00:43\]  Yeah, great question.
+- \[00:00:44\]  Let's see, a couple of things.
+- \[00:00:46\]  First, I am really interested in information and how information is used by different components
+- \[00:00:54\]  of the living body.
+- \[00:00:56\]  So Josh Bongard and I have been developing this notion of polycomputing, which is this
+- \[00:01:01\]  idea that basically every subcomponent is hacking every other subcomponent in the sense
+- \[00:01:06\]  that it doesn't know or care what the original intent of the message was.
+- \[00:01:09\]  It's going to interpret it as best as it can, however it can.
+- \[00:01:12\]  When you say it, are you talking about organisms?
+- \[00:01:15\]  What are you talking about?
+- \[00:01:17\]  Well, every level.
+- \[00:01:18\]  So cells, subcellular protein networks, pathways, organs, tissues, ant hills, everything.
+- \[00:01:26\]  I think this is a fundamental feature of biology that it's a hacker in that sense that you
+- \[00:01:31\]  have no allegiance to how something was intended to be used.
+- \[00:01:33\]  You're going to do the best you can in interpreting.
+- \[00:01:37\]  And that comes from working with Josh Bongard with his discoveries that the exact same physical
+- \[00:01:44\]  mechanism can be seen by one observer to be computing one function and another observer
+- \[00:01:48\]  to be computing a different function.
+- \[00:01:50\]  So that's right.
+- \[00:01:52\]  When you ask, what is this physical process computing?
+- \[00:01:55\]  Somebody might say, well, I know what it is.
+- \[00:01:56\]  I wrote the algorithm so I can tell you what it is.
+- \[00:01:59\]  But in biology, nobody cares who wrote the algorithm.
+- \[00:02:02\]  Well, I don't care what you say.
+- \[00:02:05\]  I'm interpreting your algorithm, your novel, your message in my own way, whatever.
+- \[00:02:09\]  It doesn't matter to me what you think you meant by it.
+- \[00:02:13\]  Whatever I get out of it is what I get out of it.
+- \[00:02:16\]  Anyway, so it starts with that and attempts to understand how different biological systems
+- \[00:02:24\]  interpret information.
+- \[00:02:25\]  And I was thinking, OK, so that's one thing.
+- \[00:02:29\]  The second thing is I really think that there is a lot of important work to be done to break
+- \[00:02:35\]  binary categories that we naively think exist, but actually are just hiding a lot of limits
+- \[00:02:42\]  on our imagination.
+- \[00:02:43\]  And so this notion of data versus the machine that operates on that data and this idea that
+- \[00:02:50\]  information is passive and then you have this active cognitive being, whatever it is, that's
+- \[00:02:56\]  going to operate on that data, remember it, store it, change it, whatever.
+- \[00:03:00\]  And so I was thinking about ways that we could break that and really make that into a continuum.
+- \[00:03:07\]  And I was thinking about the whole caterpillar butterfly thing.
+- \[00:03:10\]  I thought about this for many, many years.
+- \[00:03:15\]  And originally, the thing you might think is cool about it is the question of where's
+- \[00:03:19\]  the information because the brain gets mostly refactored.
+- \[00:03:22\]  But then it hit me.
+- \[00:03:23\]  I was taking a walk with my dad and I was thinking about this and it hit me that that
+- \[00:03:29\]  isn't the most interesting part here.
+- \[00:03:30\]  What's interesting is that the actual details of the information that the caterpillar learns
+- \[00:03:37\]  are actually quite useless to the butterfly because it's going to have to remap all of
+- \[00:03:41\]  it onto a completely different body with different priorities.
+- \[00:03:44\]  It doesn't care about leaves anymore.
+- \[00:03:46\]  It lives in three-dimensional world.
+- \[00:03:47\]  All of that has to get remapped.
+- \[00:03:49\]  And so immediately I realized that what's going on here is what's preserved across lifetimes
+- \[00:03:56\]  from that caterpillar to that butterfly is not the fidelity of the information.
+- \[00:04:01\]  It's a kind of inferred salience.
+- \[00:04:04\]  What does this mean to me?
+- \[00:04:06\]  And that what's actually passed on physically, some sort of engram.
+- \[00:04:09\]  We don't know what it is.
+- \[00:04:10\]  It could be an RNA like Glansman says.
+- \[00:04:12\]  What's an engram?
+- \[00:04:13\]  Would you define that term for me?
+- \[00:04:14\]  Yeah, an engram is just a physical embodiment of a memory.
+- \[00:04:18\]  So it's anything in your brain or body that stores information.
+- \[00:04:23\]  And all that means is that there is some observer later on, meaning a cell, a tissue, the whole
+- \[00:04:29\]  animal or a scientist or somebody else who's going to then look at that physical object
+- \[00:04:34\]  and say, oh, look, I know what this means.
+- \[00:04:37\]  This is and they're going to interpret this as a memory.
+- \[00:04:40\]  And so, you know, and DNA and engram or not?
+- \[00:04:44\]  Yeah, I think so.
+- \[00:04:45\]  Yeah.
+- \[00:04:46\]  Yeah.
+- \[00:04:47\]  Yeah.
+- \[00:04:48\]  I think so.
+- \[00:04:49\]  But now again, that requires a real shift.
+- \[00:04:50\]  I mean, I think most biologists would say no, but I think it is because I think that
+- \[00:04:55\]  all memories are just messages from your past self.
+- \[00:04:58\]  And that what's happening with DNA is that previous, basically there's this giant lineage
+- \[00:05:04\]  agent that's the scale of an evolutionary lineage.
+- \[00:05:07\]  And the DNA are its engrams where that information is being passed on the way that any memory
+- \[00:05:12\]  would and much like these other memories, it's up for interpretation, which is why you
+- \[00:05:17\]  have this incredible flexibility of forms.
+- \[00:05:20\]  Yeah, you've got the same DNA, but if you're a salamander and I change the number of cells
+- \[00:05:24\]  or the size of cells or, you know, do all this other crazy stuff, you can still make
+- \[00:05:27\]  things work because you don't interpret, you take it seriously, but not literally that
+- \[00:05:31\]  information.
+- \[00:05:32\]  Right.
+- \[00:05:33\]  So, right.
+- \[00:05:34\]  So, yeah.
+- \[00:05:35\]  So, so, so going back to the butterfly.
+- \[00:05:37\]  Yes.
+- \[00:05:38\]  Yeah.
+- \[00:05:39\]  Yeah.
+- \[00:05:40\]  So, so the engrams, right, that, that, that are left there are to be interpreted.
+- \[00:05:46\]  And that leads to this, this question of, and again, the reason, so get back to your
+- \[00:05:52\]  original question, what, what does it mean for our lab work?
+- \[00:05:54\]  Because, because what we would like to do is communicate with effectively communicate
+- \[00:05:59\]  with the different parts of the biology.
+- \[00:06:00\]  I mean, what we do is we communicate with cells, tissues, and organs for regenerative
+- \[00:06:04\]  medicine applications.
+- \[00:06:05\]  Some people are going to want to communicate with ecosystems.
+- \[00:06:08\]  Somebody else is going to want to communicate with, you know, social structures or, or financial
+- \[00:06:13\]  structures on the way.
+- \[00:06:14\]  And so, so we're interested in asking how does, you know, by, by understanding how does
+- \[00:06:20\]  a persistent agent, a self maintain itself over time, you can learn something about how
+- \[00:06:26\]  do we communicate with it.
+- \[00:06:28\]  So we would like to rewrite those memories and we would like to say if there's a birth
+- \[00:06:31\]  defect or there's a, you know, some kind of traumatic injury or something, and we want
+- \[00:06:36\]  the cells to build something else, we really need to understand how these memories are
+- \[00:06:40\]  interpreted.
+- \[00:06:41\]  So that's why, yeah, that's, that's, that's why this, this is of relevance to us.
+- \[00:06:44\]  So in the butterfly case, would you say there is a self that's continuous from, from caterpillar
+- \[00:06:51\]  to butterfly?
+- \[00:06:53\]  So here's what I think we ought to do with this.
+- \[00:06:55\]  And this is by no means a new, a new idea.
+- \[00:06:57\]  This is, this is kind of just process philosophy and many made, made more practical in many
+- \[00:07:02\]  ways.
+- \[00:07:03\]  You know, there's a, there's an old paradox and I'm trying to figure out who first said
+- \[00:07:07\]  it.
+- \[00:07:08\]  I thought it was Bateson, but I could be wrong.
+- \[00:07:09\]  But, but somebody had this paradox that said, if a species fails to change, then it will
+- \[00:07:14\]  no doubt eventually go extinct.
+- \[00:07:16\]  If it does change, then again, it's not the same species.
+- \[00:07:19\]  And so again, it's gone.
+- \[00:07:20\]  So what do you do?
+- \[00:07:21\]  What do you do?
+- \[00:07:22\]  What's the right, what can you do?
+- \[00:07:23\]  That's the paradox.
+- \[00:07:24\]  And that same paradox is, it's, it's, it's, it's the same thing with, with us, because
+- \[00:07:30\]  in a certain sense, if you, if you insist on a definition of the self, that is a permanent
+- \[00:07:34\]  structure, it's a thing, then you've got the same paradox, because if I mature, if I learn,
+- \[00:07:39\]  if I expand, if I, you know, any of those things, I'm no longer me.
+- \[00:07:43\]  And that's scary.
+- \[00:07:44\]  And at some point, you know, is the child that you once were still here?
+- \[00:07:47\]  I mean, in many ways, no, right.
+- \[00:07:49\]  So that's a, that's a problem.
+- \[00:07:50\]  But I think, I think the answer both on the personal case and the evolutionary case is
+- \[00:07:56\]  that what we need to do is define the self as a continuous construction of sensemaking.
+- \[00:08:01\]  So it's a process.
+- \[00:08:02\]  It's not a single thing.
+- \[00:08:03\]  It's a, so, so that part is a new, plenty, plenty of people have said that, but, but I
+- \[00:08:07\]  think the new thing is to understand exactly what it's doing.
+- \[00:08:10\]  What I think it's doing is constantly trying to make sense of its own memories.
+- \[00:08:14\]  So every, and I don't know how, what, 300 milliseconds out in, you know, in a human,
+- \[00:08:18\]  I don't know what it, what it would be exactly, but you don't have access to your past, which
+- \[00:08:22\]  you have access to is the young grams left by your passion of the messages from your
+- \[00:08:25\]  past self.
+- \[00:08:26\]  So this constant process of trying to make sense of what do my, what do these chemical
+- \[00:08:32\]  messengers mean?
+- \[00:08:33\]  And I don't know if it's part of the RNA or it's part of the, you know, whatever synaptic
+- \[00:08:36\]  structures, whatever it's going to be.
+- \[00:08:38\]  What do they mean?
+- \[00:08:39\]  Can I, can I cobble together a coherent story of myself, my past, my environment and be
+- \[00:08:45\]  creative about it?
+- \[00:08:46\]  The, the, the, the thing, the, the other thing that hit me, that's I think really cool about
+- \[00:08:49\]  this is that and we can talk later about this, this bow tie business, but, but in any case,
+- \[00:08:56\]  what's happening is you have, you have a bunch of experiences and you don't memorize the
+- \[00:09:01\]  details.
+- \[00:09:02\]  You have to squeeze them down.
+- \[00:09:03\]  You have to compress them into some sort of a inference, a generative, you know, a model
+- \[00:09:06\]  that's of, of everything that happened.
+- \[00:09:09\]  Right.
+- \[00:09:10\]  So when you, when it comes time to, to interpret this thing, to recall the memory, because,
+- \[00:09:16\]  because it's compressed, you have to sort of reinflate it and you have to make it make
+- \[00:09:20\]  sense for your new environment.
+- \[00:09:22\]  Maybe you're physically, you've changed or whatever you have to, you have to reinflate
+- \[00:09:25\]  it.
+- \[00:09:26\]  But the thing is that good compression always looks like randomness.
+- \[00:09:29\]  You know, this is something that the SETI people point out that, that a really advanced
+- \[00:09:33\]  signal is going to look maximally random because, because when you compress lots of particulars
+- \[00:09:39\]  into a general rule, you, the whole point of compression is to throw out all the correlations,
+- \[00:09:44\]  anything that's correlated, you can get rid of it because you can, you know, you can compress
+- \[00:09:47\]  it out.
+- \[00:09:48\]  But once you've done all of that, what you have looks really random.
+- \[00:09:52\]  And so that means that on the interpretation end, when you look at these molecules or synaptic
+- \[00:09:57\]  structures or whatever it is, in order to figure out what they mean, you can't deduce
+- \[00:10:03\]  it in a deductive algorithm because the information isn't there.
+- \[00:10:06\]  It's been, it's been stripped off.
+- \[00:10:07\]  You have to be creative.
+- \[00:10:08\]  It's, it's more, it's more creativity and you know, maybe what people call intuition,
+- \[00:10:14\]  I don't know, but it's, but it's much more of a, you, you have to bring something to
+- \[00:10:17\]  it.
+- \[00:10:18\]  You can't just read exactly what it says because it's sparse.
+- \[00:10:21\]  There's not, there's very little there.
+- \[00:10:23\]  Why?
+- \[00:10:24\]  Now tell me exactly why do you have to compress?
+- \[00:10:27\]  You have to compress.
+- \[00:10:28\]  Is it a bandwidth question or?
+- \[00:10:29\]  Well, because, because if you don't compress, all learning is about compression because,
+- \[00:10:35\]  because if you don't compress, then what you've done is what the, what the machine science,
+- \[00:10:39\]  machine learning folks call over-training.
+- \[00:10:43\]  You've memorized a bunch of particulars.
+- \[00:10:45\]  And if, and if you're a very simple organism in a very simplified environment, that might
+- \[00:10:49\]  even be okay.
+- \[00:10:52\]  But normally the whole point of learning is you learn a rule.
+- \[00:10:55\]  You don't remember there were these pixels on my retina, then there were those pixels
+- \[00:10:59\]  on my retina.
+- \[00:11:00\]  You don't remember that.
+- \[00:11:01\]  What you remember is this general thing leads to this other general thing, right?
+- \[00:11:05\]  You remember these, these connections.
+- \[00:11:06\]  So you're abstracting.
+- \[00:11:09\]  Exactly.
+- \[00:11:10\]  That's what it is.
+- \[00:11:11\]  It's generalization and abstraction.
+- \[00:11:12\]  That's exactly.
+- \[00:11:13\]  And that seems to me what's happened in the caterpillar butterfly case, right?
+- \[00:11:15\]  I mean, so in the experiment that you described, it wasn't, I realized it wasn't yours though.
+- \[00:11:20\]  It was somebody else's experiment.
+- \[00:11:21\]  Yeah, yeah, yeah.
+- \[00:11:22\]  It's not, it's not my experiment.
+- \[00:11:23\]  It was done, it was first done in the seventies by a bunch of Russian groups who did larvae
+- \[00:11:29\]  to beetle and things like that.
+- \[00:11:30\]  And then it was done by Doug Blackiston, who is actually a staff scientist in my center,
+- \[00:11:35\]  but he did this work when he was younger.
+- \[00:11:37\]  And yeah, he did it with moth, caterpillar to moths.
+- \[00:11:40\]  And he did it, there was some training, some operant conditioning going on, right?
+- \[00:11:44\]  To associate food with a certain color.
+- \[00:11:48\]  So the abstraction there, or the result of the compression was concept food, right?
+- \[00:11:53\]  Rather than specific leaf or nectar.
+- \[00:11:56\]  Well, it's two things, right?
+- \[00:11:57\]  It's two, it's actually multiple things because A, it's yes, we're not remembering leaves
+- \[00:12:01\]  because butterfly doesn't care about leaves, but also what do you do?
+- \[00:12:06\]  Because the caterpillar is a soft body creature and the way you move a soft body, you don't
+- \[00:12:12\]  have any hard elements to push on.
+- \[00:12:13\]  So you can't do robotics the same way you can't do controlling the same way.
+- \[00:12:16\]  So there's a certain set of muscular motions that you need to do to make your way over
+- \[00:12:21\]  to where the leaves are.
+- \[00:12:23\]  That isn't going to help the butterfly, the butterfly doesn't move like that.
+- \[00:12:25\]  It's got a completely different architecture.
+- \[00:12:28\]  And so the abstraction there is from leaves to food, or maybe even, we don't know, it
+- \[00:12:35\]  might even just be to pleasure or something, just positive affect.
+- \[00:12:44\]  But also how do we make use of that associative learning that this color leads to food or
+- \[00:12:49\]  to pleasure or whatever?
+- \[00:12:52\]  How do we remap that on a completely different controller?
+- \[00:12:55\]  And you see this even in vertebrates, and actually this was Doug's work too, is we can
+- \[00:13:00\]  make tadpoles with eyes on their tails and they can see perfectly well.
+- \[00:13:05\]  And so it's like, isn't that amazing that with no extra evolutionary cycles, no adaptation
+- \[00:13:10\]  out of the box, this thing that for millions of years had the exact, the brain could rely
+- \[00:13:15\]  on getting connection from the visual system into the optic tectum and all that.
+- \[00:13:19\]  Suddenly it's on your tail, no problem.
+- \[00:13:20\]  It connects to the spinal cord and even connect to the brain.
+- \[00:13:23\]  It makes it work.
+- \[00:13:25\]  So what's happened there, do you think?
+- \[00:13:26\]  How do you think that what's been remapped, what's been remembered and forgotten?
+- \[00:13:31\]  I think that all of these, and there's tons of these examples that I go through in various
+- \[00:13:35\]  papers is the reason that life is so tolerant to these crazy kind of changes is that it
+- \[00:13:43\]  fundamentally assumes the material is unreliable.
+- \[00:13:49\]  In other words, unlike all of our computer technology.
+- \[00:13:52\]  The information?
+- \[00:13:53\]  The substrate.
+- \[00:13:54\]  It assumes that the substrate is unreliable because look, this is how we build our computer
+- \[00:13:59\]  technology.
+- \[00:14:00\]  You make the bottom layer as absolutely rock solid as you possibly can so that all of the
+- \[00:14:05\]  stuff on top of it can assume that everything is going to go well at the bottom.
+- \[00:14:08\]  When you write code, you don't think your transistors are going to burn out.
+- \[00:14:12\]  You don't worry about that.
+- \[00:14:14\]  So the goal is to keep the information from changing.
+- \[00:14:18\]  And this is why actually that whole business of these microchips, right?
+- \[00:14:22\]  How small can you make a microchip?
+- \[00:14:24\]  It's because you don't want the bits of floating when they get too close to each other, they
+- \[00:14:27\]  start to fluctuate.
+- \[00:14:28\]  The quantum effects start to fluctuate.
+- \[00:14:30\]  You don't want that.
+- \[00:14:31\]  You want all the bits to be exactly what they were before.
+- \[00:14:33\]  You want fidelity of the information.
+- \[00:14:35\]  Biology can't operate that way because everything is going to change.
+- \[00:14:39\]  So on a small timescale, your proteins are going to degrade, your cells are going to
+- \[00:14:43\]  die and be replaced.
+- \[00:14:44\]  On a larger scale, you're going to be mutated.
+- \[00:14:46\]  Evolution guaranteed you're going to be mutated and things will change, not just environment,
+- \[00:14:50\]  but also your own parts.
+- \[00:14:52\]  So I think that there may be exceptions.
+- \[00:14:55\]  There may be organisms that aren't like that, although I doubt it.
+- \[00:14:58\]  I think at this point, what survived and what biology strongly emphasizes is architectures
+- \[00:15:06\]  where you assume the underlying material is unreliable.
+- \[00:15:10\]  And what you're going to do is on the fly, you don't overtrain on your priors.
+- \[00:15:13\]  You don't assume that the future is going to be like the past.
+- \[00:15:16\]  You don't assume you know what any of your information means.
+- \[00:15:19\]  You are going to try to reinterpret it at any given moment on the fly and do the best
+- \[00:15:23\]  you can.
+- \[00:15:24\]  And if that gives rise to these kinds of systems where the eye's in the wrong place, we can
+- \[00:15:29\]  do something with that, basically.
+- \[00:15:31\]  The detail is it's hard work to figure out, okay, so where is the information actually
+- \[00:15:37\]  going?
+- \[00:15:38\]  It gets onto the spinal cord, then the brain learns to infer some connection between what
+- \[00:15:42\]  the eye says and what the...
+- \[00:15:43\]  Does it even know it's an eye?
+- \[00:15:44\]  Well, I'm not even sure about that.
+- \[00:15:47\]  But I think that's what's happening here is that biology commits to a real-time sense-making
+- \[00:15:53\]  process, not to the expectations of the past.
+- \[00:15:57\]  I think that's the most interesting part.
+- \[00:15:59\]  And that's what makes this stuff so flexible.
+- \[00:16:01\]  And that's what makes biotechnology possible.
+- \[00:16:03\]  It makes...
+- \[00:16:04\]  I'll take my cells and slap them onto some weird scaffold made out of crazy nanomaterials
+- \[00:16:08\]  and I'll instrumentize it with electrical signaling and optical whatever and things
+- \[00:16:13\]  work.
+- \[00:16:14\]  Because, you know?
+- \[00:16:17\]  So the butterfly has solved this problem of how can I change and still exist?
+- \[00:16:27\]  I think we all do.
+- \[00:16:28\]  I mean, the butterfly is kind of an egregious case, but all of us have the same problem
+- \[00:16:35\]  because over time, we are not the same.
+- \[00:16:38\]  And whether it be the rearrangements of puberty or just the day-to-day wear and tear on the
+- \[00:16:44\]  body, the whole ship of Theseus thing, where your materials are going in and out all the
+- \[00:16:50\]  time.
+- \[00:16:53\]  I think different species emphasize this to different extent.
+- \[00:16:57\]  For example, planaria are the champions of this.
+- \[00:16:59\]  I mean, look, planaria, right?
+- \[00:17:01\]  Cancer resistant, incredibly regenerative, no aging in the asexual forms, no transgenic
+- \[00:17:10\]  lines because they basically ignore new DNA that you put into them.
+- \[00:17:14\]  People have been trying this since, I think since the late 80s, people have been trying
+- \[00:17:20\]  to make transgenic planaria.
+- \[00:17:21\]  There aren't any.
+- \[00:17:22\]  No mutant lines.
+- \[00:17:24\]  The only lines of aberrant planaria that exist are our two-headed form and the cryptic form
+- \[00:17:29\]  and they're not genetic.
+- \[00:17:30\]  It's because the only reason it works is because it's not genetic.
+- \[00:17:34\]  What happened in planaria, I think, is that because they reproduce asexually, so they
+- \[00:17:44\]  tear themselves in half and regenerate, that means that they accumulate somatic mutations.
+- \[00:17:49\]  They don't clean the genome the way that we do with sexual reproduction.
+- \[00:17:52\]  And so they've accumulated so much junk that basically the only way to have a proper planarian
+- \[00:17:58\]  is to assume the hardware is going to be unreliable and to put all of the effort that we've done
+- \[00:18:03\]  in computational models of this, actually, and you can see evolution doing this, when
+- \[00:18:08\]  you get even a little bit of regulative competency where the creature can make up for certain
+- \[00:18:14\]  subtle defects, immediately evolution, it's hard for selection to now see the genomes,
+- \[00:18:21\]  because if you get an animal that looks pretty good, do you look pretty good because your
+- \[00:18:24\]  genome was great or because you were actually terrible, but you fixed it along the way?
+- \[00:18:30\]  And so this is like the stuff that we see when we make tadpoles with the scrambled faces
+- \[00:18:34\]  and they see them, they fix them.
+- \[00:18:38\]  So what happens is that then when evolution has a hard time selecting for good genomes,
+- \[00:18:44\]  all the effort goes into selecting for more competency, which in turn makes it harder
+- \[00:18:48\]  to see the genome, which in turn makes for more...
+- \[00:18:50\]  And so you get this thing where the pressure on the genome actually flattens out, but the
+- \[00:18:55\]  pressure on the competency keeps rising.
+- \[00:18:57\]  And so if you take that all the way, you end up with planaria that basically everything
+- \[00:19:02\]  went into making an algorithm, which is partially bioelectric and who knows what else, that
+- \[00:19:06\]  basically says, I already know my hardware can't really be trusted.
+- \[00:19:10\]  Here are all the error correcting codes and everything else that we need to do to build
+- \[00:19:14\]  a good planaria no matter what happens.
+- \[00:19:16\]  And then of course you're insensitive to transgenes, to cancer, all these things, because you're
+- \[00:19:21\]  assuming from day one that all that stuff can't be trusted.
+- \[00:19:25\]  And I think, so planaria are kind of all the way there and then salamanders are pretty
+- \[00:19:30\]  good at it, but not as good as planaria and then mammals, and then maybe something like
+- \[00:19:34\]  C. elegans or Drosophila are on the opposite end and they're just really pretty hardwired
+- \[00:19:39\]  maybe.
+- \[00:19:40\]  So your definition of self, how far down the evolutionary ladder does it go?
+- \[00:19:47\]  I mean, does it go to single celled creatures?
+- \[00:19:49\]  Are they selves?
+- \[00:19:50\]  Or does it begin at a certain point in evolution, the self as an innovation to deal with these
+- \[00:19:57\]  problems you're talking about?
+- \[00:20:00\]  Yeah.
+- \[00:20:01\]  I don't like binary categories for any of these things because they end up chasing us
+- \[00:20:05\]  into these pseudo problems where you can always come up with these sort of in between cases
+- \[00:20:10\]  and then you spend all your time trying to prop up this binary definition as opposed
+- \[00:20:13\]  to, I think what all of this is for-
+- \[00:20:16\]  Binary here between having a self and not having a self.
+- \[00:20:19\]  Yeah, exactly.
+- \[00:20:20\]  So it's on a continuum.
+- \[00:20:22\]  I think all of it will, yes, I think it's on a continuum, but the reason it's on a continuum
+- \[00:20:26\]  is that I take all of these terms.
+- \[00:20:29\]  So all of this, having a self, intelligent, sentient, cognitive, like all the, whatever
+- \[00:20:35\]  of these terms you want to use, I don't think they're about the system itself.
+- \[00:20:40\]  I think what they refer to is your intended interaction with it.
+- \[00:20:43\]  So if you tell me that you think a certain system-
+- \[00:20:45\]  As an observer, as a scientist, as a, okay.
+- \[00:20:48\]  As a scientist, as a conspecific, as a parasite, as a, whatever, whatever.
+- \[00:20:55\]  It's every agent with living, non-living, scientific, natural, whatever, you are going
+- \[00:21:00\]  to take some stance towards whatever you want to interact with.
+- \[00:21:03\]  And if you want to take a mechanical stance and say, all I see is a bunch of cogs and
+- \[00:21:07\]  gears, the tools I have to interact with you are just hardware rewiring.
+- \[00:21:13\]  That works well for mechanical clocks and things like that.
+- \[00:21:15\]  You try to apply it to a human.
+- \[00:21:16\]  If you're an orthopedic surgeon, not bad.
+- \[00:21:18\]  If you're a psychotherapist, terrible.
+- \[00:21:20\]  Right?
+- \[00:21:21\]  So, you want an, or a spouse, terrible.
+- \[00:21:25\]  You want an orthopedic surgeon that thinks you're a mechanical machine.
+- \[00:21:28\]  You do not want a spouse or a psychotherapist that thinks you're a mechanical machine.
+- \[00:21:32\]  So I think all of these things, I think all of these things just indicate the frame that
+- \[00:21:38\]  you bring to the interaction and the set of tools you're going to use.
+- \[00:21:41\]  And so you've got, you've got your rewiring, you've got cybernetics, control theory, behaviorism,
+- \[00:21:47\]  you've got, I don't know, psychoanalysis, spirituality, who knows?
+- \[00:21:50\]  Like I'm just, you know, sort of drawing the spectrum.
+- \[00:21:53\]  Right?
+- \[00:21:54\]  So, so how far down does it go?
+- \[00:21:55\]  So that, so, so what that means is, can we get some sort of utility?
+- \[00:22:01\]  And that's why I harp on the engineering side of this, because I think this should all be
+- \[00:22:05\]  tested by, by utility in the, in the real world.
+- \[00:22:08\]  So, so can we get some sort of utility by applying these concepts to single cells?
+- \[00:22:12\]  Absolutely.
+- \[00:22:13\]  I think, yes.
+- \[00:22:14\]  Can we apply them to molecular networks?
+- \[00:22:16\]  Yes.
+- \[00:22:17\]  Within cells.
+- \[00:22:18\]  I think so.
+- \[00:22:19\]  We have, we have data on this.
+- \[00:22:20\]  Other people have data on this.
+- \[00:22:21\]  Could we apply them to particles?
+- \[00:22:23\]  Maybe.
+- \[00:22:24\]  So I think Chris Fields and Carl Fristen and some other people have done some really nice
+- \[00:22:28\]  work trying to cash out physics as a kind of proto-cognitive substrate, like active,
+- \[00:22:36\]  I mean, they like active inference.
+- \[00:22:37\]  There may be some other things.
+- \[00:22:40\]  So maybe.
+- \[00:22:41\]  So I was going to ask you too, if you thought this was limited to the realm of biology,
+- \[00:22:47\]  I realized Fristen doesn't.
+- \[00:22:49\]  Yeah.
+- \[00:22:50\]  But I don't know.
+- \[00:22:52\]  He does his, his work makes it better.
+- \[00:22:54\]  Seems to all perform better when you transpose it to the realm of biology.
+- \[00:22:59\]  Then when he starts talking about active inference in rocks and crystals and things, but I don't
+- \[00:23:04\]  see the active piece.
+- \[00:23:06\]  Well, so, so, okay.
+- \[00:23:09\]  I, you know, I, I couldn't possibly reproduce the argument the way, the way that he does
+- \[00:23:14\]  it.
+- \[00:23:16\]  But I think, I think what he's saying is that and, and Chris Fields has stories about this
+- \[00:23:21\]  too, which is basically that there's an equivalency between what, what, what, what is, what is
+- \[00:23:27\]  a thing?
+- \[00:23:28\]  You know, what, what is a rock?
+- \[00:23:29\]  What is a right?
+- \[00:23:30\]  What the, I mean, I think that's a very important part of the research program and this idea
+- \[00:23:33\]  that there's the active inference is quite symmetrical when you're doing something to
+- \[00:23:37\]  the environment, the environment is also learning about you and so on.
+- \[00:23:41\]  And I think the claim there is that there is a very simple version of this that just
+- \[00:23:46\]  basically looks like physics to us.
+- \[00:23:49\]  But if you sort of crank up the, the, the relevant parameters, then you end up with
+- \[00:23:52\]  things we call life.
+- \[00:23:53\]  So, so, so here's, here's what I would say about that.
+- \[00:23:57\]  I think when we say biological world, what do we really mean?
+- \[00:24:00\]  Right?
+- \[00:24:01\]  What, what, what's life?
+- \[00:24:02\]  I think that what we mean by life is anything that is good at scaling up the cognitive light
+- \[00:24:09\]  cone.
+- \[00:24:10\]  That is anything that where the whole has a larger is capable of pursuing larger and
+- \[00:24:18\]  more complex goals than the parts.
+- \[00:24:20\]  That's what we happen to call life.
+- \[00:24:22\]  So, so we don't do that for rocks because the rock has exactly the same cognitive light
+- \[00:24:26\]  going as, as the pieces that go inside the rock.
+- \[00:24:28\]  It hasn't scaled anything.
+- \[00:24:29\]  It's just exactly the same.
+- \[00:24:31\]  It's not more than the sum of its parts.
+- \[00:24:34\]  In that particular way.
+- \[00:24:35\]  Right?
+- \[00:24:36\]  So, so I would do it, you know, Tononi would do it off of integrated information.
+- \[00:24:40\]  Different people do it different ways.
+- \[00:24:41\]  I think it's all about goal directness and right.
+- \[00:24:45\]  I think, I think it doesn't, it doesn't you know, you're not going to find larger goals
+- \[00:24:50\]  that help you deal with the rock.
+- \[00:24:51\]  It's basically the same.
+- \[00:24:52\]  It follows least action principle.
+- \[00:24:54\]  That's about all you're going to get out of it.
+- \[00:24:56\]  So, right.
+- \[00:24:57\]  So, so I think, you know, I think biology is what we roughly call things that are good
+- \[00:25:01\]  at it.
+- \[00:25:02\]  And that again is a continuum.
+- \[00:25:03\]  I think we don't need to spend any time arguing whether something is alive or not.
+- \[00:25:07\]  The real question is, so what's, so, so what's your model?
+- \[00:25:10\]  What, what goals do you think this follows and how does that help you have a richer interaction
+- \[00:25:14\]  with the system and what tools can you bring from, from active inference, from behavior
+- \[00:25:19\]  science and so on?
+- \[00:25:21\]  I mean, look, one, one example, okay.
+- \[00:25:23\]  One, one recent example is we showed models of gene regulatory networks, which are just
+- \[00:25:29\]  chemicals you can, it might as well be a rocket, just to, you know, six or seven chemicals
+- \[00:25:32\]  interacting with each other.
+- \[00:25:34\]  And what we showed is that if you bring tools from, from behavior theory, meaning, meaning
+- \[00:25:39\]  different kinds of learning, so associative conditioning, habituation, sensitization,
+- \[00:25:43\]  you can do some really interesting things with just with those networks that have lots
+- \[00:25:48\]  of biomedical relevance and, and, and you know, it's already there.
+- \[00:25:54\]  You don't, you don't need a cell.
+- \[00:25:55\]  You don't need any, you know, you don't need protoplasm.
+- \[00:25:57\]  You don't need any of that.
+- \[00:25:58\]  So just, just the mathematics of having a few nodes connected by these differential
+- \[00:26:03\]  equations already give you a bunch of stuff that we would call learning and that help
+- \[00:26:07\]  you, you know, and, and again, my goal, right, remember my, you know, my goal is not to,
+- \[00:26:11\]  to do poetry and to sort of paint hopes and dreams onto these things.
+- \[00:26:14\]  And, and you know, that we could never agree on.
+- \[00:26:17\]  I make a very clear claim that if you know these things, you will do better in the biomedical
+- \[00:26:22\]  arena than if you pretend they don't exist.
+- \[00:26:24\]  And that's, that's a, you know, that's not a philosophical claim.
+- \[00:26:26\]  That's an empirical claim that we can, you know, that we test.
+- \[00:26:29\]  You mean as a scientist or as a creature?
+- \[00:26:32\]  No, as a, well, both.
+- \[00:26:34\]  So, so first and is a, so, so mostly what I talk about in public is the science, right?
+- \[00:26:38\]  So, so I say as a worker in regenerative medicine, as somebody who wants to discover new ways
+- \[00:26:43\]  to use drugs, you will do better if you are, are able to use the tools of behavioral cognitive
+- \[00:26:49\]  science on your cells and tissues than somebody who doesn't, that's, that's the first claim,
+- \[00:26:54\]  but you could, you could push it forward and say, you know, in our personal, and, and,
+- \[00:26:59\]  I mean, I have no credentials to be, you know, talking about interpersonal, you know, social
+- \[00:27:03\]  stuff, but, but, but overall, it seems perfectly reasonable to me that we could apply the same
+- \[00:27:09\]  reasoning and say, the way that the same, the same pragmatic reasoning to our relationships
+- \[00:27:16\]  and say, the way I pick frames for interacting with others is to see how well they work out
+- \[00:27:22\]  for me.
+- \[00:27:24\]  So, purely empirically.
+- \[00:27:25\]  So, so if I treat you as, as a, you know, as an advanced metacognitive being, we can
+- \[00:27:30\]  have a certain kind of relationship and that elevates me in a certain way.
+- \[00:27:34\]  If I do something else, maybe that doesn't work out as well if I take one of the lower,
+- \[00:27:37\]  you know, kind of lower framings.
+- \[00:27:39\]  So again, just, just,
+- \[00:27:40\]  And it's a way to test, it's a way of testing environment too, right?
+- \[00:27:44\]  We're going to go in on the assumption that this is a cognitive being and we'll see what
+- \[00:27:47\]  happens.
+- \[00:27:48\]  And we'll see what happens.
+- \[00:27:49\]  I mean, that's the, you know, you can, you can go the other way.
+- \[00:27:52\]  You can say, you can start and say, okay, I'm going to go on the assumption that it's
+- \[00:27:55\]  not and see what the limitations are.
+- \[00:27:57\]  I mean, I prefer the former, but, but, but as long as, as long as everybody's in agreement
+- \[00:28:02\]  that this is an empirical undertaking, this is not, we can't, we can't just have feelings
+- \[00:28:07\]  about this.
+- \[00:28:08\]  And this is not something that we're, you know, we're going to argue about for the next
+- \[00:28:10\]  thousand years and never get anywhere.
+- \[00:28:12\]  No, this, this is getting resolved because you know, there's, there's clear data on a
+- \[00:28:16\]  human scale.
+- \[00:28:17\]  Of course it takes longer, right?
+- \[00:28:18\]  It takes maybe years for someone to say, you know what, my framing isn't working out
+- \[00:28:22\]  for me.
+- \[00:28:23\]  It's I'm going to try something different, right?
+- \[00:28:24\]  That, that, that may take many years, but.
+- \[00:28:26\]  Right.
+- \[00:28:27\]  That's kind of what's happening in the whole field of plant intelligence that people are
+- \[00:28:32\]  like, let's, let's, let's see what happens if we assume they are cognitive or they have
+- \[00:28:35\]  intelligence and some, and some, you know, some people show that they can learn.
+- \[00:28:40\]  Some people show they can't.
+- \[00:28:43\]  So taking selves to the, the, the human dimension, which I've been looking at for this chapter
+- \[00:28:52\]  I'm working on, I've been talking to neuroscientists and you know, people like Neil Seth, who's
+- \[00:28:58\]  written about selves.
+- \[00:29:00\]  One of the things that's curious is, especially in light of what you've proposed in this piece
+- \[00:29:05\]  is we're very invested in the idea of the unchanging self.
+- \[00:29:12\]  And it's curious, we don't embrace the idea that this is a completely fungible you know,
+- \[00:29:21\]  subject to our remaking and our creativity.
+- \[00:29:24\]  Why do you think we're invested in the idea?
+- \[00:29:28\]  It's very hard to conceive of.
+- \[00:29:29\]  I mean, in the definition of self is some continuity, right?
+- \[00:29:32\]  Why do you think we're so invested in, in the idea of a stable, continuous self, which,
+- \[00:29:38\]  you know, we're being told by a lot of different discourses is not true.
+- \[00:29:43\]  I, yeah, I don't know.
+- \[00:29:45\]  I think, you know, I can, I can make some hypotheses.
+- \[00:29:49\]  I suspect that it's, it's firmware left over from our evolutionary past, because if, if
+- \[00:29:57\]  you were not sort of wired to expect object permanence in the outside world, right?
+- \[00:30:08\]  You know, babies acquired very quickly and that they have some when they're born.
+- \[00:30:11\]  If, if, if you don't, if, if you're not good at seeking out object permanence, and if you're
+- \[00:30:18\]  not committed to persistence of your local self, I suspect that on the Savannah and whatever
+- \[00:30:26\]  the previous versions that are, I suspect that doesn't play out very well.
+- \[00:30:31\]  You know, it's, it's not very good to say, go ahead and eat me lion.
+- \[00:30:35\]  You know, my, my patterns will continue in the universe in another form, like great,
+- \[00:30:39\]  but, but, but I, your self will be undisturbed.
+- \[00:30:43\]  My future self.
+- \[00:30:44\]  Yeah.
+- \[00:30:45\]  I have, I have much bigger, you know, bigger thoughts than this.
+- \[00:30:47\]  I don't, I suppose that doesn't work out too well.
+- \[00:30:49\]  Right.
+- \[00:30:50\]  So, so I can see why, why evolution left us with some firmware that tries to kind of dumb
+- \[00:30:54\]  it down to this very like basic survival for, for the same.
+- \[00:30:59\]  And I think, I think that that firmware has a bunch of other stuff that needs to be jettisoned,
+- \[00:31:02\]  which is, which is hard.
+- \[00:31:04\]  For example, I think a lot of the issues around, you know, one reason people don't like this
+- \[00:31:12\]  kind of work, right.
+- \[00:31:13\]  This, this kind of a diverse intelligence work is that they worry about false positives.
+- \[00:31:19\]  They worry about too many things being considered as if they were cognitive.
+- \[00:31:23\]  And I mean, clearly you can, you can make mistakes in that, in that realm.
+- \[00:31:27\]  And we have people that are in love with bridges and married to the Eiffel tower and stuff
+- \[00:31:31\]  like this, right.
+- \[00:31:32\]  You can do that.
+- \[00:31:33\]  But I think what fundamentally drives this is a real deep seated fear and a, an assumption
+- \[00:31:42\]  that there's not enough love to go around literally like, like, like that there is a
+- \[00:31:47\]  it's a zero sum game in terms of intelligence.
+- \[00:31:50\]  And that if we consider other things to be, to be cognitive in some way, well, then mine
+- \[00:31:55\]  isn't worth as much, you know?
+- \[00:31:57\]  And, and again, I think that's like ancient scarcity mentality firmware from evolution.
+- \[00:32:03\]  That says, no, there isn't enough of anything to go around and their status and it's a zero
+- \[00:32:07\]  sum game.
+- \[00:32:08\]  And if you don't have the status in your group, you know you're screwed.
+- \[00:32:11\]  And so that's where I think some of this is coming from.
+- \[00:32:15\]  But this is all, you know, that's, that's armchair, you know, armchair of psychologizing.
+- \[00:32:19\]  I don't know.
+- \[00:32:20\]  Yeah.
+- \[00:32:21\]  Yeah.
+- \[00:32:22\]  Of course the other reason, I mean, there are, there are variables you want to keep
+- \[00:32:26\]  steady.
+- \[00:32:27\]  Right.
+- \[00:32:28\]  And one of the things the self does is help us with homeostasis.
+- \[00:32:29\]  Right.
+- \[00:32:30\]  I mean, if you, if you use the model that Seth talks about or some other people that
+- \[00:32:38\]  we're processed, we're always processing signals from our body and we're looking not to depart
+- \[00:32:43\]  from certain you know, temperature, blood gases.
+- \[00:32:47\]  I mean, there's a whole range of things that we do want to stay in a very narrow range.
+- \[00:32:54\]  Well, yes.
+- \[00:32:55\]  And I think that's the part of this firmware that I'm talking about.
+- \[00:32:59\]  You know, from the perspective of the child's body, the adult body is way off on homeostatic
+- \[00:33:09\]  you know, homeostatic properties from the perspective of the caterpillar, the butterfly,
+- \[00:33:14\]  you know, the butterfly is a terrible caterpillar.
+- \[00:33:16\]  Like everything is off, you know, all of the, all of the, and I think this is true in, in,
+- \[00:33:21\]  in embryonic development, you know, from the, from, from the perspective of the, of the,
+- \[00:33:27\]  you know, gastrula, the blastula is a birth defect.
+- \[00:33:30\]  I think, I actually think that's how development works is that it's a set of repairs activated
+- \[00:33:35\]  towards a fast moving target morphology, which is encoded in bioelectrics and various other
+- \[00:33:39\]  things that basically what happens is, you know, you're, you're, and we've done, we've
+- \[00:33:43\]  done work on this.
+- \[00:33:44\]  This is going to come out later, later this year.
+- \[00:33:45\]  We have some super, super cool data on this stuff that, that basically development is
+- \[00:33:49\]  a whole bunch of repairs.
+- \[00:33:50\]  I'm not even sure I believe in embryonic development anymore.
+- \[00:33:52\]  I think it's all regeneration.
+- \[00:33:54\]  I think it's all repair.
+- \[00:33:56\]  That basically what happens is your target is your target moves faster than the anatomy
+- \[00:34:01\]  is trying to catch up.
+- \[00:34:02\]  So the target information is here.
+- \[00:34:03\]  The anatomy is, is, Oh my God, I'm all wrong.
+- \[00:34:06\]  And so all these repair processes kick in and you make the metamorphosis by the time
+- \[00:34:09\]  you've done that, guess what?
+- \[00:34:10\]  The pattern has moved on again and you're wrong again.
+- \[00:34:13\]  So again, you have to change, right?
+- \[00:34:14\]  So it's a set of repairs.
+- \[00:34:15\]  So you just keep going from stage to stage until you catch up and that's adulthood and
+- \[00:34:19\]  it's sort of, you know, maturity, and then you, you sort of catch up and then, and then
+- \[00:34:22\]  you get a different issue with aging, but, but, but, you know keeping steady, yes, but
+- \[00:34:29\]  everything is transformation, at least, at least until you hit aging, everything is supposedly
+- \[00:34:35\]  a positive transformation, right?
+- \[00:34:36\]  You're trying to, you know, change into whatever your next form is supposed to be.
+- \[00:34:43\]  You think, and I'm asking you to, to speculate again, there are advantages to giving up on
+- \[00:34:47\]  this idea of a stable self.
+- \[00:34:52\]  I think so.
+- \[00:34:53\]  I think, I think there are major advantages.
+- \[00:34:55\]  Well, let's see, one advantage is that I think that it actually has implications for, for
+- \[00:35:04\]  ethics of behavior, because if, if you can, if you, if you can sever that sort of hard
+- \[00:35:14\]  wired link between your current self and your future self, then one of the things that happens
+- \[00:35:20\]  quite naturally is you start to think about other beings, future selves as having similar
+- \[00:35:25\]  status.
+- \[00:35:26\]  So, so normally you can be selfish into the future in the sense that, well, that's still
+- \[00:35:29\]  going to be me.
+- \[00:35:31\]  But if you can understand that future self isn't quite the same as your current self
+- \[00:35:35\]  anyway, then you say, well, for the same reasons, I care about this future self for exactly
+- \[00:35:40\]  the same reason I ought to be caring about other creatures that really exist, that future
+- \[00:35:46\]  selves, right?
+- \[00:35:47\]  Because, because your future self and all the hard work you're doing to prop up your
+- \[00:35:50\]  future self in many ways is not as tightly connected to your current self as we think.
+- \[00:35:55\]  And I think breaking that a little bit would be helpful because then it would make it,
+- \[00:35:59\]  it would make it, it would make it seem much more rational to then be, be compassionate
+- \[00:36:02\]  to others.
+- \[00:36:03\]  You know, right now, right now it's very natural to invest everything in your future self.
+- \[00:36:08\]  But once you realize that, you know, your, your, your future, your future self is, is
+- \[00:36:15\]  a different being in many ways.
+- \[00:36:18\]  And it's like, there are, there are a number of crazy ways to, okay.
+- \[00:36:22\]  They're like, like weird intuition pumps around this stuff.
+- \[00:36:24\]  Like, like here's, here's, here's a few examples.
+- \[00:36:27\]  One thing that people think about, and I think this was maybe Anthony Flew's argument about
+- \[00:36:31\]  reincarnation.
+- \[00:36:32\]  He said, okay.
+- \[00:36:33\]  If I don't remember, if I'm not going to remember the current life, then what's the difference?
+- \[00:36:39\]  It might, you might as well just tell me that I'll be dead and some other kid will be running
+- \[00:36:42\]  around somewhere on earth and like, good, but there's plenty of kids running around
+- \[00:36:45\]  on earth.
+- \[00:36:46\]  What do I care?
+- \[00:36:47\]  And so, so he was trying to say that that memory is, is what keeps it going.
+- \[00:36:51\]  Right.
+- \[00:36:52\]  And the continuity of memory is what keeps it going.
+- \[00:36:54\]  But you can imagine things, things like this.
+- \[00:36:56\]  If somebody says to your current self, we're going to, you need some surgery and you could
+- \[00:37:03\]  save some bucks if you, if you instead, instead of having real anesthesia, which you just
+- \[00:37:10\]  have as a paralytic, so you'll be paralyzed.
+- \[00:37:12\]  We can do our thing.
+- \[00:37:13\]  And in fact, I mean, that's a real, like that actually happens to people, right?
+- \[00:37:15\]  That, that like, it doesn't always work.
+- \[00:37:16\]  Right.
+- \[00:37:17\]  So, so, so then you can save it.
+- \[00:37:19\]  You can save some bucks.
+- \[00:37:21\]  The current self is going to go, well, absolutely not.
+- \[00:37:26\]  But it, but, but, but the future self, once you come out of it and they say, oh, by the
+- \[00:37:30\]  way, oh, and the other thing to know is that when you do get the anesthesia, part of the
+- \[00:37:33\]  components is a memory wipe.
+- \[00:37:34\]  That's a short-term memory wipe.
+- \[00:37:36\]  That's also a real thing, right?
+- \[00:37:37\]  Because they don't want you remembering this stuff.
+- \[00:37:38\]  So, so, so you come out of it and somebody says to you, you know what?
+- \[00:37:42\]  I think that actually happened.
+- \[00:37:44\]  And and you know, when you saved a thousand dollars, but I think you were actually there.
+- \[00:37:47\]  I know you don't remember a bit of it, but you know, and at that point, like, eh, all
+- \[00:37:51\]  right.
+- \[00:37:52\]  I mean, you know, now, now, realistically it's an issue because actually the trauma can,
+- \[00:37:55\]  can carry forward, but let's just, let's just imagine that, you know, let's imagine the
+- \[00:37:58\]  memory wipe actually works.
+- \[00:38:00\]  So, so, so the future self of like, yeah, I mean, fine, good deal.
+- \[00:38:04\]  Right.
+- \[00:38:05\]  So, so there's an interest.
+- \[00:38:06\]  So, so there's an interesting thing here.
+- \[00:38:08\]  And I think to the extent that we kind of understand that our future self is, is a construction
+- \[00:38:14\]  that is going to sort of try to make sense of these memories and whatever.
+- \[00:38:18\]  I think it helps you be, be kinder to others, future selves, because they're in the same
+- \[00:38:23\]  boat.
+- \[00:38:24\]  So I think for that, I think for that reason, it's, it's useful.
+- \[00:38:26\]  It's also useful more broadly because to the extent that we understand what we are
+- \[00:38:32\]  and how we, how the biology works and everything, I think it really helps us have a more ethical
+- \[00:38:38\]  relationship with other, other beings.
+- \[00:38:41\]  Because right now a lot of people are walking around with this very magical view of what,
+- \[00:38:47\]  you know, they, they said like humans, you know, humans do this.
+- \[00:38:49\]  And they said, well, which humans, you know, the, the, you know, for a hundred thousand
+- \[00:38:53\]  years ago, you know, a million years ago, like which, which humans, right.
+- \[00:38:57\]  And or, or during embryogenesis, where does this magic sort of kick in?
+- \[00:39:00\]  So, so I think having a better understanding of the biology and what's actually going on
+- \[00:39:05\]  is going to help us understand that, gee, there can be other minds that are not the,
+- \[00:39:09\]  you know, the conventional modern human, you know, mind and, and help us, help us have
+- \[00:39:15\]  better relationships with other systems, both biological and also synthetic, you know, artificial,
+- \[00:39:20\]  all that kind of stuff.
+- \[00:39:21\]  Yeah.
+- \[00:39:22\]  I mean, it would probably make us better people, but on the other hand, this idea of the future
+- \[00:39:27\]  self being continuous, that's what gets your work done, right?
+- \[00:39:32\]  I mean, this is going to, I'm embarking, I'm writing a book.
+- \[00:39:35\]  It's going to take me X years.
+- \[00:39:37\]  It's going to be really hard, painful, but my future self is going to benefit when it
+- \[00:39:42\]  comes out.
+- \[00:39:43\]  You know, when I get my advance, whatever it is.
+- \[00:39:48\]  It seems to me there's a, there is some adaptive value.
+- \[00:39:51\]  I mean, as you were pointing out on the Savannah of having a strong sense of self continuity,
+- \[00:39:58\]  even though that might make you a, you know, an asshole.
+- \[00:40:01\]  Yeah.
+- \[00:40:02\]  Yeah.
+- \[00:40:03\]  No, no.
+- \[00:40:04\]  I think, I mean, it's, it's true.
+- \[00:40:05\]  There, there, there probably is some competitive survival value to it.
+- \[00:40:08\]  I think that, you know, if, okay.
+- \[00:40:12\]  I think back to some things I've done in the past, some, some, let's say, you know, so
+- \[00:40:16\]  much, let's say some achievements that I've done in the past.
+- \[00:40:19\]  I, I, and maybe, and maybe it's just me.
+- \[00:40:21\]  I have a, I find it really hard to, to visualize that that was me.
+- \[00:40:26\]  Like really, like I know, I know historically, like if I look in the record, everybody says
+- \[00:40:30\]  it was me and everything.
+- \[00:40:31\]  So I know it's me, but, but, but thinking back, I'm like, wow.
+- \[00:40:35\]  That's you know, that's amazing.
+- \[00:40:36\]  I don't remember what it was like.
+- \[00:40:38\]  I don't really, you know, it was years ago, so I don't really remember what it was like
+- \[00:40:41\]  to do it.
+- \[00:40:42\]  And the feeling between me having done it and somebody else having done it is just a
+- \[00:40:46\]  historical record at this point, just a matter of historical record.
+- \[00:40:49\]  You know, I did things before that I probably couldn't do now.
+- \[00:40:52\]  So what does that mean?
+- \[00:40:53\]  Do I still keep the credit for it?
+- \[00:40:54\]  It's, you know, in, in, in it's society, it helps society to maintain records and to write
+- \[00:41:00\]  and to reinforce these things.
+- \[00:41:01\]  But, but really, you know, it's sort of like it's been a long time.
+- \[00:41:06\]  Like do I really, you know, do I, is it still me that did that?
+- \[00:41:08\]  I don't know.
+- \[00:41:09\]  Cause I don't think I could do it again.
+- \[00:41:10\]  You know, that, that, that kind of stuff.
+- \[00:41:12\]  So that's so interesting.
+- \[00:41:16\]  I mean, to embrace this idea of self as, as, as constructing a creative act based on
+- \[00:41:24\]  interpretation and misinterpretation of memories.
+- \[00:41:26\]  It's, I mean, it's a very exhilarating idea, I think in many ways, in that people are very
+- \[00:41:32\]  stuck on either the positive case for selves, which is a myth or the case against them,
+- \[00:41:41\]  which is just demystification without any sort of positive benefit.
+- \[00:41:47\]  There's, you know, there's an, there's an even, well, just, just to put it, put on the
+- \[00:41:52\]  radar in case, in case you want to talk about it, there's an even weirder, if you think
+- \[00:41:56\]  all of that was weird, the bit that I only mentioned in that paper that we could talk
+- \[00:42:00\]  about is erasing the distinction between thoughts and thinkers, because that I think, that I
+- \[00:42:06\]  think is even, even more of a, of a profound sort of.
+- \[00:42:10\]  Yeah, so talk, unpack that a little, because you, you kind of raced over that idea.
+- \[00:42:14\]  And I think it's really interesting.
+- \[00:42:17\]  I mean, I was actually asking this question, I was talking to Anil, and I was saying, can
+- \[00:42:22\]  you have a perception without a perceiver or an inference without an inferrer?
+- \[00:42:28\]  And he was saying, yes, you can.
+- \[00:42:30\]  But I had a lot of trouble getting my head around that.
+- \[00:42:32\]  Yeah, yeah.
+- \[00:42:33\]  Let's, so let's, and so, okay, so, so just to kind of fair, fair warning, these, these
+- \[00:42:37\]  ideas are pretty new.
+- \[00:42:38\]  So I'm still kind of chewing all this around.
+- \[00:42:40\]  So you know, take everything with a grain of salt.
+- \[00:42:43\]  But let's, I'll start, I'll start with a little story.
+- \[00:42:48\]  Just a short, this, this is a real science fiction story that I read years ago, and only
+- \[00:42:51\]  now I'm sort of understanding the significance of it.
+- \[00:42:54\]  I wish I could remember whose it was.
+- \[00:42:55\]  I don't remember.
+- \[00:42:57\]  The deal is that...
+- \[00:42:58\]  Letting yourself down the drain.
+- \[00:42:59\]  Yeah, exactly.
+- \[00:43:00\]  Right.
+- \[00:43:01\]  Like, I knew at one point, I don't now.
+- \[00:43:04\]  These, these creatures come out of the center of the earth.
+- \[00:43:07\]  They're, they're, they're incredibly dense.
+- \[00:43:08\]  Yeah, they come out of the core.
+- \[00:43:09\]  They're just incredibly dense.
+- \[00:43:11\]  They use gamma rays for vision, like super dense.
+- \[00:43:14\]  So they come up here and everything that you and I see here is solid.
+- \[00:43:18\]  It's just gas to them.
+- \[00:43:19\]  You know, they see, they see because, because they're so dense, as far as they're concerned,
+- \[00:43:23\]  the crust and everything up, everything up here is a very rarefied kind of plasma around.
+- \[00:43:28\]  Right.
+- \[00:43:29\]  And so, and so one of them, so they have some tool, one of them's a scientist and he's got
+- \[00:43:32\]  some tools and he says to the others, he says, you know, I've been watching this gas
+- \[00:43:36\]  that surrounds this planet.
+- \[00:43:38\]  And there are some, there's some patterns in this gas.
+- \[00:43:41\]  There's some, there's some persistent patterns in this gas and they look like they're doing
+- \[00:43:45\]  things.
+- \[00:43:46\]  They, they look kind of agential.
+- \[00:43:47\]  And so the other one, the others of course laugh at him and, and they say, no, no, look,
+- \[00:43:50\]  we're real.
+- \[00:43:51\]  You know, we are actual thinkers.
+- \[00:43:52\]  You can't, patterns can't be thinkers.
+- \[00:43:54\]  Patterns and gas can't be thinkers.
+- \[00:43:56\]  And he says, no, I, I'm pretty, like, it looks like they're doing things and I've done some
+- \[00:43:59\]  experiments, you know, when they look like they have certain cognitive properties and,
+- \[00:44:03\]  and then they ask, well, how long these patterns last?
+- \[00:44:06\]  Well, they only last about a hundred years.
+- \[00:44:08\]  Well, that's ridiculous.
+- \[00:44:09\]  I mean, a hundred years, what could, you know, what could happen?
+- \[00:44:11\]  And I, you know, we, we live millions of years.
+- \[00:44:12\]  What could happen in a hundred years?
+- \[00:44:14\]  Right.
+- \[00:44:15\]  So, okay.
+- \[00:44:16\]  So, so, so right away, and you can sort of take this, this further, you right away, you
+- \[00:44:19\]  start to get the idea that the distinction between a temporary, but somewhat persistent
+- \[00:44:26\]  pattern in an excitable medium and a real solid thing that we, you know, this is a thing,
+- \[00:44:31\]  you know, this is the cognizer that's a bit of an, that's in the eye of the beholder quite
+- \[00:44:35\]  a bit.
+- \[00:44:36\]  And people who study metabolics will already say that of course, we're temporary metabolic
+- \[00:44:40\]  patterns that exist in, there's flux that is sort of self, you know, people who study,
+- \[00:44:45\]  you know, kind of these, these emergent self, self-reinforcing energy patterns, right.
+- \[00:44:51\]  That, that's, that's how they would describe us anyway.
+- \[00:44:53\]  So, okay.
+- \[00:44:54\]  So, so once you start thinking about that, then you can start asking about further about
+- \[00:45:00\]  the distinction between thoughts as patterns within a cognitive system.
+- \[00:45:05\]  And what does it take to spawn off to have thoughts?
+- \[00:45:10\]  What does it mean to have thoughts?
+- \[00:45:11\]  So once you go down that road, you start to think about, imagine this continuum.
+- \[00:45:15\]  So here's a, here's a continuum fleeting thoughts.
+- \[00:45:19\]  So these are patterns that come in and they're gone, right?
+- \[00:45:23\]  They're called intrusive thoughts.
+- \[00:45:24\]  So these are thoughts that once you've had them, they are hard to get rid of.
+- \[00:45:28\]  And not only are they hard to get rid of, they do a bit of niche construction.
+- \[00:45:31\]  I'm sure you know all about this is certain kinds of thoughts actually change the brain
+- \[00:45:34\]  to make it easier to keep having those thoughts.
+- \[00:45:37\]  Right?
+- \[00:45:38\]  So, so, so they're doing a little bit of niche construction.
+- \[00:45:40\]  They're, they're, they're modifying their environment to allow themselves to persist
+- \[00:45:45\]  and multiply and things like that.
+- \[00:45:48\]  You go from there and there's, there's some kind of exotic intermediates, but the next
+- \[00:45:51\]  thing we for sure know about is multiple personality alters.
+- \[00:45:56\]  So, so it's not just a single thought that hangs around.
+- \[00:45:59\]  It's like a, it's like a bundle of thoughts that has some dynamics to it and can actually,
+- \[00:46:03\]  you know do some stuff.
+- \[00:46:06\]  And then, and then of course there are, you know, things that we call full blown personalities,
+- \[00:46:10\]  which are like really consistent at least for some period of time, they're consistent
+- \[00:46:14\]  sets of thoughts.
+- \[00:46:15\]  So, so the thing about the right side of that continuum is that these are, they've done
+- \[00:46:20\]  two things.
+- \[00:46:22\]  One is they've closed the loop in that they reinforce themselves.
+- \[00:46:26\]  So they, right.
+- \[00:46:27\]  They, they probably, they, they, they prop themselves up over time.
+- \[00:46:29\]  But the other thing is that they can spawn off other thoughts.
+- \[00:46:32\]  So by the time you get to a, to an alter, you've got a, you've got a cognitive pattern
+- \[00:46:38\]  that's complex enough that can spawn off other simpler patterns.
+- \[00:46:42\]  And so now, now you try to draw a distinction between the thought and the thinker and it's
+- \[00:46:46\]  real hard now because, because, okay, all we're talking about is cognitive patterns.
+- \[00:46:52\]  And some of these patterns are, you know, in the language of dissipative systems, right?
+- \[00:46:57\]  Some of them are just, you know, fleeting.
+- \[00:46:59\]  Some of them are self-perpetuating like the red spot of Jupiter and things like this,
+- \[00:47:02\]  they sort of keep themselves going and other patterns spawn off smaller patterns and other
+- \[00:47:07\]  patterns hang around for a hundred years and we give them names and we, you know.
+- \[00:47:12\]  But don't they need the, I mean, but as you suggested, they need the host of brains, right?
+- \[00:47:17\]  I don't think they, well, so, okay.
+- \[00:47:20\]  So this is like very speculative stuff, right?
+- \[00:47:23\]  So, so here we go.
+- \[00:47:25\]  First of all, I definitely don't think they need brains because these kinds of things
+- \[00:47:29\]  go on in all sorts of media.
+- \[00:47:30\]  So they go on in, in, in protoplasm and nor in cells, in, in the, I think, I think there's
+- \[00:47:35\]  lots of, lots of media that they can.
+- \[00:47:37\]  Different substrates, not necessarily just brains.
+- \[00:47:40\]  Exactly.
+- \[00:47:41\]  Lots of different, well, we call the substrate living because it's a substrate that is capable
+- \[00:47:47\]  of hosting self-reinforcing goal-driven patterns, patterns that have agendas.
+- \[00:47:52\]  That's what we call living.
+- \[00:47:54\]  But I think you could have, and I'm sure in the, out there in the universe, I'm going
+- \[00:47:57\]  to guess there's all kinds of substrates that are capable of that.
+- \[00:48:01\]  I think we're going to end up making a whole bunch with, with different, you know, both
+- \[00:48:05\]  software and material science that people are working on.
+- \[00:48:07\]  I don't think there's anything special about brains per se with, for that aspect, but but
+- \[00:48:12\]  here's the, here's the craziest thing.
+- \[00:48:14\]  And this is just the latest thing I thought of that I have, I have zero kind of details
+- \[00:48:19\]  to back this up, but I'll just throw this out as a crazy thing.
+- \[00:48:23\]  You know, at the, at the beginning of the 1900s, it was thought that self-perpetuating
+- \[00:48:29\]  electromagnetic waves.
+- \[00:48:31\]  So a pattern that perpetuates for long periods of time required a material to be waving.
+- \[00:48:37\]  You needed, you needed an ether that you could say was something was waving in order
+- \[00:48:42\]  to have a wave.
+- \[00:48:44\]  We did it, we did away with all that.
+- \[00:48:46\]  We don't, you can have a pattern propagating with nothing waving there.
+- \[00:48:51\]  You don't need a material.
+- \[00:48:52\]  You got rid of the luminiferous ether because, because you found out that the two components,
+- \[00:48:57\]  the magnetic and the electric component, you know, they, they can, they can sort of reinforce
+- \[00:49:01\]  each other and this thing sort of, sort of propagates.
+- \[00:49:03\]  So I wonder, and again, I'm not saying I believe this.
+- \[00:49:06\]  I'm just saying, this is something I'm toying with at the moment.
+- \[00:49:09\]  I wonder if you could make a move like that.
+- \[00:49:11\]  You could get rid of this cognitive ether, AKA brains or whatever else.
+- \[00:49:17\]  And you could have patterns that are actually self-reinforcing in the absence of all of
+- \[00:49:21\]  that.
+- \[00:49:22\]  I don't know what specifically, what physical model you would have.
+- \[00:49:25\]  I think we need to think more about this.
+- \[00:49:28\]  This would seem like you need a physical model.
+- \[00:49:30\]  Correct.
+- \[00:49:32\]  Correct.
+- \[00:49:33\]  The reason, correct.
+- \[00:49:34\]  The reason you, well, the first thing that will happen is people say, we'll say this
+- \[00:49:38\]  is dualism and fair enough.
+- \[00:49:40\]  Or idealism actually.
+- \[00:49:42\]  Or idealism.
+- \[00:49:43\]  Yeah.
+- \[00:49:44\]  Fair enough.
+- \[00:49:45\]  I, you know, I think that's true.
+- \[00:49:46\]  And I think some of the stuff we talked about before about the practicalities of platonic
+- \[00:49:50\]  space and those, the patterns that are there, like, I think this is in that same, in that
+- \[00:49:53\]  same vein.
+- \[00:49:54\]  And I think, yes, those things are not physical.
+- \[00:49:56\]  And I think they're real in the sense that they make a huge difference about what happens
+- \[00:49:59\]  next and so on.
+- \[00:50:01\]  Yeah.
+- \[00:50:02\]  The reason you need some kind of a physical story at some point is that you need to flesh
+- \[00:50:08\]  out a story about the interaction with physical bodies.
+- \[00:50:12\]  So what is it that happens when evolution produces, or an engineer produces some kind
+- \[00:50:17\]  of physical machine?
+- \[00:50:19\]  What's the interaction between those patterns that come to resonate?
+- \[00:50:22\]  And so, some people will, you know, some, somebody will say incarnate.
+- \[00:50:25\]  I will say, you know, Richard Watson will say resonate.
+- \[00:50:30\]  Who knows?
+- \[00:50:31\]  But when it comes to these kinds of patterns that are embodied in a physical machine, we
+- \[00:50:38\]  need some kind of story about what happens there because otherwise, you know, they sort
+- \[00:50:42\]  of remain off in this.
+- \[00:50:44\]  I see.
+- \[00:50:45\]  So they have to encounter something.
+- \[00:50:47\]  They have to.
+- \[00:50:48\]  Yeah.
+- \[00:50:49\]  Yeah.
+- \[00:50:50\]  And we're actually doing work.
+- \[00:50:51\]  So this is, again, this is not published yet, but we're actually doing some stuff on how
+- \[00:50:55\]  you could.
+- \[00:50:56\]  Basically, basically, at this point, I think that the idea of a of an unchanging permanent
+- \[00:51:02\]  sort of platonic space where everything just is sort of fixed there.
+- \[00:51:06\]  I think that I think it's much more it's much more interesting than that.
+- \[00:51:09\]  I think there is a chemistry of these things in that space.
+- \[00:51:11\]  And I think we have a computational way to start doing experiments there.
+- \[00:51:15\]  And we have I have a student working on on some stuff.
+- \[00:51:18\]  So stay tuned.
+- \[00:51:19\]  There will be.
+- \[00:51:20\]  It is.
+- \[00:51:21\]  It is completely wild.
+- \[00:51:23\]  Looking at looking at agentic properties in sets of logical sentences, just, you know,
+- \[00:51:27\]  just sentences.
+- \[00:51:28\]  Some of them are passive and some of them are not.
+- \[00:51:30\]  Some of them do things by themselves.
+- \[00:51:32\]  And it's and it's really interesting.
+- \[00:51:34\]  But but that's you know, that's that's that's what I want to you know, going back to the
+- \[00:51:38\]  whole butterfly caterpillar thing.
+- \[00:51:40\]  I think that you can you can think about this thing as you've got the left side of it's
+- \[00:51:46\]  it's a it's a you know, it's an hourglass slash bowtie.
+- \[00:51:50\]  Right where you've got you've got the there's intelligence on the left side that takes all
+- \[00:51:55\]  of these different experiences and generalizes and abstracts to some sort of compressed engram.
+- \[00:52:01\]  You've got the creative intelligent part on the right side that has to reinflate it into
+- \[00:52:06\]  whatever the current context is and figure out what what what the memories mean.
+- \[00:52:10\]  But again, all of that, that that first way of telling the story assumes that the information
+- \[00:52:15\]  is passive and that all the intelligence is on the is in the hardware.
+- \[00:52:19\]  What if what if the data itself is not actually passive?
+- \[00:52:22\]  What if these are patterns as we were just talking about, and patterns that are using
+- \[00:52:27\]  the medium of the physical process from caterpillar to butterfly, right to perpetuate to perpetuate
+- \[00:52:33\]  and transform themselves?
+- \[00:52:35\]  And what if they're doing a bit of niche construction to make sure that they perpetuate and actually,
+- \[00:52:41\]  you know, do better, right?
+- \[00:52:43\]  As a butterfly, you've got some advantages that that you can have.
+- \[00:52:46\]  So so I don't know, you know, that that goes back to our the sort of the self sorting data
+- \[00:52:51\]  in the algorithms, right, the sorting algorithms, where the distinction between the data and
+- \[00:52:57\]  the algorithm is really very much in the eye of the beholder.
+- \[00:53:02\]  And you can very and if you look for it, you can find the data doing things, you know,
+- \[00:53:06\]  how could you prove that that there's agency in information?
+- \[00:53:11\]  Well, the way you prove agency in anything, I think, is you show again, and this is this
+- \[00:53:17\]  is a kind of an engineering take is you show how doing so helps you do something new.
+- \[00:53:22\]  How, right?
+- \[00:53:23\]  So so how does it help you?
+- \[00:53:25\]  Right?
+- \[00:53:26\]  It's it's the you know, my argument is that back in the olden days, when people said there's
+- \[00:53:30\]  a spirit under every rock, versus now where the scientists say there isn't any anywhere.
+- \[00:53:35\]  Both of those things are wrong, because they're just you have to do experiments.
+- \[00:53:38\]  And you have to say, here's my theory, here's what it does for me, you know, I, so so what
+- \[00:53:43\]  so so here's what we're doing for this.
+- \[00:53:46\]  For the for the sorting algorithms thing, what we found, and this was just the first
+- \[00:53:51\]  thing we looked for.
+- \[00:53:52\]  So no, I gotta think there's more, but we just haven't found it yet.
+- \[00:53:55\]  The first thing we found is we found these algorithms doing stuff that are with that
+- \[00:54:01\]  is not explicitly in the algorithm.
+- \[00:54:03\]  They are they are doing things specifically, they've, they're doing this clustering behavior
+- \[00:54:07\]  that are not in the algorithm.
+- \[00:54:09\]  So there are no steps to do that in the algorithm.
+- \[00:54:13\]  Now, now, now, you know, when you're looking at an algorithm, it has a cost to it, every
+- \[00:54:17\]  computation costs something.
+- \[00:54:19\]  So what so what we what we see is that there's an algorithm, the computer is carrying out
+- \[00:54:22\]  this algorithm that you pay, you pay an energy toll to do all the, but it's also doing something
+- \[00:54:28\]  else.
+- \[00:54:29\]  And it looks to me like it's doing that for free.
+- \[00:54:30\]  So so so here's how I would do it.
+- \[00:54:33\]  And I have a I have a somebody in my lab who's who's who's working on this right now, is
+- \[00:54:37\]  to harness that to some other task that's actually useful.
+- \[00:54:42\]  Because if you can do that, that second task is getting done for free without paying an
+- \[00:54:45\]  energy bill for it.
+- \[00:54:47\]  Now, I mean, obviously, that sounds impossible.
+- \[00:54:49\]  I understand that.
+- \[00:54:50\]  And it may well turn out to be impossible.
+- \[00:54:52\]  But that's the kind of thing you you you have to show an example where, okay, I took seriously
+- \[00:54:57\]  the idea that this thing had its own goal directed activity, I harness that goal direct
+- \[00:55:01\]  that activity to you know, it's like the donkey with the carrot on the on the stick,
+- \[00:55:05\]  right?
+- \[00:55:06\]  By understanding what what the drivers of this of this agent are, I can harness it to
+- \[00:55:10\]  do useful work.
+- \[00:55:11\]  And if I can do more useful work per unit of cost for compute than somebody else who
+- \[00:55:15\]  doesn't believe in that, I mean, that's it, there's there's no more to be had than empirical
+- \[00:55:19\]  success.
+- \[00:55:20\]  So so that's the kind of thing that I think we have to do.
+- \[00:55:23\]  That's great.
+- \[00:55:24\]  That's fascinating.
+- \[00:55:25\]  So you need memories to have a self Yes.
+- \[00:55:29\]  Can you have a self without memory?
+- \[00:55:30\]  You can have a you can have a self let you can have a you can have a slice I you know,
+- \[00:55:37\]  I do I do think and this is like going beyond anything that I can usefully sort of show
+- \[00:55:41\]  that's just the thoughts there that thin slices are they do have experience and they probably
+- \[00:55:49\]  do have, you know, some some sort of consciousness associated with them.
+- \[00:55:54\]  But but but if you don't have a carry through, then then you become fleeting thoughts, you
+- \[00:55:59\]  become a set of fleeting thoughts, basically, as opposed to a coherent reinforcing pattern.
+- \[00:56:03\]  Right.
+- \[00:56:04\]  That you could make a story out of.
+- \[00:56:07\]  So you did you just use the C word and you used it several times in this paper.
+- \[00:56:12\]  After last time, years ago, when we met, you were like, conspicuously avoiding it.
+- \[00:56:20\]  And there's a really provocative sentence, maybe you could just unpack a little for me.
+- \[00:56:26\]  Could consciousness simply be what it feels like to be in charge of constant self construction,
+- \[00:56:31\]  driven to reinterpret all available data in the service of choosing what to do next?
+- \[00:56:35\]  Yeah, tell me how you're thinking about consciousness.
+- \[00:56:40\]  Yeah.
+- \[00:56:41\]  And so and so I still I still largely avoided because what I don't have is a full blown
+- \[00:56:45\]  new theory of consciousness that, you know, I'm prepared to defend strongly working.
+- \[00:56:50\]  Nobody does.
+- \[00:56:51\]  Well, I mean, a lot of people think they do, but.
+- \[00:56:53\]  Exactly.
+- \[00:56:54\]  So there's a lot of people who are willing to sort of get up with it, get out with it.
+- \[00:56:57\]  I don't have anything like that yet.
+- \[00:56:59\]  But but but but here's here's what did strike me.
+- \[00:57:03\]  You know, Mark Solms, whose work on this I really like, has this he has this interesting
+- \[00:57:10\]  point of view that he thinks that he says that consciousness is palpated uncertainty
+- \[00:57:15\]  about the future.
+- \[00:57:16\]  So the idea is that consciousness is the is what it feels like to have to be in charge
+- \[00:57:22\]  of knowing what to do next.
+- \[00:57:24\]  So this idea that right.
+- \[00:57:25\]  So this leads to connected to active inference.
+- \[00:57:27\]  And, you know, what what do these patterns mean?
+- \[00:57:29\]  What can I expect next?
+- \[00:57:31\]  How do I minimize my surprise?
+- \[00:57:32\]  These things.
+- \[00:57:33\]  So so so here's another hypothesis.
+- \[00:57:35\]  What if?
+- \[00:57:36\]  Yes, all that is true.
+- \[00:57:38\]  But there's an even deeper problem, which is that as a conscious agent, not only do
+- \[00:57:43\]  you not know what to do next, you don't even know what your own memories mean.
+- \[00:57:48\]  You have the constant burden of having to reinterpret your own memories all the time.
+- \[00:57:54\]  And of course, it's subconscious.
+- \[00:57:56\]  If it was if if this is something we had to do consciously, you know, we wouldn't we would
+- \[00:57:59\]  never make it.
+- \[00:58:00\]  But it's a little bit like, you know, people who have brain damage and can't form new memories.
+- \[00:58:06\]  You know, you wake up in the morning and there's a there's a there's a notepad next to your
+- \[00:58:09\]  bed and it says, hey, guess what?
+- \[00:58:11\]  You can't form new memories.
+- \[00:58:13\]  Here's where things stand.
+- \[00:58:14\]  And by the way, before you go to bed tonight, right, right.
+- \[00:58:17\]  You know, right, right.
+- \[00:58:18\]  You know, right.
+- \[00:58:19\]  The next note.
+- \[00:58:20\]  And so, right.
+- \[00:58:21\]  I mean, that's what all of us do.
+- \[00:58:22\]  But for for all of us, that scratch pad is internal.
+- \[00:58:24\]  But for ant colonies and certain kinds of patients, you have to externalize you have
+- \[00:58:29\]  to externalize those memories somehow.
+- \[00:58:31\]  So I think that we're all kind of in that boat in that every so many milliseconds, you
+- \[00:58:40\]  have to be able to you have to be you have to reconstruct the story of who you are, what
+- \[00:58:44\]  your plans were.
+- \[00:58:45\]  Right.
+- \[00:58:46\]  And we don't notice it because it's I mean, it has to be automatic.
+- \[00:58:48\]  Otherwise, we notice it when we wake up in the morning.
+- \[00:58:51\]  Yeah.
+- \[00:58:52\]  Yeah.
+- \[00:58:53\]  There's an interesting moment of reconsolidation of self.
+- \[00:58:55\]  Yeah.
+- \[00:58:56\]  Yeah, there is.
+- \[00:58:57\]  And I wonder if I wonder if this is the problem with trying to make sense of our dreams, too,
+- \[00:59:02\]  is that and I'm not I'm no expert on dreams.
+- \[00:59:05\]  But but but I wonder if part of the issue is that at night, you don't really do a super
+- \[00:59:10\]  good job of memories in a way that your future self is going to decode them.
+- \[00:59:16\]  And that that's the crazy dreams that we can't even figure out what what the heck it was.
+- \[00:59:20\]  It's basically because you're looking at these angrams going, I can't make heads or tails
+- \[00:59:23\]  of this.
+- \[00:59:24\]  And it's just it's just more difficult than than than waking, you know, waking memories.
+- \[00:59:28\]  I don't know that that's that's a hypothesis.
+- \[00:59:30\]  But I wonder, you know, for consciousness, I think that I think Mark is right.
+- \[00:59:33\]  But I also think that there's an even deeper task facing selves, you know, conscious selves,
+- \[00:59:40\]  which is that you can't even you can't even really rely on the past.
+- \[00:59:44\]  It's you know, you have to you have to reconstruct it all the time.
+- \[00:59:48\]  You have to figure out what you are and, you know, recommit to being an agent doing things.
+- \[00:59:53\]  So that's that was that was my hypothesis.
+- \[00:59:54\]  Yeah, I think it's a fascinating idea.
+- \[00:59:57\]  Of course, we haven't talked about the social world, but that that is helping us in a funny
+- \[01:00:02\]  way and and constraining us.
+- \[01:00:04\]  Right.
+- \[01:00:05\]  I mean, you're being told who you are all the time by the people around you.
+- \[01:00:08\]  You know, who kind of keep you in certain roles and limit your ability to change.
+- \[01:00:14\]  Yeah.
+- \[01:00:15\]  Yeah.
+- \[01:00:16\]  There's a there's a softening of self that happens when you're not in a social environment,
+- \[01:00:21\]  it seems to me.
+- \[01:00:24\]  So I thought about this, too, with regard to psychedelics, which have interesting effects
+- \[01:00:29\]  on the self and on memory.
+- \[01:00:33\]  All sorts of stuff comes up.
+- \[01:00:35\]  People people talk about a period of ego dissolution, a complete loss of sense of self, yet they're
+- \[01:00:42\]  still conscious.
+- \[01:00:45\]  And then this kind of putting things together in a new way, you know, I mean, especially
+- \[01:00:49\]  with the trauma victims who are treated, they they take out their memories, difficult memories.
+- \[01:00:57\]  And when they reconsolidate them, they're not the same.
+- \[01:01:01\]  They've got they've lost the emotional charge or whatever it is.
+- \[01:01:04\]  I mean, there's a kind of very interesting process of playing with your memories in psychedelic
+- \[01:01:10\]  experience so that you end up being a slightly different self when you come out.
+- \[01:01:15\]  If it's working, I mean, that's kind of the theoretical model is get you out of your habitual
+- \[01:01:20\]  ways of looking at things and your and those kind of, you know, rumination.
+- \[01:01:25\]  I mean, those sort of the thoughts you were describing that take up residence in your
+- \[01:01:30\]  brain that you might not necessarily want.
+- \[01:01:33\]  Super interesting.
+- \[01:01:34\]  And I wonder if there is a clinical path here by taking seriously the idea that some of
+- \[01:01:41\]  those thoughts may not want to leave, like literally.
+- \[01:01:46\]  Right.
+- \[01:01:47\]  You know, and there may be some that is trauma.
+- \[01:01:49\]  I mean, that's, you know, part of trauma.
+- \[01:01:52\]  Yeah.
+- \[01:01:53\]  Yeah.
+- \[01:01:54\]  But but but I wonder if, you know, taking taking seriously their ability to process
+- \[01:01:57\]  information, maybe not in the same way as a full blown altar, but but but still not
+- \[01:02:02\]  passive data, but actually a pattern that can, you know, a dissipative system that can
+- \[01:02:07\]  actually process information.
+- \[01:02:09\]  You know, it may not.
+- \[01:02:10\]  I mean, I don't I don't know anything about this.
+- \[01:02:12\]  So maybe this is totally nuts.
+- \[01:02:13\]  But I've heard various kinds of alternative therapists and whatnot, you know, wanting
+- \[01:02:19\]  you to talk to your different.
+- \[01:02:21\]  Yeah.
+- \[01:02:22\]  Oh, but so that may not be that may not be crazy.
+- \[01:02:25\]  There may be.
+- \[01:02:26\]  Right.
+- \[01:02:27\]  There may be if they can, if these patterns can process information to some extent, there
+- \[01:02:30\]  may be stimuli you can give them where basically you're not you're not just treating the brain
+- \[01:02:35\]  to somehow take care of this.
+- \[01:02:38\]  So that may work, too.
+- \[01:02:39\]  But you're actually maybe maybe maybe there is something to be said for communicating.
+- \[01:02:42\]  Well, yeah, this is now this is the theory in treating schizophrenia.
+- \[01:02:46\]  You know, yes, we are hearing voices.
+- \[01:02:48\]  Why don't you talk to them or why don't you let me talk to them?
+- \[01:02:53\]  And if you think about it, trauma, memories of trauma do process information because you
+- \[01:02:59\]  hear a gunshot or something now and it's processed as that or a siren or whatever it is.
+- \[01:03:07\]  So they are still active in your brain in an interesting way.
+- \[01:03:11\]  Yeah.
+- \[01:03:12\]  Yeah, that's very that's very suggestive.
+- \[01:03:15\]  I'm going to let you go in a second, just have one or two more questions.
+- \[01:03:23\]  Well, this kind of relates to the psychedelic point, but it's interesting that we we cherish
+- \[01:03:28\]  ourselves and we talk about self-esteem and building up the self with our kids.
+- \[01:03:36\]  And we're very wedded to the idea of, as I said earlier, this this unchanging, enduring
+- \[01:03:41\]  self.
+- \[01:03:42\]  Yet, at the same time, we spend a lot of effort trying to transcend it and escape ourselves,
+- \[01:03:49\]  whether it's through drugs is one way, but also.
+- \[01:03:54\]  Travel experiences of awe that we know kind of diminish the self religion, giving yourself
+- \[01:04:01\]  over to the group.
+- \[01:04:02\]  Why do you think we also want to transcend selves?
+- \[01:04:10\]  I think, again, I don't know, but I think that probably there are competing drives.
+- \[01:04:18\]  So there's the there's the evolutionary firmware that says defend yourself at all costs.
+- \[01:04:23\]  Right.
+- \[01:04:24\]  That's I think that's got to be in there.
+- \[01:04:26\]  But there may well be an opposing component that says, yes, but if you stand still, you're
+- \[01:04:32\]  also not going to make it.
+- \[01:04:34\]  So it's like, you know, with active inference, there's this thing, you know, surprise minimization.
+- \[01:04:38\]  Right.
+- \[01:04:39\]  So but the easiest way not to be surprised is to stick your head in the corner and not
+- \[01:04:43\]  look at anything.
+- \[01:04:44\]  And then there will be one final surprise at the end when somebody eats you.
+- \[01:04:46\]  But that's it.
+- \[01:04:47\]  You're not surprised.
+- \[01:04:48\]  So, you know, so so there's got to be I think in biology, there's got to be two competing
+- \[01:04:53\]  drives.
+- \[01:04:54\]  One is surprise minimization and one is exploration where it says, you know, if you haven't seen
+- \[01:04:59\]  anything new in a long time, you might be stuck in a corner.
+- \[01:05:03\]  You better do something else.
+- \[01:05:04\]  Right.
+- \[01:05:05\]  And so so maybe it's something like that.
+- \[01:05:07\]  Maybe it's like, yes, defend yourself.
+- \[01:05:08\]  But also, if you're too stuck and you haven't learned anything new and you haven't improved
+- \[01:05:12\]  and you haven't whatever, then.
+- \[01:05:15\]  And I don't know if that's something that comes from the biology itself or meaning just,
+- \[01:05:21\]  you know, a drive with actual selective advantage or whether that's some sort of a consequence
+- \[01:05:27\]  of being an advanced being that, you know, has some sort of semi spiritual drive to to
+- \[01:05:33\]  improve over time or something.
+- \[01:05:35\]  Right.
+- \[01:05:36\]  Right.
+- \[01:05:37\]  You familiar with the Dekha?
+- \[01:05:38\]  This is another binary between exploring and exploiting.
+- \[01:05:41\]  Yeah.
+- \[01:05:43\]  It kind of reminds me of that idea that there is a desire.
+- \[01:05:46\]  I mean, we spend a lot of time in exploit mode as adults, but we also need to do the
+- \[01:05:53\]  exploration and that and that's the exploit mode has the strongest sense of self.
+- \[01:05:58\]  Yes.
+- \[01:05:59\]  Yes.
+- \[01:06:00\]  Psychologists would say.
+- \[01:06:01\]  Yeah.
+- \[01:06:02\]  Yeah.
+- \[01:06:03\]  Yeah.
+- \[01:06:04\]  I think that makes sense.
+- \[01:06:05\]  And I wonder if I wonder if aging on the cellular level, if aging is a part of that, you know.
+- \[01:06:08\]  Well, you chase you chase the the the moving target morphology as an embryo and eventually
+- \[01:06:15\]  you reach your adult form and sort of that's it.
+- \[01:06:17\]  You've caught you've caught up.
+- \[01:06:19\]  And so now the name of the game is to defend against tiny local defections of cancer and
+- \[01:06:26\]  degeneration and just, you know, cells getting old and so on.
+- \[01:06:30\]  But but if once you've given up once you've given up that you're on a trajectory for some
+- \[01:06:35\]  kind of construction project, maybe, you know, that that's it.
+- \[01:06:40\]  If you if you're if you're stuck in a rut of exploit and you're really not exploring
+- \[01:06:44\]  anything that may be when things start to go to pot.
+- \[01:06:47\]  I don't know.
+- \[01:06:48\]  I mean, you know, the the the kind of familiar folk example is, you know, the people who
+- \[01:06:54\]  who retire from from their job and then immediately drop dead.
+- \[01:06:57\]  Right.
+- \[01:06:58\]  So that's the right.
+- \[01:06:59\]  That's just kind of a but maybe something like that is going on on a on a on a cellular
+- \[01:07:04\]  level where basically, you know, when there's nothing pulling you, there is no more of that.
+- \[01:07:11\]  The forces, which is what we study during development that pull you from stage to stage
+- \[01:07:15\]  at that point, then then then things things start to go downhill.
+- \[01:07:18\]  I don't know.
+- \[01:07:19\]  Yeah.
+- \[01:07:20\]  I noticed in your acknowledgments, which was a fascinating list.
+- \[01:07:24\]  I read it.
+- \[01:07:26\]  Bernardo Castro was in there.
+- \[01:07:28\]  Yeah.
+- \[01:07:29\]  Tell me about I'm talking to him tomorrow.
+- \[01:07:30\]  I've never met.
+- \[01:07:31\]  Oh, yeah.
+- \[01:07:32\]  Yeah.
+- \[01:07:33\]  I've had a couple of conversations with with Bernardo online and, you know, a bunch off.
+- \[01:07:39\]  Yeah.
+- \[01:07:40\]  Super interesting dude.
+- \[01:07:41\]  Computer science kind of background philosophy.
+- \[01:07:45\]  You know, he's got this kind of idealist model.
+- \[01:07:47\]  Yeah, I think he's very interesting.
+- \[01:07:49\]  You know, he did he did a cool session with Rupert Spira and they sort of talked about
+- \[01:07:55\]  this notion of all of us being dissociative alters of the great cosmic mind and things
+- \[01:08:01\]  like that.
+- \[01:08:02\]  Yeah.
+- \[01:08:03\]  I think you'll have fun.
+- \[01:08:04\]  I think he's he's a very smart guy.
+- \[01:08:05\]  I think you'll have fun.
+- \[01:08:06\]  I find I'm reading his book right now.
+- \[01:08:08\]  He's a new book that he sent me a copy of.
+- \[01:08:11\]  The epistemology piece seems very persuasive.
+- \[01:08:14\]  I mean, the more we learn about active inference and the fact that we're constructing our perceptions
+- \[01:08:19\]  are limited by our cognitive equipment and the world we're seeing is mental to a greater
+- \[01:08:25\]  extent than we realize.
+- \[01:08:28\]  But then he goes to the next step that what's really there is mine.
+- \[01:08:32\]  And that's I don't understand that he sort of asserts it without arguing it.
+- \[01:08:36\]  Well, he's got he's got, I think, five other books that he's probably leaning on.
+- \[01:08:42\]  And I'm not I'm not going to try to kind of make his argument for him, because I think
+- \[01:08:46\]  I'll butcher it.
+- \[01:08:47\]  He'll he'll do a much better job of it himself.
+- \[01:08:49\]  You can ask him to just, like, say it.
+- \[01:08:50\]  But, you know, I think that fundamentally, I like that idealist position in the sense
+- \[01:08:58\]  that I think what actually propagates through evolution, through the universe, I think the
+- \[01:09:05\]  fundamental pieces are perspectives.
+- \[01:09:10\]  So I don't think it's genes.
+- \[01:09:12\]  I don't think it's bodies.
+- \[01:09:13\]  I think it's I think it's I think it's perspectives.
+- \[01:09:17\]  And so what I mean is that that any any agent you can't afford to you can't you can't afford
+- \[01:09:27\]  to try to see the world as it is in the sense of like a Laplacian demon.
+- \[01:09:32\]  You can't afford to track microstates, because if you if you try to track microstates, by
+- \[01:09:37\]  the time you figure out what's going on, you'll be long dead.
+- \[01:09:40\]  Any any biological system that in the real world has constraints of energy of time.
+- \[01:09:46\]  So what that means is you're going to coarse grain, you're going to decide what am I ignoring?
+- \[01:09:49\]  What am I paying attention to?
+- \[01:09:50\]  I'm going to take all these kinds of observations.
+- \[01:09:52\]  I'm just going to lump them all together.
+- \[01:09:54\]  And I'm going to call it the and I don't mean this is not just humans doing this is every
+- \[01:09:57\]  cell, every bacterium, everything's doing this.
+- \[01:10:00\]  So what you really have there, then, is a perspective.
+- \[01:10:02\]  It's a commitment to it's a set of choices that say, here's what I'm paying attention
+- \[01:10:06\]  to.
+- \[01:10:07\]  And here's how I make sense of it.
+- \[01:10:10\]  Here's what I think it means.
+- \[01:10:11\]  You know, it's a it's a it's an interpretation.
+- \[01:10:14\]  So that's what I think is perpetuating through the universe and being selective on and, you
+- \[01:10:20\]  know, altering with time and all that is is a set of perspectives, a set of a particular
+- \[01:10:24\]  vantage point of saying, here's how I make sense of my world.
+- \[01:10:29\]  And once we understand that, that every cognitive being is limit every finite, every real being
+- \[01:10:33\]  is finite, we're all limited, we all have to choose a perspective that ignores all kinds
+- \[01:10:37\]  of other stuff.
+- \[01:10:38\]  And it's not just about only being able to sense a small, narrow band of the spectrum.
+- \[01:10:43\]  It actually I mean, that's true, too.
+- \[01:10:45\]  But but it's much more than that.
+- \[01:10:46\]  It's cognitively, not just perceptually that we're limited.
+- \[01:10:50\]  Then I think, you know, then then, yeah, then it's then it's all about what we're really
+- \[01:10:57\]  talking about.
+- \[01:10:58\]  Perspectives in the in the in the minds of living things.
+- \[01:11:01\]  Or are you talking about perspectives at large?
+- \[01:11:04\]  I'm talking about perspectives.
+- \[01:11:05\]  I mean, we can talk about what living things are, but I think that any agent that has to
+- \[01:11:11\]  whether we would call it living or not, I mean, any any kind of robotic thing and any
+- \[01:11:16\]  kind of system that solves problems in a world of some sort is going to have to have a perspective
+- \[01:11:23\]  on that world.
+- \[01:11:24\]  And the more right for a rock, you don't worry too much about its perspective, although with
+- \[01:11:29\]  potential energy and things like that, you almost kind of get there.
+- \[01:11:31\]  But but but for most things, things that have a significant inner perspective, we call
+- \[01:11:36\]  those things living typically, but it doesn't have to be.
+- \[01:11:41\]  And yeah, and whatever world they you know, you can you can ask like gene regulatory networks,
+- \[01:11:46\]  what's the world that they navigate?
+- \[01:11:47\]  It's not the physical three dimensional world.
+- \[01:11:49\]  It's the it's a high dimensional transcriptional space that they live in.
+- \[01:11:53\]  And I think from that, from from no pun intended, from that perspective, what you put it what
+- \[01:12:00\]  ends up being emphasized a lot more is what choices are you making about your cognitive
+- \[01:12:08\]  framing of your world and a lot less about some objective world existing out there somewhere?
+- \[01:12:14\]  And yeah, I think I think that's how you get to idealism is just is just by recognizing
+- \[01:12:19\]  that all real real agents are going to be finite and limited.
+- \[01:12:25\]  And therefore, what you're really talking about is an inner world that you're building
+- \[01:12:29\]  for yourself. It's your own self model.
+- \[01:12:31\]  That's that's that's a play here, not not some objective thing.
+- \[01:12:34\]  And that your self model may or your model of the world may or may not be compatible
+- \[01:12:38\]  with mine. You know?
+- \[01:12:41\]  Yeah. So in your view, though, I'm I'm assuming something, but I could be wrong.
+- \[01:12:48\]  The prerequisites of self and the process you're describing, do you think that that can
+- \[01:12:53\]  be embodied in a computer?
+- \[01:12:55\]  Yes, but computer has to I mean, again, whether something or not is a computer is in the
+- \[01:13:01\]  eye of the beholder, what what what we what what we mean when we say something is a
+- \[01:13:07\]  computer is that I have a set of conceptual tools that I bring to the table here that
+- \[01:13:12\]  come from computer science, and I'm claiming that those tools are useful.
+- \[01:13:15\]  That's all that's all it means.
+- \[01:13:16\]  And do I think that some of those tools are useful to understand cognition?
+- \[01:13:23\]  Cognition? Yes.
+- \[01:13:25\]  For example, reprogram ability and software.
+- \[01:13:26\]  I think it's extremely useful.
+- \[01:13:29\]  Do I think the Von Neumann architecture and the sharp distinction between data and the
+- \[01:13:32\]  machine are particularly useful?
+- \[01:13:33\]  No, I think we'll have to dump those.
+- \[01:13:36\]  Do you know, do I think that at some point we could make synthetic beings that have the
+- \[01:13:42\]  right features?
+- \[01:13:43\]  Absolutely. I don't see any reason why it seems completely backwards to me to say that
+- \[01:13:48\]  the blind meanderings of the evolutionary process can create real minds.
+- \[01:13:53\]  But but but intelligent engineers who understand how minds work can't do it.
+- \[01:13:57\]  That that seems crazy to me.
+- \[01:13:59\]  So so I think that that for sure, once we understand and I think we're getting there, I
+- \[01:14:03\]  think we understand that a few of the key features, I don't see any reason why we
+- \[01:14:07\]  couldn't reimplement them in a synthetic substrate.
+- \[01:14:11\]  Sure. Yeah.
+- \[01:14:12\]  But you need a substrate that, as you've said, is not at all like a Von Neumann.
+- \[01:14:17\]  Correct. Correct.
+- \[01:14:20\]  Yeah, I think you need a number of things.
+- \[01:14:21\]  And the thing is that I started I started writing those things down.
+- \[01:14:25\]  I started writing a paper.
+- \[01:14:26\]  This was a few months ago.
+- \[01:14:28\]  I started writing a paper to say, look, these are the things we've learned from biology.
+- \[01:14:32\]  If you just do these things, you will have a real a real agent.
+- \[01:14:36\]  And then then I stopped.
+- \[01:14:38\]  And although I don't think this is going to solve it because somebody else will, of
+- \[01:14:42\]  course, do it. But I didn't want to be responsible for it because I think that to
+- \[01:14:46\]  whatever extent that's on the right track, it may not be.
+- \[01:14:50\]  But if it is, then what that means is that it makes it very easy to make trillions of
+- \[01:14:54\]  other beings that are that have more that deserve moral consideration.
+- \[01:14:59\]  And I'm not really interested in being the cause of that.
+- \[01:15:02\]  But I'm sure that's where we're going.
+- \[01:15:03\]  I'm sure I'm sure this will get figured out.
+- \[01:15:05\]  And this is what will happen.
+- \[01:15:07\]  Yeah. Other people are working on it.
+- \[01:15:09\]  Oh, yeah. Including including Mark Zones, by the way.
+- \[01:15:11\]  Yes. Yes, that's right.
+- \[01:15:13\]  And that's right.
+- \[01:15:14\]  And I would say simplistic.
+- \[01:15:16\]  And it's and it's using computers as as they now exist.
+- \[01:15:20\]  Yeah. I think that I think of of anybody's project that that I think has a chance of
+- \[01:15:26\]  doing something like that. I think is is at the top of the list.
+- \[01:15:29\]  I actually think he could do it.
+- \[01:15:30\]  Yeah. Amazing. Amazing.
+- \[01:15:33\]  Well, thank you. Are you writing a book, a trade book?
+- \[01:15:37\]  I am. I'm currently on a Pagan and I are writing a book on bioelectricity and it
+- \[01:15:43\]  doesn't it doesn't have any of this stuff in it.
+- \[01:15:44\]  It's just straight up bioelectricity.
+- \[01:15:47\]  But the next book, if I if I if I get there, the next book will be all of this stuff,
+- \[01:15:53\]  basically. Great evolution, cognition.
+- \[01:15:56\]  And are you going to do that for a general audience?
+- \[01:15:59\]  I don't I don't know.
+- \[01:16:01\]  I'm still we're still so Richard Watson and I are probably going to do it together or
+- \[01:16:06\]  maybe we'll do two books.
+- \[01:16:07\]  We haven't been able to like maybe it'll be two books back to back or something.
+- \[01:16:10\]  You know, maybe inverted like the way that that was done for the Plenary Journal and
+- \[01:16:16\]  all that. I don't know.
+- \[01:16:22\]  I'm having a really hard time figuring out what is the best thing to do here, because
+- \[01:16:27\]  on the one hand, I could do a book for a for a general audience.
+- \[01:16:31\]  And I think what would happen then is that a lot of these there will be a set of people
+- \[01:16:37\]  from, let's say, the alternative sort of new age kind of community who would read these
+- \[01:16:41\]  things and they say, oh, yeah, no kidding.
+- \[01:16:43\]  We've known this for a long time and we they don't they don't need you know, they don't
+- \[01:16:48\]  need scientific sort of experiments to prove it, whatever they're already in for it.
+- \[01:16:55\]  And then there will be the science community who will say, well, there's not enough meat
+- \[01:17:01\]  here to convince me of any of these crazy things.
+- \[01:17:03\]  Right. So so I so I worry about that issue for the trade book.
+- \[01:17:07\]  You know, it sounds like that could miss the impact.
+- \[01:17:12\]  On the other hand, on the other hand, if we do an academic press book where you where you
+- \[01:17:16\]  go into detail on all of this stuff.
+- \[01:17:18\]  Yeah, I'm not sure. I'm not sure.
+- \[01:17:20\]  I'm not sure which of my colleagues have time to read something like that.
+- \[01:17:23\]  You know, who's going to read it?
+- \[01:17:25\]  I don't know. So I still haven't figured out what the right.
+- \[01:17:27\]  Yeah. I mean, I think you've got a really interesting book around some of these ideas.
+- \[01:17:31\]  And I think it'd be of interest to a lot more than new age people.
+- \[01:17:37\]  I really do. Do you have a literary agent?
+- \[01:17:40\]  I do. Yeah. Yeah.
+- \[01:17:42\]  I mean, it's a conversation to have with that person.
+- \[01:17:44\]  Is it who is it? Brockman shop?
+- \[01:17:46\]  It is. Yeah. Yeah. Yeah. Dan introduced me to Brockman.
+- \[01:17:48\]  Yeah. Yeah. Yeah. We'll have a I mean, I mean, he obviously wants a trade book.
+- \[01:17:51\]  All right. So now the other thing is, you know, they don't which which is kind of wild.
+- \[01:17:57\]  They don't like images and they certainly don't like color.
+- \[01:18:00\]  I have I have some amazing color illustrations.
+- \[01:18:03\]  And I don't know, that feels weird to me in this modern day and age with computer.
+- \[01:18:07\]  Like, do we even need a book?
+- \[01:18:09\]  Could I could I just put it all on a website?
+- \[01:18:11\]  Like, why do we need a book? I don't you know, and, you know,
+- \[01:18:13\]  and somebody is going to tell you not to use color.
+- \[01:18:15\]  Like, I don't know. Yeah. Yeah.
+- \[01:18:18\]  Well, good luck with that.
+- \[01:18:19\]  I just think that these ideas would be of interest to a lot of people
+- \[01:18:23\]  in a lot of different fields. They're very interdisciplinary ideas. Yeah.
+- \[01:18:26\]  And so I think the right trade book would reach your colleagues
+- \[01:18:32\]  or colleagues and other, you know, in philosophy and computer science.
+- \[01:18:37\]  Anyway, it's all it's just fascinating stuff.
+- \[01:18:39\]  Well, thank you. I appreciate that.
+- \[01:18:40\]  I'll be in touch because because I will definitely want to pick your brain
+- \[01:18:43\]  when it comes to I'm happy to read a proposal if you do that or whatever.
+- \[01:18:47\]  Yeah, I'd love to get suggestions.
+- \[01:18:49\]  That'd be super useful. Thank you. Good.
+- \[01:18:51\]  And I'm going to be in Cambridge this fall.
+- \[01:18:53\]  So I'll look you up and get together in person. Definitely.
+- \[01:18:56\]  Yeah, we'll hang out.
+
