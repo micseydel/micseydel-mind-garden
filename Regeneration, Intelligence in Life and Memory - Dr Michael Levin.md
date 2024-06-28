@@ -1,0 +1,2271 @@
+---
+created: 2024-06-28T15:07:00-07:00
+updated: 2024-06-28T15:07:02-07:00
+---
+- ![Regeneration, Intelligence in Life & Memory - Dr Michael Levin](https://www.youtube.com/watch?v=-Bwq1oOST7w&t=428s&ab_channel=TheSheekeyScienceShow)
+    - (2022-04-30; 1:31:21)
+- \[00:00:00\]  There are going to be surprises for sure.
+- \[00:00:01\]  I mean, the most certain hallmark
+- \[00:00:04\]  of collective intelligence is that they surprise you.
+- \[00:00:07\]  That's the most obvious thing.
+- \[00:00:09\]  But you hope that you discover the key surprises
+- \[00:00:12\]  during testing.
+- \[00:00:12\]  That's what all the testing's for.
+- \[00:00:14\]  Called the endless forms most beautiful 2.0, right?
+- \[00:00:18\]  Darwin had this phrase, and he was really
+- \[00:00:19\]  impressed with a variety of living things
+- \[00:00:21\]  that he saw in the natural world.
+- \[00:00:22\]  This is an N of 1.
+- \[00:00:24\]  This phylogenetic tree on Earth is an N of 1, basically.
+- \[00:00:28\]  We are going to be, it's a tiny,
+- \[00:00:30\]  if you plot out the space of all possible bodies and minds
+- \[00:00:35\]  that go with them, everything we know about on Earth
+- \[00:00:37\]  is like a tiny little corner of that.
+- \[00:00:39\]  And there are just massively different creatures
+- \[00:00:42\]  that we are going to have to deal with.
+- \[00:00:43\]  Never mind what happens if we find
+- \[00:00:45\]  life exobiological context outside the planet.
+- \[00:00:48\]  Never mind that.
+- \[00:00:49\]  We're going to be making aliens like you can't believe.
+- \[00:00:51\]  That's just, there's no getting around that.
+- \[00:00:54\]  So hello, and welcome to the Cheeky Science Show,
+- \[00:00:57\]  where in this video, I had great fun speaking
+- \[00:00:59\]  with Dr. Michael Levin, Principal Investigator
+- \[00:01:02\]  at Tufts University, whose lab studies
+- \[00:01:05\]  anatomical and behavioral decision-making
+- \[00:01:07\]  at multiple scales of biological, artificial,
+- \[00:01:10\]  and hybrid systems.
+- \[00:01:12\]  In the following discussion, we talk
+- \[00:01:14\]  about regeneration, intelligence,
+- \[00:01:17\]  and synthetic living machines.
+- \[00:01:19\]  So I hope you enjoyed the conversation as much as I did.
+- \[00:01:22\]  So hi, Mike.
+- \[00:01:23\]  Thank you very much for joining me today,
+- \[00:01:25\]  and welcome to the Cheeky Science Show.
+- \[00:01:27\]  Thank you.
+- \[00:01:28\]  It's good to be here.
+- \[00:01:29\]  Well, I'm super fascinated and excited to have you on today
+- \[00:01:33\]  because your research is just fascinating.
+- \[00:01:35\]  And I have so many questions, possibly more questions for you
+- \[00:01:39\]  than I have had for any of my other guests previously.
+- \[00:01:41\]  So I'm sure we'll cover a broad spectrum of very interesting
+- \[00:01:44\]  topics today.
+- \[00:01:46\]  Great.
+- \[00:01:46\]  Yeah, let's do it.
+- \[00:01:47\]  So I guess we'll just jump straight into it.
+- \[00:01:50\]  And the first topic I just want to explore
+- \[00:01:53\]  is this idea of regeneration and how, I guess,
+- \[00:01:57\]  if we lose a limb or we lose a finger,
+- \[00:02:00\]  like from an evolutionary perspective,
+- \[00:02:02\]  that might be seen as being kind of an unfit thing
+- \[00:02:06\]  to not be able to regenerate or regrow different limbs.
+- \[00:02:10\]  And obviously, we have like wound repair systems
+- \[00:02:14\]  and different approaches to dealing
+- \[00:02:15\]  with, I guess, that stressful event such as a loss of a limb.
+- \[00:02:19\]  But I guess my first question is,
+- \[00:02:21\]  what exactly is regeneration and how does regeneration fit
+- \[00:02:25\]  onto the tree of life and which organisms
+- \[00:02:28\]  do possess this ability?
+- \[00:02:31\]  Yeah.
+- \[00:02:32\]  So I'll tell you what I know about regeneration in general.
+- \[00:02:36\]  And then maybe I can float an idea
+- \[00:02:38\]  for what I think it really is because I
+- \[00:02:40\]  think it's a little different than how a lot of people
+- \[00:02:42\]  think about it.
+- \[00:02:43\]  So regeneration is sprinkled pretty capriciously
+- \[00:02:49\]  across the tree of life.
+- \[00:02:52\]  Oftentimes, people think that some so-called simple systems
+- \[00:02:56\]  regenerate and then more advanced ones don't.
+- \[00:02:58\]  It's really not like that.
+- \[00:02:59\]  There are very similar species where some of them regenerate
+- \[00:03:02\]  and others don't regenerate anything.
+- \[00:03:04\]  So it's quite unclear, actually, why it comes and goes.
+- \[00:03:08\]  Some species, like planaria, regenerate everything.
+- \[00:03:11\]  Even small pieces will regenerate an entire worm.
+- \[00:03:13\]  Some species, like salamanders, they
+- \[00:03:17\]  will regenerate appendages, eyes, limbs, heart,
+- \[00:03:22\]  portions of the brain, spinal cord, ovaries.
+- \[00:03:26\]  Some mammals do interesting things.
+- \[00:03:28\]  So for example, deer regenerate their antlers.
+- \[00:03:30\]  So deer will regenerate a centimeter and a half
+- \[00:03:33\]  of new bone per day when they're growing their antlers, which
+- \[00:03:36\]  is like this amazing amount of bone and vasculature
+- \[00:03:39\]  and innervation and skin.
+- \[00:03:41\]  And humans, of course, regenerate their liver
+- \[00:03:43\]  and things like that.
+- \[00:03:45\]  Yeah, regeneration is really unclear why some species
+- \[00:03:52\]  regenerate and some don't.
+- \[00:03:53\]  I can tell a couple of interesting stories about it.
+- \[00:03:57\]  One thing that people sometimes think
+- \[00:03:58\]  is that the reason that long-lived species like us
+- \[00:04:02\]  don't regenerate is because it carries a cancer risk.
+- \[00:04:05\]  So the idea would be that if your body has access
+- \[00:04:08\]  to some sort of highly plastic proliferative cell types,
+- \[00:04:11\]  then that can increase the odds of cancer
+- \[00:04:15\]  during a long lifetime.
+- \[00:04:16\]  So that view, when you think about it from the bottom up
+- \[00:04:20\]  in terms of cell cycle checkpoints and genetic damage
+- \[00:04:23\]  and things like that, would predict
+- \[00:04:25\]  that animals with the best regenerative ability
+- \[00:04:28\]  would have the highest levels of cancer.
+- \[00:04:29\]  And in fact, the reality is the exact opposite.
+- \[00:04:32\]  Animals that are good regenerators
+- \[00:04:33\]  have very low cancer.
+- \[00:04:35\]  And there are all kinds of examples of normalization
+- \[00:04:38\]  where for a salamander or a planarian that does get cancer,
+- \[00:04:41\]  you induce regeneration and that process basically
+- \[00:04:44\]  clears it up and normalizes the cells
+- \[00:04:46\]  and you're back to normal.
+- \[00:04:48\]  So I think the better way to look at it is
+- \[00:04:51\]  if the body does not have very strong anatomical control,
+- \[00:04:58\]  so the ability for cellular collectives to know
+- \[00:05:00\]  what it is that they should be building and to build it,
+- \[00:05:03\]  then you are going to be both not very regenerative
+- \[00:05:06\]  and prone to cellular defections like cancer.
+- \[00:05:09\]  So I think, and I think what we're really looking at
+- \[00:05:11\]  when we talk about regeneration,
+- \[00:05:13\]  I don't think it is some special capacity
+- \[00:05:17\]  that sort of evolved as an add-on
+- \[00:05:19\]  to help you survive injury and stuff like that.
+- \[00:05:22\]  I think it's the consequence of an incredibly basic,
+- \[00:05:25\]  fundamental thing of multicellular life,
+- \[00:05:29\]  and in fact, even unicellular animals can regenerate,
+- \[00:05:31\]  which is anatomical homeostasis.
+- \[00:05:35\]  The idea that you solve problems
+- \[00:05:37\]  in anatomical morphospace,
+- \[00:05:39\]  meaning that you start out at one type of configuration
+- \[00:05:42\]  and you're trying to get to a particular region
+- \[00:05:44\]  of anatomical morphospace,
+- \[00:05:46\]  which is that target morphology for your species,
+- \[00:05:49\]  whatever that might be,
+- \[00:05:51\]  and living things being very good,
+- \[00:05:53\]  homeostats have all kinds of tricks
+- \[00:05:55\]  to get to where they're going despite perturbations
+- \[00:05:58\]  like mutation, like injury, like teratogens, all of that.
+- \[00:06:03\]  So I think that regeneration is actually the basal state,
+- \[00:06:08\]  and I think that, for example,
+- \[00:06:09\]  embryonic development is a kind of regeneration,
+- \[00:06:12\]  in that what happens from the perspective
+- \[00:06:14\]  of every developmental stage,
+- \[00:06:17\]  the prior stage is really a birth defect
+- \[00:06:19\]  and it needs to be fixed.
+- \[00:06:20\]  So from the perspective of being a gastrula,
+- \[00:06:22\]  the blastula is all wrong,
+- \[00:06:24\]  and so what'll happen is there's a remodeling event
+- \[00:06:27\]  that takes a blastula,
+- \[00:06:28\]  and so I have this model
+- \[00:06:30\]  where there's a stress-driven set of homeostatic processes,
+- \[00:06:39\]  which are basically trying to reduce the delta
+- \[00:06:41\]  between what you think,
+- \[00:06:44\]  what the pattern should be,
+- \[00:06:45\]  which is encoded in a particular bioelectrical state,
+- \[00:06:47\]  which we can talk about bioelectricity too,
+- \[00:06:49\]  and that delta, as soon as you've remodeled yourself
+- \[00:06:53\]  and you've reduced that delta
+- \[00:06:54\]  and now you're a particular stage,
+- \[00:06:56\]  that bioelectric pattern has meanwhile moved on,
+- \[00:06:58\]  so now you're wrong again,
+- \[00:06:59\]  and now you have to remodel again,
+- \[00:07:00\]  and it sort of basically pulls you stage by stage
+- \[00:07:02\]  through a set of regenerative events
+- \[00:07:05\]  that eventually, and eventually everything sort of
+- \[00:07:09\]  flattens out in adult patterning,
+- \[00:07:11\]  at least for most animals.
+- \[00:07:13\]  And so, yeah, that's where I think regeneration
+- \[00:07:16\]  is very fundamental,
+- \[00:07:17\]  it's a basic homeostatic control loop.
+- \[00:07:20\]  Wow, yeah, that's a really interesting viewpoint,
+- \[00:07:23\]  and to kind of just, I guess,
+- \[00:07:24\]  go a bit further with the idea about how
+- \[00:07:27\]  there isn't maybe an increased cancer risk
+- \[00:07:30\]  having this regenerative potential,
+- \[00:07:32\]  then why is it with humans and other,
+- \[00:07:35\]  I guess, the large organisms,
+- \[00:07:37\]  do we see less of a regenerative potential?
+- \[00:07:39\]  Like, it seems like a kind of,
+- \[00:07:41\]  not a bad decision, but a bad evolutionary offense
+- \[00:07:45\]  to have done something like that.
+- \[00:07:47\]  No, so no one knows for sure,
+- \[00:07:49\]  but I can tell a story that may or may not make sense.
+- \[00:07:53\]  Of course, there are gonna be trade-offs,
+- \[00:07:54\]  all kinds of trade-offs,
+- \[00:07:56\]  and so think about our ancestors.
+- \[00:07:58\]  So let's say you're some sort of a primitive
+- \[00:08:00\]  mouse-like creature running around the forest,
+- \[00:08:02\]  right, back in the day,
+- \[00:08:03\]  and somebody bites your leg off.
+- \[00:08:06\]  Now, unlike a salamander,
+- \[00:08:08\]  there's a couple of major differences.
+- \[00:08:10\]  The first difference is that
+- \[00:08:12\]  you're in dry air instead of water.
+- \[00:08:14\]  So that means that you are not able to drive
+- \[00:08:17\]  the ion currents out of your wound epithelium
+- \[00:08:19\]  that you would if you were aquatic.
+- \[00:08:21\]  Most good regenerators are aquatic, right?
+- \[00:08:24\]  And being in water is,
+- \[00:08:26\]  and this is one of the reasons
+- \[00:08:28\]  one of our regenerative applications that we work on
+- \[00:08:31\]  is these wearable bioreactors that provide an aqueous,
+- \[00:08:34\]  you know, David Kaplan's group works with us
+- \[00:08:36\]  to make these aqueous micro-environments for the wound,
+- \[00:08:40\]  because that's very important.
+- \[00:08:41\]  The other very important thing is that
+- \[00:08:44\]  you're gonna try to put weight on it.
+- \[00:08:45\]  Unlike a salamander, which can sort of hang out buoyantly,
+- \[00:08:48\]  somebody bites your leg off
+- \[00:08:49\]  and you develop some delicate blastema cells at the wound,
+- \[00:08:52\]  you're immediately gonna be crushing them
+- \[00:08:53\]  into the forest floor and putting weight on it.
+- \[00:08:56\]  And so I can easily see between that
+- \[00:08:58\]  and the fact that you might get infected
+- \[00:09:00\]  and you're gonna bleed out and, you know,
+- \[00:09:01\]  your whole lifestyle is much faster than for amphibians.
+- \[00:09:07\]  I can easily see why evolution would take the trade off
+- \[00:09:10\]  and say, let's just scar, but we won't get infected.
+- \[00:09:12\]  We're not gonna spend all that energy
+- \[00:09:14\]  trying to regenerate something
+- \[00:09:16\]  that's just gonna get wrecked and infected.
+- \[00:09:18\]  Let's just scar, get inflamed, scar,
+- \[00:09:20\]  hope we don't catch a terrible infection
+- \[00:09:23\]  and see if we can, you know, live through this.
+- \[00:09:25\]  So that's the story that I think makes sense.
+- \[00:09:28\]  And of course no one knows for sure.
+- \[00:09:31\]  Yeah, I mean, that does kind of make sense to me as well,
+- \[00:09:33\]  but you've already brought up kind of like
+- \[00:09:35\]  where I was heading in my thought process
+- \[00:09:37\]  with the questions, which is this idea
+- \[00:09:40\]  about these wearable biosensors,
+- \[00:09:42\]  these biodomes, I believe you call them.
+- \[00:09:45\]  And you've done experiments in particular
+- \[00:09:48\]  with frogs called centipedes,
+- \[00:09:50\]  where you've amputated their limbs
+- \[00:09:52\]  and you've got them to wear these biodomes
+- \[00:09:54\]  and you can see regeneration of their limbs.
+- \[00:09:58\]  And not only that,
+- \[00:09:59\]  but they're also potentially functional as well.
+- \[00:10:01\]  And this paper, I believe came out earlier this year.
+- \[00:10:05\]  And I was just wondering if maybe you could elaborate
+- \[00:10:07\]  a bit more about what these biodomes actually are
+- \[00:10:10\]  and how they're functioning.
+- \[00:10:12\]  Yeah, yeah.
+- \[00:10:13\]  We actually had a couple of papers on this.
+- \[00:10:14\]  There was one in, well, there was an earlier one in 2018.
+- \[00:10:20\]  And then there was this one that just came out.
+- \[00:10:22\]  The idea is this, we are very interested
+- \[00:10:25\]  in morphogenesis as a collective intelligence.
+- \[00:10:29\]  So we're interested in not micromanaging the process
+- \[00:10:32\]  and let's say 3D printing a bunch of stem cells
+- \[00:10:35\]  into a very particular structure.
+- \[00:10:36\]  We're interested in understanding
+- \[00:10:38\]  how the collective of the cells normally makes decisions
+- \[00:10:40\]  about what it's going to grow,
+- \[00:10:41\]  when it's going to grow and so on.
+- \[00:10:43\]  And so our strategy, what we think should be possible is
+- \[00:10:47\]  if these hypotheses are correct,
+- \[00:10:50\]  what should be possible is to find high level triggers
+- \[00:10:53\]  that don't sort of babysit the process
+- \[00:10:56\]  and try to control everything that needs to happen
+- \[00:10:58\]  to make an organ, but actually just shift
+- \[00:11:01\]  the set point for these cells
+- \[00:11:04\]  and then let them do what they do best,
+- \[00:11:05\]  which is to reduce error and to build to the set point.
+- \[00:11:08\]  So activate that homeostatic process.
+- \[00:11:10\]  So we started looking for these high level
+- \[00:11:13\]  control structures.
+- \[00:11:15\]  And I could tell you about others that we found
+- \[00:11:17\]  by studying bioelectricity.
+- \[00:11:18\]  So we make eyes and repairing brain defects
+- \[00:11:21\]  and reprogram tumors.
+- \[00:11:22\]  So we can talk about that separately.
+- \[00:11:23\]  But for the leg thing, we basically found,
+- \[00:11:27\]  and this was back in 2010,
+- \[00:11:31\]  we published some work showing
+- \[00:11:32\]  that you can induce tail regeneration.
+- \[00:11:34\]  Now tails are cool because they have spinal cord
+- \[00:11:35\]  and muscle and so on.
+- \[00:11:37\]  So we showed that we can induce tail regeneration
+- \[00:11:39\]  just by one hour of application of this specific ionophore.
+- \[00:11:43\]  So setting the bioelectric state of the wound
+- \[00:11:46\]  using a sodium ionophore,
+- \[00:11:48\]  which is for one hour triggers all the downstream cascades,
+- \[00:11:51\]  all the gene expression, cell movement, all that stuff.
+- \[00:11:54\]  So we looked for the same,
+- \[00:11:56\]  we used the same kind of cocktail and some different ones.
+- \[00:12:03\]  And the idea was in order to trigger it,
+- \[00:12:04\]  you need really two things.
+- \[00:12:05\]  You need an environment to convince those cells
+- \[00:12:08\]  that it's safe to regenerate.
+- \[00:12:10\]  So you need some sort of very controlled,
+- \[00:12:12\]  closed environment that's almost like amniotic,
+- \[00:12:14\]  almost like a limb bud,
+- \[00:12:17\]  and that they would be able to signal to each other
+- \[00:12:19\]  and not get washed out in the bath and so on.
+- \[00:12:21\]  And then you need the payload, which is the signal,
+- \[00:12:23\]  the drugs that cause the signal.
+- \[00:12:26\]  So the biodome is the delivery method
+- \[00:12:27\]  and it's the environment,
+- \[00:12:29\]  but now you need to have some kind of a drug in there
+- \[00:12:31\]  that will activate them.
+- \[00:12:33\]  And so we're working on a variety of,
+- \[00:12:35\]  and by the way, I have to do a disclosure.
+- \[00:12:37\]  So David Kaplan and I are co-founders
+- \[00:12:40\]  of a company called Morphoceuticals Inc.
+- \[00:12:41\]  So Morphoceuticals is all about taking
+- \[00:12:44\]  what we've learned in the frog
+- \[00:12:45\]  and moving it into mammals.
+- \[00:12:47\]  So we're doing experiments in mice now
+- \[00:12:49\]  and then hopefully clinical work at some point.
+- \[00:12:52\]  So I have to do that disclosure
+- \[00:12:54\]  and there's a commercial interest here.
+- \[00:12:56\]  So the idea is that David's group created the biodome.
+- \[00:13:02\]  The biodome is filled with an aqueous gel
+- \[00:13:04\]  that's made of silk.
+- \[00:13:06\]  And that gel has various other drugs
+- \[00:13:09\]  that we put in there.
+- \[00:13:10\]  It's put on the amputation wound for 24 hours,
+- \[00:13:14\]  just one day, that's it, 24 hours.
+- \[00:13:16\]  And then you take it off
+- \[00:13:17\]  and you don't touch the animals again
+- \[00:13:18\]  and leg grows over a year and a half.
+- \[00:13:21\]  So you get a year and a half of leg, right?
+- \[00:13:22\]  So there's a few amazing things I think about this.
+- \[00:13:25\]  Number one, animals that normally do not regenerate
+- \[00:13:28\]  their legs as adults, in fact,
+- \[00:13:30\]  can be made to regenerate their legs as adults, right?
+- \[00:13:32\]  That's even possible.
+- \[00:13:33\]  It wasn't known before that that's possible.
+- \[00:13:35\]  So it's possible.
+- \[00:13:36\]  Number two, it's a very modular effect.
+- \[00:13:39\]  In other words, we didn't intervene
+- \[00:13:41\]  with the finely shaped gradients for a year and a half.
+- \[00:13:44\]  We did nothing after the first 24 hours,
+- \[00:13:47\]  the animal did everything, okay?
+- \[00:13:48\]  So it's a trigger.
+- \[00:13:50\]  It's not a micromanagement type of situation.
+- \[00:13:54\]  Number three, in that trigger,
+- \[00:13:57\]  we didn't even have to specify what organ we wanted.
+- \[00:14:02\]  The trigger cocktail is very generic.
+- \[00:14:04\]  In fact, we've done the exact same thing to make tails
+- \[00:14:06\]  as it was to make legs.
+- \[00:14:09\]  It's literally a make whatever belongs here signal.
+- \[00:14:12\]  It's not make a leg.
+- \[00:14:13\]  So you never get, and on the leg amputation,
+- \[00:14:16\]  you never get an eye or a tumor or a tail or anything else.
+- \[00:14:19\]  You always get what belongs.
+- \[00:14:21\]  So it's a very context sensitive process.
+- \[00:14:23\]  We're not forcing the cells.
+- \[00:14:24\]  We're communicating to them that they should make
+- \[00:14:27\]  whatever it is that they already know goes there.
+- \[00:14:29\]  The last, and then the last kind of amazing thing about it
+- \[00:14:32\]  is that this cocktail, that was the first one we tried.
+- \[00:14:37\]  It wasn't cocktail 78 out of like 300 cocktails
+- \[00:14:40\]  that we tried.
+- \[00:14:41\]  We didn't have, I mean, originally,
+- \[00:14:42\]  one of the limitations of this work is originally,
+- \[00:14:44\]  I foolishly thought that this was gonna be
+- \[00:14:47\]  a rapid screening process that we could use before,
+- \[00:14:50\]  and it's not rapid by any means.
+- \[00:14:54\]  And so we only got to try one cocktail,
+- \[00:14:57\]  but the one cocktail we tried was amazing.
+- \[00:14:59\]  And so I don't believe in luck.
+- \[00:15:02\]  And so to me, that suggests that it's not
+- \[00:15:06\]  that we just happened to have somehow lucked out
+- \[00:15:08\]  onto the best cocktail in the world.
+- \[00:15:10\]  Once we optimize this thing,
+- \[00:15:12\]  we're really gonna see remarkable outcomes.
+- \[00:15:14\]  This is just, this is our first guess at it.
+- \[00:15:16\]  This is just our first step.
+- \[00:15:18\]  Yeah, no, that really is quite incredible.
+- \[00:15:20\]  And you've just raised a couple of questions in my head.
+- \[00:15:23\]  Firstly, it's like, how soon do you have to intervene
+- \[00:15:25\]  after you've like induced the damage?
+- \[00:15:27\]  And like, is there like,
+- \[00:15:29\]  because I guess you have to quickly maybe induce the pattern
+- \[00:15:32\]  before you suppress like the more like scarring of the tissue
+- \[00:15:36\]  and then secondly, what was the rationale
+- \[00:15:38\]  behind the decision of the drugs that you used?
+- \[00:15:41\]  Yeah, so I don't know when is the latest that you can do it.
+- \[00:15:46\]  We don't know.
+- \[00:15:47\]  In older work in the tail, we did investigate this
+- \[00:15:50\]  and we find out that even after the tail wound forms,
+- \[00:15:57\]  what for the frog is the equivalent of a wound of a scar.
+- \[00:16:01\]  So it's basically like this thick non-permissive epithelium.
+- \[00:16:04\]  Even after that, it still works.
+- \[00:16:06\]  I have a feeling that in mammals,
+- \[00:16:08\]  what you would have to do is you would have to recut.
+- \[00:16:10\]  So if somebody had a limb loss 10 years ago
+- \[00:16:14\]  and everything's healed over,
+- \[00:16:15\]  I think you're gonna have to reopen the wound,
+- \[00:16:17\]  then put on the biodome and then go from there.
+- \[00:16:20\]  That's my guess.
+- \[00:16:21\]  We don't know, but that's what I think.
+- \[00:16:25\]  The choice of drugs.
+- \[00:16:28\]  So in previous work, we had done a few things.
+- \[00:16:33\]  We had tested a couple of bioelectric interventions,
+- \[00:16:36\]  which are kind of the thing my lab focuses on.
+- \[00:16:39\]  We've also done progesterone.
+- \[00:16:41\]  The 2018 paper was about progesterone.
+- \[00:16:44\]  And that was because the postdoc at the time,
+- \[00:16:46\]  Celia Herrera-Rincon, wanted to go upstream
+- \[00:16:51\]  and try to find something that triggers
+- \[00:16:53\]  not only the right bioelectrical signal,
+- \[00:16:55\]  but various other changes in the animal
+- \[00:16:57\]  that might be pro-regenerative.
+- \[00:16:59\]  So she went with progesterone
+- \[00:17:01\]  and that was shockingly effective.
+- \[00:17:03\]  The new cocktail, which is even better,
+- \[00:17:06\]  has a number of ingredients,
+- \[00:17:08\]  which again, not specifically bioelectric this time,
+- \[00:17:10\]  now we're doing a bunch of bioelectric stuff next.
+- \[00:17:12\]  But this particular one had things like,
+- \[00:17:17\]  it had neurotrophic factors in it
+- \[00:17:19\]  and it had growth hormone and it had retinoic acid,
+- \[00:17:22\]  which is a positional information molecule for the limb.
+- \[00:17:25\]  And it had a kind of a resolve in,
+- \[00:17:31\]  so pro-wound resolution kind of molecule and so on.
+- \[00:17:36\]  So it was kind of a mix of things
+- \[00:17:39\]  that we thought would convince the cells
+- \[00:17:40\]  that it's time to regenerate as opposed to scar.
+- \[00:17:44\]  And yeah, it worked really well.
+- \[00:17:46\]  And I mean, I can't wait to get to try
+- \[00:17:48\]  all the different improvements that you can imagine
+- \[00:17:50\]  after the first trial.
+- \[00:17:52\]  Yeah, for sure.
+- \[00:17:53\]  And I think you already sort of mentioned it,
+- \[00:17:55\]  but as you say, you have the bioreactor on for 24 hours
+- \[00:17:58\]  and then it takes like a year for it to regrow the limb.
+- \[00:18:01\]  And so in terms of scalability,
+- \[00:18:03\]  it's quite hard to maybe, I guess,
+- \[00:18:05\]  scale up and try different interventions.
+- \[00:18:07\]  But I guess, given the remarkable result
+- \[00:18:09\]  from your first approach,
+- \[00:18:11\]  then that, I guess, gives a lot of promise
+- \[00:18:13\]  for identifying better combinations as well.
+- \[00:18:19\]  Yeah, yeah.
+- \[00:18:20\]  I mean, at this point, we're in mice now,
+- \[00:18:23\]  we're doing it in mice now.
+- \[00:18:25\]  I think there's probably not,
+- \[00:18:27\]  well, I mean, if resources were unlimited,
+- \[00:18:30\]  there's still frog things to be done.
+- \[00:18:31\]  But given how long that takes and limited resources,
+- \[00:18:35\]  we're just going for mice at this point,
+- \[00:18:38\]  which also take a little bit of time.
+- \[00:18:40\]  I mean, in the end, in terms of clinical kind of import,
+- \[00:18:46\]  look, a five-year-old's arm is very usable, right?
+- \[00:18:51\]  You can write, you can shave, you can eat,
+- \[00:18:53\]  you can do whatever you're gonna do.
+- \[00:18:55\]  If somebody in their 20s loses an arm
+- \[00:18:58\]  in an accident somewhere,
+- \[00:18:59\]  and you think that, okay, five to seven years later,
+- \[00:19:01\]  you have an arm that you can type
+- \[00:19:03\]  and you can do everything with,
+- \[00:19:04\]  that's pretty good, that's a good deal.
+- \[00:19:05\]  Even if it grows no faster than a typical arm,
+- \[00:19:10\]  a kid's arm is very usable.
+- \[00:19:13\]  So I think in the end, even worst case scenario,
+- \[00:19:15\]  I think it'll be fine.
+- \[00:19:17\]  Yeah, for sure.
+- \[00:19:18\]  And in terms of, I guess, as you mentioned,
+- \[00:19:20\]  translating it to humans,
+- \[00:19:21\]  what kind of criteria or tick list of achievements
+- \[00:19:25\]  do we need to see before we actually start giving it
+- \[00:19:28\]  as a human therapeutic?
+- \[00:19:30\]  Well, there's a long road.
+- \[00:19:32\]  I mean, lots and lots of basic research needs to happen.
+- \[00:19:35\]  So I don't wanna give the idea
+- \[00:19:37\]  that we're sort of ready to start testing it on humans,
+- \[00:19:39\]  because we're absolutely not.
+- \[00:19:41\]  Fundamentally, there's a number of things.
+- \[00:19:43\]  I mean, A, just to show in mammals
+- \[00:19:45\]  that we can deal with all of the things that are different,
+- \[00:19:48\]  the blood pressure, the infection risk,
+- \[00:19:52\]  the more complex inflammatory response,
+- \[00:19:54\]  the bigger diameter of the limb itself.
+- \[00:19:59\]  All of these things have to be dealt with.
+- \[00:20:02\]  Some things will be easier.
+- \[00:20:04\]  Humans won't be chewing off the biodome
+- \[00:20:06\]  the way the mice try to do.
+- \[00:20:07\]  So certain things will be easier.
+- \[00:20:10\]  But there's a lot that remains still,
+- \[00:20:13\]  but we're on the way.
+- \[00:20:16\]  Yeah, for sure.
+- \[00:20:17\]  And one thing that I think is kind of intriguing
+- \[00:20:19\]  about this approach is, as you sort of mentioned,
+- \[00:20:22\]  is the idea that we don't necessarily
+- \[00:20:24\]  need to fully understand the downstream molecular details
+- \[00:20:27\]  of exactly how it's coordinating it.
+- \[00:20:29\]  We just have to like intervene, I guess, as a higher level.
+- \[00:20:33\]  And the reason that I think that's interesting
+- \[00:20:35\]  is because there's a lot of, I guess,
+- \[00:20:36\]  interest at the moment in terms of like personalized,
+- \[00:20:39\]  genomic approaches to healthcare.
+- \[00:20:41\]  And I guess this approach, at least at first glance,
+- \[00:20:46\]  appears to be something that might be more universal
+- \[00:20:49\]  and maybe the same set of treatments
+- \[00:20:51\]  could be applied more broadly.
+- \[00:20:53\]  And I guess, do you think that's the case
+- \[00:20:55\]  or do you think there would still be an element
+- \[00:20:56\]  of like personalization
+- \[00:20:59\]  to what like the drug combination could be?
+- \[00:21:04\]  There is going to be an element of personalization
+- \[00:21:06\]  only because in particular with the bioelectric treatments,
+- \[00:21:10\]  you're gonna want to know in your particular patient
+- \[00:21:13\]  which channels are expressed in the wound
+- \[00:21:16\]  and that may differ somewhat person to person.
+- \[00:21:18\]  We'll find out.
+- \[00:21:19\]  But you're right, fundamentally,
+- \[00:21:21\]  in that this is a much more generic approach
+- \[00:21:23\]  for the following reason.
+- \[00:21:24\]  In any control structure, the further up you go,
+- \[00:21:28\]  the less you have to worry about the details
+- \[00:21:31\]  because the whole point of a hierarchical control structure
+- \[00:21:34\]  is that the details are delegated.
+- \[00:21:36\]  So if you tell seven different people,
+- \[00:21:42\]  go get me a coffee, they may do it completely differently.
+- \[00:21:45\]  But the point is you don't need to specify
+- \[00:21:49\]  well, you're gonna move your right foot
+- \[00:21:50\]  three inches this way,
+- \[00:21:51\]  then you're gonna, you don't need to do any of that
+- \[00:21:52\]  because you're dealing with competent agents
+- \[00:21:54\]  that know how to do certain things
+- \[00:21:55\]  and you don't have to worry about,
+- \[00:21:56\]  your message is exactly the same
+- \[00:21:58\]  even though in each person, the molecular details, right,
+- \[00:22:01\]  of what they hear, how they carry it out,
+- \[00:22:02\]  what chemicals go where in their brain when they hear it,
+- \[00:22:05\]  those are all different.
+- \[00:22:06\]  But you're up at a higher level.
+- \[00:22:08\]  And so, addressing these kinds of things
+- \[00:22:13\]  at higher levels has lots of advantages.
+- \[00:22:16\]  And one of the advantages is that
+- \[00:22:19\]  by taking advantage of the fact
+- \[00:22:23\]  that you're working with a competent material
+- \[00:22:24\]  that already knows how to do things,
+- \[00:22:26\]  you can leave a lot of the details up to the implementation.
+- \[00:22:31\]  So you're not going to have to worry about
+- \[00:22:34\]  which channels are open when,
+- \[00:22:36\]  you're going to set a set of bioelectric states
+- \[00:22:38\]  and let the system go from there.
+- \[00:22:41\]  That I think, that part is gonna be the same for everybody.
+- \[00:22:46\]  And then very different things
+- \[00:22:47\]  what will happen downstream.
+- \[00:22:50\]  Sure, yeah, that makes sense.
+- \[00:22:52\]  And just one kind of last aspects
+- \[00:22:55\]  whilst we're talking about regeneration still is,
+- \[00:22:58\]  and contrasting that to the more wound healing
+- \[00:23:01\]  and scarring approach,
+- \[00:23:02\]  is that one of my interests is in,
+- \[00:23:04\]  I guess, the circadian rhythm
+- \[00:23:05\]  and how there seems to be some differences
+- \[00:23:08\]  in, I guess, like the downstream processes
+- \[00:23:10\]  at different times of the day.
+- \[00:23:12\]  And in particular with wound healing,
+- \[00:23:13\]  I know that there is like an emerging area of research
+- \[00:23:16\]  showing that depending on the time of the day
+- \[00:23:18\]  when the wound occurs,
+- \[00:23:19\]  like the healing process can occur at different speeds.
+- \[00:23:22\]  And so I was just wondering if you've looked at someone
+- \[00:23:24\]  to any of the time of day links
+- \[00:23:27\]  with these regenerative approaches.
+- \[00:23:29\]  It's a fascinating question.
+- \[00:23:31\]  You're right.
+- \[00:23:32\]  And even for example,
+- \[00:23:33\]  now they're finding that for chemotherapy,
+- \[00:23:35\]  it really depends when you get it
+- \[00:23:37\]  because the cycling of the stem cells
+- \[00:23:40\]  and also the cancer cells
+- \[00:23:42\]  is related to the time of day and so on.
+- \[00:23:46\]  We don't know very much about it.
+- \[00:23:48\]  We're studying it.
+- \[00:23:49\]  There's a postdoc in the group
+- \[00:23:51\]  who's studying timekeeping in the context of a DARPA project
+- \[00:23:55\]  on slowing biological time for injuries
+- \[00:23:57\]  and stuff like that.
+- \[00:23:58\]  And so she's working on this,
+- \[00:24:00\]  but we don't know much about it yet.
+- \[00:24:02\]  It's still early days.
+- \[00:24:03\]  Okay, cool.
+- \[00:24:04\]  Well, I guess I'll look forward
+- \[00:24:05\]  to seeing some of that research emerge then.
+- \[00:24:08\]  So I thought next week should probably talk about
+- \[00:24:10\]  something that we've actually mentioned
+- \[00:24:12\]  a few times already,
+- \[00:24:13\]  which is this idea about bioelectricity.
+- \[00:24:16\]  And so I was just wondering
+- \[00:24:17\]  if you could actually just explain more generally
+- \[00:24:19\]  what is meant by this concept
+- \[00:24:21\]  and how it differs to guess what I initially studied,
+- \[00:24:23\]  which is like biochemistry.
+- \[00:24:25\]  Yeah.
+- \[00:24:28\]  Let's think of it this way.
+- \[00:24:29\]  I like to start like this.
+- \[00:24:31\]  One of the most amazing parts,
+- \[00:24:34\]  the most amazing aspect of multicellularity
+- \[00:24:37\]  is the ability of cells to work together
+- \[00:24:41\]  towards large scale goals.
+- \[00:24:42\]  So what I mean by that is if you have a salamander
+- \[00:24:46\]  and you cut off the arm,
+- \[00:24:47\]  the cells will work together to rebuild the arm
+- \[00:24:50\]  and then they stop.
+- \[00:24:51\]  How do they know when to stop?
+- \[00:24:52\]  When do they stop?
+- \[00:24:53\]  They stop when a correct salamander arm is finished.
+- \[00:24:55\]  So what you can say is not because of magic,
+- \[00:24:58\]  but because of cybernetics and this idea
+- \[00:25:00\]  that we understand now thermostats and other things.
+- \[00:25:04\]  There are certain devices are able to minimize error
+- \[00:25:07\]  to some specification.
+- \[00:25:08\]  So what the cells will do is they will continue
+- \[00:25:10\]  to remodel and grow and do whatever until the error,
+- \[00:25:13\]  the delta between the current state and the target state
+- \[00:25:16\]  is as small as possible.
+- \[00:25:18\]  And that's the same thing for regulative development
+- \[00:25:20\]  and the same thing for metamorphosis
+- \[00:25:21\]  and other types of remodeling and so on.
+- \[00:25:24\]  So if you're going to have a system
+- \[00:25:26\]  where lots of subunits are working together
+- \[00:25:31\]  on a common goal, that's much larger than themselves.
+- \[00:25:34\]  So no individual cell knows what a finger is
+- \[00:25:36\]  or can measure the length of the arm.
+- \[00:25:37\]  An individual that's too big for an individual cell
+- \[00:25:39\]  to deal with, but the collective absolutely minimizes
+- \[00:25:43\]  delta from having the right number of fingers,
+- \[00:25:45\]  having an arm of the right size,
+- \[00:25:46\]  of the right shape and so on.
+- \[00:25:48\]  So if you're going to do that, you need two things.
+- \[00:25:50\]  You need A, some mechanism for coordinating the cells,
+- \[00:25:54\]  so binding them together towards common purpose
+- \[00:25:56\]  in some fact, some informational structure.
+- \[00:25:59\]  And B, you need to be able to store the set point, right?
+- \[00:26:02\]  So the reason your thermostat works is because somewhere
+- \[00:26:04\]  there's a, it stores what the right range is.
+- \[00:26:07\]  And when the temperature gets too low or too high,
+- \[00:26:09\]  it'll take action to try and get back into that range.
+- \[00:26:12\]  So the key, those kind of homeostatic processes
+- \[00:26:14\]  only work when you can store a set point.
+- \[00:26:16\]  Now this is already, we've already left the realm
+- \[00:26:18\]  of typical molecular biology sort of paradigm
+- \[00:26:22\]  because normally what you hear is that,
+- \[00:26:24\]  well, the genes get expressed, they sort of roll forward
+- \[00:26:27\]  under rules of chemistry and maybe some biomechanics
+- \[00:26:30\]  and whatever you get, that's what you get.
+- \[00:26:32\]  It's emergence, right?
+- \[00:26:33\]  It's this idea of local simple rules
+- \[00:26:35\]  and then something wondrous emerges out at the end.
+- \[00:26:37\]  But it's actually not, and that's true, that does exist.
+- \[00:26:41\]  But in addition to that, you have these very interesting
+- \[00:26:43\]  feedback loops that are not just forward emergence,
+- \[00:26:46\]  they solve problems.
+- \[00:26:48\]  For example, if you have an animal that has too many cells
+- \[00:26:51\]  or too few cells, or you intervene in various ways,
+- \[00:26:54\]  much of the time it'll still find some way
+- \[00:26:57\]  to make the right thing.
+- \[00:26:57\]  And I could tell you some amazing examples of this
+- \[00:27:00\]  that are just incredibly impressive.
+- \[00:27:02\]  So what is the computational medium
+- \[00:27:06\]  that underlies all this?
+- \[00:27:07\]  And one of the things that immediately strikes people
+- \[00:27:10\]  as weird about this way of thinking about it is,
+- \[00:27:12\]  how is a collection of cells going to bind itself
+- \[00:27:16\]  to have a memory of what it's supposed to do
+- \[00:27:18\]  and cooperate as a kind of collective intelligence, right?
+- \[00:27:20\]  That just sounds implausible until you remember that,
+- \[00:27:24\]  well, we are all collected,
+- \[00:27:25\]  you and I are collective intelligences, right?
+- \[00:27:27\]  We are a bag of neurons.
+- \[00:27:29\]  And in some way, those neurons work together
+- \[00:27:32\]  to produce a centralized being that has memories, goals,
+- \[00:27:36\]  preferences, and these kinds of things
+- \[00:27:38\]  that don't belong to any of the individual cells,
+- \[00:27:40\]  they belong to the collective.
+- \[00:27:41\]  So we already know that does exist.
+- \[00:27:43\]  That whole process happens between your ears all the time.
+- \[00:27:46\]  So now one might ask, okay, how does that happen?
+- \[00:27:48\]  Well, it seems that electrical networks
+- \[00:27:51\]  seem to make that possible, right?
+- \[00:27:53\]  That's not controversial, that's what neuroscience studies.
+- \[00:27:56\]  So one can ask the next question, which is,
+- \[00:27:58\]  okay, where did that come from?
+- \[00:28:00\]  Did brains suddenly like evolve this trick?
+- \[00:28:02\]  And it turns out that all of the mechanisms,
+- \[00:28:08\]  but also the algorithms for doing that
+- \[00:28:10\]  are way older than brains.
+- \[00:28:12\]  They exist in our unicellular ancestors.
+- \[00:28:15\]  They were evolved around the time of bacterial biofilms.
+- \[00:28:19\]  And so evolution noticed very long time ago
+- \[00:28:21\]  that electricity was a great way to store information,
+- \[00:28:24\]  to make decisions, to coordinate information
+- \[00:28:27\]  across spatial distances, to make computational networks.
+- \[00:28:31\]  Bacteria already know this.
+- \[00:28:33\]  So what we study in my group is exactly that.
+- \[00:28:37\]  This is this basic question of what did bodies think about
+- \[00:28:41\]  before they had brains that could think
+- \[00:28:43\]  about three-dimensional space?
+- \[00:28:45\]  So brains are really good at thinking about
+- \[00:28:46\]  clever behavior in 3D space.
+- \[00:28:49\]  So controlling your muscles to move you around in 3D space
+- \[00:28:51\]  and hopefully have some sort of intelligence
+- \[00:28:54\]  in the behavior, right?
+- \[00:28:56\]  Before that, that's an evolutionary pivot.
+- \[00:28:58\]  Before that, that exact same system,
+- \[00:29:01\]  electrical networks of cells were used to store information
+- \[00:29:05\]  and navigate through a space,
+- \[00:29:06\]  but it wasn't three-dimensional space, it was morphous space.
+- \[00:29:09\]  It was the space of anatomical configurations.
+- \[00:29:12\]  So whereas now the collective intelligence of your neurons
+- \[00:29:14\]  in your brain moves you through 3D space,
+- \[00:29:17\]  before that same trick was used to move
+- \[00:29:19\]  the collective intelligence of embryonic cells
+- \[00:29:21\]  through morphous space, through anatomical space.
+- \[00:29:24\]  And before that, it was used to move individual cells
+- \[00:29:27\]  through physiological space,
+- \[00:29:29\]  and before that, probably metabolic space.
+- \[00:29:31\]  That's most likely how it went.
+- \[00:29:33\]  And so evolution is just reusing the same amazing trick,
+- \[00:29:37\]  and bioelectricity is really great at this.
+- \[00:29:40\]  So basically, almost everything that we know
+- \[00:29:44\]  about neuroscience holds outside of the nervous system.
+- \[00:29:47\]  It's not, in fact, one of the reasons why we've made progress
+- \[00:29:52\]  is that the tools of neuroscience
+- \[00:29:54\]  don't distinguish neurons from non-neural cells.
+- \[00:29:57\]  They can't tell the difference.
+- \[00:29:58\]  They work in every cell.
+- \[00:29:59\]  And so that tells us something very important
+- \[00:30:01\]  about this distinction we have
+- \[00:30:02\]  between neuroscience and other fields.
+- \[00:30:05\]  It's a man-made distinction.
+- \[00:30:06\]  Nature doesn't support that.
+- \[00:30:08\]  So all these other cells, what they're doing
+- \[00:30:11\]  is they use the same tricks.
+- \[00:30:12\]  They have ion channels,
+- \[00:30:13\]  so they form a voltage gradient across the membrane.
+- \[00:30:17\]  They have gap junctions, which are electrical synapses.
+- \[00:30:20\]  These are precursors of modern chemical synapses.
+- \[00:30:24\]  They have neurotransmitter machinery,
+- \[00:30:27\]  and neurotransmitters move under this electromotive force,
+- \[00:30:30\]  and so on.
+- \[00:30:33\]  And so, yeah, and so this,
+- \[00:30:35\]  so this, what we've been studying is we developed tools,
+- \[00:30:39\]  basically appropriated tools from neuroscience,
+- \[00:30:43\]  and applied those tools and concepts
+- \[00:30:45\]  to read and write this electrical information
+- \[00:30:50\]  in morphogenesis.
+- \[00:30:51\]  To ask, what does the collective intelligence,
+- \[00:30:54\]  what does it measure?
+- \[00:30:55\]  What does it remember?
+- \[00:30:56\]  How does it bind together?
+- \[00:30:57\]  And can we rewrite it?
+- \[00:30:59\]  And the answer is yes.
+- \[00:30:59\]  We can actually rewrite this information now.
+- \[00:31:02\]  Yeah, it was extremely interesting.
+- \[00:31:04\]  And like, I think you're right.
+- \[00:31:07\]  I mean, you can really look back and look at bacteria.
+- \[00:31:09\]  And I was gonna mention like mitochondria as well,
+- \[00:31:11\]  and how we'll see the,
+- \[00:31:13\]  what I learned from teaching the students
+- \[00:31:14\]  is how we have the proton pumping
+- \[00:31:16\]  that drives, I guess, ATP synthesis.
+- \[00:31:20\]  And so I know as well, like neuronal signaling,
+- \[00:31:21\]  which is kind of like the canonical introduction
+- \[00:31:23\]  to electrochemical signaling or electrical signaling,
+- \[00:31:26\]  but then the body and how we have potassium and sodium
+- \[00:31:31\]  moving as well as calcium, I guess.
+- \[00:31:33\]  And so what are like the major,
+- \[00:31:36\]  like, I guess, components that have this charge
+- \[00:31:39\]  that are moving across the channels?
+- \[00:31:42\]  Yeah, it depends.
+- \[00:31:43\]  It depends on the cells and the tissues and the species,
+- \[00:31:45\]  but basically all of the ions, chloride,
+- \[00:31:50\]  protons, potassium and sodium,
+- \[00:31:53\]  all of these things move across the membrane
+- \[00:31:56\]  and they establish a voltage gradient.
+- \[00:31:58\]  And it's the spatial pattern of voltage gradients
+- \[00:32:02\]  that is interpreted by the cells as information.
+- \[00:32:05\]  And it almost doesn't matter.
+- \[00:32:07\]  In fact, most of the cases that we look at,
+- \[00:32:09\]  it doesn't matter what ions were used to get there, right?
+- \[00:32:12\]  And that's something we do in all of our papers
+- \[00:32:14\]  is we show you can get the exact same effect
+- \[00:32:16\]  by altering potassium, sodium, chloride, protons,
+- \[00:32:19\]  as long as you get them moving in the right direction
+- \[00:32:22\]  so that you get the voltage change that you wanted, right?
+- \[00:32:24\]  So you have to calculate that out, which how do you,
+- \[00:32:26\]  how do I, what are the different ways
+- \[00:32:27\]  I can get the voltage change?
+- \[00:32:28\]  And again, it gets back to this idea
+- \[00:32:30\]  that we just talked about, about a high level control.
+- \[00:32:32\]  So voltage is a, voltage is a macro state, right?
+- \[00:32:35\]  It's like, you get to a certain voltage
+- \[00:32:38\]  by many different combinations
+- \[00:32:40\]  of sodium, potassium concentrations.
+- \[00:32:42\]  So it's not, it's not that, ooh,
+- \[00:32:44\]  this particular ion channel gene
+- \[00:32:46\]  and this particular level of sodium
+- \[00:32:48\]  is what caused my morphogenetic event.
+- \[00:32:51\]  It's the voltage state that caused your event.
+- \[00:32:54\]  And many different micro states are compatible with that.
+- \[00:32:56\]  It's like temperature, right?
+- \[00:32:57\]  It's like, you know, Boyle's law,
+- \[00:32:59\]  you're talking about a boiler.
+- \[00:33:00\]  You've got, you've got this notion
+- \[00:33:01\]  of temperature or pressure,
+- \[00:33:02\]  and there's many, many different micro states underneath that
+- \[00:33:04\]  but you don't care because, because to control that,
+- \[00:33:07\]  that, that, you know, that, that, that device,
+- \[00:33:12\]  the operant variable is temperature or pressure.
+- \[00:33:16\]  I see.
+- \[00:33:17\]  So, okay, I see.
+- \[00:33:18\]  So in terms of like how you would study this in the lab,
+- \[00:33:20\]  like what kind of like approaches can you use
+- \[00:33:23\]  to identify the different voltages?
+- \[00:33:26\]  And do you feel like the tools have improved
+- \[00:33:30\]  over the last decade or so?
+- \[00:33:31\]  And it's making it easier to do these
+- \[00:33:32\]  kind of experiments now?
+- \[00:33:34\]  Yeah, yeah.
+- \[00:33:35\]  The tools, the tools are getting better.
+- \[00:33:38\]  What we use, so, so, so here are,
+- \[00:33:39\]  here are the things we use.
+- \[00:33:41\]  To read the voltages,
+- \[00:33:42\]  we use voltage sensitive fluorescent dyes.
+- \[00:33:45\]  There are, there are also genetically encoded reporters,
+- \[00:33:47\]  which are improving all the time.
+- \[00:33:48\]  People are making these, you know,
+- \[00:33:50\]  variants of GFP and other things that,
+- \[00:33:52\]  that, that fluoresce differentially based on the voltage.
+- \[00:33:56\]  And then, and then of course you have the dyes.
+- \[00:33:58\]  They're getting better.
+- \[00:33:59\]  There's, there's tons of room for improvement though.
+- \[00:34:00\]  So one of my, one of my real goals is to work with chemists
+- \[00:34:03\]  to make better, better dyes
+- \[00:34:05\]  so that we have better maps of voltage.
+- \[00:34:07\]  One of the reasons that bioelectricity has lagged
+- \[00:34:10\]  for years behind biochemistry and genetics
+- \[00:34:13\]  is that you can, you can kill a cell,
+- \[00:34:15\]  fix it with alcohol or formaldehyde,
+- \[00:34:17\]  take out the, the, the, the gene, the,
+- \[00:34:20\]  take out the genetic material,
+- \[00:34:22\]  take out the proteins, the RNA,
+- \[00:34:24\]  and isolate them and study them.
+- \[00:34:25\]  And that's great.
+- \[00:34:26\]  All the bioelectrics disappear
+- \[00:34:28\]  the moment the cell is dead, right?
+- \[00:34:29\]  You can't, you can't do any of that.
+- \[00:34:31\]  You have to study it in a living state,
+- \[00:34:32\]  which means that all of this,
+- \[00:34:34\]  this, this molecular bioelectricity
+- \[00:34:36\]  which, which of course rests on many decades of work
+- \[00:34:39\]  by, by, you know, sort of the forefathers of this field,
+- \[00:34:42\]  which used electrodes and other things.
+- \[00:34:44\]  But, but the molecular bioelectricity,
+- \[00:34:49\]  it's only possible now that we have these in vivo,
+- \[00:34:51\]  these amazing, you know, fluorescent and other techniques
+- \[00:34:54\]  where you can do this stuff in vivo.
+- \[00:34:55\]  So, so the key techniques are of course,
+- \[00:34:58\]  tracking the voltage,
+- \[00:34:59\]  but then the other, the other thing you really want
+- \[00:35:01\]  is the functional experiments.
+- \[00:35:02\]  You want to rewrite the voltage.
+- \[00:35:03\]  So the way you do that is you,
+- \[00:35:05\]  so the way you do that is, so, so really important,
+- \[00:35:08\]  no electrodes, no fields, no waves, no magnets,
+- \[00:35:12\]  no electromagnetic radiation, none of that.
+- \[00:35:14\]  What we're doing is molecular physiology.
+- \[00:35:17\]  So specifically opening and closing
+- \[00:35:19\]  ion channels and gap junctions.
+- \[00:35:21\]  Now that might be with pharmacology.
+- \[00:35:23\]  It might be by mutating them.
+- \[00:35:24\]  It might be by introducing new channels
+- \[00:35:26\]  or knocking down channels or using optogenetics,
+- \[00:35:30\]  for example, we can, we, we've, we've shown that
+- \[00:35:32\]  you can use light gated channels to, to,
+- \[00:35:34\]  to control quite precisely.
+- \[00:35:36\]  That's yeah, those, those kinds of tools.
+- \[00:35:39\]  I see. Yeah.
+- \[00:35:40\]  And you really sort of mentioned,
+- \[00:35:42\]  but I was going to ask you next,
+- \[00:35:43\]  which is about how a lot of the ion movement
+- \[00:35:47\]  is regulated by different channel proteins.
+- \[00:35:50\]  And at least from what I remember from undergrads,
+- \[00:35:52\]  things like, I guess, GPCRs,
+- \[00:35:54\]  although I'm not entirely sure how many of them are like
+- \[00:35:56\]  ion channel regulators,
+- \[00:35:58\]  but a lot of the membrane proteins are quite drugable.
+- \[00:36:01\]  They're on the surface.
+- \[00:36:02\]  They're easier to target through,
+- \[00:36:03\]  I guess, a variety of different means.
+- \[00:36:05\]  So I guess that's, yeah,
+- \[00:36:06\]  I guess that's a good thing for developing therapeutics.
+- \[00:36:10\]  Yeah. Yeah, absolutely.
+- \[00:36:11\]  I mean, you can think of these,
+- \[00:36:12\]  these ion channels on the surface of tissues are
+- \[00:36:16\]  the interface that this hardware is exposing to you as a,
+- \[00:36:19\]  as a bioengineer or a regenerative medicine worker
+- \[00:36:22\]  to control the system.
+- \[00:36:24\]  And luckily, yeah, something, something like,
+- \[00:36:26\]  I think, I think I read like 20% of all drugs
+- \[00:36:28\]  are ion channel drugs.
+- \[00:36:30\]  And so it's a very, you know,
+- \[00:36:32\]  a very good way to, with, with, with great specificity.
+- \[00:36:35\]  The thing is, of course, that like with any interface,
+- \[00:36:40\]  the downstream effects of specific perturbations are complex.
+- \[00:36:45\]  So you don't know exactly what's going to happen
+- \[00:36:48\]  until you've understood the electric circuit and modeled it.
+- \[00:36:51\]  So you might, for example,
+- \[00:36:52\]  shut down a particular potassium channel.
+- \[00:36:54\]  Well, there may be seven other potassium channels
+- \[00:36:56\]  that will open and close in, in,
+- \[00:36:58\]  to compensate for that because the cell is fighting you on,
+- \[00:37:01\]  on, on, in your attempts to change the voltage.
+- \[00:37:03\]  So it's a, it's a much different, it isn't like,
+- \[00:37:07\]  you know, I'm going to knock down this transcription factor
+- \[00:37:10\]  and that's it.
+- \[00:37:10\]  Now, now it's, now it's gone.
+- \[00:37:11\]  And now whatever genes it was supposed to turn on,
+- \[00:37:14\]  now they, now they're off.
+- \[00:37:15\]  It's, it isn't like that.
+- \[00:37:16\]  It's a, it's very much, you know,
+- \[00:37:18\]  it's interacting with a complex computational device
+- \[00:37:20\]  and giving an input.
+- \[00:37:22\]  And, and, and the key is,
+- \[00:37:23\]  which we've tried to develop is to have a,
+- \[00:37:26\]  a commutational model that predicts what's going to happen
+- \[00:37:29\]  and that you can invert so that you can say, okay,
+- \[00:37:31\]  but I want this to happen.
+- \[00:37:32\]  So now which channels do I open and close?
+- \[00:37:36\]  Yeah, I guess, yeah, that is really, is a challenge.
+- \[00:37:38\]  And in terms of like thinking about applying it in vivo,
+- \[00:37:43\]  in terms of the different cell types
+- \[00:37:45\]  and how you have like stem cells, you have cancerous cells.
+- \[00:37:47\]  And I guess what I study is tenescent cells.
+- \[00:37:49\]  Like, I mean, I guess I can look
+- \[00:37:51\]  at the gene expression changes and I can see
+- \[00:37:53\]  that there are differences in the internal expression.
+- \[00:37:56\]  And so can you therefore use like the voltage
+- \[00:38:00\]  of a cell to be able to identify like,
+- \[00:38:02\]  like for example, a senescent cell,
+- \[00:38:04\]  is that potentially possible?
+- \[00:38:06\]  Yeah, yeah.
+- \[00:38:07\]  So, so, so what you, what you, what you can get
+- \[00:38:11\]  and by the way, tons of physiomics still needs to be done.
+- \[00:38:15\]  Okay, so, so we don't, so for example, senescent cells,
+- \[00:38:17\]  I have no idea if senescent cells have a different profile
+- \[00:38:20\]  than normal cells.
+- \[00:38:21\]  However, what you can definitely tell is stem cells,
+- \[00:38:25\]  embryonic cells and tumor cells tend to be quite depolarized
+- \[00:38:30\]  terminally differentiated adult, normal, you know,
+- \[00:38:33\]  somatic cells tend to be hyperpolarized.
+- \[00:38:35\]  Now that's fine.
+- \[00:38:37\]  And that can be useful.
+- \[00:38:39\]  For example, we have a cancer diagnostics kind
+- \[00:38:41\]  of application where you can use that to,
+- \[00:38:44\]  to look for a signature of pre-cancer, right?
+- \[00:38:46\]  Look for depolarized cells.
+- \[00:38:47\]  But I want to be, I want to be very clear.
+- \[00:38:48\]  In fact, in fact, so, so I have this beautiful diagram
+- \[00:38:51\]  which shows voltage from, you know, minus 80
+- \[00:38:53\]  all the way to zero.
+- \[00:38:54\]  And it shows all the cancer cells clustered down here
+- \[00:38:56\]  and the stem cells are down here
+- \[00:38:57\]  and the, you know, normal cells up here.
+- \[00:38:59\]  People, people love to see that diagram.
+- \[00:39:01\]  I've stopped showing it in talks because,
+- \[00:39:03\]  because people focus on that.
+- \[00:39:05\]  And it sounds like a neat story and it is,
+- \[00:39:07\]  but the problem is that's a single cell story.
+- \[00:39:10\]  And this is not funded.
+- \[00:39:11\]  None of this is fundamentally a single cell phenomenon.
+- \[00:39:13\]  So I don't want people to be thinking about, ah,
+- \[00:39:17\]  this cell has a particular voltage.
+- \[00:39:19\]  Therefore it's this type of cell, therefore problem solved.
+- \[00:39:22\]  All of the big problems in this field are not
+- \[00:39:24\]  about single cells having their own voltage.
+- \[00:39:28\]  It's about large groups of cells reading the voltage
+- \[00:39:31\]  of themselves and other groups of cells.
+- \[00:39:34\]  It's a network phenomenon.
+- \[00:39:35\]  So zooming into individual cells, I mean,
+- \[00:39:37\]  there's certainly applications for that,
+- \[00:39:39\]  but I don't think that's fundamentally
+- \[00:39:41\]  what the bioelectric system is about.
+- \[00:39:42\]  It isn't about single cell states.
+- \[00:39:44\]  It's about anatomical decisions.
+- \[00:39:47\]  Yeah, I see.
+- \[00:39:47\]  And I guess kind of on from that,
+- \[00:39:50\]  at least with like neuronal signaling,
+- \[00:39:51\]  I guess if you looked at the voltage, it varies, right?
+- \[00:39:54\]  It gets hyperpolarized and it depolarizes.
+- \[00:39:56\]  And so it's not just necessarily about looking at the,
+- \[00:39:59\]  I guess the average voltage,
+- \[00:40:02\]  but I guess there might be fluctuations in the frequency
+- \[00:40:05\]  in which they change or like, like the, I don't know,
+- \[00:40:08\]  the dynamics of the voltage.
+- \[00:40:11\]  Yeah, I think, I think the nervous system uses
+- \[00:40:14\]  temporal encoding more than other cells do.
+- \[00:40:19\]  We don't know, quite frankly,
+- \[00:40:20\]  we haven't really dug deeply enough
+- \[00:40:22\]  into the temporal properties of other cells.
+- \[00:40:26\]  But if from what we know right now, if I had to guess,
+- \[00:40:29\]  I would say that the majority of your body tissues
+- \[00:40:32\]  use spatial encoding.
+- \[00:40:33\]  So spatial differences in resting potential,
+- \[00:40:36\]  whereas the brain really likes that kind of spiking
+- \[00:40:39\]  temporal encoding, but I'm sure it bleeds over
+- \[00:40:42\]  in both directions.
+- \[00:40:44\]  Okay, that's cool.
+- \[00:40:46\]  As I kind of keeping with, I guess, bioelectricity still,
+- \[00:40:49\]  there was a really cool study that came out from your lab
+- \[00:40:52\]  that was with planarians and he put them in barium solution,
+- \[00:40:57\]  which I believe is like a nonspecific inhibitor
+- \[00:41:00\]  of some ion channel.
+- \[00:41:01\]  And what that did was it prevented them forming their heads
+- \[00:41:03\]  or something.
+- \[00:41:04\]  And so you left them in the solution and then over time,
+- \[00:41:08\]  they got this ability to actually make their heads again.
+- \[00:41:12\]  And I don't know if I completely bluffed your article,
+- \[00:41:15\]  but I was wondering if you could explain that
+- \[00:41:16\]  in a bit more detail.
+- \[00:41:18\]  Sure, sure.
+- \[00:41:19\]  So, okay, so the basic observation was this,
+- \[00:41:21\]  you're absolutely right.
+- \[00:41:23\]  Barium is a nonspecific potassium channel blocker.
+- \[00:41:26\]  So you take your worms and you put them in a barium solution
+- \[00:41:29\]  and overnight their heads explode.
+- \[00:41:31\]  I mean, their heads literally,
+- \[00:41:32\]  it's called head deprogression.
+- \[00:41:33\]  Their heads just explode.
+- \[00:41:34\]  Because there are all these neurons in there
+- \[00:41:36\]  and they can't handle not being able to exchange potassium.
+- \[00:41:39\]  So there's massive cytotoxicity, the cells die.
+- \[00:41:42\]  So you got this back half of the worm
+- \[00:41:44\]  and you leave it in the barium.
+- \[00:41:47\]  And what you find out is that after a couple of weeks,
+- \[00:41:50\]  they regenerate a new head perfectly.
+- \[00:41:53\]  And the new head doesn't care at all about the barium.
+- \[00:41:55\]  No problem.
+- \[00:41:56\]  And so you ask yourself, well, how is this possible?
+- \[00:41:58\]  How are these heads now surviving barium, right?
+- \[00:42:01\]  So we did a very simple-minded experiment
+- \[00:42:03\]  and it was sort of, it's clearly not the only thing to do
+- \[00:42:08\]  because no one said that the difference
+- \[00:42:09\]  has to be transcriptional,
+- \[00:42:11\]  but the tool was there so we did it.
+- \[00:42:14\]  We basically just did next-gen sequencing
+- \[00:42:16\]  and did a transcriptomic analysis of what makes,
+- \[00:42:19\]  and just subtracted, like what makes the barium-adapted heads
+- \[00:42:22\]  different from normal heads?
+- \[00:42:25\]  Yeah, just transcriptionally, what makes them different?
+- \[00:42:27\]  And what we found is that there's only a handful of genes
+- \[00:42:33\]  that enable them to be barium-adapted.
+- \[00:42:36\]  So now the important thing about all of this is this.
+- \[00:42:39\]  Think about this.
+- \[00:42:42\]  Planarian never see barium in the wild.
+- \[00:42:44\]  There's never been evolutionary pressure to deal with barium.
+- \[00:42:47\]  So it's complete, because they don't see barium in the wild.
+- \[00:42:49\]  So it's unlikely that they have an evolved response
+- \[00:42:55\]  of here's what we do when we're hit with barium.
+- \[00:42:58\]  Instead, think of the problem that these cells have to solve.
+- \[00:43:01\]  You have tens of thousands of genes.
+- \[00:43:04\]  It's a little like I always imagined it being
+- \[00:43:06\]  in the middle of a nuclear reactor control room
+- \[00:43:08\]  and the thing's melting down
+- \[00:43:09\]  and you don't know what you don't have time to do
+- \[00:43:13\]  because planarian cells don't turn over
+- \[00:43:15\]  the way bacteria might.
+- \[00:43:16\]  You don't have cells,
+- \[00:43:17\]  you don't have time to just try combinations.
+- \[00:43:19\]  You don't have time for gradient descent
+- \[00:43:21\]  or just randomly flipping genes up and down.
+- \[00:43:24\]  You don't have time for that.
+- \[00:43:26\]  Somehow, you have to figure out
+- \[00:43:29\]  which of my transcriptional effectors,
+- \[00:43:31\]  my transcriptional actions that I can take,
+- \[00:43:34\]  are gonna resolve this completely novel
+- \[00:43:36\]  physiological stressor.
+- \[00:43:38\]  That's a really interesting problem.
+- \[00:43:42\]  Anywhere, in any other space,
+- \[00:43:44\]  we would be calling it intelligence.
+- \[00:43:46\]  If you had a device that was designed
+- \[00:43:50\]  to solve certain kinds of problems
+- \[00:43:52\]  and you gave it a novel problem
+- \[00:43:53\]  and it figured out how to solve it
+- \[00:43:54\]  using the tools that it had,
+- \[00:43:56\]  you would say, whoa, that's a cool example of intelligence.
+- \[00:43:58\]  I mean, that's what intelligence is.
+- \[00:43:59\]  It's using what you know to solve new problems.
+- \[00:44:04\]  It's an amazing thing and we don't really know how it works.
+- \[00:44:07\]  I have an idea, but we don't really know how it works.
+- \[00:44:10\]  And I think this is just the tip of the iceberg.
+- \[00:44:13\]  I think cells are incredibly good
+- \[00:44:15\]  at dealing with cells and cellular collectives
+- \[00:44:17\]  because of that multi-scale competency architecture.
+- \[00:44:20\]  They have a really remarkable ability to deal with novelty.
+- \[00:44:26\]  Thank you.
+- \[00:44:27\]  Yeah, thank you for explaining that in a bit more detail.
+- \[00:44:29\]  And I think as well in that study,
+- \[00:44:31\]  you then put them back into water
+- \[00:44:33\]  and then back into barium
+- \[00:44:35\]  and then they had lost the ability.
+- \[00:44:37\]  And so what does that tell us about the memory of the system?
+- \[00:44:41\]  Is the memory expensive?
+- \[00:44:42\]  And so maybe as you say, they're not used to barium.
+- \[00:44:45\]  And they were like, well, I don't know how to explain it,
+- \[00:44:48\]  but they were like, it's not adaptive
+- \[00:44:49\]  to waste this energy storing some memory of this event
+- \[00:44:52\]  if it's unlikely to happen again.
+- \[00:44:54\]  That's, yeah, that's entirely possible.
+- \[00:44:56\]  That's one way to think about it.
+- \[00:44:57\]  Another way to think about it is
+- \[00:44:59\]  imagine transcriptional space,
+- \[00:45:01\]  which is obviously it's a very high dimensional space.
+- \[00:45:03\]  So it's impossible for us to visualize it.
+- \[00:45:05\]  But imagine transcriptional space.
+- \[00:45:07\]  In that space, there's going to be an attractor
+- \[00:45:09\]  that is the standard normal planarian way
+- \[00:45:14\]  to have your genes expressed.
+- \[00:45:16\]  And then there's going to be another attractor,
+- \[00:45:17\]  a small one that's works really well
+- \[00:45:19\]  when you've been challenged by barium.
+- \[00:45:21\]  So I think that staying in that other attractor
+- \[00:45:26\]  is probably, when you're challenged,
+- \[00:45:28\]  you sort of wander around and find that space
+- \[00:45:30\]  and then you can regrow your head and life is good.
+- \[00:45:32\]  But it may be that either it's expensive,
+- \[00:45:35\]  as you say, energetically expensive,
+- \[00:45:37\]  or it's just that dynamically that attractor
+- \[00:45:40\]  is kind of shallow and it's really easy
+- \[00:45:42\]  to sort of fall out of it.
+- \[00:45:43\]  And if you fall out of it,
+- \[00:45:44\]  you probably go back to the big one, right?
+- \[00:45:45\]  So you can imagine like this big bowl
+- \[00:45:47\]  and next to it, there's like a little bowl
+- \[00:45:49\]  and you're sitting in the little bowl
+- \[00:45:50\]  and then everything is a little bit shaking.
+- \[00:45:52\]  And so chances are eventually you're going to,
+- \[00:45:55\]  unless there's pressure for you to stay there,
+- \[00:45:56\]  you're probably going to eventually end up
+- \[00:45:58\]  in the big standard attractor.
+- \[00:45:59\]  So that's another way to think about that.
+- \[00:46:01\]  To really understand this is going to have to wait
+- \[00:46:03\]  until we're going to do a single cell RNA-seq
+- \[00:46:07\]  and just track the path of each animal
+- \[00:46:11\]  in through that space to actually find out
+- \[00:46:13\]  how they find the right region of transcriptional space.
+- \[00:46:18\]  Okay, that's super cool.
+- \[00:46:19\]  And I think it was also, speaking of memory and planarians,
+- \[00:46:24\]  there was a study you did as well,
+- \[00:46:25\]  where you again, perturbed the electrical network
+- \[00:46:28\]  and you basically made the planarians have two heads.
+- \[00:46:32\]  And this time, every time they kind of like,
+- \[00:46:34\]  I'm not entirely sure how they replicate actually,
+- \[00:46:36\]  but they kept the pattern of two heads
+- \[00:46:39\]  as if like they had somehow created this memory.
+- \[00:46:41\]  And do you have any idea like,
+- \[00:46:44\]  you know, where is this memory being stored?
+- \[00:46:46\]  Because the DNA is exactly the same.
+- \[00:46:49\]  Yeah, yeah, we can see it.
+- \[00:46:50\]  It's stored, there's an electrical circuit
+- \[00:46:54\]  that is, you can think about it as a piece of RAM.
+- \[00:47:03\]  It's basically a piece of electrically active memory.
+- \[00:47:06\]  We can see that we can literally see the memory
+- \[00:47:08\]  with this voltage dot.
+- \[00:47:09\]  You can see where it says one head
+- \[00:47:11\]  and you can see how to change it to make it say two heads.
+- \[00:47:13\]  And when you do that, the cells, when they're injured,
+- \[00:47:15\]  the cells will consult the memory.
+- \[00:47:17\]  They say, ah, I guess a good planarian has two heads
+- \[00:47:19\]  and they'll build two heads.
+- \[00:47:21\]  And the amazing thing about that circuit
+- \[00:47:23\]  is that it keeps the memory.
+- \[00:47:27\]  And it also, there's another tricky part of this,
+- \[00:47:30\]  which is kind of a planar polarity of the cells.
+- \[00:47:33\]  So there's a feedback between the bioelectrics,
+- \[00:47:38\]  which is kind of like the short-term memory
+- \[00:47:40\]  and then cytoskeleton organization in the cells,
+- \[00:47:42\]  which maybe you can think about
+- \[00:47:44\]  as kind of a longer-term memory.
+- \[00:47:45\]  So both of those are affected.
+- \[00:47:47\]  And yeah, and as a result,
+- \[00:47:51\]  you have these tissues that just persist in this pattern.
+- \[00:47:55\]  You can set it back.
+- \[00:47:56\]  We can take a two-headed worm
+- \[00:47:57\]  and set it back to one-headed.
+- \[00:47:59\]  But in the meantime, the memory holds basically.
+- \[00:48:04\]  And you can do another interesting trick with it,
+- \[00:48:07\]  which is you cut off their heads
+- \[00:48:09\]  and then you prevent the cells
+- \[00:48:11\]  from communicating electrically.
+- \[00:48:13\]  So you block the gap junctions,
+- \[00:48:14\]  basically it's with general anesthetic.
+- \[00:48:16\]  It's the same thing that general anesthesia does.
+- \[00:48:19\]  And when you do that, when you,
+- \[00:48:21\]  so 48 hours of that, you pull them out
+- \[00:48:24\]  and they will regain,
+- \[00:48:26\]  the electrical network will regain an attractor,
+- \[00:48:29\]  but it doesn't always find the right one.
+- \[00:48:32\]  And so when that happens,
+- \[00:48:34\]  it lands in a different one
+- \[00:48:35\]  that belongs to a different species.
+- \[00:48:37\]  So you will get planaria with heads
+- \[00:48:38\]  that belong to different species.
+- \[00:48:40\]  So instead of the nice triangular head,
+- \[00:48:42\]  you'll get flat ones, round ones,
+- \[00:48:43\]  ones that belong to other species,
+- \[00:48:45\]  including the shape of the brain,
+- \[00:48:47\]  the distribution of stem cells,
+- \[00:48:48\]  everything becomes like these other species.
+- \[00:48:50\]  And yeah, even though, as you say,
+- \[00:48:52\]  even though the genetics is not edited.
+- \[00:48:55\]  Yeah, that's incredible.
+- \[00:48:56\]  And so what does this electrical memory then tell us
+- \[00:48:59\]  about like how in our brains we record memories?
+- \[00:49:03\]  Does that provide any insight at all?
+- \[00:49:05\]  Yeah, I think you're onto something very important.
+- \[00:49:08\]  I do think that understanding how this works
+- \[00:49:12\]  is gonna do a lot of good for neuroscience
+- \[00:49:14\]  because in neuroscience, there's a problem.
+- \[00:49:17\]  Most people study memory, let's say in synaptic,
+- \[00:49:20\]  you know, synaptic structures and synaptic plasticity.
+- \[00:49:22\]  That whole story of memories being stored
+- \[00:49:25\]  in specific synaptic structures is kind of unraveling.
+- \[00:49:29\]  There's a lot of reasons why that's probably wrong
+- \[00:49:31\]  at this point.
+- \[00:49:32\]  And I think that trying to understand
+- \[00:49:38\]  how other kinds of memories are stored,
+- \[00:49:40\]  such as morphological memories and so on,
+- \[00:49:42\]  might actually put us onto the right thing.
+- \[00:49:44\]  And I actually suspect,
+- \[00:49:45\]  and this is a total conjecture at this point for me,
+- \[00:49:49\]  but I suspect that actually cytoskeleton
+- \[00:49:51\]  is gonna be a really key part of this.
+- \[00:49:53\]  And my guess is that this is just, again,
+- \[00:49:56\]  my own guess is that neural networks
+- \[00:49:59\]  are not there to store memories.
+- \[00:50:01\]  They're there to interpret engrams
+- \[00:50:04\]  that are probably cytoskeletal in nature.
+- \[00:50:07\]  So I actually think that the real medium of storing them
+- \[00:50:10\]  is gonna be some biochemical structure,
+- \[00:50:12\]  probably cytoskeleton, maybe something else.
+- \[00:50:15\]  And what the neural nets do is interpret it
+- \[00:50:17\]  and reconstruct memories on the fly
+- \[00:50:21\]  by reading these chemical cues
+- \[00:50:23\]  as opposed to trying to store them.
+- \[00:50:25\]  Wow, yeah, that's super fascinating.
+- \[00:50:27\]  In fact, I think I maybe did come across
+- \[00:50:29\]  a review article like a year or so ago
+- \[00:50:31\]  that had a similar kind of idea.
+- \[00:50:33\]  So this is definitely something that I'm interested
+- \[00:50:35\]  in just reading about myself anyway.
+- \[00:50:37\]  So that's super cool.
+- \[00:50:40\]  I'd say I guess, yeah, speaking more about memory
+- \[00:50:43\]  intelligence in general
+- \[00:50:45\]  and how intelligence can be seen, I guess,
+- \[00:50:48\]  like at different levels
+- \[00:50:50\]  and how you don't have to have a brain
+- \[00:50:52\]  and a multi-cellularity to have intelligence
+- \[00:50:56\]  because you had an interesting study that came out
+- \[00:50:59\]  a couple of years ago maybe
+- \[00:51:01\]  where you have something called CENOBOTS
+- \[00:51:03\]  where you just took some cells and you,
+- \[00:51:07\]  I mean, you're probably gonna explain it better than I can,
+- \[00:51:09\]  but you were able to sort of get it
+- \[00:51:12\]  to do different behaviors and to forms of intelligence.
+- \[00:51:16\]  I was just wondering if you could explain
+- \[00:51:17\]  a bit better than I have about that.
+- \[00:51:20\]  Yeah, so there's two interesting pieces there.
+- \[00:51:23\]  One piece has to do with intelligence
+- \[00:51:26\]  and then more broadly,
+- \[00:51:27\]  and then I'll talk about the CENOBOTS.
+- \[00:51:29\]  I wanna start with the intelligence part
+- \[00:51:31\]  because I haven't specifically made any claims
+- \[00:51:35\]  about what kind of intelligence the CENOBOTS have.
+- \[00:51:38\]  That's still very much under investigation,
+- \[00:51:40\]  but I wanna say something about intelligence first.
+- \[00:51:45\]  To me, here's a proposed, and there are many,
+- \[00:51:47\]  but here's a proposed definition of intelligence.
+- \[00:51:49\]  And intelligence, I think, is,
+- \[00:51:52\]  I like William James's definition of intelligence,
+- \[00:51:55\]  which is the ability to get to the same goal
+- \[00:51:58\]  by different means.
+- \[00:51:59\]  So I think that's very powerful.
+- \[00:52:00\]  And I would put two twists on that.
+- \[00:52:02\]  I would say one is, yes,
+- \[00:52:04\]  and that goal can be stated
+- \[00:52:06\]  in many different problem spaces.
+- \[00:52:08\]  Not just physical space, but it might be morphous space,
+- \[00:52:10\]  it might be transcriptional space,
+- \[00:52:12\]  it might be linguistic space
+- \[00:52:14\]  in the case of advanced humans and whatnot,
+- \[00:52:19\]  transcriptional space, physiological space.
+- \[00:52:21\]  And your degree of intelligence
+- \[00:52:23\]  is the competency with which you pursue
+- \[00:52:27\]  the goals that you pursue.
+- \[00:52:28\]  And your sort of cognitive sophistication
+- \[00:52:31\]  is the size of the goals you're able to pursue,
+- \[00:52:34\]  literally the size in that space.
+- \[00:52:37\]  So if you can only, if what stresses you out
+- \[00:52:39\]  is being far from your goal
+- \[00:52:41\]  of having the right local sugar concentration,
+- \[00:52:43\]  you're probably a bacterium.
+- \[00:52:44\]  If on the other hand,
+- \[00:52:47\]  you're able to pursue a goal about the size of a human arm,
+- \[00:52:50\]  you're probably a collection of cells making an arm.
+- \[00:52:52\]  If your goal is a particular quality
+- \[00:52:56\]  of the Earth's financial markets and peace among men,
+- \[00:52:59\]  you're probably a human that you can even work towards,
+- \[00:53:02\]  you can represent a goal of that size, right?
+- \[00:53:04\]  Maybe one that's not gonna be done in your lifetime.
+- \[00:53:07\]  And that's an amazing thing that humans can do.
+- \[00:53:09\]  So I have a very functional generic view of intelligence.
+- \[00:53:14\]  I don't think it matters what you're made of,
+- \[00:53:16\]  how you got here and being involved design.
+- \[00:53:18\]  I don't think any of that matters.
+- \[00:53:19\]  What matters is, are you a system
+- \[00:53:21\]  that can pursue different types of different scales of goals
+- \[00:53:26\]  and how competently do you pursue them
+- \[00:53:28\]  to get caught in local minima?
+- \[00:53:30\]  Do you have any kind of delayed gratification
+- \[00:53:32\]  so you can go around boundaries
+- \[00:53:34\]  to get where you need to be, that kind of stuff.
+- \[00:53:36\]  So the reason that I think it's important to do that
+- \[00:53:40\]  is people often have these binary categories,
+- \[00:53:44\]  which I think are completely false
+- \[00:53:45\]  and really hold back progress.
+- \[00:53:48\]  People will say things like,
+- \[00:53:50\]  I and maybe some apes and maybe my dog
+- \[00:53:53\]  and maybe an octopus and people fight about that.
+- \[00:53:57\]  We are true intelligences.
+- \[00:53:59\]  This other stuff, well, that's just physics.
+- \[00:54:00\]  That's just a metaphor.
+- \[00:54:02\]  I can see the mechanisms,
+- \[00:54:03\]  the Eplysia has this and that mechanism for habituation
+- \[00:54:08\]  and that's just chemistry and physics.
+- \[00:54:09\]  I have real intelligence.
+- \[00:54:11\]  This is of course impossible
+- \[00:54:13\]  now that we know about evolution and developmental biology.
+- \[00:54:17\]  We know that each of us took a very smooth journey
+- \[00:54:20\]  from being a pile of chemical reactions in an oocyte,
+- \[00:54:24\]  in an unfertilized oocyte,
+- \[00:54:26\]  all the way up to being a human
+- \[00:54:27\]  that's going to make claims about second order cognition
+- \[00:54:30\]  and your true intelligence
+- \[00:54:31\]  or whatever else you've got.
+- \[00:54:32\]  Every step along the way was nice and smooth.
+- \[00:54:34\]  It was very slow.
+- \[00:54:35\]  There was never a lightning bolt that said,
+- \[00:54:37\]  boom, today you're a cognitive being.
+- \[00:54:39\]  Yesterday you were just physics.
+- \[00:54:42\]  Much like in evolution that never happened.
+- \[00:54:43\]  You can also start to roll back and ask yourself
+- \[00:54:46\]  whatever it is that you think you have,
+- \[00:54:48\]  moral culpability and whatever.
+- \[00:54:51\]  Well, how about your ancestors of 200,000 years ago?
+- \[00:54:54\]  Did they have it?
+- \[00:54:54\]  Well, how about 4,000, 100,000 years ago?
+- \[00:54:57\]  Well, how about, like there's never a set of parents
+- \[00:54:59\]  that were just sort of whatever,
+- \[00:55:01\]  and then their offspring, bang,
+- \[00:55:02\]  the offspring is now cognitive, right?
+- \[00:55:04\]  That never happened.
+- \[00:55:05\]  So we have to have this gradual view of intelligence
+- \[00:55:09\]  and we have to be able to recognize intelligence
+- \[00:55:12\]  in unconventional embodiments.
+- \[00:55:14\]  We're terrible at that.
+- \[00:55:15\]  We're only good because all our sense organs point outward.
+- \[00:55:18\]  We're only good at recognizing intelligence
+- \[00:55:21\]  in medium sized objects,
+- \[00:55:23\]  moving at medium speeds in three dimensional space.
+- \[00:55:25\]  Then we're good.
+- \[00:55:26\]  We can see the monkeys hiding,
+- \[00:55:28\]  the thing of waters, and then we're like,
+- \[00:55:30\]  ah, that's pretty smart.
+- \[00:55:31\]  And so, okay, but if you had access to your blood,
+- \[00:55:35\]  like if you had conscious awareness of the blood chemistry
+- \[00:55:41\]  of your body at any given point,
+- \[00:55:42\]  and you knew what your liver was doing
+- \[00:55:44\]  at any point in time,
+- \[00:55:45\]  you would be able to recognize that organ
+- \[00:55:48\]  as being very intelligent in physiological space.
+- \[00:55:50\]  You would just be able to, that would be natural to you
+- \[00:55:52\]  if we had senses like that, which we don't.
+- \[00:55:54\]  So I'm always interested in problem solving
+- \[00:55:59\]  and intelligence in weird, unfamiliar spaces.
+- \[00:56:02\]  So now let's get to the Zenobot business.
+- \[00:56:05\]  Much like, let's just warm up for a second
+- \[00:56:09\]  with this example.
+- \[00:56:12\]  Imagine newts.
+- \[00:56:14\]  Newts have these little kidney tubules
+- \[00:56:17\]  that lead to their kidneys.
+- \[00:56:19\]  They are normally made from eight to 10 cells
+- \[00:56:21\]  in a, if you take a cross section through the tubule,
+- \[00:56:25\]  eight to 10 cells make this circle
+- \[00:56:26\]  and inside there's aluminum, that's your tubule.
+- \[00:56:28\]  What you can do is you can make polyploid newts
+- \[00:56:31\]  that have more and more ends, four end, six end, eight end.
+- \[00:56:34\]  And as you do that, the cell size gets bigger and bigger.
+- \[00:56:38\]  So the first thing that's already amazing is,
+- \[00:56:40\]  wait a minute, with extra copies
+- \[00:56:42\]  of all the genetic material
+- \[00:56:43\]  and you still make a normal newt, that's wild.
+- \[00:56:45\]  But okay, that's one thing that the software can make up
+- \[00:56:50\]  for like additional copies of every piece of information.
+- \[00:56:55\]  Gets better than that, the newts are the same size.
+- \[00:56:58\]  So that means that fewer and fewer cells
+- \[00:57:00\]  have to be used to make the same tubule
+- \[00:57:02\]  because the cells are bigger.
+- \[00:57:04\]  So if you have something that's made of 10 Legos
+- \[00:57:06\]  and the Legos are now bigger,
+- \[00:57:07\]  you have to use fewer of them to get the same thing.
+- \[00:57:09\]  So that's kind of amazing.
+- \[00:57:10\]  We're now, this isn't just response to injury
+- \[00:57:13\]  or response to environment, your own parts are changing
+- \[00:57:17\]  and you can make up for that, that's amazing.
+- \[00:57:19\]  The most amazing part is that if you make the cells
+- \[00:57:22\]  truly gigantic, such that only one cell fits,
+- \[00:57:26\]  what happens is one cell wraps around itself,
+- \[00:57:29\]  leaving a lumen in the middle
+- \[00:57:31\]  and you get your normal size lumen
+- \[00:57:35\]  with a completely different molecular mechanism.
+- \[00:57:36\]  So instead of cell to cell communication
+- \[00:57:38\]  that builds a normal tubule,
+- \[00:57:40\]  now you have some sort of, I don't know,
+- \[00:57:41\]  cytoskeletal bending that drags a single cell around
+- \[00:57:44\]  in a loop like that.
+- \[00:57:45\]  So what that tells you is incredible problem solving
+- \[00:57:48\]  on the part of this collective intelligence,
+- \[00:57:50\]  despite the changes in your very own parts,
+- \[00:57:53\]  you can call up different molecular components
+- \[00:57:56\]  to serve the same large scale anatomical need.
+- \[00:57:59\]  It's a nice example of top-down causation actually,
+- \[00:58:01\]  because it's the anatomy that drives
+- \[00:58:03\]  the molecular biology in this case.
+- \[00:58:06\]  So that's just an example of cells,
+- \[00:58:11\]  you know, it's kind of like, I often in my own head,
+- \[00:58:14\]  I call it play the hand you're dealt,
+- \[00:58:15\]  like whatever you've got, you're gonna figure out
+- \[00:58:17\]  some way of making the best of it, right?
+- \[00:58:19\]  It's an amazing capacity.
+- \[00:58:20\]  So we wanted to ask a simple question about cells
+- \[00:58:24\]  in terms of their plasticity
+- \[00:58:25\]  and in terms of their ability to handle novelty.
+- \[00:58:30\]  And we said this, imagine this,
+- \[00:58:32\]  you look at an embryo and you look at the skin and you say,
+- \[00:58:34\]  what do these skin cells naturally want to do?
+- \[00:58:36\]  What do they naturally do?
+- \[00:58:37\]  And you might say, well, they naturally wanna be
+- \[00:58:39\]  this two dimensional layer on the outside of the animal
+- \[00:58:42\]  and keep out the bacteria.
+- \[00:58:43\]  It's pretty boring,
+- \[00:58:44\]  but that's probably what they naturally wanna do.
+- \[00:58:46\]  Well, that's not what they naturally wanna do
+- \[00:58:47\]  because if you take those cells out of that context
+- \[00:58:52\]  and leave them on their own in a little pile,
+- \[00:58:55\]  liberate them from the instructive interactions
+- \[00:58:58\]  with the, from the rest of the cells,
+- \[00:59:02\]  then you get to find out what they actually wanna do
+- \[00:59:04\]  when nobody's bullying them into being the skin layer.
+- \[00:59:06\]  When, what they actually wanna do is,
+- \[00:59:08\]  well, they could have done many things.
+- \[00:59:09\]  They could have crawled apart from each other.
+- \[00:59:11\]  They could have died as some cells do when they're alone.
+- \[00:59:13\]  They could have made a flat monolayer like a cell culture.
+- \[00:59:17\]  Instead, what they do is they come together,
+- \[00:59:20\]  they form this little ball,
+- \[00:59:23\]  and this by the way, was all joint work
+- \[00:59:25\]  with Josh Bongard's lab.
+- \[00:59:27\]  They form this little ball, the little, the cilia,
+- \[00:59:31\]  these moving hairs that they have on their surface
+- \[00:59:34\]  that normally they're used to spread the mucus
+- \[00:59:36\]  down the body of the frog.
+- \[00:59:38\]  They use those cells to row, the cilia,
+- \[00:59:41\]  they use them to row against the water.
+- \[00:59:43\]  And the thing starts moving around on its own.
+- \[00:59:45\]  So what can they do?
+- \[00:59:46\]  They can do mazes, they can navigate all kinds of shapes,
+- \[00:59:51\]  they can regenerate damage, they can,
+- \[00:59:55\]  the most amazing thing they can do is
+- \[00:59:58\]  if you sprinkle a bunch of loose cells in their environment,
+- \[01:00:03\]  they will go around and they will collect those cells
+- \[01:00:05\]  into little piles, like bulldozers,
+- \[01:00:07\]  they'll sort of bulldoze them into little piles.
+- \[01:00:09\]  Guess what those piles do?
+- \[01:00:10\]  Those piles become the next generation of xenobots.
+- \[01:00:13\]  They start zipping around doing the exact same thing
+- \[01:00:15\]  and on and on it goes.
+- \[01:00:16\]  That's kinematic self-replication, right?
+- \[01:00:19\]  It's kind of von Neumann's dream of a machine
+- \[01:00:21\]  that builds itself out of loose parts
+- \[01:00:23\]  that it finds in the environment.
+- \[01:00:24\]  So the amazing, so again,
+- \[01:00:27\]  so here's what I think is amazing about it,
+- \[01:00:28\]  and there's all kinds of practical applications
+- \[01:00:30\]  of this that we can talk about,
+- \[01:00:31\]  but more interesting than that, I think, is this.
+- \[01:00:35\]  There's never been selection to be a good xenobot.
+- \[01:00:39\]  Where does the xenobot body plan and behavior come from?
+- \[01:00:43\]  Because normally, when you look at a creature
+- \[01:00:45\]  and you ask why is it a certain shape, a certain color,
+- \[01:00:48\]  why does it have behaviors, it's easy.
+- \[01:00:49\]  You say, oh, it's selection
+- \[01:00:51\]  because it had a certain environment
+- \[01:00:52\]  and everything that didn't fit that environment is dead.
+- \[01:00:54\]  So that's why it has it.
+- \[01:00:56\]  There's never been, xenobots,
+- \[01:00:57\]  there's never been selection to be a good xenobot.
+- \[01:00:59\]  Why do these cells know how to do this?
+- \[01:01:02\]  Where does that come from?
+- \[01:01:04\]  So it's, you know, one of the things
+- \[01:01:07\]  that we've pushed is this idea
+- \[01:01:09\]  that this is a new robotics and engineering platform.
+- \[01:01:13\]  Not only does it tell us something interesting
+- \[01:01:14\]  about the problem solving of these cells,
+- \[01:01:16\]  like, okay, now you're in a different environment,
+- \[01:01:19\]  you're missing all the other cells
+- \[01:01:20\]  that you're supposed to have,
+- \[01:01:21\]  you can't reproduce in the normal froggy fashion,
+- \[01:01:24\]  how are you going to do it?
+- \[01:01:25\]  They figured out a new way to do it.
+- \[01:01:28\]  So there's all that, plasticity, basal cognition,
+- \[01:01:30\]  there's all that, but it's also a new way of bioengineering
+- \[01:01:33\]  because unlike normal engineering
+- \[01:01:35\]  where you're working with passive materials,
+- \[01:01:38\]  where you have to micromanage everything,
+- \[01:01:39\]  you have wood and copper and whatever else,
+- \[01:01:42\]  you have to make sure that whatever you want to happen
+- \[01:01:44\]  is gonna happen.
+- \[01:01:46\]  This isn't like that, this is an agential material.
+- \[01:01:49\]  The cells have agendas, they know how to do things
+- \[01:01:51\]  and they want to do things.
+- \[01:01:52\]  And the only way you're going to get this material
+- \[01:01:54\]  to do something different is by providing appropriate
+- \[01:01:57\]  inputs, stimuli, rewards and punishments,
+- \[01:02:00\]  incentives, you know, attraction molecules,
+- \[01:02:04\]  whatever you're gonna give them,
+- \[01:02:06\]  you're not micromanaging it,
+- \[01:02:10\]  it's like building a tower out of cats instead of bricks,
+- \[01:02:13\]  it's a completely different strategy, right?
+- \[01:02:15\]  Instead of putting them where you want,
+- \[01:02:17\]  that doesn't work with cats,
+- \[01:02:18\]  you have to do rewards and punishments
+- \[01:02:20\]  so that you can sort of train them to do these circus tricks.
+- \[01:02:23\]  So we create the first generation of xenobots
+- \[01:02:30\]  by manipulating the signals, the environment
+- \[01:02:33\]  that the cells get,
+- \[01:02:34\]  they do the exact same thing to the next generation.
+- \[01:02:37\]  The only reason this reproduction works
+- \[01:02:39\]  is because they're dealing with an agential material, right?
+- \[01:02:41\]  This wouldn't work with passive cells,
+- \[01:02:43\]  nothing would happen, it works because the cells
+- \[01:02:44\]  they're working with already all want to do this too.
+- \[01:02:47\]  And I think the other powerful thing about this is,
+- \[01:02:50\]  I think evolution does exactly the same thing.
+- \[01:02:52\]  I think evolution mainly works by providing,
+- \[01:02:56\]  because the material that evolution works with
+- \[01:02:59\]  is already an agential material,
+- \[01:03:02\]  it's not starting from scratch every single time.
+- \[01:03:04\]  So what evolution does is it searches the space
+- \[01:03:07\]  of the signals, the rewards,
+- \[01:03:09\]  the whatever you have to give these cells
+- \[01:03:11\]  to get them to do certain things.
+- \[01:03:12\]  Like, hey, you're gonna be in a two dimensional layer
+- \[01:03:15\]  on the outside of the table.
+- \[01:03:17\]  So I think these xenobots,
+- \[01:03:21\]  aside from all the practical stuff,
+- \[01:03:22\]  they provide a new window on problem solving,
+- \[01:03:25\]  on origin of body plans, on evolution, on engineering,
+- \[01:03:30\]  on the idea that evolution maybe doesn't build solution,
+- \[01:03:35\]  doesn't discover solutions to specific problems,
+- \[01:03:37\]  like here's a frog to a...
+- \[01:03:39\]  What does the frog genome actually know?
+- \[01:03:41\]  Well, it knows how to survive as a frog,
+- \[01:03:43\]  but apparently it also knows how to be a xenobot,
+- \[01:03:46\]  who knows what else it can do?
+- \[01:03:47\]  So, right?
+- \[01:03:48\]  So evolution makes problem solving machines,
+- \[01:03:50\]  it doesn't find specific solutions.
+- \[01:03:53\]  And that is interesting because it doesn't sit really well
+- \[01:03:57\]  with this traditional picture of evolution
+- \[01:04:00\]  as blind and short-sighted.
+- \[01:04:01\]  The idea is normally, right?
+- \[01:04:02\]  Evolution is supposed to always take the short-term payoff,
+- \[01:04:05\]  and it's supposed to be blind and whatever works now,
+- \[01:04:07\]  that's what it takes.
+- \[01:04:08\]  If that were true, why do we have these things
+- \[01:04:12\]  that are so good at solving scenarios
+- \[01:04:14\]  that never came up before?
+- \[01:04:15\]  It's almost, I mean, engineers do this
+- \[01:04:18\]  because they have foresight, right?
+- \[01:04:19\]  Because you try to make an autonomous vehicle
+- \[01:04:22\]  or a robot or something
+- \[01:04:23\]  that's gonna handle multiple things in the future.
+- \[01:04:25\]  Evolution is not really supposed to do that.
+- \[01:04:27\]  So I think there are many, many deep questions here.
+- \[01:04:31\]  No, for sure.
+- \[01:04:32\]  Like, yeah, I feel like we can talk all night about this.
+- \[01:04:36\]  It's like fascinating stuff.
+- \[01:04:37\]  And so, yeah, I guess, I mean,
+- \[01:04:41\]  I had some questions about the intelligence,
+- \[01:04:43\]  which you mentioned prior to this,
+- \[01:04:44\]  but I guess we can stay with the xenobots for now.
+- \[01:04:46\]  And like, yeah, I mean, I guess in theory,
+- \[01:04:48\]  then could you do the same thing with human skin cells
+- \[01:04:51\]  and all different potential tissue cells?
+- \[01:04:56\]  And then what are the kind of potential applications,
+- \[01:05:00\]  I guess, in therapeutics, but beyond that as well,
+- \[01:05:03\]  with using this new way of thinking?
+- \[01:05:06\]  Yeah, yeah, we're, you know, I can't give any details
+- \[01:05:09\]  because it's not peer reviewed yet and everything,
+- \[01:05:10\]  but we're definitely doing it with other cell types.
+- \[01:05:13\]  It's not anything to do with amphibians.
+- \[01:05:16\]  It's not anything to do with being an embryo.
+- \[01:05:18\]  It's a much more generic, much more generic phenomenon.
+- \[01:05:22\]  The applications come in a couple of different flavors.
+- \[01:05:25\]  One set of applications is useful synthetic living machines.
+- \[01:05:29\]  So once we get better control,
+- \[01:05:32\]  and people have already said,
+- \[01:05:33\]  well, why aren't you, you know, engineering them
+- \[01:05:35\]  and you can put synthetic biology circuits in them?
+- \[01:05:38\]  Of course we can, and we're going to.
+- \[01:05:39\]  But the first three, and there's a couple more coming,
+- \[01:05:42\]  the first few papers about this are all native
+- \[01:05:46\]  because I don't want this to be,
+- \[01:05:49\]  well, well, okay, put some kind of circuit in it,
+- \[01:05:51\]  and now it does XYZ.
+- \[01:05:52\]  And the point, the point is,
+- \[01:05:53\]  look at what these cells already know how to do
+- \[01:05:55\]  with a wild type genome, right?
+- \[01:05:57\]  That's the point.
+- \[01:05:58\]  And, but then of course, after that, you program them.
+- \[01:06:00\]  So once you start, once you can program them
+- \[01:06:03\]  with various signals and stimuli,
+- \[01:06:06\]  and maybe we put in some circuits and whatnot,
+- \[01:06:09\]  bioelectrics, of course,
+- \[01:06:12\]  then you can imagine useful machines.
+- \[01:06:13\]  You could imagine them, you know,
+- \[01:06:15\]  they're cleaning up the oceans.
+- \[01:06:17\]  They're searching for rare, maybe toxic molecules.
+- \[01:06:22\]  They're doing sensing, rescue exploration,
+- \[01:06:26\]  micro sculpting organs for transplantation,
+- \[01:06:29\]  you know, hydroponics.
+- \[01:06:30\]  You can imagine a million different,
+- \[01:06:32\]  a million different applications.
+- \[01:06:33\]  Then you can imagine applications in the body, right?
+- \[01:06:36\]  So cleaning up arthritic knee joints,
+- \[01:06:38\]  chasing down cancer cells or bacteria in the gut,
+- \[01:06:41\]  you know, fusing retinas back to, you know,
+- \[01:06:43\]  where they belong, all that kind of stuff,
+- \[01:06:45\]  down, you know, someday, someday in the future.
+- \[01:06:47\]  But I think that that's only the first level.
+- \[01:06:50\]  The second level is, can we use these bots
+- \[01:06:54\]  as a discovery platform to learn the rules of morphogenesis?
+- \[01:06:58\]  You see, one of the things we're not very good at,
+- \[01:07:00\]  in fact, we're really bad at,
+- \[01:07:01\]  is understanding the scaling of goals.
+- \[01:07:04\]  So when you make a collective intelligence system,
+- \[01:07:08\]  be it swarm robotics or a group of cells
+- \[01:07:11\]  or some kind of social or financial structure,
+- \[01:07:14\]  whatever it is, what is the collective going to want?
+- \[01:07:17\]  What are the goals of a collective?
+- \[01:07:18\]  They're not linear functions of the goals of the pieces,
+- \[01:07:21\]  that's for sure.
+- \[01:07:22\]  And so we're not very good at predicting those.
+- \[01:07:25\]  We're not very good at recognizing them.
+- \[01:07:27\]  We're not very good at predicting them
+- \[01:07:28\]  and we're not no good at controlling them.
+- \[01:07:30\]  So can we use these xenobots and those kinds of platforms
+- \[01:07:34\]  as an agential material in which we can practice
+- \[01:07:37\]  this new science of understanding the scaling of goals?
+- \[01:07:41\]  And then, and if you can do that,
+- \[01:07:44\]  then for example, in biomedicine,
+- \[01:07:46\]  if we get good at telling the xenobot cells what to do
+- \[01:07:51\]  in terms of make a shape that looks like a little house
+- \[01:07:55\]  or something, right?
+- \[01:07:56\]  Just generic control over growth and form,
+- \[01:07:59\]  then we'll be able to do that in vivo
+- \[01:08:00\]  for birth defects, traumatic injury, aging,
+- \[01:08:04\]  degenerative disease, cancer,
+- \[01:08:06\]  having nothing to do with the bots themselves,
+- \[01:08:08\]  we'll be able to control what other cells build.
+- \[01:08:10\]  That I think is kind of the next level of applications.
+- \[01:08:13\]  And then of course the third level,
+- \[01:08:14\]  which is sort of the most kind of philosophical of all
+- \[01:08:18\]  is to use them as a platform to really dissolve
+- \[01:08:22\]  a lot of our binary categories that don't really exist,
+- \[01:08:30\]  but we always thought they did
+- \[01:08:32\]  because of kind of failure of technology and imagination.
+- \[01:08:35\]  We thought that there was a difference
+- \[01:08:37\]  between machine and organism, right?
+- \[01:08:39\]  People say that every year somebody publishes a paper
+- \[01:08:41\]  saying living things are not machines.
+- \[01:08:44\]  And so they have these binary categories
+- \[01:08:47\]  that just set up a bunch of pseudo problems
+- \[01:08:49\]  that are not compatible with the modern
+- \[01:08:53\]  capabilities of biology.
+- \[01:08:56\]  Yeah, no, it's honestly super fascinating.
+- \[01:08:59\]  And I think just to go on from the applications
+- \[01:09:01\]  of like the xenobots or I guess like other potential
+- \[01:09:05\]  tissue type equivalents, if they are, as you say,
+- \[01:09:08\]  like we don't fully understand this morphological space.
+- \[01:09:11\]  And so if you're putting them in like for therapeutic use
+- \[01:09:15\]  going into the body and then inside the body
+- \[01:09:18\]  there's like a different environments and different places
+- \[01:09:20\]  and like how, like would it not alter then
+- \[01:09:25\]  like what that xenobot is doing?
+- \[01:09:27\]  Like, I mean, it's maybe gonna be adapting to different
+- \[01:09:31\]  and novel environments.
+- \[01:09:33\]  Like I guess, how would you fix it?
+- \[01:09:35\]  But once you've told it to do this,
+- \[01:09:37\]  how would you ensure it stays like that
+- \[01:09:39\]  and not start doing something else?
+- \[01:09:42\]  Well, yeah, I mean, so that's part of the testing,
+- \[01:09:44\]  of course, right?
+- \[01:09:44\]  So you have to test it in the environments
+- \[01:09:46\]  in which you hope to deploy it.
+- \[01:09:48\]  So you would have to test it in, let's say,
+- \[01:09:51\]  if you do have some sort of in the body application,
+- \[01:09:53\]  you would have to test it in an in vivo model
+- \[01:09:56\]  where they encounter that kind of environment
+- \[01:09:58\]  and make sure that it's doing what you think
+- \[01:10:01\]  it's gonna do.
+- \[01:10:01\]  There are gonna be surprises for sure.
+- \[01:10:03\]  I mean, the most certain hallmark
+- \[01:10:06\]  of collective intelligence is that they surprise you.
+- \[01:10:09\]  That's the most obvious thing.
+- \[01:10:12\]  But you hope that you discover the key surprises
+- \[01:10:14\]  during testing.
+- \[01:10:15\]  That's what all the testing's for.
+- \[01:10:16\]  Yeah, for sure.
+- \[01:10:18\]  And I guess, yeah, speaking more about
+- \[01:10:20\]  this collective intelligence,
+- \[01:10:21\]  like what does that mean in terms of the ethics?
+- \[01:10:23\]  Like if there's intelligence at different levels
+- \[01:10:26\]  and how, you know, I do a lot of in vitro cell culture work
+- \[01:10:31\]  and I'm like, technically, you know,
+- \[01:10:33\]  they have intelligence.
+- \[01:10:34\]  I mean, I can see it when I pass it to them,
+- \[01:10:36\]  they're growing, they're responding to what I,
+- \[01:10:38\]  the drugs I give them.
+- \[01:10:40\]  What are the ethical implications of all of this?
+- \[01:10:42\]  There are massive ethical implications,
+- \[01:10:44\]  but they're not quite, I think,
+- \[01:10:46\]  what people think they are.
+- \[01:10:48\]  One thing we can note for sure already,
+- \[01:10:51\]  with the majority of us, I mean,
+- \[01:10:52\]  certainly there are vegans and Janes and things like this,
+- \[01:10:55\]  but the majority of us in this society
+- \[01:10:57\]  are perfectly okay eating highly intelligent animals, right?
+- \[01:11:01\]  So pigs are very smart.
+- \[01:11:03\]  We eat pigs, cows, you know, whatever.
+- \[01:11:06\]  So we already, it is already the case
+- \[01:11:09\]  that we don't really set our rules based on intelligence.
+- \[01:11:14\]  A little bit, right?
+- \[01:11:16\]  So you can get into more trouble doing things to mammals
+- \[01:11:19\]  than you can to fish, but you know,
+- \[01:11:21\]  the factory farming worldwide tells us
+- \[01:11:24\]  that we're not really that, as societies,
+- \[01:11:27\]  we're not really very careful
+- \[01:11:28\]  about how we make that judgment.
+- \[01:11:31\]  So from that perspective, I think there's nothing,
+- \[01:11:35\]  there's nothing to be said about frog skin.
+- \[01:11:37\]  We should be talking about pigs
+- \[01:11:39\]  long before we talk about frog skin.
+- \[01:11:41\]  So that I think, and people do get very excited
+- \[01:11:44\]  about this and about, ah, you know,
+- \[01:11:45\]  you're using these things and what, okay,
+- \[01:11:48\]  but start with the factory farming first,
+- \[01:11:51\]  and then we can talk about frog skin.
+- \[01:11:52\]  However, they raise a much bigger point,
+- \[01:11:55\]  which I think we absolutely should be thinking about.
+- \[01:11:59\]  Because life is so interoperable,
+- \[01:12:02\]  meaning that you can make chimeras of different cells
+- \[01:12:04\]  from different species and cells will live
+- \[01:12:06\]  on inorganic substrates and electrodes and everything else.
+- \[01:12:10\]  We are inevitably heading for, excuse me,
+- \[01:12:14\]  heading for a future where every possible combination
+- \[01:12:18\]  of evolved biological materials,
+- \[01:12:21\]  some sort of synthetic electronic
+- \[01:12:23\]  or some other kind of, you know,
+- \[01:12:25\]  engineered thing and software,
+- \[01:12:27\]  every possible combination is gonna be explored.
+- \[01:12:29\]  We already have cyborgs.
+- \[01:12:31\]  We already have people that control wheelchairs
+- \[01:12:33\]  and other devices with their mind,
+- \[01:12:34\]  people with weird prosthetics,
+- \[01:12:36\]  those prosthetics are gonna get weirder and weirder.
+- \[01:12:38\]  Somebody's gonna decide that instead
+- \[01:12:41\]  of controlling their wheelchair,
+- \[01:12:42\]  they'd like to control their vacuum cleaner
+- \[01:12:43\]  and maybe their neighbor's vacuum cleaner,
+- \[01:12:45\]  and maybe some sort of lunar lander.
+- \[01:12:48\]  And maybe you want senses that, yeah, sure, you see light,
+- \[01:12:52\]  but maybe you'd also like a sense
+- \[01:12:53\]  that directly gives you a feeling
+- \[01:12:55\]  of where the stock market is today.
+- \[01:12:58\]  We are going to be surrounded by modified organisms.
+- \[01:13:03\]  So hybrids and cyborgs and bioengineered animals and plants
+- \[01:13:08\]  that it's gonna, you know,
+- \[01:13:11\]  the space of possible beings is incredibly vast.
+- \[01:13:14\]  And I just, a postdoc and I just wrote a paper,
+- \[01:13:18\]  I'm on the, called the Endless Forms Most Beautiful 2.0,
+- \[01:13:21\]  right, it's Darwin, Darwin had this phrase
+- \[01:13:23\]  and he was like really impressed
+- \[01:13:24\]  with a variety of living things
+- \[01:13:26\]  that he saw in the natural world.
+- \[01:13:27\]  This is an N of one, you know,
+- \[01:13:29\]  this phylogenetic tree on earth is an N of one
+- \[01:13:33\]  basically we are going to be, it's a tiny,
+- \[01:13:35\]  if you plot out the space of all possible bodies
+- \[01:13:39\]  and minds that go with them,
+- \[01:13:40\]  everything we know about on earth
+- \[01:13:42\]  is like a tiny little corner of that.
+- \[01:13:44\]  And there are just massively different creatures
+- \[01:13:46\]  that we are going to have to deal with.
+- \[01:13:48\]  Nevermind what happens if we find life, you know,
+- \[01:13:51\]  exo-biological context outside the planet,
+- \[01:13:53\]  nevermind that, we're gonna be making aliens
+- \[01:13:55\]  like you can't believe.
+- \[01:13:56\]  That's just, there's no getting around that.
+- \[01:13:58\]  So that means that for the first time,
+- \[01:14:03\]  when you encounter some sort of being,
+- \[01:14:05\]  you are not going to be able to use familiar touchstones
+- \[01:14:08\]  to figure out how to relate to it,
+- \[01:14:10\]  meaning what did we used to do, right?
+- \[01:14:12\]  You came across something,
+- \[01:14:14\]  what would you could, you could tap it like this.
+- \[01:14:16\]  If you heard a metallic clangy sound,
+- \[01:14:18\]  you could conclude many things.
+- \[01:14:19\]  Ah, it came off a factory,
+- \[01:14:21\]  it's probably pretty boring and dumb
+- \[01:14:22\]  and I'm perfectly within my rights
+- \[01:14:24\]  to take this thing apart and remake it into a toaster.
+- \[01:14:26\]  On the other hand, if you do this
+- \[01:14:29\]  and it's sort of soft and furry,
+- \[01:14:30\]  you would say, right, it was evolved.
+- \[01:14:32\]  It's probably, you know, somewhat clever
+- \[01:14:34\]  and I'm gonna get in trouble if I'm not nice to it
+- \[01:14:36\]  and things like that.
+- \[01:14:37\]  That's all gonna be gone.
+- \[01:14:39\]  That stuff is not gonna survive the next couple of decades
+- \[01:14:42\]  in the sense that where,
+- \[01:14:44\]  so where we're going is a place where
+- \[01:14:48\]  what somebody is made of,
+- \[01:14:49\]  what literally what materials they're made of,
+- \[01:14:51\]  whether it's electronics or some combination of,
+- \[01:14:54\]  you know, it's 70% human brain cells,
+- \[01:14:57\]  30% electronics, or maybe, you know,
+- \[01:15:00\]  they got 20% electronics, 10%,
+- \[01:15:02\]  some other kind of weird, you know,
+- \[01:15:03\]  octopus cells or whatever.
+- \[01:15:05\]  What somebody is made of and how they got here,
+- \[01:15:08\]  meaning evolved, designed, or some combination of the two
+- \[01:15:10\]  is not going to be a good guide to their cognitive capacity.
+- \[01:15:14\]  We will not be able to say,
+- \[01:15:15\]  well, it kind of looks like a fish.
+- \[01:15:17\]  We know what we can do with fish, right?
+- \[01:15:19\]  We're gonna be surrounded by things
+- \[01:15:20\]  that we have absolutely no clue
+- \[01:15:21\]  based on what they look like.
+- \[01:15:23\]  Now, Darwin kind of already started us off on that
+- \[01:15:27\]  and that was a major upheaval.
+- \[01:15:28\]  People got upset about that,
+- \[01:15:30\]  but then he was saying that,
+- \[01:15:30\]  look, there's a smooth continuum
+- \[01:15:32\]  between where we are as humans
+- \[01:15:34\]  and other life forms that are simpler,
+- \[01:15:37\]  but there's no, we're not in the Garden of Eden anymore
+- \[01:15:39\]  where you got a bunch of animals
+- \[01:15:40\]  and you got a bunch of humans
+- \[01:15:41\]  and they're completely different
+- \[01:15:42\]  and we can make different rules.
+- \[01:15:43\]  So he pointed out a one-dimensional continuum
+- \[01:15:46\]  and people went completely nuts over it
+- \[01:15:48\]  and they're still, you know, kind of crazy about it.
+- \[01:15:50\]  That's gonna be nothing compared to what's coming
+- \[01:15:53\]  because instead of a single dimensional continuum,
+- \[01:15:55\]  we are going to have a huge dimensional space
+- \[01:15:58\]  of novel beings.
+- \[01:16:00\]  And that means that we have to develop an ethics
+- \[01:16:03\]  that is basically more grown up than what we have now,
+- \[01:16:06\]  which is how did you get here and what are you made of?
+- \[01:16:08\]  Right?
+- \[01:16:09\]  And you know, when you say that,
+- \[01:16:10\]  when you drag that stuff into the light,
+- \[01:16:11\]  you can sort of see how childish that is, right?
+- \[01:16:13\]  And how sort of not deep and sort of, you know,
+- \[01:16:18\]  how conceptually, and by the way,
+- \[01:16:20\]  science fiction has been dealing with us
+- \[01:16:22\]  for hundreds of years, right?
+- \[01:16:24\]  Pat's story is as old as the hills that, you know,
+- \[01:16:26\]  this is a spaceship lands on your lawn
+- \[01:16:27\]  and this thing trundles out and sort of hands you a poem
+- \[01:16:30\]  about how happy it is to meet you.
+- \[01:16:31\]  And then you're like,
+- \[01:16:32\]  well, it's kind of aluminum looking.
+- \[01:16:34\]  What do I, you know, how do I relate to this thing?
+- \[01:16:36\]  And what can I really do with it?
+- \[01:16:39\]  So they've been dealing with that for a long time,
+- \[01:16:41\]  but the engineering and the biology have gone far ahead,
+- \[01:16:45\]  actually, of most of those stories.
+- \[01:16:46\]  I mean, this is all reality now.
+- \[01:16:48\]  So yeah, so I think there are massive ethical challenges,
+- \[01:16:51\]  but they're not what people think they are.
+- \[01:16:53\]  It's not really about frog skin.
+- \[01:16:54\]  It's about recognizing sentience
+- \[01:16:57\]  and figuring out a framework for,
+- \[01:17:00\]  which I've taken a stab at, by the way,
+- \[01:17:01\]  I've, you know, obviously I don't know the answers to this,
+- \[01:17:04\]  but I've taken a stab at part of it,
+- \[01:17:07\]  a framework for truly diverse intelligences
+- \[01:17:10\]  that where you can actually think about how to relate
+- \[01:17:13\]  to beings regardless of what they look like
+- \[01:17:16\]  or how they got here.
+- \[01:17:17\]  Yeah, for sure.
+- \[01:17:18\]  I mean, you've already sort of touched on it,
+- \[01:17:20\]  but like, so why do you see the future of the human species
+- \[01:17:24\]  like in the next 50, 100 years?
+- \[01:17:26\]  And I guess as well to kind of wrap up
+- \[01:17:29\]  a lot of things we've spoken about,
+- \[01:17:30\]  how would you also foresee the future
+- \[01:17:32\]  of like healthcare and treatments?
+- \[01:17:35\]  Yeah, a couple of things with respect to humans.
+- \[01:17:40\]  Somebody asked me once during an interview like this,
+- \[01:17:42\]  somebody asked me,
+- \[01:17:43\]  well, given that you think everything is up for change,
+- \[01:17:47\]  you know, organs and sensory and whatever,
+- \[01:17:50\]  what's a human at that point, right?
+- \[01:17:52\]  Like what really is a human?
+- \[01:17:53\]  I think that's an excellent question
+- \[01:17:54\]  because if you ask yourself,
+- \[01:17:57\]  what is it really that I value about another human being?
+- \[01:18:00\]  Is it their genetics?
+- \[01:18:02\]  No, not really.
+- \[01:18:03\]  Is it how they got here?
+- \[01:18:04\]  Oh, well, I'm really into the fact
+- \[01:18:06\]  that you're a long process of evolution,
+- \[01:18:07\]  through, you know, you came by a long process of evolution.
+- \[01:18:10\]  Not really.
+- \[01:18:11\]  Is it what your internal organs are made of?
+- \[01:18:13\]  You know, if your spouse went off and came back and said,
+- \[01:18:15\]  oh man, I just shed a bunch of internal organs
+- \[01:18:17\]  replaced by machines.
+- \[01:18:18\]  Whatever, fine, who cares?
+- \[01:18:21\]  You start to ask yourself,
+- \[01:18:22\]  what is it really that's essential?
+- \[01:18:23\]  And I think that my answer would be,
+- \[01:18:29\]  and this is based on the kind of framework
+- \[01:18:32\]  that I've developed for comparing diverse intelligences.
+- \[01:18:36\]  It's the scope of the goals
+- \[01:18:38\]  that you're capable of holding onto.
+- \[01:18:40\]  So specifically, I would say that a human is a,
+- \[01:18:44\]  it's a category, what you mean when you say human,
+- \[01:18:47\]  you don't mean anything about genetics
+- \[01:18:49\]  or anatomy or anything like that.
+- \[01:18:51\]  What you're really saying is capacity
+- \[01:18:53\]  for a certain degree of moral concern.
+- \[01:18:55\]  You are capable, fundamentally capable
+- \[01:18:57\]  of being morally concerned about some number
+- \[01:19:00\]  of other beings.
+- \[01:19:01\]  That's what it means to be minimally human.
+- \[01:19:03\]  We all know what diminished capacity is, right?
+- \[01:19:06\]  You go to court and somebody did something horrible
+- \[01:19:09\]  and the lawyer argues, he's got diminished capacity.
+- \[01:19:14\]  He wasn't able to kind of care about what's happening.
+- \[01:19:16\]  He didn't understand.
+- \[01:19:17\]  All right, we know what diminished capacity is.
+- \[01:19:19\]  We should have an idea of what enhanced capacity is.
+- \[01:19:21\]  Someday, we will have creatures
+- \[01:19:23\]  that are so cognitively large
+- \[01:19:26\]  that they will literally be able to care
+- \[01:19:29\]  about massive numbers of individuals the way we can't.
+- \[01:19:32\]  Right, we don't have, if, you know,
+- \[01:19:34\]  we don't have our linear range.
+- \[01:19:35\]  So if somebody says something happened to,
+- \[01:19:39\]  something terrible happened to a thousand people
+- \[01:19:42\]  and then they say, no, actually it was 50,000 people,
+- \[01:19:46\]  you don't feel 50 times worse, right, about it.
+- \[01:19:49\]  You feel bad, but you don't feel 50 times worse.
+- \[01:19:51\]  We don't have the linear range to literally care about,
+- \[01:19:56\]  you know, we're limited in that way.
+- \[01:19:58\]  Someday, we may have some sort of, you know,
+- \[01:20:01\]  Buddha-like cognitive beings that actually can.
+- \[01:20:05\]  They have a capacity to care.
+- \[01:20:07\]  And to them, we are as limited
+- \[01:20:09\]  as some of the creatures we know.
+- \[01:20:11\]  For example, you know, dogs and whatnot,
+- \[01:20:12\]  that, you know, sure they care about stuff,
+- \[01:20:14\]  but like a dog is never gonna care
+- \[01:20:16\]  about what happens in the next town
+- \[01:20:18\]  over three weeks from now, they just can't.
+- \[01:20:19\]  Their cognitive light cone is too small for that, right?
+- \[01:20:22\]  So I think that's, if I had to define a human,
+- \[01:20:27\]  that's what I would say.
+- \[01:20:27\]  A human is a minimal level of care and concern
+- \[01:20:30\]  for other sentient beings.
+- \[01:20:32\]  And, you know, it's a minimal bar.
+- \[01:20:36\]  So what's gonna happen?
+- \[01:20:37\]  I think that bodies as we know it
+- \[01:20:40\]  are gonna go out the window.
+- \[01:20:41\]  I think humanity in the future
+- \[01:20:43\]  is gonna be massively diverse, right?
+- \[01:20:45\]  Depending on where you live,
+- \[01:20:46\]  probably off planet in many cases,
+- \[01:20:49\]  and how you live and you will choose, you know,
+- \[01:20:51\]  when you get old enough, you sort of say,
+- \[01:20:53\]  well, you know, I'd like a senses
+- \[01:20:54\]  that plug me into this and that.
+- \[01:20:56\]  And, you know, your brother
+- \[01:20:58\]  will choose something completely different.
+- \[01:20:59\]  And we will all physically, structurally,
+- \[01:21:02\]  we will be incredibly diverse.
+- \[01:21:04\]  The genetics will become more or less irrelevant.
+- \[01:21:06\]  But what still makes us human
+- \[01:21:08\]  is that minimal level of concern.
+- \[01:21:11\]  And if that goes away due to certain changes,
+- \[01:21:13\]  then you've become something else.
+- \[01:21:15\]  And that may be good or bad, but it'll be something else.
+- \[01:21:18\]  For healthcare, I would say this,
+- \[01:21:20\]  the biggest change in healthcare is going to be,
+- \[01:21:24\]  right now, all of molecular medicine
+- \[01:21:27\]  is about the hardware.
+- \[01:21:31\]  It's all about genomic change,
+- \[01:21:32\]  protein engineering, pathways, right?
+- \[01:21:34\]  All that kind of stuff.
+- \[01:21:35\]  That's where computer science was in the 50s.
+- \[01:21:37\]  In order to reprogram a computer,
+- \[01:21:39\]  you had to physically pull wires, right?
+- \[01:21:40\]  You had to physically rewire it.
+- \[01:21:42\]  And then what happened?
+- \[01:21:44\]  Why do we have this information technology revolution?
+- \[01:21:47\]  Because we figured out that you're much better
+- \[01:21:50\]  off programming at the software level.
+- \[01:21:51\]  If your hardware is good enough,
+- \[01:21:53\]  you can't do that to a mechanical clock.
+- \[01:21:55\]  But if your hardware is good enough, you can do this.
+- \[01:21:58\]  That's what we're gonna discover in biology,
+- \[01:22:01\]  in biomedicine.
+- \[01:22:02\]  We're going to be addressing the higher control levels.
+- \[01:22:07\]  And instead of trying to,
+- \[01:22:09\]  my gut feeling is that that's the reason,
+- \[01:22:12\]  trying to micromanage all of this stuff,
+- \[01:22:13\]  and we could talk for a long time about why I think that.
+- \[01:22:16\]  Instead of trying to micromanage this stuff,
+- \[01:22:18\]  which is what results in side effects,
+- \[01:22:20\]  and you tweak one thing and something else,
+- \[01:22:22\]  every drug has a long list of horrible side effects.
+- \[01:22:26\]  I think the way to beat all of that
+- \[01:22:28\]  is to stop focusing on suppressing the symptoms
+- \[01:22:31\]  and try to motivate the system to go to a health state.
+- \[01:22:35\]  And that means understanding
+- \[01:22:36\]  how that system traverses its space.
+- \[01:22:37\]  What does it want?
+- \[01:22:38\]  What can it remember?
+- \[01:22:39\]  How intelligent is it?
+- \[01:22:40\]  What are the kinds of problems it can solve?
+- \[01:22:42\]  What are the things it cares about?
+- \[01:22:43\]  Can you train, can we train organs?
+- \[01:22:45\]  Can we train pathways?
+- \[01:22:46\]  We published a paper recently,
+- \[01:22:48\]  and other people have too,
+- \[01:22:50\]  to show that gene regulatory networks
+- \[01:22:52\]  can have six different kinds of learning.
+- \[01:22:54\]  So instead of rewiring these things
+- \[01:22:57\]  through gene editing and gene therapy,
+- \[01:23:02\]  we should have ways of training them.
+- \[01:23:06\]  And training them for health states.
+- \[01:23:07\]  And it's all the advantages of training
+- \[01:23:09\]  over micromanagement that you have
+- \[01:23:11\]  when you train a rat to do a trick,
+- \[01:23:13\]  instead of having to go in there and run every neuron
+- \[01:23:15\]  like a puppet to get it to do what it wants to do.
+- \[01:23:18\]  Much easier to train the thing.
+- \[01:23:20\]  So I think where medicine is going to go, I hope,
+- \[01:23:24\]  is towards understanding the high-level control structures
+- \[01:23:29\]  and actually resolving whatever the problem is,
+- \[01:23:31\]  as opposed to trying to address individual symptoms.
+- \[01:23:36\]  Which is kind of what we have, right?
+- \[01:23:37\]  Most drugs, except for antibiotics and things like that,
+- \[01:23:40\]  most drugs that we have,
+- \[01:23:41\]  you stop taking it, you're back where you came,
+- \[01:23:43\]  they don't fix anything, right?
+- \[01:23:44\]  You stop taking it, you're back where you came from.
+- \[01:23:46\]  They don't actually change the system at all.
+- \[01:23:48\]  So I think we're going to get past that.
+- \[01:23:51\]  Yeah, and I think as we've spoken about,
+- \[01:23:53\]  we've seen the multiple examples now
+- \[01:23:55\]  where it seems like having this high-level,
+- \[01:23:58\]  interfering at the high level,
+- \[01:24:01\]  and not worrying about the micromanagement,
+- \[01:24:03\]  seems to be a more effective way forward.
+- \[01:24:07\]  And I think just kind of on from that,
+- \[01:24:08\]  obviously I trained as a biochemist,
+- \[01:24:09\]  looking at the very lower levels and the molecular details.
+- \[01:24:12\]  What kind of advice would you give for,
+- \[01:24:15\]  I guess my viewers who are probably also fascinated
+- \[01:24:17\]  by your research in terms of having a career in science now,
+- \[01:24:22\]  what is the best way to kind of understand,
+- \[01:24:25\]  have a broad knowledge in different disciplines,
+- \[01:24:27\]  which like inevitably seems to be required
+- \[01:24:30\]  to understand whatever this higher level is
+- \[01:24:33\]  and the downstream manifestations.
+- \[01:24:36\]  And I guess just more generally advice
+- \[01:24:38\]  in having an amazing scientific career
+- \[01:24:40\]  as you've definitely demonstrated.
+- \[01:24:44\]  Yeah, I can say a couple of things.
+- \[01:24:47\]  I mean, really, I'm kind of amazed every day
+- \[01:24:51\]  that I'm here doing these things.
+- \[01:24:52\]  I dreamed about it from the time I was a kid,
+- \[01:24:55\]  but I pretty much always thought
+- \[01:24:58\]  all through grad school, for example,
+- \[01:24:59\]  I thought today's the day I get kicked out.
+- \[01:25:01\]  Like I pretty much thought this was it
+- \[01:25:03\]  and I'll go back to programming and whatever.
+- \[01:25:06\]  So it's not like I knew how to do this from the beginning.
+- \[01:25:11\]  So there was a lot of events that took place.
+- \[01:25:13\]  But I will say this,
+- \[01:25:17\]  what's really key to remember is that
+- \[01:25:20\]  the disciplines are not real.
+- \[01:25:23\]  And what I mean by that is that every discipline
+- \[01:25:26\]  is pretty sure of various assumptions
+- \[01:25:29\]  and the right ways to look at things.
+- \[01:25:31\]  And what you have to do is really nail home
+- \[01:25:35\]  the idea that that's just one lens.
+- \[01:25:38\]  Every department, every set of people
+- \[01:25:40\]  with their own journal and their own funding body
+- \[01:25:41\]  and their own conferences,
+- \[01:25:43\]  they're all using one lens to look at things.
+- \[01:25:45\]  And they love that lens.
+- \[01:25:46\]  And if you go there and try to do it in a different way,
+- \[01:25:49\]  they'll tell you that you're nuts.
+- \[01:25:50\]  And there may be somebody next door
+- \[01:25:52\]  who's using a different lens
+- \[01:25:54\]  to whom everything you're saying is obvious.
+- \[01:25:56\]  I see that that happens to me all the time.
+- \[01:25:57\]  I give a talk and different parts of the talk
+- \[01:26:00\]  make people mad depending on what department I'm in.
+- \[01:26:03\]  There are things that I can say in one department
+- \[01:26:04\]  and they're like, yeah, so of course.
+- \[01:26:05\]  And then in another department, what are you crazy?
+- \[01:26:07\]  So, right?
+- \[01:26:08\]  So you just have to realize that
+- \[01:26:11\]  if you really want to do new things,
+- \[01:26:16\]  and I think we're getting to the point as a society
+- \[01:26:18\]  where all this stuff that could have been done
+- \[01:26:21\]  with a single lens is pretty much done, right?
+- \[01:26:24\]  We've kind of all the easy things
+- \[01:26:25\]  that could have been solved from a single perspective,
+- \[01:26:27\]  I think they're mostly solved.
+- \[01:26:29\]  Everything that's, which is a far minority
+- \[01:26:31\]  of the things that need to be solved.
+- \[01:26:32\]  Everything else needs you to crack out of that lens
+- \[01:26:37\]  and use multiple approaches that are informed
+- \[01:26:40\]  by different ways of looking at the world.
+- \[01:26:42\]  So computer scientists, physicists, biologists,
+- \[01:26:47\]  cognitive scientists at all levels, right?
+- \[01:26:51\]  They all look at the world in a completely different way.
+- \[01:26:53\]  And we just need to, I think we need to commit
+- \[01:26:56\]  to all of those may or may not be useful.
+- \[01:26:59\]  So just be ready to try them out
+- \[01:27:00\]  and discard them as you will,
+- \[01:27:02\]  and get really comfortable with those kinds of lenses.
+- \[01:27:06\]  So take some, not computational biology or bioinformatics,
+- \[01:27:10\]  but real honest to God computer science classes, right?
+- \[01:27:13\]  Take an engineering class where,
+- \[01:27:15\]  the most magical class by the way of all
+- \[01:27:17\]  is electrical engineering 101
+- \[01:27:19\]  because you start with Ohm's law
+- \[01:27:23\]  and like the stupid electrons running through a wire.
+- \[01:27:27\]  And by the end of the class,
+- \[01:27:28\]  you've built a decision-making device
+- \[01:27:30\]  that can follow an algorithm.
+- \[01:27:32\]  You make a little computer
+- \[01:27:33\]  that takes instructions off a stack.
+- \[01:27:35\]  It does logic, it's following an algorithm.
+- \[01:27:37\]  You started with physics, you ended up with logic
+- \[01:27:40\]  and a thing that reads information
+- \[01:27:43\]  and follows instructions.
+- \[01:27:45\]  And you did it with your own hands.
+- \[01:27:46\]  So you know there wasn't any magic.
+- \[01:27:47\]  It's like incredible, right?
+- \[01:27:49\]  So those kinds of ways to think about things,
+- \[01:27:54\]  or physicists, and the way that they like
+- \[01:27:58\]  to have explanations, F equals MA, right?
+- \[01:28:02\]  That kind of explanation would never fly
+- \[01:28:04\]  in a molecular biology class.
+- \[01:28:05\]  They hate that kind of stuff.
+- \[01:28:07\]  But for a physicist, that's a great explanation.
+- \[01:28:10\]  So computer science, especially, right?
+- \[01:28:13\]  And their emphasis on multiple realizability
+- \[01:28:18\]  and the fact that the algorithm is the key.
+- \[01:28:20\]  And it doesn't matter if you're made of silicon
+- \[01:28:24\]  and electron flows, or like Dan Dennett says,
+- \[01:28:26\]  beer cans and string, it doesn't matter.
+- \[01:28:28\]  So all of those perspectives.
+- \[01:28:30\]  So that's what I think.
+- \[01:28:32\]  I think it's really important to just realize
+- \[01:28:35\]  that everything you've been taught
+- \[01:28:36\]  by a certain set of people is all from one perspective.
+- \[01:28:40\]  And that things that they believe are sort of sacred,
+- \[01:28:46\]  like all your explanations should be
+- \[01:28:48\]  at the level of chemistry, right?
+- \[01:28:50\]  That's, I mean, what is, that's not even reductionism.
+- \[01:28:53\]  If you were a real reductionist,
+- \[01:28:54\]  you'd want to do it in terms of quantum foam,
+- \[01:28:56\]  but you don't want to do that.
+- \[01:28:57\]  You want chemistry.
+- \[01:28:58\]  So, right?
+- \[01:28:59\]  So every field has these things that they hold onto.
+- \[01:29:03\]  And I think we're rapidly getting to the place
+- \[01:29:06\]  where progress means you gotta try on some new lenses.
+- \[01:29:11\]  Yeah, but Sheldon, that's incredible advice.
+- \[01:29:13\]  And also you having read a lot of your research,
+- \[01:29:15\]  it really has like introduced me to a lot of concepts
+- \[01:29:17\]  that I've never heard of before.
+- \[01:29:18\]  And like, now, as you say,
+- \[01:29:20\]  it makes me think about things differently
+- \[01:29:21\]  because I've been like so trained.
+- \[01:29:23\]  I mean, I don't want to say anything bad about my education,
+- \[01:29:26\]  but like you do put these lenses
+- \[01:29:30\]  on how you think about a certain subject.
+- \[01:29:32\]  And I think it is important to, yeah,
+- \[01:29:35\]  have that sort of diverse understanding.
+- \[01:29:38\]  So we've had an absolutely incredible conversation.
+- \[01:29:41\]  And so where can my viewers go to find out more
+- \[01:29:44\]  about your lab research or to find out
+- \[01:29:48\]  about more what you're doing?
+- \[01:29:50\]  Yeah, everything is at a website, drmike11.org.
+- \[01:29:56\]  So there there's links to the various institutes,
+- \[01:29:59\]  like the ICDO,
+- \[01:30:00\]  our Institute for Computer Designed Organisms,
+- \[01:30:02\]  which is all the Zenobot stuff,
+- \[01:30:03\]  all the papers, all the primary papers,
+- \[01:30:05\]  a bunch of talks that I've given.
+- \[01:30:08\]  Everything is there.
+- \[01:30:09\]  It's pretty up to date, all the papers,
+- \[01:30:11\]  all the, you know, everything is there, lots of material.
+- \[01:30:14\]  So, oh, and I also have a Twitter feed,
+- \[01:30:16\]  Twitter feed at drmike11.
+- \[01:30:18\]  I just have to say it's excellent to follow.
+- \[01:30:21\]  Yeah, as I can see in the background,
+- \[01:30:23\]  an amazing collection of books,
+- \[01:30:26\]  which as well, I would love to be able to read them all
+- \[01:30:28\]  at some point, but yeah.
+- \[01:30:30\]  Me too, me too.
+- \[01:30:31\]  It's time to reread.
+- \[01:30:33\]  I mean, many of these I read 30, 40 years ago,
+- \[01:30:36\]  and you know, you look at them and you say,
+- \[01:30:38\]  wow, I wonder if I would squeeze
+- \[01:30:40\]  something completely different out of it now.
+- \[01:30:42\]  I know for sure, I mean,
+- \[01:30:43\]  I was actually just reading a paper,
+- \[01:30:45\]  this one that's relevant to my PhD work
+- \[01:30:48\]  for the first time in like two years,
+- \[01:30:49\]  and even just two years,
+- \[01:30:50\]  I've now thought something very different from it
+- \[01:30:53\]  than I did the first time.
+- \[01:30:54\]  So yeah, I got distracted.
+- \[01:30:56\]  Thank you so much for taking the time to speak with me today
+- \[01:31:00\]  and I wish the best of luck for your research.
+- \[01:31:03\]  And I look forward to seeing your latest discoveries.
+- \[01:31:05\]  Likewise, yeah, thanks so much.
+- \[01:31:06\]  Good luck with everything.
+- \[01:31:07\]  Keep in touch.
+- \[01:31:08\]  Yeah, be in touch.
