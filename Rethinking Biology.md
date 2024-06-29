@@ -57,24 +57,24 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:02:19\]  And I'm allowed to, because as I said, I'm a physicist.
 - \[00:02:22\]  And it's something that actually has been bothering me
 - \[00:02:25\]  for years.
-- \[00:02:26\]  So the question is, you take a cell on the end of my nose.
-- \[00:02:28\]  How does it know that it's on the end of my nose?
+- \[00:02:26\]  So the question is, you take a cell on the end of my nose. ^af909c
+- \[00:02:28\]  How does it know that it's on the end of my nose? ^7c6fe5
 - \[00:02:31\]  How does it know what the shape of my nose is
 - \[00:02:33\]  and what its place is in my body?
 - \[00:02:35\]  Because that cell, if you look at the genome,
 - \[00:02:38\]  there's no way it should know where it is in space and time.
 - \[00:02:41\]  How on earth does this work?
-- \[00:02:44\]  Yeah, great question.
-- \[00:02:46\]  And like you, I entered this field from a different area.
-- \[00:02:50\]  I was a computer scientist
+- \[00:02:44\]  Yeah, great question. ^02b019
+- \[00:02:46\]  And like you, I entered this field from a different area. ^78b35e
+- \[00:02:50\]  I was a computer scientist ^b4b91f
 - \[00:02:51\]  and likewise asking similar questions.
 - \[00:02:56\]  As far as we know now,
 - \[00:02:57\]  the individual cell does not know where it is.
-- \[00:03:00\]  It doesn't know anything about a nose.
+- \[00:03:00\]  It doesn't know anything about a nose. ^69af66
 - \[00:03:02\]  It doesn't know anything about you,
-- \[00:03:03\]  but the cellular collective does.
-- \[00:03:05\]  So cells merge into networks
-- \[00:03:08\]  and these networks have computational properties
+- \[00:03:03\]  but the cellular collective does. ^4a75cb
+- \[00:03:05\]  So cells merge into networks ^35dda8
+- \[00:03:08\]  and these networks have computational properties ^476cae
 - \[00:03:10\]  that we're only beginning to understand.
 - \[00:03:12\]  And it's those networks
 - \[00:03:14\]  that implement a kind of collective intelligence
@@ -99,25 +99,25 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:03:59\]  of computer analogies in biology
 - \[00:04:01\]  and in many ways they're bad,
 - \[00:04:02\]  but this one I think is a good one.
-- \[00:04:05\]  The genome, what the genome encodes is the hardware.
+- \[00:04:05\]  The genome, what the genome encodes is the hardware. ^bee823
 - \[00:04:09\]  The genome tells every cell
-- \[00:04:10\]  what kind of microscopic hardware it has to play with.
+- \[00:04:10\]  what kind of microscopic hardware it has to play with. ^823687
 - \[00:04:15\]  Those are the proteins that it has.
-- \[00:04:17\]  Everything that happens after that
-- \[00:04:18\]  in an important sense is software.
+- \[00:04:17\]  Everything that happens after that ^2a2b44
+- \[00:04:18\]  in an important sense is software. ^b038f8
 - \[00:04:20\]  That hardware is reprogrammable.
 - \[00:04:22\]  It does representation.
 - \[00:04:24\]  It does a number of interesting things that hardware does,
 - \[00:04:27\]  but you have to treat the genome as that.
-- \[00:04:30\]  The genome does not directly specify your shape.
-- \[00:04:33\]  It doesn't specify the content
-- \[00:04:36\]  of the memories of your body networks.
+- \[00:04:30\]  The genome does not directly specify your shape. ^0bd43b
+- \[00:04:33\]  It doesn't specify the content ^1581cf
+- \[00:04:36\]  of the memories of your body networks. ^549a56
 - \[00:04:39\]  What it gives you is some amazing hardware
 - \[00:04:41\]  that does some stuff by default,
 - \[00:04:43\]  sort of out of the box,
 - \[00:04:44\]  and also is highly reprogrammable.
 - \[00:04:48\]  So just to sort of follow on with that,
-- \[00:04:52\]  so this idea of out of the box.
+- \[00:04:52\]  so this idea of out of the box. ^4043bd
 - \[00:04:54\]  So I'm assuming if you're looking at humans, for instance,
 - \[00:04:57\]  and we're gonna start really complex
 - \[00:04:58\]  and we'll probably get more simple from here,
@@ -139,7 +139,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:05:37\]  and then the higher levels are sort of insulated
 - \[00:05:38\]  from the lower levels,
 - \[00:05:40\]  that doesn't work in biology
-- \[00:05:41\]  because the hardware is fundamentally unreliable.
+- \[00:05:41\]  because the hardware is fundamentally unreliable. ^aaf798
 - \[00:05:45\]  Everything that is in the cell
 - \[00:05:46\]  is going to be damaged, turned over,
 - \[00:05:47\]  noise is huge,
@@ -147,20 +147,20 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:05:51\]  the hardware is going to change.
 - \[00:05:52\]  So there's going to be mutations,
 - \[00:05:54\]  there are going to be the environment will change,
-- \[00:05:56\]  your own parts will change,
-- \[00:05:57\]  everything is going to change.
+- \[00:05:56\]  your own parts will change, ^d07fc6
+- \[00:05:57\]  everything is going to change. ^c8284f
 - \[00:05:58\]  So sticking with this idea
 - \[00:06:00\]  that what you're gonna try to do
 - \[00:06:02\]  is create a solution to a specific problem
 - \[00:06:05\]  the way that our current,
 - \[00:06:06\]  let's say genetic algorithms do,
 - \[00:06:09\]  I think is not what biology does at all.
-- \[00:06:11\]  What I think what biology does
-- \[00:06:13\]  is create problem solving agents
+- \[00:06:11\]  What I think what biology does ^5de43a
+- \[00:06:13\]  is create problem solving agents ^1269bd
 - \[00:06:15\]  that operate,
 - \[00:06:16\]  and we can talk about some of the ways that this happens,
-- \[00:06:19\]  they operate in various problem spaces
-- \[00:06:20\]  like anatomical space,
+- \[00:06:19\]  they operate in various problem spaces ^dd99ce
+- \[00:06:20\]  like anatomical space, ^7b92a8
 - \[00:06:22\]  and if all things being equal,
 - \[00:06:24\]  they take the same journey through anatomical morphospace
 - \[00:06:27\]  and you go from being a single cell oocyte
@@ -197,7 +197,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:07:51\]  and they produce a certain shape and that's that.
 - \[00:07:54\]  There are other bioengineers,
 - \[00:07:56\]  and I'll address the planaria point in a second,
-- \[00:07:59\]  but there are other bioengineers besides the human ones
+- \[00:07:59\]  but there are other bioengineers besides the human ones ^4b440f
 - \[00:08:02\]  that show us how limited that view is.
 - \[00:08:05\]  And one of the things that I show sometimes in my talks
 - \[00:08:10\]  is that there are these galls.
@@ -205,9 +205,9 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:08:14\]  that belongs to an oak and you kind of know,
 - \[00:08:16\]  you say, well, the oak genome makes this flat green thing,
 - \[00:08:18\]  you know, 100% of the time, that's what it makes.
-- \[00:08:20\]  Well, along comes a wasp, a parasite
-- \[00:08:23\]  that's a non-human bioengineer,
-- \[00:08:26\]  and it prompts the leaf cells with some chemicals,
+- \[00:08:20\]  Well, along comes a wasp, a parasite ^28fcfe
+- \[00:08:23\]  that's a non-human bioengineer, ^148515
+- \[00:08:26\]  and it prompts the leaf cells with some chemicals, ^f0625b
 - \[00:08:30\]  not really known exactly how it works.
 - \[00:08:32\]  And they go on to make this crazy, beautiful,
 - \[00:08:34\]  red spiky thing that looks absolutely nothing like the leaf.
@@ -217,30 +217,30 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:08:45\]  micromanaging where the cells go,
 - \[00:08:46\]  it's not micromanaging the gene expression,
 - \[00:08:48\]  it's not doing genetic editing,
-- \[00:08:50\]  it is communicating to the cellular collective
+- \[00:08:50\]  it is communicating to the cellular collective ^f97955
 - \[00:08:54\]  some prompts that take advantage
 - \[00:08:56\]  of their morphogenetic capacity.
 - \[00:08:58\]  So nature is already doing this,
 - \[00:09:01\]  but evolution is making these plastic things
 - \[00:09:04\]  that can respond in interesting ways.
 - \[00:09:06\]  And so in planaria, we took advantage of that.
-- \[00:09:09\]  And the thing about planaria is that it's these flat worms,
-- \[00:09:13\]  they've got a head and a tail and true brain,
+- \[00:09:09\]  And the thing about planaria is that it's these flat worms, ^33cc9b
+- \[00:09:13\]  they've got a head and a tail and true brain, ^7610c1
 - \[00:09:16\]  lots of different organs.
-- \[00:09:18\]  You can chop them into pieces,
-- \[00:09:19\]  the record is, I don't know, 275, I think,
+- \[00:09:18\]  You can chop them into pieces, ^a0130f
+- \[00:09:19\]  the record is, I don't know, 275, I think, ^04842d
 - \[00:09:21\]  or something like that.
-- \[00:09:23\]  And each piece will reliably regenerate an entire worm.
+- \[00:09:23\]  And each piece will reliably regenerate an entire worm. ^071710
 - \[00:09:27\]  So it's really interesting to ask,
-- \[00:09:30\]  how does every piece know what a correct worm
-- \[00:09:32\]  is supposed to look like?
+- \[00:09:30\]  how does every piece know what a correct worm ^72ac13
+- \[00:09:32\]  is supposed to look like? ^7b8714
 - \[00:09:34\]  And so we were studying this and long story short,
-- \[00:09:38\]  we discovered that there's a bioelectric circuit.
+- \[00:09:38\]  we discovered that there's a bioelectric circuit. ^003dc8
 - \[00:09:40\]  And this is one thing my lab does
 - \[00:09:42\]  is it studies this really interesting electrical interface
-- \[00:09:45\]  to the collective intelligence of these cells.
-- \[00:09:47\]  That interface is, it's kind of like an API
-- \[00:09:49\]  that cells use to hack each other's behavior.
+- \[00:09:45\]  to the collective intelligence of these cells. ^6439a8
+- \[00:09:47\]  That interface is, it's kind of like an API ^b8b9a0
+- \[00:09:49\]  that cells use to hack each other's behavior. ^b4e189
 - \[00:09:53\]  And there's a circuit that has a particular voltage pattern
 - \[00:09:56\]  that basically encodes the fact
 - \[00:09:57\]  that you should have one head.
@@ -274,11 +274,11 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:11:09\]  in our brains?
 - \[00:11:10\]  Is there a continuum there?
 - \[00:11:13\]  Well, a couple of things.
-- \[00:11:14\]  So mechanistically, actually no one really knows
-- \[00:11:17\]  how memories are stored in our brain.
-- \[00:11:19\]  There's a sort of a conventional story
-- \[00:11:21\]  having to do with something about synaptic structures.
-- \[00:11:26\]  That story has a lot of cracks in it.
+- \[00:11:14\]  So mechanistically, actually no one really knows ^898cd3
+- \[00:11:17\]  how memories are stored in our brain. ^987583
+- \[00:11:19\]  There's a sort of a conventional story ^ebd130
+- \[00:11:21\]  having to do with something about synaptic structures. ^2c98e0
+- \[00:11:26\]  That story has a lot of cracks in it. ^079bbc
 - \[00:11:28\]  There are some folks that have been challenging that
 - \[00:11:30\]  in a strong way.
 - \[00:11:31\]  It really isn't clear.
@@ -287,7 +287,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:11:38\]  Because there have been all kinds of experiments
 - \[00:11:41\]  on moving memories from one animal to another.
 - \[00:11:44\]  And in fact, across radically different architectures.
-- \[00:11:47\]  So let's say from caterpillar to butterfly,
+- \[00:11:47\]  So let's say from caterpillar to butterfly, ^483b4e
 - \[00:11:49\]  memories persist.
 - \[00:11:50\]  They have to be remapped.
 - \[00:11:52\]  The straight up memories of a caterpillar
@@ -338,14 +338,14 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:13:43\]  Am I going outside the bounds of reality here?
 - \[00:13:47\]  No, I don't think you are.
 - \[00:13:48\]  I mean, it's been done.
-- \[00:13:51\]  There are lots of papers on moving memories
-- \[00:13:55\]  from one body to another.
-- \[00:13:56\]  So some of the best modern work is David Glansman at UCLA
+- \[00:13:51\]  There are lots of papers on moving memories ^8d0305
+- \[00:13:55\]  from one body to another. ^bf977b
+- \[00:13:56\]  So some of the best modern work is David Glansman at UCLA ^c0fd4d
 - \[00:14:01\]  who injects RNA ground up from trained aplasia
 - \[00:14:05\]  into the brains of naive hosts
 - \[00:14:08\]  and the information transfers.
 - \[00:14:09\]  There's a long history of that work.
-- \[00:14:11\]  In planaria, and this was discovered in the 60s,
+- \[00:14:11\]  In planaria, and this was discovered in the 60s, ^85e1c0
 - \[00:14:14\]  but we actually confirmed it ourselves in 2013.
 - \[00:14:18\]  If you train the worm, chop off their heads
 - \[00:14:21\]  and wait for the tail to regenerate a brand new head
@@ -370,7 +370,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:15:12\]  And then the classic caterpillar butterfly stuff
 - \[00:15:16\]  was done by Douglas Blackiston,
 - \[00:15:18\]  who's a staff scientist in my lab.
-- \[00:15:19\]  That's kind of a coincidence.
+- \[00:15:19\]  That's kind of a coincidence. ^ea6e5a
 - \[00:15:21\]  I hired him a long time ago.
 - \[00:15:24\]  And I didn't realize at first
 - \[00:15:26\]  that he had done that amazing work.
@@ -386,7 +386,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:15:50\]  there's nothing you can push on.
 - \[00:15:52\]  So then it becomes a butterfly
 - \[00:15:54\]  that has to live in a three dimensional world now.
-- \[00:15:58\]  And so because of that, the brain is largely dissolved.
+- \[00:15:58\]  And so because of that, the brain is largely dissolved. ^801c40
 - \[00:16:03\]  Many of the connections are broken.
 - \[00:16:04\]  Most of the cells are killed off.
 - \[00:16:06\]  There's some debate now as to
@@ -419,7 +419,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:17:07\]  which is driven by a completely different
 - \[00:17:09\]  set of effector signals.
 - \[00:17:11\]  So that to me is the more interesting part
-- \[00:17:13\]  is this remapping of information.
+- \[00:17:13\]  is this remapping of information. ^a03a3a
 - \[00:17:15\]  And I think that that is just the beginning.
 - \[00:17:19\]  I think once you start looking for it,
 - \[00:17:21\]  that remapping is everywhere.
@@ -435,7 +435,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:17:41\]  And I actually want to sort of come back to this
 - \[00:17:43\]  in a moment looking at how we extend it,
 - \[00:17:46\]  but just sticking with this
-- \[00:17:47\]  and the idea of these endogenous biological networks.
+- \[00:17:47\]  and the idea of these endogenous biological networks. ^fb32ce
 - \[00:17:52\]  So if I'm getting this right,
 - \[00:17:54\]  if you're looking at sort of these notions of memory,
 - \[00:17:57\]  they're embedded in this idea of these networks,
@@ -693,7 +693,7 @@ updated: 2024-06-27T17:54:53-07:00
 - \[00:28:27\]  that you can say, yes, self-awareness, no self-awareness,
 - \[00:28:29\]  because we're inevitably gonna get to questions
 - \[00:28:34\]  of when and how during embryogenesis and during evolution
-- \[00:28:39\]  that supposed self-awareness shows up.
+- \[00:28:39\]  that supposed self-awareness shows up. ^e85578
 - \[00:28:41\]  All of these processes are extremely slow.
 - \[00:28:44\]  They go step-by-step.
 - \[00:28:46\]  There are no, you know, people talk about phase transitions,
