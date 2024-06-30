@@ -13,7 +13,6 @@
 - (2023-05-11; 1:21:27) [[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond|Agency, Attractors, and Observer-Dependent Computation]]
 - (2023-07-03; 1:24:54) [[Discussing 3 Recently Published Papers with Michael Levin|Discussing 3 Recently Published Papers]]
 - (2023-07-31; ==0:08:02==) [[Michael Levin - Can Cells Think|Can Cells Think?]] ⭐️
-- [ ] (2023-11-02; 0:57:59) [[Growing (Brains) in Artificial Neural Networks]]
 - (2024-01-17; 1:35:08) [[New Groundbreaking Research, Anthrobots, Hyper-Embryos]]
 - (2024-01-30; 1:33:58) [[The intelligence of life with Michael Levin|The intelligence of life]]
 - (2024-03-08; 0:56:11) [[Michael Levin - Novel beings novel goals (John Templeton Foundation)|Novel beings novel goals (John Templeton Foundation)]]
@@ -30,12 +29,16 @@
     - (2023-04-01; 1:20:06) [[What are Cognitive Light Cones (Michael Levin Interview)|What are Cognitive Light Cones]]
     - (2023-05-11; 1:21:27) [[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond|Agency, Attractors, and Observer-Dependent Computation]]
     - (2023-07-03; 1:24:54) [[Discussing 3 Recently Published Papers with Michael Levin|Discussing 3 Recently Published Papers]]
+- [Michael Levin's Academic Content](https://www.youtube.com/@drmichaellevin/videos)
+    - (2023-11-02; 0:57:59) [[Growing (Brains) in Artificial Neural Networks]]
+        - Doesn't include Levin, just a PhD student(?) working with [[Max Tegmark]]
+        - (Not as relevant to my [[Tinkerbrain - demo solution]] as expected)
 
 # Queue
 
-- From https://www.youtube.com/@drmichaellevin/videos
-    - 2024-06-26 1:26:24 [Michael Levin: What is Synthbiosis? Diverse Intelligence Beyond AI & The Space of Possible Minds](https://www.youtube.com/watch?v=1R-tdscgxu4&ab_channel=TevinNaidu)
-    - 2024-06-05 1:01:35 [Conversation between Joscha Bach, Chris Fields, and Michael Levin](https://www.youtube.com/watch?v=knADtWMGxmw&ab_channel=MichaelLevin%27sAcademicContent)
+- Via [Michael Levin's Academic Content](https://www.youtube.com/@drmichaellevin/videos)
+    - 2024-06-26; 1:26:24 [Michael Levin: What is Synthbiosis? Diverse Intelligence Beyond AI & The Space of Possible Minds](https://www.youtube.com/watch?v=1R-tdscgxu4&ab_channel=TevinNaidu)
+    - 2024-06-05; 1:01:35 [Conversation between Joscha Bach, Chris Fields, and Michael Levin](https://www.youtube.com/watch?v=knADtWMGxmw&ab_channel=MichaelLevin%27sAcademicContent)
     - 2024-05-24; 1:17:44 ["Reductionism is well-named. It reduces what you can do." - Michael Levin - Sentientism 199](https://www.youtube.com/watch?v=-syJO94VXg4&ab_channel=Sentientism)
     - 2024-05-08; 1:18:57 [Discussion with Michael Pollan of new ideas on memories and Selves](https://www.youtube.com/watch?v=HQD3hVG8mO0&ab_channel=MichaelLevin%27sAcademicContent)
     - 2024-04-24; 1:09:12 [Bioelectricity: The Body's Cognitive Glue - Michael Levin - 4/18/24](https://www.youtube.com/watch?v=lIHUWOv4nkE&ab_channel=caltech)

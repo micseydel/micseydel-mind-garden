@@ -652,7 +652,7 @@ updated: 2024-06-28T15:50:12-07:00
 - \[00:37:53\]  Yeah, sure.
 - \[00:37:53\]  So above, I basically talked about the brain for AI.
 - \[00:38:01\]  And next, I'm going to talk a bit about AI for brain,
-- \[00:38:09\]  but probably more like brain-spied AI for brain.
+- \[00:38:09\]  but probably more like brain-inspired AI for brain. ^ca11de
 - \[00:38:13\]  It's a little bit mouthful.
 - \[00:38:15\]  By brain-spied AI, I simply mean the BIMP method
 - \[00:38:21\]  that we proposed.
@@ -781,7 +781,7 @@ updated: 2024-06-28T15:50:12-07:00
 - \[00:46:06\]  assigned a spatial coordinate.
 - \[00:46:09\]  So we ask this question.
 - \[00:46:11\]  Is it possible with BIMT to create
-- \[00:46:13\]  co-emergence of functional and anatomical modularity,
+- \[00:46:13\]  co-emergence of functional and anatomical modularity, ^17d5f6
 - \[00:46:17\]  just like in our cerebral cortex?
 - \[00:46:23\]  So again, the key is to introduce locality
 - \[00:46:25\]  into the whole thing.
@@ -803,6 +803,8 @@ updated: 2024-06-28T15:50:12-07:00
 - \[00:47:25\]  So now, for each neuron, we can compute
 - \[00:47:29\]  which function modules it belongs to
 - \[00:47:31\]  and colored with different colors.
+- ![[Pasted image 20240630155736.png]]
+    - ([ref](https://photos.google.com/photo/AF1QipOrTkNuLkJO9G1hUJmSmECrWT2v4ncHYgiICog6))
 - \[00:47:33\]  So yeah, you can see that the red neurons, they're
 - \[00:47:38\]  basically clustering space, although not that perfectly.
 - \[00:47:42\]  Like, they're still scattered around in the plot.
@@ -849,8 +851,8 @@ updated: 2024-06-28T15:50:12-07:00
 - \[00:49:53\]  some really interesting analysis using the resulting
 - \[00:49:57\]  coarse-grained signals.
 - \[00:49:59\]  Oh, interesting.
-- \[00:50:01\]  Is there any reference you can point me to?
-- \[00:50:03\]  Because that sounds extremely relevant.
+- \[00:50:01\]  Is there any reference you can point me to? ^8e17b5
+- \[00:50:03\]  Because that sounds extremely relevant. ^345474
 - \[00:50:05\]  Yeah, let me pull it up.
 - \[00:50:08\]  And then if you're interested, we
 - \[00:50:10\]  can talk about it in a different.
