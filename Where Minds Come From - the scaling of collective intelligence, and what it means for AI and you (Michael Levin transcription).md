@@ -322,7 +322,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:29:40\]  hardware. You might think that the outcomes are pretty fixed. I mean, here's an acorn, and you
 - \[00:29:46\]  know that all the time what these acorns give rise to is these oak leaves, and you might think
 - \[00:29:51\]  that you know what the oak genome actually does. It encodes this particular shape, but along comes
-- \[00:29:58\]  a bioengineer, and this is a non-human bioengineer. This is a little wasp, and what these wasps do is
+- \[00:29:58\]  a bioengineer, and this is a non-human bioengineer. This is a little wasp, and what these wasps do is ^377a7e
 - \[00:30:04\]  they provide some signals that prompt the rest of the tissue to build something like this.
 - \[00:30:12\]  They're hacking the morphogenetic competencies of this leaf. They're not changing the genome,
 - \[00:30:18\]  and what they're doing is providing some instructions that cause the leaf cells to adopt
@@ -339,7 +339,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:31:21\]  shapes is really behavior. It's behavior in an anatomical space of possibilities,
 - \[00:31:25\]  and it's done by a collective intelligence, which, just like us, we're all collective intelligences,
 - \[00:31:30\]  but that collective intelligence thinks about shape as opposed to moving around in 3D space.
-- \[00:31:35\]  So, now we need to ask, how do we communicate with that intelligence? I mean, the wasp did it
+- \[00:31:35\]  So, now we need to ask, how do we communicate with that intelligence? I mean, the wasp did it ^7ea317
 - \[00:31:39\]  through millions of years of evolution. We would like to do it faster. And where does it store its
 - \[00:31:45\]  memories? These are some things that we've been looking at. Well, we know that one way to store
 - \[00:31:50\]  memories and communicate with a collective intelligence is through the nervous system.

@@ -754,7 +754,7 @@ updated: 2024-06-27T18:00:25-07:00
 - \[00:41:34\]  reliable and that what the Oak genome does is specify this.
 - \[00:41:38\]  This is what it can do.
 - \[00:41:39\]  But along comes a parasite.
-- \[00:41:41\]  This is a wasp of a particular type.
+- \[00:41:41\]  This is a wasp of a particular type. ^b26892
 - \[00:41:43\]  And the wasp is an interesting bioengineer.
 - \[00:41:45\]  What it has, the lineage of the wasp, not the individual wasps, but the
 - \[00:41:48\]  evolutionary lineage has learned is how to prompt these cells, perfectly
