@@ -286,7 +286,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:26:20\]  you don't know how many copies of your genetic material you're going to have. You don't know
 - \[00:26:25\]  how many cells you're going to have or what the size of the cells are going to be. You still need
 - \[00:26:29\]  to be able to get the job done. This is not a matter of just being reliable with fixed parts.
-- \[00:26:35\]  This is the idea that what evolution is making is problem-solving agents. It's making a system
+- \[00:26:35\]  This is the idea that what evolution is making is problem-solving agents. It's making a system ^37ad3d
 - \[00:26:41\]  that is ready for many, many unexpected things, and not just environment, not just when somebody
 - \[00:26:46\]  bites your leg off and the salamander regenerates it. No, this is unreliability of your own parts.
 - \[00:26:51\]  This is not even being sure of what you're made of. You really can't depend on much. That's an
