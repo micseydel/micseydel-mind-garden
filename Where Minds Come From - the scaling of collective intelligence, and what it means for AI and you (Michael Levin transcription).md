@@ -410,7 +410,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:37:40\]  out in the tail of a tadpole somewhere. If you only inject a few cells, these blue cells are the
 - \[00:37:45\]  ones we injected, then they know there's not enough of them to make a good eye. So, what do
 - \[00:37:49\]  they do? They recruit a bunch of their neighbors to work with them to make an eye, just like ants ^6d38bd
-- \[00:37:54\]  and termites will recruit their buddies to solve a problem. So, now you can see that what we're
+- \[00:37:54\]  and termites will recruit their buddies to solve a problem. So, now you can see that what we're ^9666d9
 - \[00:37:59\]  doing is providing signals. We didn't tell these cells how to build an eye. We didn't say anything
 - \[00:38:04\]  about the stem cells or the gene expression. We have no idea how to build an eye. What we did find
 - \[00:38:08\]  was a message that we can transmit through this bioelectrical interface that says, build an eye
