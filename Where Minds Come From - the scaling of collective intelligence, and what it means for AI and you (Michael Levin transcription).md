@@ -42,7 +42,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:03:01\]  As you'll see in a minute, I think that idea has to go. But what's deep is this notion that
 - \[00:03:07\]  Adam, because he is the one that has to live with them, he is the one that has to give them names.
 - \[00:03:14\]  Now, in these old traditions, giving something a name was very deep and spiritual. It meant that
-- \[00:03:19\]  you've discovered their true nature. Knowing the name of something means you know their true nature.
+- \[00:03:19\]  you've discovered their true nature. Knowing the name of something means you know their true nature. ^77b28c
 - \[00:03:24\]  And as I'm going to show you at the end of this talk, because of synthetic biology and
 - \[00:03:28\]  bioengineering and some other disciplines, we are going to have to name or discover the true
 - \[00:03:33\]  nature of all kinds of unusual creatures that you guys will all be living in your lifetime.
@@ -71,7 +71,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:05:46\]  subcellular materials all the way up, you can introduce different kinds of novel engineered
 - \[00:05:52\]  components. And so all of this is now possible. And again, if you have thoughts about what a human
 - \[00:05:57\]  is versus what a machine is, you have to ask yourself, how are you going to distinguish this
-- \[00:06:02\]  when you are confronted with all sorts of beings along this continuum? You're going to need
+- \[00:06:02\]  when you are confronted with all sorts of beings along this continuum? You're going to need ^9b3db3
 - \[00:06:08\]  to find ways to relate to them. And so one of the things that I've been working on for some years
 - \[00:06:12\]  now is a framework to be able to recognize, to create, and to ethically relate to truly diverse
 - \[00:06:18\]  intelligences that we can have relationships with, regardless of their composition, meaning what

@@ -599,7 +599,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[00:32:22\]  Of course the other reason, I mean, there are, there are variables you want to keep
 - \[00:32:26\]  steady.
 - \[00:32:27\]  Right.
-- \[00:32:28\]  And one of the things the self does is help us with homeostasis.
+- \[00:32:28\]  And one of the things the self does is help us with homeostasis. ^57f0a3
 - \[00:32:29\]  Right.
 - \[00:32:30\]  I mean, if you, if you use the model that Seth talks about or some other people that
 - \[00:32:38\]  we're processed, we're always processing signals from our body and we're looking not to depart
@@ -706,7 +706,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[00:38:06\]  So, so there's an interesting thing here.
 - \[00:38:08\]  And I think to the extent that we kind of understand that our future self is, is a construction
 - \[00:38:14\]  that is going to sort of try to make sense of these memories and whatever.
-- \[00:38:18\]  I think it helps you be, be kinder to others, future selves, because they're in the same
+- \[00:38:18\]  I think it helps you be, be kinder to others, future selves, because they're in the same ^2925d8
 - \[00:38:23\]  boat.
 - \[00:38:24\]  So I think for that, I think for that reason, it's, it's useful.
 - \[00:38:26\]  It's also useful more broadly because to the extent that we understand what we are
@@ -1148,7 +1148,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[01:01:41\]  those thoughts may not want to leave, like literally.
 - \[01:01:46\]  Right.
 - \[01:01:47\]  You know, and there may be some that is trauma.
-- \[01:01:49\]  I mean, that's, you know, part of trauma.
+- \[01:01:49\]  I mean, that's, you know, part of trauma. ^a16fc4
 - \[01:01:52\]  Yeah.
 - \[01:01:53\]  Yeah.
 - \[01:01:54\]  But but but I wonder if, you know, taking taking seriously their ability to process
@@ -1172,7 +1172,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[01:02:42\]  Well, yeah, this is now this is the theory in treating schizophrenia.
 - \[01:02:46\]  You know, yes, we are hearing voices.
 - \[01:02:48\]  Why don't you talk to them or why don't you let me talk to them?
-- \[01:02:53\]  And if you think about it, trauma, memories of trauma do process information because you
+- \[01:02:53\]  And if you think about it, trauma, memories of trauma do process information because you ^649c05
 - \[01:02:59\]  hear a gunshot or something now and it's processed as that or a siren or whatever it is.
 - \[01:03:07\]  So they are still active in your brain in an interesting way.
 - \[01:03:11\]  Yeah.
