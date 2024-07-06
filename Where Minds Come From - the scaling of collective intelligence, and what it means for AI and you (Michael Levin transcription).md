@@ -155,7 +155,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:13:48\]  this. They're kind of weird, but let's say rabbit. So human or rabbit or some other amniotes,
 - \[00:13:54\]  you look at that and you say, there's one embryo, but there's 50,000 cells. What are you actually
 - \[00:13:58\]  counting when you say there's one embryo? Well, what you're counting is you're really counting
-- \[00:14:04\]  alignment. You're counting the fact that all of those cells are committed to the same story of
+- \[00:14:04\]  alignment. You're counting the fact that all of those cells are committed to the same story of ^491e32
 - \[00:14:09\]  what they're going to do in anatomical space. They're all going to collaborate to build a very
 - \[00:14:15\]  particular kind of embryo. They are all connected together and they are all going to cooperate to do
 - \[00:14:21\]  one specific thing, which is to build that. That's what makes this an embryo. What makes this an
@@ -170,7 +170,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:15:11\]  The question of how many beings, how many cells are actually in an embryo is tricky. It's not
 - \[00:15:16\]  fixed by the genetics. It's anywhere from zero to probably half a dozen or more, depending on what
 - \[00:15:22\]  happens. The cells arise in this medium, this cellular blastoderm, in real time as a process
-- \[00:15:30\]  of physiology. It's not hard-coded. What that means is that a self has to put itself together.
+- \[00:15:30\]  of physiology. It's not hard-coded. What that means is that a self has to put itself together. ^bcd51c
 - \[00:15:38\]  It has to figure out a border between itself and the outside world. Here's three embryonic
 - \[00:15:44\]  fields sitting there. Each of these cells has to decide, am I part of this one or am I part of that
 - \[00:15:48\]  one, or who am I part of? This kind of thing, this medium that can fragment or come together
