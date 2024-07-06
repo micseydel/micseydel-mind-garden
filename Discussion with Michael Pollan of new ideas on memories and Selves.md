@@ -691,13 +691,13 @@ updated: 2024-06-28T16:34:28-07:00
 - \[00:37:33\]  components is a memory wipe.
 - \[00:37:34\]  That's a short-term memory wipe.
 - \[00:37:36\]  That's also a real thing, right?
-- \[00:37:37\]  Because they don't want you remembering this stuff.
+- \[00:37:37\]  Because they don't want you remembering this stuff. ^3afd6f
 - \[00:37:38\]  So, so, so you come out of it and somebody says to you, you know what?
 - \[00:37:42\]  I think that actually happened.
 - \[00:37:44\]  And and you know, when you saved a thousand dollars, but I think you were actually there.
 - \[00:37:47\]  I know you don't remember a bit of it, but you know, and at that point, like, eh, all
 - \[00:37:51\]  right.
-- \[00:37:52\]  I mean, you know, now, now, realistically it's an issue because actually the trauma can,
+- \[00:37:52\]  I mean, you know, now, now, realistically it's an issue because actually the trauma can, ^2938f2
 - \[00:37:55\]  can carry forward, but let's just, let's just imagine that, you know, let's imagine the
 - \[00:37:58\]  memory wipe actually works.
 - \[00:38:00\]  So, so, so the future self of like, yeah, I mean, fine, good deal.
@@ -1145,7 +1145,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[01:01:30\]  brain that you might not necessarily want.
 - \[01:01:33\]  Super interesting.
 - \[01:01:34\]  And I wonder if there is a clinical path here by taking seriously the idea that some of
-- \[01:01:41\]  those thoughts may not want to leave, like literally.
+- \[01:01:41\]  those thoughts may not want to leave, like literally. ^559d50
 - \[01:01:46\]  Right.
 - \[01:01:47\]  You know, and there may be some that is trauma.
 - \[01:01:49\]  I mean, that's, you know, part of trauma. ^a16fc4
