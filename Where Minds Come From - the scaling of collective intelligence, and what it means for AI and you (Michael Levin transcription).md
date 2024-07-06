@@ -409,7 +409,7 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:37:34\]  to make eye. And if you should happen to only inject a few cells, so here this is a lens sitting
 - \[00:37:40\]  out in the tail of a tadpole somewhere. If you only inject a few cells, these blue cells are the
 - \[00:37:45\]  ones we injected, then they know there's not enough of them to make a good eye. So, what do
-- \[00:37:49\]  they do? They recruit a bunch of their neighbors to work with them to make an eye, just like ants
+- \[00:37:49\]  they do? They recruit a bunch of their neighbors to work with them to make an eye, just like ants ^6d38bd
 - \[00:37:54\]  and termites will recruit their buddies to solve a problem. So, now you can see that what we're
 - \[00:37:59\]  doing is providing signals. We didn't tell these cells how to build an eye. We didn't say anything
 - \[00:38:04\]  about the stem cells or the gene expression. We have no idea how to build an eye. What we did find
@@ -560,8 +560,8 @@ updated: 2024-06-27T09:02:21-07:00
 - \[00:51:34\]  you are going to be confronted with all sorts of novel beings. So all of Darwin's endless forms,
 - \[00:51:40\]  most beautiful here on earth, are like a tiny corner of this whole space. You know,
 - \[00:51:45\]  hybrids and cyborgs and all kinds of non-neurotypical humans with implants and
-- \[00:51:50\]  different kinds of connections to other creatures and to other technical systems.
-- \[00:51:56\]  You know, pretty much any combination of evolved material, engineered material and software is some
+- \[00:51:50\]  different kinds of connections to other creatures and to other technical systems. ^8204f1
+- \[00:51:56\]  You know, pretty much any combination of evolved material, engineered material and software is some ^6f2776
 - \[00:52:02\]  kind of being. Okay, there are going to be chimeras and cyborgs. And so it's not about
 - \[00:52:07\]  the language models of today. It's about beings that are nowhere with you on the tree of life.
 - \[00:52:12\]  You cannot decide how you're going to relate to them in the old ways, which was to, you know,
