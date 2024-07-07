@@ -313,7 +313,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[00:16:57\]  You need to be at the right level and that right level can't be settled by
 - \[00:17:01\]  philosophy or, or, or pre-commitments. It has to be tested, you know, um,
 - \[00:17:06\]  people, some people will have said to me like, uh, well, you know, your, your,
-- \[00:17:11\]  your view is kind of panpsychic. I suppose you're going to say the weather has,
+- \[00:17:11\]  your view is kind of panpsychic. I suppose you're going to say the weather has, ^a4e79c
 - \[00:17:15\]  you know, hopes and dreams too. And I said, well, I don't know about hopes and dreams,
 - \[00:17:19\]  but have you ever tried training it? You can't just decide, right. That, that,
 - \[00:17:23\]  that here's a dynamical system that is going to be dumb and mechanical.

@@ -1441,7 +1441,7 @@ tags:
 - \[00:57:51\]  And it's a really important skill
 - \[00:57:52\]  to practice that kind of imagination
 - \[00:57:56\]  because often what trips people up is
-- \[00:58:01\]  they imagine, for example, panpsychist views, right?
+- \[00:58:01\]  they imagine, for example, panpsychist views, right? ^e56c05
 - \[00:58:05\]  So somebody says, oh, you're trying to tell me
 - \[00:58:07\]  that this rock is sitting there having hopes and dreams.
 - \[00:58:10\]  Well, no, that's not the claim.
@@ -1722,7 +1722,7 @@ tags:
 - \[01:08:43\]  that says it's in the brain rather than somewhere else?
 - \[01:08:45\]  Let's say your liver.
 - \[01:08:47\]  So IIT would say no,
-- \[01:08:49\]  because IIT is a panpsychist theory.
+- \[01:08:49\]  because IIT is a panpsychist theory. ^09cc85
 - \[01:08:51\]  That would say, look, if your liver is doing some processing
 - \[01:08:54\]  then it has some non-zero amount of consciousness.
 - \[01:08:56\]  Right, right, and I agree with that.
@@ -1882,7 +1882,7 @@ tags:
 - \[01:15:06\]  And then you find out, did I guess well, poorly?
 - \[01:15:09\]  Do I need to make a better guess, and so on.
 - \[01:15:10\]  So, for example, people have said to me,
-- \[01:15:14\]  well, you know, your kind of panpsychist,
+- \[01:15:14\]  well, you know, your kind of panpsychist, ^641123
 - \[01:15:17\]  almost, view says that the weather should be,
 - \[01:15:19\]  you know, cognitive.
 - \[01:15:20\]  And I, you know, I say,

@@ -1,0 +1,3 @@
+- [[Michael Levin seems to promote panpsychism]]
+- message passing / prompting
+- breaking norms
