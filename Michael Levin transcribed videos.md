@@ -19,7 +19,7 @@
 - (2024-03-23; 1:11:33) [[Michael Levin - Toward AI-Driven Discovery of Electroceuticals|Toward AI-Driven Discovery of Electroceuticals]]
 - (2024-04-17; ==0:42:23==) [[Rethinking Biology]]
 - (2024-04-26; 0:55:02) [[Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you (Michael Levin transcription)|Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you]] ⭐️
-- [ ] (2024-05-08; 1:18:57) [[Discussion with Michael Pollan of new ideas on memories and Selves]]
+- (2024-05-08; 1:18:57) [[Discussion with Michael Pollan of new ideas on memories and Selves]]
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]
 - (2024-06-18; 1:04:55) [[Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine (Michael Levin)|Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine]]
 
