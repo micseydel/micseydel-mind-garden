@@ -15,6 +15,7 @@
 - (2023-07-31; ==0:08:02==) [[Michael Levin - Can Cells Think|Can Cells Think?]] ⭐️
 - (2024-01-17; 1:35:08) [[New Groundbreaking Research, Anthrobots, Hyper-Embryos]]
 - (2024-01-30; 1:33:58) [[The intelligence of life with Michael Levin|The intelligence of life]]
+- (2024-02-09; 1:25:09) [[Dr. Michael Levin on Embodied Minds and Cognitive Agents]]
 - (2024-03-08; 0:56:11) [[Michael Levin - Novel beings novel goals (John Templeton Foundation)|Novel beings novel goals (John Templeton Foundation)]]
 - (2024-03-23; 1:11:33) [[Michael Levin - Toward AI-Driven Discovery of Electroceuticals|Toward AI-Driven Discovery of Electroceuticals]]
 - (2024-04-17; ==0:42:23==) [[Rethinking Biology]]
