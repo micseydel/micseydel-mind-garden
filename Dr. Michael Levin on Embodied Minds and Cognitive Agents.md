@@ -548,7 +548,7 @@ updated: 2024-07-08T10:42:50-07:00
 - \[00:47:15\]  research, where people can make very simple systems out of like three
 - \[00:47:20\]  inorganic chemicals, and then they can solve mazes, and they can do interesting
 - \[00:47:23\]  things. So I think that all of this really becomes disturbing when you insist
-- \[00:47:29\]  on a binary category when you want to know, okay, is it cognitive or isn't it
+- \[00:47:29\]  on a binary category when you want to know, okay, is it cognitive or isn't it ^f095e5
 - \[00:47:34\]  and then then then you've got a real problem. Because look, each of us starts
 - \[00:47:39\]  out life as a single unfertilized oocyte. It's a little blob of chemistry.
 - \[00:47:43\]  It's a we look at it and we say, okay, very clearly, this does not have the kinds
