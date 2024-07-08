@@ -16,6 +16,7 @@
 - (2024-01-17; 1:35:08) [[New Groundbreaking Research, Anthrobots, Hyper-Embryos]]
 - (2024-01-30; 1:33:58) [[The intelligence of life with Michael Levin|The intelligence of life]]
 - (2024-02-09; 1:25:09) [[Dr. Michael Levin on Embodied Minds and Cognitive Agents]]
+	- Mentions [Classical Sorting Algorithms as a Model of Morphogenesis: self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence](https://arxiv.org/abs/2401.05375) (arxiv)
 - (2024-03-08; 0:56:11) [[Michael Levin - Novel beings novel goals (John Templeton Foundation)|Novel beings novel goals (John Templeton Foundation)]]
 - (2024-03-23; 1:11:33) [[Michael Levin - Toward AI-Driven Discovery of Electroceuticals|Toward AI-Driven Discovery of Electroceuticals]]
 - (2024-04-17; ==0:42:23==) [[Rethinking Biology]]
