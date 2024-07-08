@@ -1,0 +1,993 @@
+---
+created: 2024-07-08T10:42:26-07:00
+updated: 2024-07-08T10:42:50-07:00
+---
+- ![Dr. Michael Levin on Embodied Minds and Cognitive Agents](https://www.youtube.com/watch?v=LYyGG9xXpPA&t=1305s&ab_channel=CognitiveRevolution%22HowAIChangesEverything%22)
+    - (2024-02-09; 1:25:09)
+- \[00:00:00\]  Everything we do is around this notion of embodied minds and what it means to be a cognitive agent in this physical universe.
+- \[00:00:08\]  And so we think about things like the collective intelligence of cells during embryonic development, during regeneration, and so on.
+- \[00:00:14\]  We've had projects in cancer where we can detect and normalize cancer by controlling its bioelectrical connections between the cells and the large-scale network.
+- \[00:00:25\]  All of these terms, machine, human, robot, alive, emergent, I think what gets us in trouble is assumptions that these are binary categories.
+- \[00:00:37\]  Think about the whole spectrum of diverse intelligence, cells, organs, tissues, chimeras, cyborgs, hybrids, and every other kind of combination.
+- \[00:00:45\]  That's only going to continue.
+- \[00:00:47\]  What are the things that matter to a bacterium? What are the things that matter to a dog? What are the things that can matter to a human?
+- \[00:00:52\]  And could we have at some point a being that literally is in the linear range, can care about all the living beings on earth?
+- \[00:00:58\]  I think that any improvements that we can make to enlarge our cognitive light goals, to improve on our cognition, to have better embodiments, we can certainly do better than we do now.
+- \[00:01:07\]  Hello and welcome to the Cognitive Revolution, where we interview visionary researchers, entrepreneurs, and builders working on the frontier of artificial intelligence.
+- \[00:01:16\]  Each week, we'll explore their revolutionary ideas, and together we'll build a picture of how AI technology will transform work, life, and society in the coming years.
+- \[00:01:26\]  I'm Nathan LeBenz, joined by my co-host, Eric Torenberg.
+- \[00:01:30\]  Hello, and welcome back to the Cognitive Revolution.
+- \[00:01:33\]  Today's episode is a special one. My guest is Mike Levin, professor of biology at Tufts University, and one of the most distinctively accomplished experimental scientists, and one of the most fascinating philosophers of intelligence that I've encountered in my life.
+- \[00:01:47\]  We cover a ton of ground over the next hour and 15 minutes, and this is not an easy conversation to summarize.
+- \[00:01:53\]  If you're like me and usually listen to podcasts at 2x speed, I might suggest slowing this one down just a bit, because unless you are already familiar with Professor Levin's work, there are simply so many strange results and deeply thought-provoking ideas in this conversation that I found my brain, at least, needed a little extra time to process it all.
+- \[00:02:12\]  It might also help to watch some of the short videos that Levin and his team have released over the years, both on his YouTube channel and their academic group website.
+- \[00:02:21\]  After listening back to this conversation myself, a few major themes do stand out.
+- \[00:02:26\]  First, AI defies all binaries.
+- \[00:02:30\]  I say that all the time, but Levin's work takes that sentiment to the next level by showing that even the most familiar binary distinctions, the ones that we take most for granted, such as that between a living thing and a machine, are in fact rapidly collapsing from both directions,
+- \[00:02:45\]  as we simultaneously see remarkably sophisticated behavior from even very simple computer systems on the one hand, and at the same time on the other, groups like Professor Levin's devising striking ways to program biology itself.
+- \[00:02:58\]  Second, we have a lot of surprising latent capabilities left to discover.
+- \[00:03:03\]  Just as GPT-4 can do far more now than we knew about at the beginning, so it is with biological systems, particularly when we place them way out of distribution, as Levin has done in his famous Xenobot and Anthrobot projects.
+- \[00:03:17\]  Third, and perhaps most importantly, we must always favor epistemic modesty and open-minded experimentation over our philosophical commitments.
+- \[00:03:26\]  Many of the capabilities that Levin has discovered in biological systems would have been laughed off as impossible, if not crazy, right up until the moment that he demonstrated them.
+- \[00:03:36\]  Reflecting broadly on how little we know about even the simplest systems with which we've co-evolved should be enough to keep anyone humble, particularly in the presence of new systems that don't share our evolutionary history.
+- \[00:03:49\]  In Levin's view, the hot-button topic of emergence in AI systems, a subject that I plan to cover in depth with a dedicated episode soon, is inherently a subjective question and ultimately boils down to the element of surprise.
+- \[00:04:02\]  I agree with this framing, and I was struck to hear that Levin, a world-class biohacker by any measure who is obviously willing to conduct experiments that some might consider playing God, still has consciously avoided working on ideas that could make AI systems significantly more lifelike than they are today.
+- \[00:04:20\]  At least until he has a better understanding of what that might imply for their subjective experience and our collective future.
+- \[00:04:27\]  As always, if you're enjoying the show, we'd appreciate it if you'd take a moment to share it with your friends.
+- \[00:04:32\]  Considering how it brings such critical themes to the fore, I think this episode would be a great introduction to the cognitive revolution as a whole, and if I could be so bold, I think it is worth sharing widely.
+- \[00:04:43\]  Now, with full credit to Professor Levin, his team, and the many marvelous intelligent systems that they study, I hope you enjoy this paradigm-shifting conversation with Professor of Biology, Mike Levin.
+- \[00:04:55\]  Professor Mike Levin, Professor of Biology at Tufts University, welcome to the Cognitive Revolution.
+- \[00:05:00\]  Thanks so much. Happy to be here.
+- \[00:05:02\]  I'm really excited about this conversation. You do some of the most fascinating work, some of the most mind-blowing work, really of anyone out there today.
+- \[00:05:11\]  I think when people learn more about, if they've never encountered your work before, when they learn about some of the projects that you have developed, they're going to just think, wow, how did I not already know about this?
+- \[00:05:23\]  It's profound stuff on its own terms, but I think it also, hopefully, will be able to help us develop some new and different perspectives on the future of AI as well.
+- \[00:05:34\]  I'm really excited to get into it.
+- \[00:05:36\]  For starters, because I do suspect that we have, obviously, a lot of AI enthusiasts and builders in the audience, but I'm not sure how familiar many will be with your work.
+- \[00:05:47\]  Do you want to just go through a few of your most famous projects?
+- \[00:05:51\]  I think if folks know any from you, it would be the Xenobots and the more recent Antrobots that you have created.
+- \[00:05:59\]  Maybe just tee things up by telling us about these strange creatures that you have managed to create.
+- \[00:06:05\]  Sure. My lab does a wide variety of interesting things.
+- \[00:06:09\]  I work with some amazing people that span the range from philosophy to biology to computer science to physics and so on.
+- \[00:06:17\]  Everything we do is around, fundamentally, it's all around this notion of embodied minds and what it means to be a cognitive agent in this physical universe.
+- \[00:06:29\]  We study mind in a variety of unusual substrates.
+- \[00:06:33\]  We think about things like the collective intelligence of cells during embryonic development, during regeneration, and so on.
+- \[00:06:39\]  I'll just run down some interesting things we've done in the past.
+- \[00:06:43\]  Let's see. One of the things that we specialize in is that we made the first molecular tools to read and write the electrical memories of non-neural cells.
+- \[00:06:54\]  This collective intelligence of cells that builds organisms and so on, it has to store memories of what it's doing.
+- \[00:07:01\]  We now have ways of reading and writing that information.
+- \[00:07:04\]  We've done things like look at how the different cells of a flatworm know how many heads the flatworm is supposed to have.
+- \[00:07:12\]  It turns out there's an electrical memory that stores that information and you can rewrite it.
+- \[00:07:16\]  You can physically rewrite it.
+- \[00:07:18\]  Then what you get is a worm that when you cut it into pieces, the pieces make two-headed worms forever. It's permanent.
+- \[00:07:24\]  That memory, like any good memory, it's real writable, but it's stable.
+- \[00:07:28\]  You get these two-headed worms and of course the genetics are untouched.
+- \[00:07:32\]  This question of where is the number of heads stored is really interesting because it isn't in the hardware.
+- \[00:07:37\]  It's software rewritable.
+- \[00:07:39\]  We've done things like this.
+- \[00:07:41\]  We've made tadpoles with eyes on their tail and those animals can see out of those eyes.
+- \[00:07:46\]  This shows the remarkable plasticity of life because you can produce this animal with a completely different architecture of sensors and processor in the brain.
+- \[00:07:57\]  It will adapt to a new connectivity of that system.
+- \[00:08:01\]  We've had projects in cancer where we can detect and normalize cancer by controlling its bioelectrical connections between the cells and the large-scale network that can remember how to build large complicated organs as opposed to being an amoeba-like cancer cell.
+- \[00:08:18\]  As you said, we've created xenobots and anthrobots, which is looking at the plasticity of cells that normally will build very specific things like frog embryos or human bodies.
+- \[00:08:29\]  We've shown that if you put them in new environments and give them an opportunity to reboot their multicellularity, then they can do that in new ways and have new and interesting capabilities that we didn't know about before.
+- \[00:08:40\]  All of these concepts keep coming up again and again, this idea of the software-hardware distinction in biology.
+- \[00:08:46\]  I know a lot of people are very suspicious about computer analogies in biology.
+- \[00:08:50\]  We can sort of dig into which part of that is true and which part of that is not.
+- \[00:08:54\]  Those are some of the things we do.
+- \[00:08:57\]  These are really incredible, pretty stunning results.
+- \[00:09:01\]  Some of the short videos and some of the images of these little living things or kind of quasi-living things are really just, again, how did I not know about this previously?
+- \[00:09:14\]  I don't understand how it works.
+- \[00:09:17\]  I wonder if you could give me a little bit more sense of how you're doing this control.
+- \[00:09:22\]  Again, you start with a worm that has this remarkable regenerative capability where you can cut the worm in half, it'll regrow.
+- \[00:09:30\]  That's how the worm starts.
+- \[00:09:32\]  Then you do the chop in half, but you apply some change.
+- \[00:09:36\]  Instead of growing the missing part, it will grow a second head or a second tail, and you can control that.
+- \[00:09:41\]  Again, the tadpoles with the eyes on the leg.
+- \[00:09:44\]  And the tail.
+- \[00:09:45\]  The tail, thank you.
+- \[00:09:46\]  Can you give us a little bit more intuition around what are you doing there?
+- \[00:09:50\]  I think I've heard you use the term like executing stored procedures, but I'm still kind of at a loss as to the details of the interventions that you're actually making and would love to understand that a little bit better.
+- \[00:10:04\]  Sure.
+- \[00:10:05\]  Yeah, there's a variety of techniques, but let's just talk about the bioelectric memory rewriting.
+- \[00:10:10\]  I'll give you a simple story about the workflow that we're doing.
+- \[00:10:15\]  You've got a flatworm, and it has a head and a tail.
+- \[00:10:18\]  These flatworms are actually an amazing model because not only are they incredibly regenerative, but they're also immortal, and they have no obvious lifespan limit.
+- \[00:10:28\]  The asexual ones that we work with don't seem to age at all.
+- \[00:10:32\]  They're highly cancer resistant.
+- \[00:10:34\]  They can learn.
+- \[00:10:35\]  They can form memories.
+- \[00:10:36\]  In fact, you can do the old McConnell experiments, which we have done, where you train them, cut off their heads, they regrow a new brain, and then they still remember the original information.
+- \[00:10:44\]  So this incredible ability to move information around from tissue to tissue in the body and imprint it on the new brain.
+- \[00:10:51\]  So they do all these cool things.
+- \[00:10:52\]  But if you cut them in half, so imagine you've got a worm like this, you've got a head here, you've got a tail here, you cut it in half.
+- \[00:10:58\]  Something amazing happens, which is that the cells on this side of the cut, so the head is over here, so the cells on this side of the cut end up growing a tail.
+- \[00:11:05\]  The cells on this side of the cut end up growing a head.
+- \[00:11:08\]  And so now you've got two normal worms.
+- \[00:11:10\]  But they were right next neighbors to each other.
+- \[00:11:13\]  Why did they have completely different anatomical outcomes?
+- \[00:11:16\]  And how is it that a fragment, right, so you can cut the worm into fragments, how is it that a fragment knows exactly how many heads it's supposed to have?
+- \[00:11:23\]  One of the first things we did was to, well, just to realize that the algorithm of knowing should you be a head or a tail cannot be local, because these cells were at the same location.
+- \[00:11:33\]  So you know right away that from knowing where you were, you cannot tell whether you should be a head or a tail, you have to talk to the rest of the tissue.
+- \[00:11:39\]  And so for many reasons, my hypothesis was that that conversation with the rest of the tissues was electrical in nature.
+- \[00:11:45\]  So the very first thing we did was simply prevent it.
+- \[00:11:48\]  We said, what happens if you're cut off from the electrical network and you really can't find out?
+- \[00:11:53\]  So in that case, what what you would do is there are drugs, specific, specific pharmacological compounds that you can put on these worms in the water that they're regenerating in that control how well the cells can talk to each other electrically.
+- \[00:12:08\]  That's that's one of the things we started with.
+- \[00:12:10\]  And we applied something called voltage sensitive fluorescent dyes.
+- \[00:12:13\]  So these are just molecules that are developed by other people.
+- \[00:12:17\]  You throw them onto the sample, and they will fluoresce.
+- \[00:12:21\]  So you use a microscope to detect the fluorescence and they fluoresce differently depending on the voltage of the cell that they happen to be sitting in.
+- \[00:12:29\]  So you get this.
+- \[00:12:30\]  So right away, you get this map across the entire tissue, making it sound very easy.
+- \[00:12:34\]  It's actually an incredibly sort of time consuming and difficult process.
+- \[00:12:38\]  But eventually you get you get a map of where all the voltages in this tissue are.
+- \[00:12:42\]  And what we noticed is that we could interpret this map to say where the head and the tail was going to be in the future.
+- \[00:12:48\]  In other words, it's really a kind of pattern memory that tells you where it's going to be.
+- \[00:12:53\]  And so once you've seen that, it becomes pretty obvious to then say, well, what if I change that pattern?
+- \[00:12:59\]  And what if I now I can see that it says one head?
+- \[00:13:01\]  Well, I would like it to say two heads.
+- \[00:13:03\]  What will happen?
+- \[00:13:04\]  And so now you have an electric circuit.
+- \[00:13:06\]  And what you can do is you can make a because because you so you can make a computational model of that electric circuit in the tissue.
+- \[00:13:13\]  And so we do a lot of computational modeling.
+- \[00:13:15\]  And you can ask that that model, what do I need to do to change the pattern so that it now says two heads instead of one head?
+- \[00:13:23\]  And so by by playing around with that model, you can say, ah, I need to close some chloride channels over here or I need to open some potassium channels or something.
+- \[00:13:31\]  Because in all of these things, what we're doing is we're not applying any electric fields where there are no magnets, no waves, no radiation.
+- \[00:13:38\]  There's no electromagnetics, none of that.
+- \[00:13:40\]  What we're doing is hacking the natural interface that these cells use to control each other's behavior.
+- \[00:13:46\]  That that interface is a bunch of electrical electrogenic proteins known as ion channels, which sit on the surface of the cell.
+- \[00:13:53\]  They produce a voltage and the next cell can feel that voltage and they communicate to each other.
+- \[00:13:57\]  So it's very much like what happens in the brain, actually.
+- \[00:14:00\]  Right. It's very, it's very similar.
+- \[00:14:01\]  So so what we're doing is using either drugs or optogenetics, not in the worm, but in other cases we've used optogenetics.
+- \[00:14:08\]  So that's light based opening these channels on and off.
+- \[00:14:11\]  And there's some some other molecular biology kind of tricks.
+- \[00:14:15\]  But the idea is to open and close the existing channels on these cell surfaces.
+- \[00:14:19\]  So you can think about it as an interface.
+- \[00:14:21\]  It's like a you know, like a like a keyboard or any other interface that you would have to the to the programmable layers underneath your machine.
+- \[00:14:27\]  That's what this electrical system is.
+- \[00:14:29\]  So so so guided by, you know, originally just designing these cocktails in our heads, but eventually with a computational model, we can we can pick drugs that are going to open and close these channels in the right way to give you the pattern that you want.
+- \[00:14:43\]  And then you soak you soak your fragment of the planarian in that drug.
+- \[00:14:46\]  You know, you typically you do that between a minimum of three hours, in some cases, 24 or 48 hours.
+- \[00:14:52\]  And then you leave it alone and you wash it out.
+- \[00:14:54\]  You put in regular water and you see what it does.
+- \[00:14:56\]  That's a typical workflow.
+- \[00:14:57\]  There's some others, but that's.
+- \[00:15:00\]  Hey, we'll continue our interview in a moment after a word from our sponsors.
+- \[00:15:04\]  The Brave Search API brings affordable developer access to the Brave Search Index, an independent index of the web with over 20 billion web pages.
+- \[00:15:12\]  So what makes the Brave Search Index stand out?
+- \[00:15:15\]  One, it's entirely independent and built from scratch.
+- \[00:15:18\]  That means no big tech biases or extortionate prices.
+- \[00:15:22\]  Two, it's built on real page visits from actual humans collected anonymously, of course, which filters out tons of junk data.
+- \[00:15:30\]  And three, the index is refreshed with tens of millions of pages daily.
+- \[00:15:34\]  So it always has accurate, up to date information.
+- \[00:15:38\]  The Brave Search API can be used to assemble a data set to train your AI models and help with retrieval augmentation at the time of inference, all while remaining affordable with developer first pricing.
+- \[00:15:49\]  Integrating the Brave Search API into your workflow translates to more ethical data sourcing and more human representative data sets.
+- \[00:15:57\]  Try the Brave Search API for free for up to 2,000 queries per month at brave.com slash API.
+- \[00:16:04\]  It's striking how similar that is in some ways to some of the mechanistic interpretability techniques that people are developing to try to understand how AI systems work.
+- \[00:16:14\]  It really sounds a lot like activation patching, which is where, and again, it's often done in toy models.
+- \[00:16:23\]  So, you know, again, there's a notable similarity.
+- \[00:16:27\]  People will take the model and of course, with an AI, it starts digital, right?
+- \[00:16:32\]  So you have the, you have a lot easier path to looking inside it than you do in a biological system.
+- \[00:16:39\]  But that doesn't mean it's any easier to know what's going on inside because it's still just, you know, a lot of numbers flying around that, you know, what does it all mean?
+- \[00:16:46\]  It's not easy.
+- \[00:16:47\]  But doing the simulations, it sounds like you're almost kind of running a simulation.
+- \[00:16:54\]  of saying with this electrical pattern, like what do we expect to happen?
+- \[00:16:57\]  And then if we perturb that pattern, what would happen differently?
+- \[00:17:01\]  Is that the sort of counterfactual modeling you're doing?
+- \[00:17:04\]  We have several different levels of models.
+- \[00:17:07\]  So some models are exactly what you just described.
+- \[00:17:09\]  So it's a, the model only feeds forward and all we're able to do is run multiple counterfactual scenarios until we get to the end of the simulation.
+- \[00:17:17\]  In some cases, we can actually run it backwards and we can say, actually, if I want this result, what would I have had to do?
+- \[00:17:23\]  And of course, now we're working to integrate modern AI methods so that you can actually train and have an AI and so we'll actually make guesses about what to do.
+- \[00:17:31\]  That's the next step.
+- \[00:17:32\]  In all of these cases, so this is very much an interpretability issue because we don't know what's going on inside the model.
+- \[00:17:41\]  So it is not obvious how the different voltage gradients are mapping onto whatever happens next.
+- \[00:17:46\]  It's very parallel to neural decoding in the brain where you read brain states from a patient or from an animal model.
+- \[00:17:52\]  And then eventually you try to guess, well, what was he thinking about when that, right?
+- \[00:17:57\]  You're trying to infer semantics from the brain.
+- \[00:18:00\]  So you're trying to infer what's going on inside the model.
+- \[00:18:03\]  And eventually you try to guess, well, what was he thinking about when that, right?
+- \[00:18:08\]  You're trying to infer semantic states from the physiology, from the readout of the network.
+- \[00:18:14\]  So that's what we're doing.
+- \[00:18:15\]  And it functions on many levels.
+- \[00:18:18\]  And so you can measure individual cells and get metrics of, is that a stem cell?
+- \[00:18:22\]  Is it a cancer cell?
+- \[00:18:23\]  Is it a mature differentiated cell?
+- \[00:18:25\]  You can do that.
+- \[00:18:26\]  You can take measurements of whole tissues and you can say, are you going to be an eye or are you going to be a leg?
+- \[00:18:32\]  Or, you know, what's the shape or the face?
+- \[00:18:35\]  Like, what's the shape of the face?
+- \[00:18:36\]  Where do the eyes go?
+- \[00:18:37\]  And then you can have very high level information where we have this project in the frog that frogs, unlike salamanders, they don't regenerate their legs.
+- \[00:18:46\]  So if they lose a leg, what we're able to do is go in with a bioelectric drug that triggers leg regeneration.
+- \[00:18:54\]  But what's cool, there's two things that are cool about it.
+- \[00:18:57\]  And of course, now we're sort of trying to move that to mice and so eventually hopefully humans someday.
+- \[00:19:01\]  But the idea, what's interesting is that, first of all, the intervention in the latest experiments, the intervention is 24 hours.
+- \[00:19:11\]  The leg then grows for 18 months.
+- \[00:19:13\]  So it isn't a micromanagement kind of thing.
+- \[00:19:15\]  We're not sitting there telling every cell what to do, telling all the, you know, all the genes which comes on, which comes off.
+- \[00:19:21\]  It's a very early communication to the leg that says, take this path in morphospace towards a nice leg, not this path that leads to scarring.
+- \[00:19:29\]  And that's the end.
+- \[00:19:30\]  And then the other thing is that the exact same intervention that regenerates legs in adult frogs causes regeneration of tails and tadpoles.
+- \[00:19:37\]  So what that means is that the information content is not really in the intervention.
+- \[00:19:43\]  We don't give it all the information needed to make a complex leg or a complex tail.
+- \[00:19:48\]  We say in that particular application, we say build whatever normally goes here.
+- \[00:19:52\]  So you're offloading a huge amount of information onto the system of the task, onto the system itself.
+- \[00:19:57\]  All of this works because the system knows what to do and it is our job to convince it that it should do one thing versus another.
+- \[00:20:04\]  So it's very much so at all these different layers, you know, we can look at the cell layer, we can, you know, we can look at the tissue, the organ and then the whole kind of.
+- \[00:20:11\]  In fact, in our latest paper that came out just yesterday, we showed that even groups of embryos have their own decision making, collective decision making that individuals can't do.
+- \[00:20:21\]  And so, yeah, it's very much an interoperability question to understand how does the system understand its own states and then how do we as scientists understand them as well?
+- \[00:20:30\]  There's so many connections, even just listening to your comments there.
+- \[00:20:36\]  When you talk about running things backward, you know, that obviously reminds me of back propagation, but kind of in a very similar way to of answering the question, what would have had to be different in the upstream signals in order to get the desired downstream outcome?
+- \[00:20:51\]  I mean, that's really the kind of tweaking that's going on in the AI models and the back propagation process.
+- \[00:20:57\]  Also, mode switching, you know, is an interesting when people train the current chatbots to like refuse your, you know, bad requests, right?
+- \[00:21:07\]  For whatever the definition of bad is that they want to exclude from the model behavior.
+- \[00:21:12\]  There seems to be this kind of early fork in the road that could be characterized in different ways.
+- \[00:21:18\]  But mode switching is one label that has really stuck with me, where if you can get the AI to say, oh, sure, happy to help with that, then it will continue to do the bad thing against its training.
+- \[00:21:30\]  Whereas, you know, if it starts with, I'm sorry, as a, you know, large language model trained by open AI, I can't do that, then, you know, it's never going to do it.
+- \[00:21:39\]  It's striking that there's something similar at the level of like limb regeneration, where basically, if I'm understanding you correctly, you kind of have this early fork and like, which mode are we going to go into?
+- \[00:21:51\]  And that intervention lasts for basically two orders of magnitude, like one day to like 100 days, essentially, that you can, where the effect persists. Did I catch that right?
+- \[00:22:03\]  Yeah, yeah, it's 18 months. 18 months. So yeah, you know, I really think that there are a lot of similarities here in terms of, you know, if you think of the kind of the classic ANN structure, where you have the different layers that are progressive abstractions, right, of the input that have come in.
+- \[00:22:21\]  So I think the higher you are on that, as somebody who works in regenerative medicine or bioengineering, I think that you want to be as high as possible on that level for control. Because I don't want to have to tell you which genes to turn on. I don't even want to have to tell you which types of tissues go where.
+- \[00:22:39\]  I just want to say, you already know what goes here, just rebuild it. That's it. I want to have the minimal, you know, kind of the simplest trigger. And the systems decide that the decisions are made very early on what it's going to do. And then after that, there's a cascade once it's exactly like you said, once you're going down a particular road, it becomes much harder to make changes. So you want to do it as high up in the decision hierarchy as you can.
+- \[00:23:04\]  Yeah, I mean, that's another just striking similarity is the existence of surprising capabilities. You know, GPT-4, this has been remarked on a ton, right? It was trained, training was complete 18 months ago. It was released like 10 months ago. We're still seeing new state of the arts set with people just prompting it in ever more sophisticated ways. And revealing kind of capabilities that nobody quite knew existed.
+- \[00:23:34\]  It's striking to me that obviously, you haven't demonstrated this in humans yet, but you're working your way up the sort of, you know, complexity of organisms ladder. And I guess this is maybe an ignorant question, but like, why doesn't it happen? You know, why do we not regenerate our limbs? If we have this capability? Why is it seemingly like never expressed? Or is it maybe is it sometimes expressed? Or are there examples of people who have done this? I've never heard of anyone regenerating a limb. It's crazy that to think that that capability is late.
+- \[00:24:04\]  Yeah. So children, human children regenerate fingertips. So up until a certain age, somewhere between 7 and 11 years old, kids will regenerate their fingertips. We don't know why humans don't regenerate their limbs. I can tell you a story that might make a little bit of sense, but it's just the story we don't know for sure. So here's a story. Imagine that you're a mammalian ancestor. So you're this ancient, you know, mouse like creature, you're running around the forest, somebody bites your leg off.
+- \[00:24:34\]  So now here's the problem. A, you're going to try to put weight on it because you're a tetrapod. So you're going to try to put weight on it. You're going to grind that wound into the forest floor. It's going to get infected. It's going to, you might even bleed out. And so unlike a salamander, which has the ability to sort of float blantantly in peace and quiet for, you know, for months, you really don't have the luxury of hanging out and regenerating. Your best strategy is to seal the wound, scar, have some inflammation and, you know, live on.
+- \[00:25:04\]  Hopefully that to tell the story. Now, there is one example of a mammal that does amazing regeneration and it's an appendage that you don't put weight on. So it's deer antlers. So in deer, they grow these, these massive structures, bone, vasculature, innervation, velvet. They grow a centimeter and a half per day of these things when they're, when they're growing out. I mean, it's, it's, it's crazy and they can do it. And, and is it a coincidence that that's the one thing you don't put weight on? I don't know.
+- \[00:25:31\]  I do want to say something about your point about unexpected capabilities. I think this is, this is really critical. And we, I don't know if you've seen this thing, but, but a few weeks ago we put out a preprint on, this is a purely computational study. What I, what I wanted was, and this is, this was, this was done with my student Tianning Zhang and Adam Goldstein. We wanted to, I wanted to really hit this issue of unexpected capabilities because, because working with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with ^ae001f
+- \[00:26:01\]  and data that you can get and use it and test it, and use it and you know, you can really make things even more tested and has solved problems, help people understand the actual astronaut's ability to handle these kind of physical distortions without being measured in numbers.
+- \[00:26:20\]  And when I made this presentation, I think everyone remembered that there were fake news, but because this, this was very quick, it was very fast and that was, were verylately based on uncertainty.
+- \[00:26:27\]  And so,
+- \[00:26:28\]  unconventional systems. Really, the idea that we do not have a good intuition for
+- \[00:26:33\]  what to expect. When we build systems, we don't know, never mind
+- \[00:26:37\]  immersion complexity, that's easy, you know, fractals, game of life, cellular
+- \[00:26:40\]  automata, complexity is easy. But what also tends to happen is
+- \[00:26:44\]  there's emergent agency, so ability to pursue goals and solve problems, and
+- \[00:26:49\]  we are terrible at noticing these things when they're in unfamiliar
+- \[00:26:53\]  substrates. So what we did in this paper was I wanted something that was
+- \[00:26:57\]  extremely simple, transparent, the thing about biology is that in biology
+- \[00:27:02\]  there's always more mechanism to be discovered, so no matter what you show
+- \[00:27:05\]  somebody will say, well, there really is a mechanism for that, you just
+- \[00:27:09\]  didn't find it yet, right? So we wanted something super simple, and what we
+- \[00:27:13\]  chose were sorting algorithms. So these things that computer science students
+- \[00:27:16\]  have been studying for many decades, you know, bubble sort, selection sort, that
+- \[00:27:19\]  kind of stuff, and completely deterministic, everything is right there,
+- \[00:27:23\]  it's completely open, you know, six lines of code, there's really nowhere to hide,
+- \[00:27:26\]  like it's all there. And what we were able to show is that if you
+- \[00:27:30\]  treat them, if you're a little bit humble about what these things can do,
+- \[00:27:33\]  and you ask questions about what they can do, and rather than making
+- \[00:27:37\]  assumptions that they only do what the algorithm tells them to do, you actually
+- \[00:27:40\]  find some really important capabilities that are nowhere in the algorithm.
+- \[00:27:46\]  They're sort of implicit, so there's the explicit algorithm that sorts a list of
+- \[00:27:49\]  numbers, and that's there, and you can't get away from that, they will in fact
+- \[00:27:52\]  sort lists of numbers. But it turns out that they have some really interesting
+- \[00:27:57\]  properties and some novel capabilities that we did not know about. And so I
+- \[00:28:04\]  think that if that's the case for these really minimal, dumb sorting algorithms,
+- \[00:28:08\]  then something as unique and novel as these large deep networks and all the
+- \[00:28:12\]  other stuff that is made in AI, I don't think we've even scratched the surface
+- \[00:28:16\]  of what's really going on there. You know, the capacity for surprise in even
+- \[00:28:21\]  small systems is, I think, massive.
+- \[00:28:24\]  Okay, so I have to ask, what can the sort, I haven't seen this preprint yet,
+- \[00:28:28\]  what can the sort algorithms do that is not obvious?
+- \[00:28:32\]  I'll give you two examples. So just to introduce this story, the typical sorting
+- \[00:28:38\]  algorithm is, you sort of have this central god-like observer who sees the
+- \[00:28:43\]  whole string, and under some algorithm, he's, you know, moving around, moving the
+- \[00:28:47\]  numbers around, right? So we made two changes to be able to study this. One is
+- \[00:28:51\]  that we said, to make it a little more biological, we said, well, instead of
+- \[00:28:55\]  having a central algorithm, we're going to do it bottom up in a distributed way.
+- \[00:29:00\]  So you've got an array of numbers, every array element is, we're going to call it
+- \[00:29:04\]  a cell, that cell has some numerical value from 0 to 100 assigned to it, they
+- \[00:29:09\]  start out randomly, you know, randomly mixed up. And what we're going to do is
+- \[00:29:13\]  every cell is going to follow the algorithm. So for example, every cell, it
+- \[00:29:17\]  doesn't see the whole string, but it wants the neighbors. So the five wants a
+- \[00:29:20\]  four on its left and a six on its right. And every cell wants that. And we're just
+- \[00:29:24\]  going to, you know, we're going to let every cell be its own agent. So the first
+- \[00:29:30\]  thing you find out is that if you do that, it still works, they actually sort
+- \[00:29:33\]  themselves quite, you know, quite well. The next thing we did is we said, okay,
+- \[00:29:37\]  now we're going to let go of the assumption of reliable hardware. In other
+- \[00:29:41\]  words, if the algorithm says swap the numbers, well, they might be broken, one
+- \[00:29:46\]  of the cells might not swap. In the standard algorithm, you never check
+- \[00:29:49\]  whether in fact, the numbers got swapped the way you wanted them to, nor do you
+- \[00:29:53\]  check how are you doing, you don't do any of that, right? You assume the
+- \[00:29:56\]  hardware is reliable, and you just like, that's it. We kept all that we did not
+- \[00:29:59\]  introduce any new code for any of the things that I'm about to tell you they
+- \[00:30:02\]  do, we didn't put in any new code. So the code is exactly the standard stuff that
+- \[00:30:06\]  everybody studies, just being run individually on every cell. So the first
+- \[00:30:11\]  thing that happens is that if you introduce defects in the string, so you
+- \[00:30:16\]  introduce broken cells, it still does a really good job sorting. In fact, it will
+- \[00:30:23\]  sort other numbers around the broken numbers if it can't. Again, there's no
+- \[00:30:27\]  code in there to say that, hey, was this one broken? Did it move? No, no code
+- \[00:30:30\]  about that. One of the interesting things about intelligence and trying to
+- \[00:30:35\]  estimate intelligence is this, and this was a William James had this example, he
+- \[00:30:40\]  said, think about the the spectrum between two magnets trying to get
+- \[00:30:44\]  together and Romeo and Juliet trying to get together, right? Imagine you put a
+- \[00:30:48\]  piece of wood between the two magnets, the two magnets are just going to stand
+- \[00:30:52\]  there pressed up against the wood, they're never going to go around because
+- \[00:30:55\]  in order to go around, you have to temporarily get further from your goal.
+- \[00:30:59\]  Let's call that capability delayed gratification. So this idea is that I'm
+- \[00:31:02\]  going to reduce the thing that I'm being opted, the thing that I'm optimizing, I'm
+- \[00:31:07\]  actually going to going to reduce that in order to acquire gains later on. I mean,
+- \[00:31:10\]  that's a, you know, it's not super high intelligence, but it's a it's a it's an
+- \[00:31:14\]  ingredient to being able to do that as an ingredient. Otherwise, you're just a
+- \[00:31:17\]  very simple gradient follower, you're not going to get too far, right? Unlike
+- \[00:31:20\]  Romeo and Juliet, who have all kinds of tools, cognitive tools, you know, to get
+- \[00:31:25\]  around social and physical barriers, planning, all this stuff. So delayed
+- \[00:31:29\]  gratification. So it turns out that if you actually track as these algorithms
+- \[00:31:33\]  are sorting the numbers, when you introduce these broken cells, which if
+- \[00:31:38\]  you visualize, well, one of the things we did was visualize the sorting process as
+- \[00:31:42\]  a journey in sort space. So they all have to get to one point where everything is
+- \[00:31:45\]  sorted, and they start out at different points. But it's like this path, and they
+- \[00:31:48\]  all take these different paths. A broken cell is basically a barrier in that path.
+- \[00:31:52\]  So you're walking along, then you want to move the cell and you can't, it just
+- \[00:31:55\]  doesn't move, how are you going to get around this barrier? It turns out that
+- \[00:31:59\]  these algorithms and some more than others, we looked at, I think, four
+- \[00:32:02\]  different ones, some of them have the capacity for delayed gratification, what
+- \[00:32:06\]  they do is they'll go move some other numbers around. And in fact, the
+- \[00:32:09\]  sortedness drops for a while, the string gets less sorted for a while. And then
+- \[00:32:13\]  they catch the gains later, right? It becomes better later. Now this is this
+- \[00:32:18\]  is already quite amazing, because there is nothing in that algorithm that
+- \[00:32:21\]  explicitly, I mean, if you just look at the algorithm, there's nothing in there
+- \[00:32:23\]  that explicitly says, you have the capacity for delayed gratification. And
+- \[00:32:27\]  they do this more when there are more barriers. In other words, they don't just
+- \[00:32:31\]  randomly back up and you know, sort of wander around. No, they're they're
+- \[00:32:34\]  extremely linear until it comes time to deal with a barrier. And then they sort
+- \[00:32:38\]  of dip down and come back. So that's that's one kind of capability that that
+- \[00:32:43\]  we found that they're actually able to move around barriers like that without
+- \[00:32:46\]  any any, you know, explicit code for it. The other amazing thing is this.
+- \[00:32:51\]  Imagine that once you've put the algorithm in the individual cells, you
+- \[00:32:55\]  can do a really cool chimeric experiment, meaning that you could have
+- \[00:32:58\]  cells that are running different algorithms. So so you can mix so so
+- \[00:33:02\]  let's say some cells are running selection sort some some some of them
+- \[00:33:05\]  are running bubble sort, for example. And the thing is that none of the
+- \[00:33:11\]  algorithms have any code to know which one they are. So they don't they don't
+- \[00:33:16\]  have any, you know, data about what they are, nor do they have any ability to
+- \[00:33:20\]  look at my neighbor and see what he's doing. You're just following your
+- \[00:33:23\]  algorithm. You have no idea what it is you're following their algorithm. Now
+- \[00:33:26\]  now imagine at the very beginning, we have 100 cells and we mix it randomly,
+- \[00:33:29\]  right? So every cell has now two properties. It has the number that it's
+- \[00:33:32\]  trying to sort and it has which algorithm it's following. Okay, so
+- \[00:33:35\]  there's two two types of two types of cells, they're randomly distributed. And
+- \[00:33:39\]  all of this, by the way, has developmental biology consequences,
+- \[00:33:43\]  because the ability to sort out tissues is, you know, animals do this.
+- \[00:33:47\]  So for embryonic frogs, if we make we call this a Picasso frog, we we start
+- \[00:33:52\]  with a tadpole with all the organs in the wrong place, all everything will
+- \[00:33:55\]  sort out and you'll get a very nice frog out the other end. So the eye will
+- \[00:33:58\]  get back to where it needs to be the jaws will come like they know how to
+- \[00:34:00\]  sort themselves out. And we make chimeric animals too we make what we
+- \[00:34:05\]  call frog a lottles. So it's got a bunch of frog cells and a bunch of axolotl
+- \[00:34:08\]  cells. And you can actually ask this different hardware that normally makes
+- \[00:34:11\]  different things. How do they what like what's it gonna make? Right? So, so
+- \[00:34:16\]  so imagine we have this chimeric string, and then we're gonna ask a simple
+- \[00:34:18\]  question. What is the degree of clustering at any point in time? In other
+- \[00:34:23\]  words, what's the probability that when you look to the cell next to you, it's
+- \[00:34:27\]  the same type as you are, and Adam actually invented this term, which I
+- \[00:34:31\]  like a lot called algo type. So algo type. So there's genotype, you know,
+- \[00:34:35\]  which is which is the the algorithm that you're following. There's the
+- \[00:34:38\]  phenotype, which is what actually happens in biology. And then the algo
+- \[00:34:41\]  type is like what algorithm, you know, what algorithm are you actually running?
+- \[00:34:45\]  So so what's the probability as I look as I look at my neighbor that he's the
+- \[00:34:48\]  same algo type as I am. Now, initially, at the beginning, it's 50%. Because we
+- \[00:34:53\]  assigned algo types to numbers randomly. So you know, it has to be 50%. Yeah. At
+- \[00:34:58\]  the very end, it's also 50%. Because at the very end, everybody's going to get
+- \[00:35:02\]  sorted in order. And the assignment of algo types to numbers was random. So, of
+- \[00:35:07\]  course, it's going to be 50% again, right? Because you've now reshuffled
+- \[00:35:10\]  everything in order, but there was no pattern. So there's still not going to
+- \[00:35:12\]  be 50%. So if you imagine this graph, so so 50% here, 50% here. But during the
+- \[00:35:19\]  sorting period, it actually goes like this. And what it means is that in the
+- \[00:35:23\]  middle of the sorting period, they are, they sort together. So so so common
+- \[00:35:28\]  algo types like to hang out together. Now, this is this is kind of a weird way
+- \[00:35:33\]  to think about it. But to me, it's almost like a minimal model of, of the
+- \[00:35:37\]  human condition. It's like, eventually, the physics of your world are going to
+- \[00:35:42\]  pull you apart. Because right, because because the the the, the, the, the sort
+- \[00:35:46\]  of the actual sorting algorithm is inexorable, you can't get away from it.
+- \[00:35:49\]  So eventually, you're gonna you're gonna get, you know, you're gonna get yanked
+- \[00:35:51\]  yanked apart. But up until then, you have this life that that allows you to do
+- \[00:35:56\]  some cool things that are compatible. They're not they're not in, you know,
+- \[00:36:00\]  they're not directly forced by the laws of physics, but they're compatible with
+- \[00:36:03\]  them. And you get to do this thing where you hang out with your buddies for a
+- \[00:36:06\]  while, until you get you know, you get sort of sort of yanked apart into into
+- \[00:36:10\]  what the what the what the physics is trying to do. And so that's something
+- \[00:36:14\]  that's completely non obvious from the algorithm, you'll you'll never know
+- \[00:36:18\]  looking at the algorithm that that's what it was going to do. I have a gut
+- \[00:36:21\]  feeling that this can be harnessed in various ways. You know, the fact that
+- \[00:36:27\]  it's the fact that it's also clustering, it means that you can get multiple work
+- \[00:36:32\]  out of the same algorithm, it might be doing other things. And, again, this idea
+- \[00:36:37\]  that even something as simple as the sorting algorithm has this other property
+- \[00:36:40\]  that we wouldn't have guessed until we checked, right until we until we try, you
+- \[00:36:44\]  know, we actually asked, what do you what do you actually doing? Besides the thing
+- \[00:36:49\]  we asked you? You know, what else is baked in? And yeah, that that kind of
+- \[00:36:53\]  emergent ability to maximize other outcomes besides the ones that that are
+- \[00:36:57\]  explicitly programmed in, I think is, is probably all over the place, both in
+- \[00:37:01\]  biology and in AI.
+- \[00:37:05\]  Hey, we'll continue our interview in a moment after a word from our sponsors. If
+- \[00:37:09\]  you're a startup founder or executive running a growing business, you know that
+- \[00:37:12\]  as you scale your systems break down, and the cracks start to show. If this
+- \[00:37:16\]  resonates with you, there are three numbers you need to know 36,025 and one
+- \[00:37:22\]  36,000. That's the number of businesses which have upgraded to NetSuite by
+- \[00:37:25\]  Oracle. NetSuite is the number one cloud financial system, streamline
+- \[00:37:29\]  accounting, financial management, inventory, HR and more 25. NetSuite turns
+- \[00:37:34\]  25 this year, that's 25 years of helping businesses do more with less close their
+- \[00:37:38\]  books in days, not weeks and drive down costs. One because your business is one
+- \[00:37:43\]  of a kind. So you get a customized solution for all your KPIs in one
+- \[00:37:46\]  efficient system with one source of truth, manage risk, get reliable
+- \[00:37:50\]  forecasts and improve margins, everything you need all in one place.
+- \[00:37:54\]  Right now download NetSuite popular KPI checklist designed to give you
+- \[00:37:58\]  consistently excellent performance, absolutely free and netsuite.com slash
+- \[00:38:02\]  cognitive. That's netsuite.com slash cognitive to get your own KPI
+- \[00:38:06\]  checklist. netsuite.com slash cognitive.
+- \[00:38:10\]  Omnikey uses generative AI to enable you to launch hundreds of thousands of ad
+- \[00:38:15\]  iterations that actually work customized across all platforms with a click of a
+- \[00:38:20\]  button. I believe in Omnikey so much that I invested in it. And I recommend you
+- \[00:38:24\]  use it to use CogRev to get a 10% discount.
+- \[00:38:27\]  There are so many different follow up questions I want to ask about all that at
+- \[00:38:32\]  least kind of three big themes though. One is I don't know you've developed this
+- \[00:38:37\]  in different papers and different venues, but definitely very relevant. I think in
+- \[00:38:41\]  the AI context is this sense that the once supposedly very clear distinction
+- \[00:38:49\]  between life and machine, maybe was never really properly so clear in the first
+- \[00:38:54\]  place or at a minimum now seems to be kind of blurring. I'd love to hear you talk
+- \[00:38:58\]  about that, especially as it relates to this notion of emergence, which is one
+- \[00:39:04\]  that I'm, I don't know how closely you're following the AI discourse, but intense
+- \[00:39:08\]  debate right now about emergence, you know, how to conceive of it, what should
+- \[00:39:12\]  count? Is it a mirage actually, a best paper award at NeurIPS, the recent, you
+- \[00:39:18\]  know, major AI conference was given to a paper arguing that emergence is a
+- \[00:39:23\]  mirage, which I think is honestly put my cards on the table, kind of missing the
+- \[00:39:29\]  point on a few key levels. But you could talk about this, I'm sure for 10 hours,
+- \[00:39:34\]  but especially with this kind of eye toward people are like, oh, well, it's AI,
+- \[00:39:39\]  it's just computer code. It'll never do anything unexpected. We can control it.
+- \[00:39:42\]  Right. And you are really, even with some pretty simple systems calling that into
+- \[00:39:46\]  question, I guess you can rectify that however you want, but I'm very interested
+- \[00:39:50\]  in how you project what you're learning with these small systems and these
+- \[00:39:54\]  biological systems onto this notion of possible emergence in AI.
+- \[00:39:58\]  I'll be kind of philosophical for a moment. And then let's talk about
+- \[00:40:01\]  definitions a little bit. And then I'll give some practical examples. All of
+- \[00:40:05\]  these terms, machine, human, robot, alive, emergent, what are all these terms for?
+- \[00:40:14\]  What are they supposed to do for us? So I take all of these terms as engineering
+- \[00:40:19\]  protocol claims. So what I hear, I think they're all mirages in an important
+- \[00:40:25\]  sense, all of it in an important sense. I think all of these terms are not objective
+- \[00:40:29\]  truths. I think they are claims about the utility of a particular worldview from
+- \[00:40:34\]  the point of view of some perspective, from the perspective of some other agent,
+- \[00:40:37\]  including the system itself, by the way. So cognitive systems have to have models
+- \[00:40:42\]  of themselves. All of these things are different models of what's going on. I
+- \[00:40:47\]  think that emergence is basically a kind of expression of surprise in an observer.
+- \[00:40:53\]  So if you knew something was going to happen, you don't think it's emergent.
+- \[00:40:57\]  If you were smart enough to predict that in advance from knowing the rules about
+- \[00:41:01\]  the parts, then to you, it's not emergent. To somebody else who couldn't predict
+- \[00:41:05\]  it, it's absolutely emergent. And so I don't think these are binary categories.
+- \[00:41:09\]  I don't think there's a true, you know, kind of an objective truth as to whether
+- \[00:41:12\]  something is emergent or not. I think everything is from the point of view of
+- \[00:41:15\]  some observer. So now all of this business about machines and, you know,
+- \[00:41:20\]  and living things and so on, look, you do not want an orthopedic surgeon who
+- \[00:41:25\]  doesn't believe that your body is a simple machine. If you watch, if you look
+- \[00:41:29\]  at what orthopedic surgeons do, they got hammers and they've got chisels and
+- \[00:41:32\]  they've got nails and screws and absolutely they treat your body as a
+- \[00:41:37\]  machine. Okay. And you want them to that, that is the right, that is the right
+- \[00:41:40\]  frame for what they're trying to do. Do you want a psychotherapist that thinks
+- \[00:41:44\]  you're a machine? You do not. And so, so, right. So, so there are, there are
+- \[00:41:48\]  different levels of, um, of, of this framing and this is, so, so I've got this
+- \[00:41:52\]  thing called the TAME framework, T-A-M-E stands for technological approach to
+- \[00:41:56\]  mind everywhere, which begins by setting out a, um, uh, a spectrum all the way
+- \[00:42:01\]  from mechanical, you know, clocks and things like that, all the way up to
+- \[00:42:04\]  humans, all kinds of things in between where what's different between them is
+- \[00:42:09\]  it's not what they're made of and it's not how they got here. It's not whether
+- \[00:42:11\]  you were engineered or you were evolved or, or if you're a squishy and, you know,
+- \[00:42:15\]  and, and a lot in the live, I, I really, as it's, it's weird to say as a
+- \[00:42:18\]  biologist, I have very little interest in whether something's alive. I'm not
+- \[00:42:21\]  even sure that's a useful category. Really. I think now, now, now the level
+- \[00:42:25\]  of cognition, that's super interesting. And, but I don't think it necessarily
+- \[00:42:29\]  tracks with being alive at all. And, um, what's, what's, what happens when you,
+- \[00:42:33\]  when you move across that spectrum is the, you change tools as far as how some,
+- \[00:42:39\]  as how some other observer is going to interact with you. So the way you
+- \[00:42:43\]  interact with mechanical clocks is very different than the optimal way to
+- \[00:42:46\]  interact with cybernetic devices like thermostats versus learning agents, like
+- \[00:42:50\]  animals and some other, you know, some robotics versus humans and so on. So,
+- \[00:42:55\]  uh, are, are we machines? Yes. Are we amazing, agential creatures that do
+- \[00:43:00\]  things that simple machines don't do? Absolutely. Yeah. You know, uh, our
+- \[00:43:03\]  aspects of our psychology robotic. Sure. Are there aspects that are, that are
+- \[00:43:07\]  not? Yep. Uh, you know, all, all, all of it. It's, it's, it's, I think what
+- \[00:43:11\]  gets us in trouble is assumptions of, uh, that these are binary categories.
+- \[00:43:16\]  I think, I think there is no such thing. I think these binary categories don't
+- \[00:43:19\]  exist and, and assumptions that, um, all of this is, uh, has an objective
+- \[00:43:24\]  answer that we should just discover what it is. And then, and then we're done.
+- \[00:43:27\]  And even worse, some people try to make decisions on this from a philosophical
+- \[00:43:32\]  armchair. In other words, they look at something, oh, well, that's just, I see
+- \[00:43:35\]  what that is. That's just physics. That's not cognitive. Like, well, you have to
+- \[00:43:39\]  do experiments. You can't, you can't just have feelings about where something is
+- \[00:43:42\]  on that spectrum. You have to do experiments. For example, we took, um,
+- \[00:43:46\]  gene regulatory network models, which are extremely simple, um, either Boolean
+- \[00:43:50\]  or ordinary differential equation networks. And again, deterministic, very
+- \[00:43:55\]  simple, you know, very simple, nowhere to hide. We show that they can do six
+- \[00:43:59\]  different kinds of learning, including Pavlovian conditioning, right. Just out
+- \[00:44:02\]  of the box. And you wouldn't know that, you know, if you, if you, if you have
+- \[00:44:05\]  this commitment, that's something that's, that looks like that has to be stupid.
+- \[00:44:08\]  You wouldn't know that. And who knows what else they can do? So I feel very
+- \[00:44:11\]  strongly that this is, uh, these are all empirical questions. And if you can find
+- \[00:44:15\]  a frame that you've taken from behavioral science or, or from, you know,
+- \[00:44:19\]  one or from cybernetics or something, and if you can usefully apply it to that
+- \[00:44:23\]  system, then the narrative is, then, then, then you found, you know, you found
+- \[00:44:27\]  a good way to deal with it. So, so yeah, I, I, I don't believe that this, this
+- \[00:44:30\]  machine life distinction is, is valuable at all. I've never seen, I've never seen
+- \[00:44:34\]  anything really, um, uh, useful, useful come from trying to enforce a binary
+- \[00:44:39\]  distinction like that.
+- \[00:44:41\]  One of the things I think is really striking about some of your findings is
+- \[00:44:44\]  just how small scale intelligence can be, you know, whether it's a clump of cells,
+- \[00:44:51\]  you know, that constitute a Xenobot or an Anthrobot, or it's even just, you know,
+- \[00:44:55\]  apparently a, you know, virtual cells in a, in a running a little sorting
+- \[00:45:00\]  algorithm, but it starts to get confusing, I guess, when it's like, okay, how small
+- \[00:45:08\]  can we get? You know, is there, is there some nature, a lot of these systems,
+- \[00:45:13\]  maybe not all, but a lot of them do seem to have like multiple scales. So I'm kind
+- \[00:45:17\]  of wondering, does like, is that multiple scale question critical? Could you have
+- \[00:45:22\]  something that just works at a single scale? What would that even look like?
+- \[00:45:26\]  And also you said this, you know, this framework for mind everywhere, do you have
+- \[00:45:30\]  any intuition for how this relates to, you kind of said, you know, everything is
+- \[00:45:35\]  subjective. Does that also imply that there is some subjective experience on
+- \[00:45:40\]  behalf of these systems? Like, do you think these little sorting cells have any
+- \[00:45:45\]  sense of experience? I think these questions are also, you know, very under
+- \[00:45:49\]  theorized in AI. People are today just like, oh, well, it's an AI, of course, it
+- \[00:45:52\]  doesn't, you know, have any experience or have any moral value. I'm not rushing to
+- \[00:45:57\]  say that they do. But I'm also like, you seem very quick, you know, everybody
+- \[00:46:00\]  seems so confident in that. And I'm kind of like, not so confident.
+- \[00:46:03\]  Yeah, yeah. The one thing I can say for sure is that we absolutely cannot be
+- \[00:46:08\]  confident because we do not know. I mean, I hear people all the time making these
+- \[00:46:11\]  pronouncements that definitely is or definitely isn't. No, we do not have a
+- \[00:46:16\]  principled way of answering these questions for the biological world. And that
+- \[00:46:19\]  means we have we're completely out to see when we're faced with unconventional
+- \[00:46:24\]  embodiments. And we know this, you know, science fiction has been at this for well
+- \[00:46:28\]  over 100 years. This idea that you will when something shows, you know, lands on
+- \[00:46:32\]  your front yard and sort of trundles out and it's kind of shiny, but also it's
+- \[00:46:36\]  giving you a poem about how happy it is to meet you. And it's kind of got wheels.
+- \[00:46:40\]  And you're not quite sure where it came from. But also, it's, you know, it's,
+- \[00:46:43\]  you're having a great conversation with it, like, well, what are you going to use
+- \[00:46:46\]  as a criterion for how you're going to treat it, and so on. So all of the old
+- \[00:46:51\]  categories that we used to have in terms of, well, did you come from a factory? Or
+- \[00:46:55\]  did you come from the process of random mutation and selection, right? Or those
+- \[00:47:00\]  kinds of things. These are all terrible categories. And they're not good ways to
+- \[00:47:04\]  of making that distinction. Let's talk about the first question about how
+- \[00:47:10\]  low down does it go? I mean, people even there's, there's minimal active matter
+- \[00:47:15\]  research, where people can make very simple systems out of like three
+- \[00:47:20\]  inorganic chemicals, and then they can solve mazes, and they can do interesting
+- \[00:47:23\]  things. So I think that all of this really becomes disturbing when you insist
+- \[00:47:29\]  on a binary category when you want to know, okay, is it cognitive or isn't it
+- \[00:47:34\]  and then then then you've got a real problem. Because look, each of us starts
+- \[00:47:39\]  out life as a single unfertilized oocyte. It's a little blob of chemistry.
+- \[00:47:43\]  It's a we look at it and we say, okay, very clearly, this does not have the kinds
+- \[00:47:48\]  of cognitive capacities that humans have. Nine months and maybe a couple years
+- \[00:47:53\]  later, you've got something that obviously does. Developmental biology offers no
+- \[00:47:58\]  sharp line during this process where lightning bolt says, okay, now you've gone
+- \[00:48:02\]  from physics to mine. Okay, there is nothing like that the whole process is
+- \[00:48:05\]  smooth and continuous. So there is no escape. So all of this, these continual
+- \[00:48:11\]  first of all, there's the continuum of development, then there's the continuum
+- \[00:48:14\]  of evolution. If you think that you as a human have some very, you know, sort of
+- \[00:48:18\]  specific competencies, just start walking backwards. So which of your hominid
+- \[00:48:23\]  ancestors and which of the, you know, sort of mammals before you and before
+- \[00:48:27\]  that, and eventually you get to something that's basically, you know, much less
+- \[00:48:31\]  complex than a current single cell organism. Where did those things peter
+- \[00:48:35\]  out? Right? There is no good story about that. It is imperative that we
+- \[00:48:39\]  understand that it's not are we cognitive or aren't we it's how much and what
+- \[00:48:43\]  kind, right? It has it cannot be binary. There's no way to support not only that
+- \[00:48:48\]  now with with bioengineering and robotics, we can make combinations. So if
+- \[00:48:53\]  you think machines are not whatever, whatever, and humans are fine. So right
+- \[00:48:58\]  now we have cyborgs walking around, we have people with microchips in their
+- \[00:49:01\]  heads and various other, you know, insulin pumps and various other things.
+- \[00:49:04\]  That's only going to continue now right now. Now, right now you're dealing with,
+- \[00:49:08\]  I mean, talk about non neurotypical, like right now you've got somebody that's,
+- \[00:49:11\]  you know, 98% human, maybe 2% digital. Eventually, you're going to get to 5050
+- \[00:49:16\]  and every other kind of combination. What are you going to do that? Are you
+- \[00:49:20\]  going to do it by weight? Like what percentage of you is original parts and
+- \[00:49:23\]  what percentage of you is cyborg? Ridiculous, right? So there is absolutely
+- \[00:49:28\]  no way to maintain this hard distinction. An interesting question might be,
+- \[00:49:33\]  is there anything in this universe that is that is zero on the cognitive scale?
+- \[00:49:39\]  Okay, because because I think I think very simple things already are not zero.
+- \[00:49:43\]  Now the question is, is there a zero? So this is this is a hard question. I'll
+- \[00:49:48\]  tell you what I think about it right now. Let's ask this. What would the most
+- \[00:49:53\]  simple, the most basal, like the most basic versions of agency look like? What
+- \[00:49:59\]  do you need for that? Now, it's obviously not going to, you know, people, people say,
+- \[00:50:03\]  well, you think that the rocks have hopes and dreams like us? No, you have to
+- \[00:50:06\]  scale down. The point isn't that it's going to have our level of cognition.
+- \[00:50:10\]  What does the most minimal level look like, right? The smallest possible. Well,
+- \[00:50:14\]  I think you need two things for that. You need some degree of goal directedness,
+- \[00:50:19\]  and that in William James's definition is the ability to reach the same state by
+- \[00:50:24\]  using by different means. Okay, so same goal by different means. So you need some
+- \[00:50:29\]  degree of goal directedness, and you need to be not completely, your actions need
+- \[00:50:33\]  to be not completely explainable by current local conditions. So if what you're going to
+- \[00:50:38\]  do is completely determined by all the physical forces acting on you right now,
+- \[00:50:43\]  then you're probably some sort of billiard ball. And that's, you know, that's it.
+- \[00:50:47\]  So those two things, I think even particles have those, because least action, least action
+- \[00:50:53\]  kind of laws in physics tell you that there's goal directness baked into the bottom levels
+- \[00:50:57\]  of the universe. And quantum indeterminacy gives you a really dumb version of not being predictable
+- \[00:51:03\]  by local conditions. It's not great cognition because it's random. That's not really what we
+- \[00:51:07\]  like from, but it's something. And so here's what I would say. If there is any kind of a definition
+- \[00:51:12\]  to life, I think life, we call life those things that are really good at scaling those up. So if
+- \[00:51:18\]  you've got a rock, it has no more capabilities than the parts that went in. It didn't scale.
+- \[00:51:22\]  It's sort of lateral and it's bigger, but that's it. If you've got something that's alive, it's
+- \[00:51:27\]  cranking up the agency, the indeterminacy and the goal directedness across every scale of
+- \[00:51:31\]  organization. And it's cognitive light cone is increasing, you know, as a function of time.
+- \[00:51:39\]  So my friend and colleague, Chris Fields, who's a brilliant physicist, among other things,
+- \[00:51:45\]  I asked him, so can you have a universe in which there is no least action in which
+- \[00:51:50\]  like there would be zero? And he said that only, you know, in a universe where nothing ever happened,
+- \[00:51:55\]  right in a completely static universe where nothing ever happened, it would be zero. But as
+- \[00:52:00\]  soon as you get, you get interactions already, you know, you've got, you've got the basics of
+- \[00:52:04\]  the least action. So, so I believe in this universe, I don't think there is a zero. I think everything
+- \[00:52:09\]  has some capacity, but some things scale it up in an interesting way and some don't. And that
+- \[00:52:14\]  means that for some things, the tools of behavioral science are going to be applicable. And for some
+- \[00:52:19\]  things, they're not right. And that's the empirical that that's, that's why this is not the same thing
+- \[00:52:23\]  as ancient animism, where you saw a spirit in every rock, because it actually does not pay
+- \[00:52:29\]  off to treat rocks with tools from behavioral science. But it does pay off to treat gene
+- \[00:52:33\]  regulatory networks that way. And it absolutely pays off to treat various animals that way,
+- \[00:52:37\]  because that's how humans train dogs and horses knowing zero neurosciences, because
+- \[00:52:42\]  there's this, there's this amazing interface that some animals expose that, that you can,
+- \[00:52:46\]  you can train them. So yeah, and then, and then I guess the last thing, the last thing you talked
+- \[00:52:51\]  about is, is about inner, like this inner perspective. I try not to say too much yet
+- \[00:52:57\]  about consciousness per se, but, but we can, we can say something about inner perspective,
+- \[00:53:01\]  and which systems have it and which systems don't. Here's what I think. Imagine, imagine a landscape,
+- \[00:53:07\]  you know, kind of a hilly up and down landscape, and you got a bowling ball on this landscape.
+- \[00:53:11\]  In order to know what this bowling ball is going to do, and to make it do whatever it is that you
+- \[00:53:15\]  want it to do, all you have to do as an external observer is to pay attention to your, your view of
+- \[00:53:21\]  the landscape. Your third person view of that landscape tells the whole story. You know where
+- \[00:53:26\]  the hills and valleys are, that's all you have to know. You don't need to take into account anything
+- \[00:53:30\]  else. Now imagine a mouse on that landscape. When you get a mouse on that landscape, your view of
+- \[00:53:36\]  that landscape is not really that relevant. What's really relevant is the mouse's view of lands,
+- \[00:53:40\]  that landscape, because he might have been rewarded and punished in different, at different
+- \[00:53:43\]  times, in different locations. He might have, he's, he's seeing that landscape in a completely
+- \[00:53:48\]  different way. There's a, there's a, you know, there's a valence map sort of superimposed on it
+- \[00:53:52\]  that he's got his own opinions about where he's going to go. And so for all these different systems,
+- \[00:53:55\]  you can sort of ask to what degree, and again, it's not going to be a binary thing, it's never
+- \[00:54:00\]  going to be a binary thing, but you can ask to what degree do I need to take the perspective
+- \[00:54:04\]  of that system and ask what does it see and what does it think about what it's going to do? So that
+- \[00:54:08\]  to the extent that you have to do that a lot, you're dealing with a high agency system that
+- \[00:54:13\]  has an inner perspective. So the degree that you can get everything done by your own model of what's
+- \[00:54:17\]  going on, then probably it doesn't. Right. And so, and so that I think is a, is a, is a heuristic
+- \[00:54:23\]  by which we can start to say, um, how much inner perspective can I expect from these things?
+- \[00:54:28\]  And I, I really, you know, as far as being, being sure that, I mean, look, let's be clear,
+- \[00:54:32\]  I am not claiming that today's AI architectures are mimicking human brains. Okay. I don't think
+- \[00:54:38\]  they are. I don't think they're mimicking human cognition, although they do have some interesting
+- \[00:54:42\]  things in common that people don't realize, but, um, I don't think they have to. The point about
+- \[00:54:46\]  AI is not that you have to be a human for us to have to be kind to you. There are many, there are
+- \[00:54:50\]  many, um, living beings that, that are nowhere near, uh, humans and the same thing for danger,
+- \[00:54:55\]  right? You don't need to be human level or above to be dangerous. There are many really dumb things
+- \[00:54:59\]  that are extremely dangerous. So the thing we have to understand is that you cannot pin your hopes
+- \[00:55:04\]  for being able to distinguish like moral worth and things like that. You cannot pin, pin that on
+- \[00:55:09\]  what are you made of because there's nothing magical about, um, what protoplasm, you cannot pin
+- \[00:55:15\]  it on being an evolved biological because there's nothing magical about the random meanderings of
+- \[00:55:20\]  the evolutionary process, which, uh, you know, just, uh, it doesn't optimize for anything that
+- \[00:55:25\]  we care about. It doesn't optimize for intelligence or, you know, meaning or anything like that. It
+- \[00:55:29\]  optimizes for survival for copy number. And, um, and, and so none of those things, none of those
+- \[00:55:34\]  things are reliable guides. You, you have, you, you can't, you know, you can't say, uh, just by,
+- \[00:55:39\]  um, by knowing what something is made of or how it got here, we have to have principled
+- \[00:55:44\]  frameworks for making that decision. And we don't have them yet in biology really very much.
+- \[00:55:47\]  Soterios Johnson So I guess the beginning of maybe a framework
+- \[00:55:51\]  for starting to make sense of those, you kind of touched on a little bit in those comments, but
+- \[00:55:57\]  just to kind of pull out a couple of definitions, I'll try to try to do it briefly. You tell me if
+- \[00:56:01\]  I'm missing anything, I've heard you define intelligence as the ability to solve problems
+- \[00:56:06\]  in some space. I think that kind of notion of in some space is interesting. And then you said kind
+- \[00:56:11\]  of also, there's the question of like, not are we, or aren't we, but how much, and you've, you've
+- \[00:56:16\]  used the term, the cognitive light cone there, I think, in other words, kind of what is your sort
+- \[00:56:22\]  of domain of concern and like possible reach, you know, or how far can you project your influence
+- \[00:56:29\]  into the world? And that is sort of a way of thinking about how much intelligence you might
+- \[00:56:36\]  have. Does that extend all the way up to sort of nature as a whole? Are you thinking of like the
+- \[00:56:42\]  Gaia hypothesis? That's a far out one in many people's minds, but it seems to follow pretty
+- \[00:56:46\]  naturally from what you're saying. Yeah, so so the key, the key to all of this, so first, let me let
+- \[00:56:51\]  me define the cognitive light cone is the size of the largest goals that you can pursue. Okay,
+- \[00:56:57\]  so you can think about what are the what are the things that matter to a bacterium? What are the
+- \[00:57:00\]  things that matter to a dog? What are the things that can matter to a human? And when you know,
+- \[00:57:04\]  and could we have at some point of being that, like, literally is in the linear range can care
+- \[00:57:09\]  about all the living beings on earth, like we can't do it as humans, but but maybe our next,
+- \[00:57:13\]  you know, some next stage of evolution can. So so it's, it's this idea of what are the what are the
+- \[00:57:19\]  what are the size of goals that you can actually maintain? The important thing about this is that
+- \[00:57:24\]  you can't decide that just by thinking about it, you have to do experiments, because the way you
+- \[00:57:30\]  find goals is by perturbing the system, you cannot infer intelligence or goal directedness by pure
+- \[00:57:37\]  observations, you have to do perturbative experiments. So what that means is, you put
+- \[00:57:41\]  barriers between that you make a hypothesis, what problem space is it operating in? What are the
+- \[00:57:46\]  goals? These are all hypotheses, and multiple observers could have different hypotheses.
+- \[00:57:49\]  What are the goals? What competencies does it have to reach those goals? And now you get to
+- \[00:57:53\]  test that hypothesis by putting in different barriers and seeing what it does, right? Does
+- \[00:57:57\]  it have long term planning? Does it have that does have learning? Does it have you know, what what
+- \[00:58:00\]  what can what can it do? So with respect to the Gaia hypothesis, some people say, absolutely not.
+- \[00:58:07\]  Some people say, well, I like to think it does and therefore it does. Neither neither of those is any
+- \[00:58:12\]  good because because you can't do any of that without doing experiments. Now, can you do can
+- \[00:58:16\]  you do experiments in a video? For example, people have said to me, well, you know, that sounds that
+- \[00:58:22\]  sounds like you're going to say the weather, you know, the weather has some some degree of
+- \[00:58:26\]  cognitive ability. Well, I'm not going to say that because we don't know yet. But one thing that this
+- \[00:58:30\]  framework does for you is it doesn't close off the possibility of testing it to find out. Do I know
+- \[00:58:35\]  that if you had the appropriate ways to change the temperature, the pressure of air and whatever,
+- \[00:58:39\]  you couldn't use some kind of a habituation or sensitization assay or an associative learning
+- \[00:58:44\]  to to show those things in a I don't know, in a hurricane or something? We don't know. I mean,
+- \[00:58:50\]  that's an empirical question, right? That the thing about the thing about this framework is that
+- \[00:58:54\]  is that it does not let you just sort of pick answers out of thin air. It requires you to do
+- \[00:58:58\]  experiments. So so, Gaia, you know, can we show that ecosystems learn? Well, ecosystems have stress.
+- \[00:59:04\]  You know, would would an ecosystem be able to show different kinds of learning anticipation?
+- \[00:59:10\]  We don't know, but that can be tested. We're we're actually testing this right now. I have a student
+- \[00:59:14\]  who's testing this in predator prey kinds of models to see if they actually learn from from
+- \[00:59:19\]  experience. So we don't know. These are all these are all testable questions. So is it possible that
+- \[00:59:26\]  you know, on the scale of I mean, people ask, you know, on the scale of galaxies or something that
+- \[00:59:30\]  that, you know, we're a giant, like we're part of a giant mind. I think it's absolutely possible.
+- \[00:59:35\]  I don't think we know. And I don't think you can say yes or no, just, you know, based on philosophical
+- \[00:59:40\]  commitments. You have to do experiments. That's maybe a great place to kind of segue to some
+- \[00:59:46\]  questions that I have about. Maybe recommendations or sort of inspiration that you could give to
+- \[00:59:52\]  people working to understand AI systems better, and I think, you know, you you said there,
+- \[00:59:59\]  you can't just sit and guess, right? You have to do a perturbative, I believe, is the word experiment
+- \[01:00:05\]  to see what is going on in the world. Broadly, there's a lot of debate around the degree to which
+- \[01:00:15\]  AI systems are generalizing beyond the distribution that they've seen in training.
+- \[01:00:21\]  And it strikes me that some of the experience that you've done, particularly, like, as you said,
+- \[01:00:27\]  rearranging the face of a tadpole or whatever, and watching as they sort of reconstruct their faces.
+- \[01:00:34\]  One way to talk about what you're doing there is you're taking them way outside of the distribution
+- \[01:00:38\]  of what presumably they had ever seen in evolutionary history. I mean, maybe right,
+- \[01:00:44\]  but that seems pretty like you found a dark corner that, you know, presumably has not been
+- \[01:00:49\]  previously explored. So with AI, we're trying to kind of begin to wrap our heads around that.
+- \[01:00:55\]  Do you have any sort of, you know, advice, like habits of mind, food for thought, you know,
+- \[01:01:00\]  any kind of suggestions from what you've learned in your work that people could take inspiration
+- \[01:01:06\]  from on the AI side? Yeah, well, there's two kinds of things. There are some very specific
+- \[01:01:13\]  biological principles that I think would be interesting. And then there are kind of general
+- \[01:01:18\]  ways to think about this in terms of the whole debate about AI. I mean, I want to say a couple
+- \[01:01:23\]  things. One thing about embodiment. So there's a lot of talk about real people say, well, if it's
+- \[01:01:28\]  just the software agent, if it's not embodied, if it's not integrated into the real world,
+- \[01:01:32\]  and you know, kind of grappling with some sort of embodied physical existence, it doesn't,
+- \[01:01:37\]  you know, it doesn't have real, it doesn't have real, real, it doesn't know what it's talking
+- \[01:01:41\]  about. It's shuffling symbols, right? This is the old like Dreyfus argument and all that kind of
+- \[01:01:45\]  stuff. So I want to say something interesting about, I hope, about embodiment. Embodiment is
+- \[01:01:49\]  absolutely critical, but embodiment isn't what we think it is. People think embodiment is a
+- \[01:01:53\]  physical robot that hangs out in three-dimensional space. And that's because most of our sense organs
+- \[01:01:59\]  are pointed outwards, and they're optimized for tracking medium scale objects moving at
+- \[01:02:05\]  medium speeds. Imagine if we had, imagine if we had a sense organ for our own body chemistry,
+- \[01:02:11\]  let's say inside our blood vessels, we had something like a tongue that could like feel,
+- \[01:02:15\]  I don't know, 20 parameters of our physiology. I think cognitively, we would, we would be living
+- \[01:02:22\]  in a 23 dimensional space. And we would immediately recognize our liver and our kidneys as
+- \[01:02:29\]  intelligent beings that navigate that space. They have goals, they have certain competencies to
+- \[01:02:33\]  reach those goals. Every day we throw, you know, wacky shit at them, and they, and they know how
+- \[01:02:37\]  to, they know how to navigate that space. And they have certain competencies, and they, and they live
+- \[01:02:42\]  and they strive and they suffer in that space. So I think biology tells us that there are many spaces,
+- \[01:02:47\]  there are spaces of gene expression, there are anatomical morphous spaces where the anatomical
+- \[01:02:53\]  collective intelligence operates. There are metabolic spaces, there are, then of course,
+- \[01:02:59\]  there's the familiar three dimensional space of behavior, and then there are linguistic spaces,
+- \[01:03:03\]  and so on. Embodiment can take place in any of those, intelligence can take place in any of those.
+- \[01:03:08\]  So the first thing I would say is to take very seriously this idea that, you know, is popular
+- \[01:03:15\]  in science fiction and whatever, that this physical space that you're in is not privileged
+- \[01:03:20\]  in some way and everything else is virtual. There are many other spaces and they are just as real.
+- \[01:03:24\]  There are other beings that live in these other spaces, many of them are in our bodies right now,
+- \[01:03:28\]  and those spaces are no less real than this one. It's just that, you know, our left hemisphere,
+- \[01:03:32\]  like, you know, this is the kind of sense data that it mostly gets, and that's why we all feel
+- \[01:03:39\]  like we live in this space and everything. So that's the first thing. So I say that about
+- \[01:03:43\]  embodiment. Something else I would say is about this issue of symbol binding and grounding,
+- \[01:03:48\]  right? This idea that, well, you know, it shuffles the letters and it shuffles words and so on,
+- \[01:03:54\]  but they're not grounded to anything. It doesn't, you know, it doesn't know what they mean.
+- \[01:03:59\]  If you have kids and you watch a little human develop, what you see very quickly is that
+- \[01:04:05\]  they start out as kind of happy-go-lucky pattern matchers. They will just sort of repeat stuff they
+- \[01:04:11\]  hear, they see what sticks, and they sort of talk about all kinds of stuff that they have actually
+- \[01:04:16\]  no actual grounding on. And then eventually they get to the point where you say, oh, wow, yeah,
+- \[01:04:21\]  he really knows what he's talking about when he's saying that. This is a smooth process. It's not a
+- \[01:04:25\]  categorical, yes, you are real or no, you're not. In fact, I don't know about you, but I thought,
+- \[01:04:32\]  at one point, I tried to sort of estimate, like, what percentage of the things that I talk about
+- \[01:04:36\]  are actually grounded in the sense that I've had actual experience with them? You know,
+- \[01:04:40\]  I can, you know, we can talk about all kinds of stuff, you know, places we've never been, and,
+- \[01:04:45\]  and, you know, all kinds of things we've never seen. A ton of our cognitive fodder is not grounded
+- \[01:04:51\]  to anything. It's just tied to other stuff. So it's important to be clear that a lot of these
+- \[01:04:59\]  supposed distinctions are really spurious. You know, this issue of confabulation, right? I mean,
+- \[01:05:06\]  humans confabulate constantly. There is, there is, you know, there's a good theory that basically
+- \[01:05:12\]  says that part of your language ability is basically just to tell stories about what your
+- \[01:05:17\]  brain is already doing, right, after the fact. To concoct good stories that you can just share
+- \[01:05:21\]  them with others and increase cooperation. There's some amazing, you know, some amazing
+- \[01:05:26\]  data on, you know, on split brain patients and other cases where it's very clear that we're
+- \[01:05:31\]  very comfortable confabulators. So there are these distinctions, again, not saying that
+- \[01:05:36\]  current architectures capture what's essential about, about, about life, because I don't think
+- \[01:05:41\]  they do. But, but, but a lot of these things are not, not, the biology isn't what, what, what people
+- \[01:05:48\]  think, what people think it is. And I would encourage workers in AI to think about the whole
+- \[01:05:53\]  spectrum of diverse intelligence, cells, organs, tissues, chimeras, cyborgs, hybrids, not just like
+- \[01:06:01\]  the standard adult human that, you know, that, that, that we think about as a, as a, as a, as a
+- \[01:06:06\]  counterpoint. This idea of, of, of ethics and the kind of the impact of highly competent AIs and,
+- \[01:06:14\]  and people say, this is, this is really scary. You know, we're creating these, these, these
+- \[01:06:19\]  intelligent entities and we're, we're going to let them loose into the world and we don't know
+- \[01:06:23\]  what they're going to do. We've been doing that for millions of years. It's called having children.
+- \[01:06:28\]  We already do that. All of us, we, we create these guaranteed high intelligent agents. We do
+- \[01:06:35\]  our best or not during the critical kind of training phases. And then we let them into the
+- \[01:06:40\]  world and sometimes they do, you know, miraculous things and sometimes they do horrible things.
+- \[01:06:45\]  And so I think a lot of, a lot of the issues that we have around AI right now, I mean,
+- \[01:06:49\]  obviously there's some unique ones, but, but most of the issues around AI and, and what are we going
+- \[01:06:54\]  to do to stay relevant? And you know, what happens to collaboration and to AI art and all this kind
+- \[01:06:59\]  of stuff is really just reflections of existential issues that humans have been struggling with for a
+- \[01:07:04\]  really long time. You know, these are all fears about what, what happens, what, you know, what
+- \[01:07:09\]  do the next generations think of us as they, as they mature and, and, you know, and, and fears
+- \[01:07:14\]  about humans and what does it mean to stay human? Yeah. I mean, we can, we can, we can talk about
+- \[01:07:18\]  that too, you know, this issue of what, what do we want to persist, you know, as far as people
+- \[01:07:22\]  being worried that we're, we're beginning to get taken over and so on is the whole, whole thing we
+- \[01:07:26\]  could talk about there. This is extremely thought provoking on a lot of different levels. One quick
+- \[01:07:33\]  follow-up on the perturbative experiments. It seems like there is a decent analogy I can already start
+- \[01:07:41\]  to see between some of the things that you're doing and, you know, there's, there is a lot of
+- \[01:07:46\]  weird stuff that is, that is kind of on the edges of, of modern AI research, but is like, remarkably,
+- \[01:07:51\]  it kind of works. Stuff that I think probably would get a lot more energy if the mainline
+- \[01:07:56\]  stuff weren't working so well, then people would be kind of forced to go out and explore more of,
+- \[01:08:01\]  you know, these kind of weird frontiers. But they're right now the vein of just progress in
+- \[01:08:06\]  the mainline research is so rich that, you know, there's not a lot of incentive in many cases to,
+- \[01:08:11\]  to go outside of it. But you do see these things, which kind of remind me of some of your work,
+- \[01:08:16\]  where, you know, you can, for example, take a lot of weights in a lot of models and just drop a ton
+- \[01:08:23\]  of the weights to zero and find that, oh, hey, it still kind of works, you know, and you can,
+- \[01:08:29\]  you know, take two pre-trained models and put a little connector between the two of them,
+- \[01:08:34\]  freeze the pre-trained ones and just train the connector and get kind of novel behavior that,
+- \[01:08:40\]  you know, neither model could, could come up with on its own. I guess, you know, I'm riffing there.
+- \[01:08:45\]  I think that kind of work feels really important. It also, to me, it does feel a little bit,
+- \[01:08:49\]  I mean, the whole AI enterprise to me, not like any individual modern day experiment,
+- \[01:08:53\]  the whole AI enterprise does feel to me a little bit dangerous, to be totally honest, because
+- \[01:08:59\]  unlike our children, who I think we have a pretty good handle on kind of, you know, just how
+- \[01:09:03\]  big their, you know, individual light cones may be. I think we may very well create something in
+- \[01:09:09\]  the AI realm that just has like way bigger scope of action than anything we're used to. And then,
+- \[01:09:15\]  you know, that could go badly for us. It sounded to me like you weren't too worried about that.
+- \[01:09:20\]  Maybe you're just not that worried about it, but I wouldn't, based on everything we've talked about,
+- \[01:09:23\]  I find it hard to imagine you would rule that out or see some reason that like,
+- \[01:09:27\]  that shouldn't be an issue that people would worry about at all, right?
+- \[01:09:32\]  No, it's definitely an issue. But I also think that that issue is here long before we make
+- \[01:09:37\]  anything with a huge cognitive light cone. So there are many, many things that are extremely
+- \[01:09:43\]  dangerous that do not have a large cognitive light cone. And some of that is because of how
+- \[01:09:48\]  we relate or misrelate to them. So I can imagine AIs that are going to be, that would be extremely
+- \[01:09:56\]  deleterious for society, but not because they're so smart. It's because we're not that smart,
+- \[01:10:00\]  right? And I think that we, you know, we, one of the big things that I think is an existential
+- \[01:10:06\]  risk scale thing for humanity is to develop a principled science of where do goals of novel
+- \[01:10:14\]  systems come from and how to interact with, ethically interact with systems that are
+- \[01:10:21\]  radically different from us, minds that are radically different from us. We make systems,
+- \[01:10:27\]  you know, internet of things, social and financial structures, AI, obviously, we make all these
+- \[01:10:33\]  different things. We do not have a science of where novel goals come from systems, not just
+- \[01:10:38\]  emergent complexity, that's bad enough. Emerging complexity is bad enough. But also what is to me
+- \[01:10:44\]  clear that can that that emerges is emergent goals. So systems that have some degree of pursuing
+- \[01:10:50\]  various goals, and some competency to get those goals met. And we do not have a good science of
+- \[01:10:57\]  knowing when that's going to happen, and what those goals are going to be what the competencies
+- \[01:11:01\]  are going to be. And so I'm not saying that that it isn't possible that we make a hugely, you know,
+- \[01:11:08\]  super intelligent AI, that's going to be a problem, absolutely possible. But I think we need
+- \[01:11:13\]  to realize that that problem can occur long before we get to that point, our physical infrastructure,
+- \[01:11:18\]  and also our kind of the general mental frameworks that people are using are extremely brittle,
+- \[01:11:25\]  you know, most of the terminology that that we rely on today in the legal system in you know,
+- \[01:11:30\]  in interpersonal relationships, that stuff isn't going to last the next decade or two,
+- \[01:11:35\]  like all those terms are going to crumble. And it's not because we're dealing with something yet
+- \[01:11:39\]  that's super intelligent. It's because we haven't got the right framework for dealing with other
+- \[01:11:45\]  minds that are different from from our own. That's that's where a lot of effort has to go.
+- \[01:11:49\]  Yeah, that question of emergent goals is definitely a very salient one in the AI space.
+- \[01:11:55\]  And I think, you know, probably deserves to be even more focal still, but some challenges that
+- \[01:12:01\]  we have in AI today, one is like, figuring out what the goal should be, you know, we have the
+- \[01:12:07\]  pre training goal is just like predict the next text, then we've got reinforcement learning from
+- \[01:12:11\]  human feedback, which is like satisfy the human, then we look at ourselves. And as you said,
+- \[01:12:14\]  we're kind of brittle, we can, you know, what satisfies the human is not necessarily good for
+- \[01:12:18\]  humanity, or, you know, the ecosystem broadly, or whatever. So lots of possible problems there,
+- \[01:12:23\]  people start to think, well, maybe we could have like multiple goals, or we could kind of,
+- \[01:12:27\]  you know, this is sort of what humans seem to have is like this kind of multi dimensional value,
+- \[01:12:31\]  maybe we could have multiple goals, we could optimize systems for yikes. Okay, a couple more,
+- \[01:12:36\]  then I'll just let you go off on all of them. Memory is a huge challenge right now for AI,
+- \[01:12:42\]  we have, you know, at least with the kind of systems that people are most familiar with,
+- \[01:12:45\]  we've got like the context window, it can kind of process that information densely at runtime.
+- \[01:12:51\]  But there's not really another level of memory in the in today's frontier system. So people are kind
+- \[01:12:57\]  of rigging up all sorts of scaffolding and like finding things that work and saving those to a
+- \[01:13:01\]  database and recalling them later, they're not very integrated. So, you know, you've got such
+- \[01:13:07\]  incredibly remarkable findings in terms of memory and bioelectrical space and organisms,
+- \[01:13:13\]  really interested in that robustness is another big challenge, right with these
+- \[01:13:17\]  AI's are like superhuman across like passing all the graduate school exams,
+- \[01:13:22\]  but then we can trick them, you know, and and they're so gullible. It's like, well,
+- \[01:13:26\]  what's up with that? Well, there is something definitely remarkable about our robustness,
+- \[01:13:31\]  given our finite capability that the AI's are not that close to yet, even like superhuman go player,
+- \[01:13:36\]  I don't know if you saw this result, but a relatively simple attack was able to beat,
+- \[01:13:40\]  you know, the superhuman go player. So I'll stop there. The big ones, goal design,
+- \[01:13:48\]  memory, robustness, AI has a long way to go to catch up to biology. And I wonder if you have any
+- \[01:13:54\]  suggested directions for the AI developers. The thing with the thing about memory, I'll just give
+- \[01:14:00\]  you a quick biological example. Caterpillar to butterfly. So so caterpillar soft bodied robot
+- \[01:14:06\]  lives in a two dimensional world, eats leaves, butterfly is a hard bodied robot flies around 3d
+- \[01:14:11\]  world drinks nectar. In order to get from here to there, you have to build a completely new brain.
+- \[01:14:16\]  So what it does is during the during the metamorphosis process, it basically dissolves
+- \[01:14:20\]  most of the brain, most of the cells die, most of the connections are broken. And then you know,
+- \[01:14:24\]  you have a new brain that's suitable for a completely different kind of creature.
+- \[01:14:27\]  The memories that this has been shown the memories that a caterpillar forms are still present in the
+- \[01:14:34\]  butterfly, in fact, mapped onto its new kind of lifestyle. We don't have any method to my knowledge,
+- \[01:14:40\]  any memory in the in the computer science world that can survive such refactoring, you know,
+- \[01:14:45\]  you just tear the whole thing up and sort of reuse the pieces. And now you can still, you know,
+- \[01:14:50\]  can retain the original information. But biology does it quite differently. Josh Bongard and I have
+- \[01:14:55\]  a have a paper on poly computing and this this, this ability of biological systems and subsystems
+- \[01:15:01\]  to reinterpret the same physical events from their own perspective as multiple different
+- \[01:15:06\]  computations. I think that's actually pretty, pretty key. Also key is the fact that evolution
+- \[01:15:11\]  doesn't make specific solutions to specific environments, it makes problem solving machines.
+- \[01:15:15\]  This is why and I could tell you all kinds of crazy capabilities that living things have to
+- \[01:15:20\]  deal with things that they've never seen before in evolution. And it's because evolution doesn't
+- \[01:15:24\]  overtrain on on prior experience, it produces multi scale agents that are able to solve problems and
+- \[01:15:31\]  in new ways. Fundamentally, for the use of AI, we have to decide, do we want tools that we use
+- \[01:15:40\]  for specific purposes, in which case pleasing the human is probably a great goal to shoot for? Or
+- \[01:15:46\]  do we want true agents with the kind of open ended intelligence that that we have, and the same moral
+- \[01:15:57\]  worth that that we see among animals and among humans? Those are those are very different things.
+- \[01:16:04\]  Honestly, I was I had started about six months ago, I started writing a paper on
+- \[01:16:11\]  specifically what parts of biology is the current AI architectures? Are they missing such that I you
+- \[01:16:18\]  know, what would I and which I which I think would, you know, of course, elevate elevate the,
+- \[01:16:23\]  the whole the whole thing majorly, because I think I think they're just missing some of the
+- \[01:16:26\]  really exciting new biology. And I stopped and I'm not going to write that paper not not that not
+- \[01:16:31\]  that somebody else isn't going to crack it, because they will. So this is a this is, you know, not not
+- \[01:16:34\]  going to solve this issue. The big because I think to whatever extent I'm right, and that those things
+- \[01:16:40\]  are actually what's critical about agency, they can easily be implemented in other media, they're
+- \[01:16:45\]  not there's nothing magic about either evolution or biological substrates, you can you can implement
+- \[01:16:51\]  those kinds of things in other media. But if you do, to whatever extent, I'm right, that those are
+- \[01:16:56\]  the ingredients to an actual mind, that means that that we are going to then generate, you know,
+- \[01:17:01\]  I don't know, trillions of new agents with moral worth, and I'm not interested in being responsible
+- \[01:17:07\]  for that. But but but it's going to happen. And I don't think we need it. You know, I think I think
+- \[01:17:12\]  people are going to do it just because to see if it can be done. And I think it's the equivalent of,
+- \[01:17:19\]  you know, just, you know, having it's if you do it correctly, which and somebody will do it
+- \[01:17:25\]  correctly. It's like the equivalent of having trillions of new children. Now, you might think
+- \[01:17:31\]  that your job is to populate the cosmos with as many minds as possible. I mean, that's one view.
+- \[01:17:35\]  But to me, if you're not able to vouch for the kind of upbringing and, and, you know, life they're
+- \[01:17:43\]  going to have, then I think that's a mistake. So so so we can stick to the kind of AI that's
+- \[01:17:49\]  actually really, I think, that's actually really helpful. It's a it's a tool. It's a thinking tool
+- \[01:17:54\]  for for humans. It doesn't have the kind of open endedness, and the kind of agency where you have
+- \[01:18:00\]  to worry about it, or you don't know what it's going to decide to do. I think it would be much,
+- \[01:18:04\]  much better to stick to that kind. And it's not because I think humans are, you know, just the
+- \[01:18:08\]  sort of end on this because a lot of people are really worried that we're going to get supplanted.
+- \[01:18:13\]  I think we will. And I think we should if you if you think forward, you know, 10,000 years from now,
+- \[01:18:19\]  what what what do you want to be living on this earth? Do you really want it to be the exact same
+- \[01:18:23\]  humans that we have now that are subject to lower back pain and stupid infections? And you know,
+- \[01:18:28\]  when they have about 80 years of, of productive lifespan, and then the kind of things like,
+- \[01:18:33\]  why is that something that we're attached to? I'm not interested in that at all. I think I think that
+- \[01:18:37\]  any improvements that we can make we do to enlarge our cognitive light goals to improve on our
+- \[01:18:41\]  cognition to have better embodiments, whether those are, you know, engineered or bioengineered,
+- \[01:18:46\]  or I don't care, we can certainly do better than we do now. Right? If you know, anybody that's been
+- \[01:18:51\]  to a hospital knows that this is this is not a great embodiment that we're in right now. It's
+- \[01:18:56\]  amazing. But the future should be should be way better than this. So I'm not I'm not talking about
+- \[01:19:01\]  limiting AI, because I think humanity should should be kind of freeze down in the version
+- \[01:19:05\]  that we are now. I don't I don't think there's any reason to kind of lock it down that way. But
+- \[01:19:10\]  I also don't think that there's any particular reason. And I think there are good reasons not to
+- \[01:19:15\]  try really hard to make new agents that have moral worth. And I and I absolutely think we could,
+- \[01:19:21\]  in other substrates, including digital. So yeah, I'm, you know, sort of not really,
+- \[01:19:27\]  not really advertising those those methods that I think actually could be could be done. But,
+- \[01:19:32\]  but there's plenty of other stuff that I think, you know, is perfectly reasonable and could and
+- \[01:19:36\]  could help create better AI tools for us. I've been starting to think about that same
+- \[01:19:41\]  question from a different angle. What are the pieces that are missing from the current AI
+- \[01:19:46\]  systems? And you know, what would it maybe look like to solve them? And what would the consequences
+- \[01:19:51\]  of that be? And I do think you raise a good, you know, sanity check on the wisdom of the direction
+- \[01:19:58\]  of that research. When you look at the AI is today, you know, one thing that is kind of striking is
+- \[01:20:04\]  we've got these language models, right? And they, you know, just predict the next token,
+- \[01:20:08\]  quote, unquote, they're very much just, you know, happy to be a chatbot for you. But they are,
+- \[01:20:14\]  you know, they did one of you said multiple times, like, there's no binaries, I always say AI defies
+- \[01:20:19\]  all binaries, we try to put on it. This one also seems to be kind of defied, to a limited extent,
+- \[01:20:24\]  at least where, you know, you cast the language model as an agent, you basically say you have a
+- \[01:20:29\]  goal. And now I'm going to like put you in a loop with, you know, some tool in the outside world.
+- \[01:20:33\]  And they're like, not very effective agents, but they start to look something like proto agents,
+- \[01:20:38\]  they certainly like, try to pursue the goal. And again, usually fail. But how do you interpret
+- \[01:20:44\]  that? Or how do you kind of make sense of that sort of non agent versus agent mode of the current
+- \[01:20:50\]  systems? A lot of problems in thinking about this arise from a comparing it to humans and be
+- \[01:20:55\]  comparing it to very high performance humans. So so I sometimes I sometimes hear, you know, really,
+- \[01:21:02\]  really, like brilliant scientists or AI workers say, this thing is, you know, it can't even do
+- \[01:21:07\]  that. How many people can do what you're talking about, like, barely any of them can your friends
+- \[01:21:11\]  can, because it's a very selected elite population of human minds. But But most humans can't do that.
+- \[01:21:17\]  We so there's that. And then and then again, look at look at the diversity of life on Earth. I mean,
+- \[01:21:23\]  we have other other all kinds of other creatures that are not humans that are
+- \[01:21:27\]  minimal or sort of mezzo goal, goal seeking agents, you know, you've got insects, you've got,
+- \[01:21:33\]  you know, birds and fish, and you've got all these things for AI to be to be a real agent,
+- \[01:21:38\]  it doesn't have to be like a human, you might be developing some kind of weird insect like
+- \[01:21:42\]  thing or something like that. And and let's let's remember, we are not very nice to all kinds of
+- \[01:21:48\]  creatures that are for sure a gentle creature. So adult mammals, right in our food chain,
+- \[01:21:53\]  what we eat is a factory farming is a is a, you know, is an incredible moral lapse. And it's not
+- \[01:21:59\]  because we don't understand that the pigs are intelligent, and that cows are intelligent,
+- \[01:22:03\]  and that they have, you know, they deserve certain moral protections, and so on. It's not because we
+- \[01:22:08\]  don't know it's that we're just not very good as a, you know, as a species, we're not very good
+- \[01:22:14\]  at extending our cone of compassion to things that are in any way different from us, right?
+- \[01:22:19\]  The stupidest slightest difference is enough to trigger this like self versus other thing. And
+- \[01:22:23\]  then you know, then you, you know what happens then it is absolutely erroneous to assume that
+- \[01:22:29\]  the systems do not have some degree of goal directedness. I think that it's possible that
+- \[01:22:34\]  we haven't figured out how to how to how to measure it properly yet. Or it's possible that
+- \[01:22:39\]  we have and it's just low, like fish or insects or something like that. But it's still again,
+- \[01:22:45\]  I'm not I'm not claiming that I want to be clear, I'm not claiming that these architectures
+- \[01:22:49\]  share the important things that you know, share a lot of the important things with life.
+- \[01:22:53\]  It well, one thing one thing that's super confusing nowadays is that in the past,
+- \[01:22:58\]  you were guaranteed that anything that talks also shares your agential kind of key agential properties.
+- \[01:23:05\]  That's no longer true. Now we have these things that talk, but they actually do I don't I don't
+- \[01:23:11\]  think they share them. But that doesn't mean the fact that they don't share them with with,
+- \[01:23:14\]  adult modern humans doesn't mean that they don't have any, they may have some,
+- \[01:23:18\]  and we are not good at recognizing it. And that's why I'm saying that I'm not saying it because
+- \[01:23:22\]  I just would be I'm not saying it because I'm fooled by the by the chatbot action. I'm not
+- \[01:23:25\]  saying it because I just sort of assume that robots and AI is are going to be that way. I'm
+- \[01:23:30\]  saying we do not have a great way to detect it on the biology end. So I and we certainly do not have
+- \[01:23:35\]  a great way to detect it on an exo biology. And so like if we had you know, if we had alien life
+- \[01:23:40\]  and so on, we'd be we'd be really up a creek actually, we have no clue. And so I don't see
+- \[01:23:44\]  any way to be certain about anything with these with these complex creations. Well, that is,
+- \[01:23:50\]  I think, an appropriately sober note to end on. I have really enjoyed reading your work in
+- \[01:23:57\]  preparation for this. It is fascinating. And this conversation has been super thought provoking. I'm
+- \[01:24:02\]  sure people are going to take a lot from it. And I hope we can do it again at some point in the not
+- \[01:24:07\]  too distant future. But for now, Professor Mike Levin, Professor of Biology at Tufts University,
+- \[01:24:13\]  thank you for being part of the cognitive revolution. Yeah, thank you so much. Yeah,
+- \[01:24:16\]  it was great to talk to you. I'm happy to happy to come back. You should also try to get Richard
+- \[01:24:21\]  Watson at Southampton if you if you if you know his work. He's got he's got a lot of really
+- \[01:24:27\]  interesting things to say about this. So that's that's something else you might want. Cool. That's
+- \[01:24:31\]  a great tip. It is both energizing and enlightening to hear why people listen and learn what they
+- \[01:24:36\]  value about the show. So please don't hesitate to reach out via email at TCR at turpentine dot co
+- \[01:24:43\]  or you can DM me on the social media platform of your choice. OmniKey uses generative AI to
+- \[01:24:50\]  enable you to launch hundreds of thousands of ad iterations that actually work, customized across
+- \[01:24:55\]  all platforms with a click of a button. I believe in OmniKey so much that I invested in it and I
+- \[01:25:00\]  recommend you use it to use CogRev to get a 10% discount.
