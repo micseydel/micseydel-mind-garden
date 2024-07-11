@@ -936,7 +936,7 @@ updated: 2024-07-08T10:42:50-07:00
 - \[01:20:08\]  quote, unquote, they're very much just, you know, happy to be a chatbot for you. But they are,
 - \[01:20:14\]  you know, they did one of you said multiple times, like, there's no binaries, I always say AI defies
 - \[01:20:19\]  all binaries, we try to put on it. This one also seems to be kind of defied, to a limited extent,
-- \[01:20:24\]  at least where, you know, you cast the language model as an agent, you basically say you have a
+- \[01:20:24\]  at least where, you know, you cast the language model as an agent, you basically say you have a ^ff25d8
 - \[01:20:29\]  goal. And now I'm going to like put you in a loop with, you know, some tool in the outside world.
 - \[01:20:33\]  And they're like, not very effective agents, but they start to look something like proto agents,
 - \[01:20:38\]  they certainly like, try to pursue the goal. And again, usually fail. But how do you interpret
