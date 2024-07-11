@@ -13,3 +13,7 @@ Website: https://anniemurphypaul.com/books/the-extended-mind/
 1. Thinking with Our Bodies
 2. Thinking with Our Surroundings
 3. Thinking with Our Relationships
+
+# Last line
+
+- > Acknowledging the reality of the extended mind might well lead us to embrace the extended heart.
