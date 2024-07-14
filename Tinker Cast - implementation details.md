@@ -15,3 +15,4 @@ updated: 2024-05-20T15:28:14-07:00
 	- Here's a good example of [[Idea Provenance]] where I spoke groggily ("the back litter box was dirty")
 		- ![[Pasted image 20240528120816.png]]
 - Inspired by [[Maps of Content (MOCs)]]
+- [[Why my Tinker Cast is not open-source|Why is this not open source?]]
