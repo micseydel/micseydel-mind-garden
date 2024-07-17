@@ -1968,7 +1968,7 @@ tags:
 - \[01:18:17\]  of a larger system that was actually processing information.
 - \[01:18:20\]  And I don't know exactly what that would look like,
 - \[01:18:23\]  but my hunch is that it would look like
-- \[01:18:25\]  what we call synchronicity.
+- \[01:18:25\]  what we call synchronicity. ^4b1d03
 - \[01:18:27\]  I think that what it would look like are coincidence,
 - \[01:18:33\]  are events that don't have a causal connection
 - \[01:18:37\]  at our lower level, like mechanistically, like by physics,
@@ -1978,7 +1978,7 @@ tags:
 - \[01:18:49\]  that they do have some kind of interpretation.
 - \[01:18:52\]  And I think that's what it would look like,
 - \[01:18:54\]  to be part of a larger system.
-- \[01:18:55\]  I think it would look and feel like synchronicity.
+- \[01:18:55\]  I think it would look and feel like synchronicity. ^bedfef
 - \[01:18:58\]  So does it exist?
 - \[01:18:59\]  I don't know, but that's what I think it would feel like.
 - \[01:19:03\]  Take me through the history of the Levin Lab.
