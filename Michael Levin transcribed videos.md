@@ -8,6 +8,7 @@
 # Transcriptions
 
 - (2022-04-30; 1:31:21) [[Regeneration, Intelligence in Life and Memory - Dr Michael Levin|Regeneration, Intelligence in Life and Memory]]
+- (2022-11-09; 1:56:22) [[Michael Levin and Joscha Bach on Collective Intelligence|Michael Levin Λ Joscha Bach: Collective Intelligence]]
 - (2023-04-01; 1:20:06) [[What are Cognitive Light Cones (Michael Levin Interview)|What are Cognitive Light Cones]]
 - (2023-04-03; 1:31:48) [[Michael Levin - Electricity of Life|Electricity of Life]]
 - (2023-05-11; 1:21:27) [[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond|Agency, Attractors, and Observer-Dependent Computation]]
