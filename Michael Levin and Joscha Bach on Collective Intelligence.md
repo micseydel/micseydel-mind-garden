@@ -208,7 +208,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[00:13:10\]  of how something is realized and must work.
 - \[00:13:12\]  You see people on a cruise ship getting infected over distances, and you think, oh, this must
 - \[00:13:17\]  be airborne.
-- \[00:13:18\]  But no, there is no peer-controlled study, so there is no evidence that it's airborne.
+- \[00:13:18\]  But no, there is no peer-controlled study, so there is no evidence that it's airborne. ^392e06
 - \[00:13:22\]  And when you look at disciplines from the outside, like in this case, the medical profession
 - \[00:13:26\]  or the medical messaging and decision-making, I get terrified because it directly affects
 - \[00:13:33\]  us.
@@ -288,7 +288,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[00:18:49\]  they'll say, so what are you?
 - \[00:18:53\]  What's your field?
 - \[00:18:54\]  And I never know how to answer that question.
-- \[00:18:56\]  To this day, it's been 30 years, I still don't know how to answer that question.
+- \[00:18:56\]  To this day, it's been 30 years, I still don't know how to answer that question. ^e7ffda
 - \[00:18:59\]  I just can't boil it down to one.
 - \[00:19:01\]  It just wouldn't make any sense to say any of the traditional fields.
 - \[00:19:07\]  So what do you say, Joscha, when someone asks you what field you're in?
@@ -346,7 +346,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[00:22:29\]  just sort of disappear into the ether.
 - \[00:22:31\]  And then I take something away from it and the other person takes something away from
 - \[00:22:34\]  it.
-- \[00:22:34\]  But I've often thought that wouldn't it be, isn't it a shame that all of this just kind
+- \[00:22:34\]  But I've often thought that wouldn't it be, isn't it a shame that all of this just kind ^eec74f
 - \[00:22:40\]  of disappears and it would be amazing to have a record of it.
 - \[00:22:43\]  And of course, not every conversation is gold, but a lot of them are useful and interesting.
 - \[00:22:49\]  And there are plenty of people that could be interested and could benefit from it.
