@@ -1493,7 +1493,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:37:25\]  It also accounts for the fact that many intelligent people are not very good at getting
 - \[01:37:29\]  things done.
 - \[01:37:31\]  Basically, intelligence and goal rationality are somewhat orthogonal.
-- \[01:37:36\]  Excessive intelligence is often a prosthesis for bad regulation.
+- \[01:37:36\]  Excessive intelligence is often a prosthesis for bad regulation. ^b99291
 - \[01:37:41\]  Have you read The Intelligence Trap?
 - \[01:37:44\]  No.
 - \[01:37:45\]  Okay.
@@ -1589,7 +1589,8 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:43:23\]  among all the social networks that is closest to a global brain.
 - \[01:43:27\]  It's totally mind-blowing to realize that he basically trades a bunch of frothy stock
 - \[01:43:31\]  for the opportunity to become Pope.
-- \[01:43:34\]  Pope of a religion that has more active participants than Catholicism, even.
+- \[01:43:34\]  Pope of a religion that has more active participants than Catholicism, even. ^303ff9
+    - I'm pretty sure he said "woke religion"? 😬
 - \[01:43:39\]  Daily practitioning people who enter this church and think together.
 - \[01:43:43\]  And it's a thing that is completely incoherent at this point, almost completely incoherent.
 - \[01:43:47\]  The bubbles of sentience, but for the most part, the thing is just screeching at itself.
@@ -1617,7 +1618,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:44:56\]  Ultimately, you need representation and all these issues, right?
 - \[01:45:00\]  It's not just the moderation team.
 - \[01:45:01\]  And the same thing is also true for the brain.
-- \[01:45:04\]  What is the government of the brain that emerges in what Gary Edelman calls neural Darwinism
+- \[01:45:04\]  What is the government of the brain that emerges in what Gary Edelman calls neural Darwinism ^4529e1
 - \[01:45:10\]  among different forms of organization in the mind, until you have a model of a self-organizing
 - \[01:45:15\]  agent that discovers that what it's computing is driving the behavior of an agent in the
 - \[01:45:19\]  real world and discovers a first-person perspective and so on?
@@ -1665,7 +1666,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:48:02\]  One is that every cell is some other cell's external environment.
 - \[01:48:07\]  So in order to make an embryo, you have to self-organize a system that puts an arbitrary
 - \[01:48:13\]  boundary between itself and the outside world.
-- \[01:48:15\]  You have to decide, where do I end?
+- \[01:48:15\]  You have to decide, where do I end? ^39bcab
 - \[01:48:16\]  And the world begins.
 - \[01:48:17\]  And it's not given to you somehow from outside for a biological system.
 - \[01:48:23\]  Every biological system has to figure this out for itself.
@@ -1688,14 +1689,14 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:49:05\]  It could be zero.
 - \[01:49:06\]  It could be one.
 - \[01:49:06\]  It could be some small number of individuals.
-- \[01:49:09\]  That process of autopolysis has to happen.
+- \[01:49:09\]  That process of autopolysis has to happen. ^89cfe3
 - \[01:49:12\]  And here are a number of things that are uniquely biological that I think relate to the kind
 - \[01:49:19\]  of flexibility, plasticity that you need for AGI in whatever space.
 - \[01:49:25\]  It doesn't have to be the same space that we work in, but your boundaries are not set
 - \[01:49:30\]  for you by an outside creator.
 - \[01:49:32\]  You have to figure out where your boundaries are.
 - \[01:49:33\]  Where is the outside world?
-- \[01:49:35\]  So you make hypotheses about where you end and where the world begins.
+- \[01:49:35\]  So you make hypotheses about where you end and where the world begins. ^587441
 - \[01:49:38\]  You don't actually know what your structure is, kind of like Vanguard's robots from 2006,
 - \[01:49:43\]  where they didn't know their structure and they had to make hypotheses about, well, do
 - \[01:49:47\]  I have wheels?
@@ -1705,8 +1706,8 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:49:52\]  Like the way that babies babble.
 - \[01:49:55\]  So you have to figure out, you have to make a model of where the boundary is.
 - \[01:49:58\]  You have to make a model of what your structure is.
-- \[01:50:00\]  You are energy limited, which most AI and robotics nowadays are not.
-- \[01:50:05\]  When you're energy and time limited, it means that you cannot pay attention to everything.
+- \[01:50:00\]  You are energy limited, which most AI and robotics nowadays are not. ^d7f6cc
+- \[01:50:05\]  When you're energy and time limited, it means that you cannot pay attention to everything. ^b1c039
 - \[01:50:11\]  You are forced to coarse grain in some way and lose a lot of information and compress
 - \[01:50:14\]  it down.
 - \[01:50:15\]  So you have to choose a lens, a coarse graining lens on the world and figure out how you're
@@ -1723,9 +1724,9 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:51:04\]  or you can act in transcriptional space by turning on other genes that are better at
 - \[01:51:08\]  converting whatever sugar happens to be around.
 - \[01:51:10\]  And that solves your metabolic problem.
-- \[01:51:13\]  So you have these hybrid problem spaces.
+- \[01:51:13\]  So you have these hybrid problem spaces. ^4b71a0
 - \[01:51:15\]  So all of this, I think what contributes in a strong sense to all the things that we were
-- \[01:51:21\]  just talking about is the fact that everything in biology is self-constructed from the beginning.
+- \[01:51:21\]  just talking about is the fact that everything in biology is self-constructed from the beginning. ^b4b621
 - \[01:51:26\]  You can't rely on, you don't know ahead of time when you're a new creature born into
 - \[01:51:29\]  the world.
 - \[01:51:29\]  And I have many examples of this kind of stuff.
@@ -1733,7 +1734,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:51:35\]  You can't count on any of the priors.
 - \[01:51:37\]  So you have this weird thing that evolution makes these machines that don't take the past
 - \[01:51:44\]  history too seriously.
-- \[01:51:45\]  It doesn't over-train on them.
+- \[01:51:45\]  It doesn't over-train on them. ^6575ac
 - \[01:51:46\]  It makes problem-solving machines that use whatever hardware you have.
 - \[01:51:50\]  This is why we can make weird chimeras and cyborgs, and you can mix things and mix and
 - \[01:51:55\]  match biology in every way with other living things or with non-living things, because
@@ -1773,7 +1774,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:54:12\]  devoke religion in a way, that people were starting to shift around their behavior to
 - \[01:54:17\]  maximize likes and retweets.
 - \[01:54:19\]  And there was no external reward that was given on Twitter.
-- \[01:54:22\]  So as a result, a local structure emerged, a local agency that was shifting the rewards
+- \[01:54:22\]  So as a result, a local structure emerged, a local agency that was shifting the rewards ^ed1c6e
 - \[01:54:26\]  by itself, an emergent causal structure that was in some sense in Dawnward causation, going
 - \[01:54:32\]  to organize groups of people into behavioral things.
 - \[01:54:37\]  It's really interesting to look at Twitter as something like a mind at some level.
