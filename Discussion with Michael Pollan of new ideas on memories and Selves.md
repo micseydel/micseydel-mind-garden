@@ -295,7 +295,7 @@ updated: 2024-06-28T16:34:28-07:00
 - \[00:14:55\]  There may be organisms that aren't like that, although I doubt it.
 - \[00:14:58\]  I think at this point, what survived and what biology strongly emphasizes is architectures
 - \[00:15:06\]  where you assume the underlying material is unreliable.
-- \[00:15:10\]  And what you're going to do is on the fly, you don't overtrain on your priors.
+- \[00:15:10\]  And what you're going to do is on the fly, you don't overtrain on your priors. ^d1d5de
 - \[00:15:13\]  You don't assume that the future is going to be like the past.
 - \[00:15:16\]  You don't assume you know what any of your information means.
 - \[00:15:19\]  You are going to try to reinterpret it at any given moment on the fly and do the best

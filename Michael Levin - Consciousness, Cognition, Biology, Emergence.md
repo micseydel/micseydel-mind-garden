@@ -1265,7 +1265,7 @@ tags:
 - \[00:50:34\]  I can't even count on my own parts being the same, right?
 - \[00:50:36\]  That kind of, you know,
 - \[00:50:38\]  another way to call this attitude is beginner's mind.
-- \[00:50:42\]  It's like you don't over train on your priors,
+- \[00:50:42\]  It's like you don't over train on your priors, ^5e2c73
 - \[00:50:44\]  on your evolutionary priors.
 - \[00:50:46\]  You have a bag of tools
 - \[00:50:47\]  and you're not just a fixed solution.

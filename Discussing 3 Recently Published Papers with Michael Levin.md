@@ -622,7 +622,7 @@
 - \[00:25:23\]  that it's just like a never ending process.
 - \[00:25:25\]  Like there's always something to learn
 - \[00:25:26\]  and continue to be curious about.
-- \[00:25:29\]  And it's funny, yeah, if you update your priors
+- \[00:25:29\]  And it's funny, yeah, if you update your priors ^736452
 - \[00:25:34\]  and you're not stuck to, if you're open-minded enough
 - \[00:25:38\]  to all the different possibilities that are out there
 - \[00:25:41\]  and you get this new information,

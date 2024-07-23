@@ -939,7 +939,7 @@
 - \[00:53:06\]  to change evolution and mutation means your body's going to change.
 - \[00:53:10\]  The environment is going to change.
 - \[00:53:11\]  Everything's going to change.
-- \[00:53:12\]  And so every embryo and every new morphogenetic system has to not take the priors too seriously
+- \[00:53:12\]  And so every embryo and every new morphogenetic system has to not take the priors too seriously ^0bf888
 - \[00:53:18\]  and remap what it knows onto a new context.
 - \[00:53:21\]  I've shown you many examples of that, which means that life is incredibly interoperable.
 - \[00:53:26\]  Any combination of evolved material, engineered material and software is some kind of agent.

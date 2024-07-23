@@ -1731,7 +1731,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:51:29\]  the world.
 - \[01:51:29\]  And I have many examples of this kind of stuff.
 - \[01:51:33\]  You don't know how many cells you have, how big your cells are.
-- \[01:51:35\]  You can't count on any of the priors.
+- \[01:51:35\]  You can't count on any of the priors. ^d52c2b
 - \[01:51:37\]  So you have this weird thing that evolution makes these machines that don't take the past
 - \[01:51:44\]  history too seriously.
 - \[01:51:45\]  It doesn't over-train on them. ^6575ac
