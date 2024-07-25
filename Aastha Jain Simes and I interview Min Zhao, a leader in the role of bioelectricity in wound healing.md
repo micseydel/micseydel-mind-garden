@@ -1,0 +1,440 @@
+---
+created: 2024-07-25T08:07:37-07:00
+updated: 2024-07-25T09:53:36-07:00
+---
+- ![](https://www.youtube.com/watch?v=31QXsqOKOiE)
+    - 2024-04-25; 56:51
+    - See also: https://health.ucdavis.edu/dermatology/faculty/zhao.html
+- \[00:00:00\]  Well, thank you so much, Min, for taking the time.
+- \[00:00:02\]  Yeah.
+- \[00:00:03\]  Well, thank you for having me.
+- \[00:00:07\]  Yeah, we're excited to dig in and we can just get started.
+- \[00:00:10\]  So I know, Min, you started off with your work in trauma surgery as a physician.
+- \[00:00:17\]  So I'm curious, maybe if you can touch a bit on your background and how you got interested in
+- \[00:00:23\]  bioelectricity.
+- \[00:00:25\]  Yeah, this is a kind of a long story.
+- \[00:00:28\]  So I was trained as a trauma surgeon in China after graduate from military medical school.
+- \[00:00:36\]  And I worked with one of the founders of maybe trauma surgery in China, Professor Wang.
+- \[00:00:45\]  And that time is mainly on what they call the blast injury.
+- \[00:00:49\]  It's like explosives and severe damage and to see how that caused damage and how the tissue repair.
+- \[00:00:58\]  And then after that, I went to London to work with Jeff Bernstock and molecular biology
+- \[00:01:05\]  and biochemistry at the University College of London.
+- \[00:01:12\]  I still think I would go back to China to continue my clinical work.
+- \[00:01:17\]  So I kind of tried to look around for a job,
+- \[00:01:21\]  look for a more project, which is more kind of close to a.
+- \[00:01:33\]  Sorry.
+- \[00:01:36\]  So I found Professor Colin McKeague and John Forrest at the University of Aberdeen.
+- \[00:01:43\]  And I went there and that time Colin is working on
+- \[00:01:50\]  like tissue regeneration of the central nervous system.
+- \[00:01:55\]  So he's using electric fields to guide neuron growth like neurite growth.
+- \[00:02:01\]  And John Forrest was working on cornea wound healing.
+- \[00:02:05\]  So it's a kind of perfect combination for me looking back.
+- \[00:02:10\]  And I combined the electrical signaling together with the wound healing research and it works well.
+- \[00:02:20\]  So I think I should avoid getting other people into the.
+- \[00:02:29\]  So that's why I bring me to this electrical regulated wound healing.
+- \[00:02:34\]  And at the beginning, we were only trying to understand whether this
+- \[00:02:40\]  was one of the factors in healing of the wound.
+- \[00:02:45\]  But eventually we found out that the electric signal can override other guidance mechanisms.
+- \[00:02:53\]  And that kind of prompted me to think more.
+- \[00:02:58\]  Not this is only one mechanism, but could be a predominant mechanism,
+- \[00:03:04\]  maybe a conserved and ancient one.
+- \[00:03:06\]  If you look at the wound healing, you think about the single cell molecules,
+- \[00:03:11\]  plant or animals from salamanders and others, lower organism to us as a human.
+- \[00:03:22\]  And we all heal after wound.
+- \[00:03:25\]  And what is the conserved?
+- \[00:03:28\]  Key thing is that the breakdown of the barrier of the inside and outside.
+- \[00:03:34\]  And the immediate effect is the communication between the inside and outside.
+- \[00:03:40\]  And we know that the inside and the outside of the animal have this
+- \[00:03:45\]  chemical gradient as well as an electrical gradient.
+- \[00:03:49\]  And so this electrical breaking down of the barrier is the same mechanism for wound implant
+- \[00:03:58\]  in single cell and for all the animal species and to us as a human being.
+- \[00:04:06\]  So this electrical communication might be the initial signal
+- \[00:04:10\]  that telling the organism that there's a breach of the barrier and we need to repair it.
+- \[00:04:16\]  And when the barrier recovers and this communication stops,
+- \[00:04:20\]  this wound electric current will stop.
+- \[00:04:23\]  So that time I'm thinking I probably need to move to a bigger place to
+- \[00:04:30\]  understand the fundamental biology of it and then to develop this,
+- \[00:04:37\]  to use this mechanism to help wound healing.
+- \[00:04:41\]  So that's kind of propped me to move to University of California, Davis.
+- \[00:04:47\]  And even before that, Mike and I knew each other's work and we think this
+- \[00:04:56\]  really is a fundamental mechanism, not only for wound healing, but as Mike showed,
+- \[00:05:02\]  for many, for developmental biology, for cancer and for many other biology too.
+- \[00:05:10\]  So this is a probably, I don't want to go too long,
+- \[00:05:13\]  but this is a kind of a short journey of my, why I get here.
+- \[00:05:19\]  That's fascinating. Well, thank you for sharing that.
+- \[00:05:22\]  So we want to dive a bit into the history of the field and, well, we certainly want to understand
+- \[00:05:29\]  the history of the 1900s and how the field has developed. I know you've written a bit about
+- \[00:05:36\]  some of the origins of bioelectricity as well, going back to Galvani's days.
+- \[00:05:42\]  Could you touch a bit upon the origins of the field?
+- \[00:05:49\]  I think Mike is a much better person to talk about the origin of bioelectricity.
+- \[00:05:58\]  So Mike, maybe.
+- \[00:06:00\]  Yeah, I guess maybe to put it another way, as you were developing your work in wound healing,
+- \[00:06:10\]  because I think, actually your work in wound healing is quite unique. It's very different
+- \[00:06:16\]  from what we do. And it's very different from what other developmental biologists who do
+- \[00:06:20\]  bioelectricity in the field do. And you can talk about what are the inspirations, as you think
+- \[00:06:28\]  about the bigger questions of like, how is wound healing, how is it controlled? What are the
+- \[00:06:34\]  evolutionary, you know, do the different types of wound healing that you find, for example,
+- \[00:06:40\]  in amphibia, in mammals, and so on? Are they the same? Are they different? What kind of background
+- \[00:06:45\]  in that field informs your thought? You know, how do you think about these things?
+- \[00:06:51\]  Yeah, so if we're talking about general wound healing in human skin or mammalian skin,
+- \[00:06:59\]  and this actually went back almost 200 years ago about this DuBois-Reynmond, a German physiologist.
+- \[00:07:08\]  He, well, he was the founder of the modern electrophysiology. He actually measured action
+- \[00:07:15\]  potential. And that time is not a single axon action potential, but is a bundle of axon together.
+- \[00:07:23\]  And if you stimulate one end, the action potential would propagate to the other end.
+- \[00:07:28\]  And this is a, so he is the first one who discovered that, but almost at the same time,
+- \[00:07:35\]  he's trying to see whether there's any current flowing in and out of the skin bridge or wound.
+- \[00:07:43\]  And he found that. And so it is not a new discovery. If we go back to Gavani's time,
+- \[00:07:55\]  and indeed those kind of the cart nerve and a piece of frog skin, and at the wound edge,
+- \[00:08:03\]  there would be this wound electric current. And Gavani used this as a source, but that time,
+- \[00:08:10\]  the understanding is very limited. So he thinks that this is like animal electricity is a kind of
+- \[00:08:17\]  a imaginary vitalism. But now we understand it's like blocks of ions. And actually the tissue
+- \[00:08:31\]  cells pumping ions and generate and maintain this electric current. So if we go back and you can see
+- \[00:08:40\]  that although our, well, the understanding is not really as correct as we see it now,
+- \[00:08:49\]  but the phenomena or the discovery, the observation were there. They found out that
+- \[00:08:55\]  wherever you bridge an organism, there will be a kind of flux of ions. And eventually we see this
+- \[00:09:04\]  as a kind of a flux of specific ions. This is a kind of different from the electron electricity
+- \[00:09:11\]  we use every day in our electronics and in our appliance that the electricity generated by the
+- \[00:09:20\]  power plant actually drive the electron flows through the conductive metals. But in human,
+- \[00:09:28\]  biology is more flux of ions, like sodium, potassium. So while the understanding getting
+- \[00:09:36\]  more and more detailed, scientific, but the observation of the electricity
+- \[00:09:44\]  in wound, at wound actually went back to hundreds of years ago. And as Mike just mentioned,
+- \[00:09:55\]  if we look at the wound of single cell, if we have a single cell, if you punch a hole,
+- \[00:10:02\]  do we have electricity there at the hole, the wound, the primitive wound? And they are,
+- \[00:10:09\]  we measure them. Now that people measure it too. So early days, probably last century,
+- \[00:10:17\]  about nearly a hundred years ago, people use this big axons, they make a cart and they can
+- \[00:10:25\]  measure this injury current flowing out and in. And we know now because you have a membrane potential
+- \[00:10:34\]  and you cut it and you can measure this current flowing in and out, what this flux of ion in and
+- \[00:10:41\]  out, this generate injury current. And with a small, what was like a frog, with frog skin and
+- \[00:10:53\]  many other tadpole skin. And if you make a wound, this flux of ions happened and this would generate
+- \[00:11:00\]  the electricity. And now to human beings, this electricity generate more or less in the same
+- \[00:11:08\]  principle. But if you look at the, so this is the question I go back to early days where I
+- \[00:11:16\]  started work with Colin McCaig and John Forrester. And I've always wondering whether
+- \[00:11:23\]  is this true? And many other people questioned about electricity, what is it and how it would
+- \[00:11:31\]  happen at a wound? Is it really important? And I kept asking myself too. But if you look at
+- \[00:11:43\]  the single organism, evolved multicellular organism and to us, this barrier inside and
+- \[00:11:49\]  outside always there. And if the initial bridge to the cell, single cell membrane happened and the
+- \[00:11:59\]  cell either resealed or the cell will die. And so this would be a cue or a signal that happens
+- \[00:12:12\]  so ancient in biology. And I think biology, the evolution will take the cues from the nature and
+- \[00:12:21\]  say, oh, we'll develop a mechanism to use this signal to develop, to heal. And so the biology
+- \[00:12:31\]  can evolve and the complex organism originate. So although specifically with skin wound or
+- \[00:12:42\]  while the epithelial wound, we have this electrical signal happens. But if you go back to the evolution
+- \[00:12:50\]  to the very start of the life and this bridge of the membrane or the barrier happened at the same
+- \[00:12:58\]  time when this flow of ions happens and that is intrinsically related to the electricity generation
+- \[00:13:10\]  at the wound. And so I would think if the biology doesn't take that as a mechanism, it doesn't go
+- \[00:13:22\]  well with Darwin's evolution. And we know the evolution is just biology will take any cues
+- \[00:13:29\]  to get it better, to survive, to repair and to evolve. So that made me believe this is
+- \[00:13:37\]  fundamental mechanism. Although we focus on wound healing, but I think many other aspects of life,
+- \[00:13:46\]  it would be hard to imagine that the life doesn't really, well, ignore this intrinsic aspect.
+- \[00:13:58\]  So I guess if we go back to when you entered the field, and this might be more of a general
+- \[00:14:05\]  question, but what was, how would you describe the state of the field then in terms of the major
+- \[00:14:13\]  thinking in the field of the experiments that were being worked on or just even the
+- \[00:14:17\]  excitement around bioelectricity?
+- \[00:14:25\]  I guess probably this field is like many other fields that sometimes it seems it developed
+- \[00:14:33\]  quite fast and well. And sometimes you need to overcome many hurdles, like those ideas
+- \[00:14:44\]  were already well established in the field and to get people to look into this direction.
+- \[00:14:52\]  And sometimes I'm quite optimistic and sometimes I'm a little bit skeptical that it might take time
+- \[00:15:01\]  for people to appreciate this mechanism. So specifically to the wound healing field,
+- \[00:15:09\]  and I think people tried to use electro-stimulation to enhance wound healing
+- \[00:15:15\]  long time ago, and with many different approach. And the misconception is that you stick the
+- \[00:15:25\]  electrode there and then you would stimulate the wound to heal. But the biology itself is
+- \[00:15:32\]  far more complicated than that. So I think one of the argument, well, the argument supporting you
+- \[00:15:41\]  use the electricity in wound healing or regeneration is that it's cheap and a few
+- \[00:15:47\]  hundred dollars and you can stimulate the wound to heal. I think we need to think carefully about
+- \[00:15:54\]  that statement. Nowadays, we know that if you develop a drug, you need millions and millions
+- \[00:15:59\]  of dollars to develop, to understand what is really happening behind the biology system about this
+- \[00:16:09\]  chemical. So if we just want to spend a few, much, much less amount of money and develop
+- \[00:16:20\]  an effective therapy, that is not right. And also because electro-stimulation is so easy to
+- \[00:16:30\]  implement in clinical context, well, although not correctly in most of the case, but people
+- \[00:16:38\]  publish different result and some say, well, this is a magic treatment and the wound never healed or
+- \[00:16:48\]  stayed there for many years and after stimulation heals. And some people say, well, this doesn't
+- \[00:16:55\]  really have any effect. So if you think about the wound complexity, and this is quite, I think this
+- \[00:17:06\]  is quite no, quite understandable. The wound is geologically complex, chemically complex and
+- \[00:17:16\]  physiologically complex. And this is kind of three dimensional volume conduct. So when we
+- \[00:17:24\]  understand the electricity, we always have a metal wires and the electricity flowing from one side,
+- \[00:17:30\]  in direct direction to the other side. But if you're thinking about the 3D conducting medium,
+- \[00:17:36\]  the electricity go every direction. So, and this is a much less well understood,
+- \[00:17:47\]  and it's very difficult to study. So I think the promise is there, but at the same time,
+- \[00:17:56\]  the community and the society need to understand that this is a new type of therapy and
+- \[00:18:07\]  that the funding agency need to spend time and money and effort, rather than just think that,
+- \[00:18:15\]  oh, this is a magic thing. So you stick the electrode there and the wound heals magically.
+- \[00:18:20\]  You only spend a few hundred dollars and the magic stuff will happen. But we start to gradually see
+- \[00:18:27\]  people, well, the funding bodies are willing to, well, it becomes more willing to invest more
+- \[00:18:37\]  but I would think this still not maybe enough.
+- \[00:18:47\]  So I think part of what you're saying is that initially when people started understanding
+- \[00:18:53\]  that electrical currents could heal wounds, they thought there's some magic formula here,
+- \[00:18:59\]  where if you just apply electricity, it's going to heal. But a lot of your work is involved in
+- \[00:19:06\]  understanding how these electrical signals heal the wounds. And it's a lot more complex than
+- \[00:19:14\]  simply applying electricity. Yeah. Yeah. Yeah. And as Mike's work already shows that
+- \[00:19:25\]  this electricity carried by ions, the charge, because the charge carrier in biology is ions.
+- \[00:19:33\]  And ions, we have so many different type of ions like sodium, potassium, calcium, and
+- \[00:19:42\]  so chloride, all those things. And they can change. And there are, the biology system itself
+- \[00:19:51\]  are trying to control it in many ways, use ion channels and pumps and tight junctions. So the
+- \[00:19:58\]  equivalent would be the battery, the resistors and transistors. So this biological electronics
+- \[00:20:10\]  need to be understood first before we really try to manipulate it.
+- \[00:20:17\]  So with the advance of the electronics and as Mike is leading the way and
+- \[00:20:25\]  bioelectronics, and I think we will get much better understood standing of the
+- \[00:20:35\]  bioelectricity itself. I think bioelectricity, the name
+- \[00:20:43\]  is being punished somehow by charlatanism. Some magic things happens and the dead body and the
+- \[00:20:53\]  move and the, there are some signs in it, but it's more than that. And it's like Michael Faraday
+- \[00:21:02\]  many years ago show this electricity and magnetism somehow connected by this
+- \[00:21:07\]  swerving needle without touch. And you start thinking about that. How can you actually make
+- \[00:21:15\]  those things work together as a system and the biology found a way. And I think
+- \[00:21:23\]  Mike leading the way to understand this, the biology behind it, and that not only for
+- \[00:21:30\]  developmental biology, but also offers a kind of company new understanding of other
+- \[00:21:39\]  aspects of biology, including wound healing and regeneration.
+- \[00:21:46\]  You haven't, I'm interested in, I mean, talking about other prior work and all of that. What's
+- \[00:21:52\]  your take on some of Becker's papers? So Robert Becker, you know, he made some pretty striking
+- \[00:21:59\]  claims about the, you know, rat limb regeneration and things like that. What's your take on all
+- \[00:22:04\]  of that? And he had a quite a different model actually, right, of how it worked. What do you
+- \[00:22:08\]  think about that?
+- \[00:22:11\]  I think, yeah, Becker's work is pioneering. And also I think it's quite important. It's kind of
+- \[00:22:22\]  like somehow formed the foundation, part of the foundation of our work now. But as I said, that
+- \[00:22:31\]  some of the understanding may not be as simple or as accurate as we hope, hope for, wish for.
+- \[00:22:47\]  Although, so I think this need to go into a direct, well, in parallel direction. First is to
+- \[00:22:56\]  apply it as Becker's work and the other thing is trying to understand it and they're going
+- \[00:23:05\]  in parallel. I think at his time, the tools and the method, methodology are probably not yet to
+- \[00:23:19\]  really make this, in a way that we can understand. We can still try that. And the many things in
+- \[00:23:27\]  medicine is just trying to error. So for example, you try something that works and that's fine.
+- \[00:23:33\]  Maybe if we understand it, that would be better. But if we don't understand it works, let's do it.
+- \[00:23:40\]  But nowadays, because we develop such a powerful mechanism,
+- \[00:23:44\]  well, we or technology to understand things like
+- \[00:23:51\]  Mike, we and other people are doing now more and more. And I think we can understand more.
+- \[00:23:57\]  But I think for his early limb regeneration repair work,
+- \[00:24:04\]  what lacks over there is mechanistic or well understanding, also a well controlled approach that
+- \[00:24:16\]  is other people, other lab can easily reproduce and develop in a more scientific
+- \[00:24:27\]  direction. And I think probably now is a better time. In that time, and we know when things
+- \[00:24:43\]  develop at that particular time, probably we don't have those techniques or technology to
+- \[00:24:53\]  to understand or to get a better control.
+- \[00:25:01\]  On this point, who are some of the other scientists you drew inspiration from in the field or
+- \[00:25:08\]  you built your work upon?
+- \[00:25:10\]  I think this can go well for the person I actually met. And I think
+- \[00:25:20\]  Lionel Jeffries is certainly the one I still remember when I was kind of the junior young
+- \[00:25:27\]  postdoc in London and Aberdeen. We met and I always get so excited. But
+- \[00:25:35\]  about this work, and he always say, calm down and you need to really able to explain things clearly
+- \[00:25:44\]  and make other people excited. So you become a scientist at the moment. You're just a technician
+- \[00:25:49\]  and you do a nice experiment and you got nice result, but it's very difficult for other. So
+- \[00:25:56\]  this is one of the example. He's a pioneer of the kind of science that we need to do.
+- \[00:26:05\]  Well, the next level of the new era of bioelectricity and he did really some
+- \[00:26:14\]  pioneer work and I keep going back to read his papers. So he's one and later I met
+- \[00:26:23\]  like Ken Robinson, Richard Nusatelli and also Richard Borges. And I think they all
+- \[00:26:36\]  are contributing many important ways to this field, including developing the technology
+- \[00:26:44\]  to measure the wound electric field or any type of electricity associated with
+- \[00:26:51\]  biological specimens. And they measured the electric field at different type of wound
+- \[00:27:00\]  and kind of lay the foundation of the future work. And also there are the other people to show that
+- \[00:27:07\]  all the other ones, Mo Min-Pu, he stopped working in this field anymore, but they are
+- \[00:27:16\]  the first few, among the first few people demonstrate that they are electricity in
+- \[00:27:24\]  biological system and you can actually measure them. You can map them. And the second thing is
+- \[00:27:30\]  that the cell do respond to such an electric field. And the other one is Claudia Stern,
+- \[00:27:38\]  and this is probably more relevant to what Mike has been doing in biological systems that
+- \[00:27:46\]  they use this modern technology to map or measure this electricity around the
+- \[00:27:56\]  developing embryos and then see how that relate with the developmental process.
+- \[00:28:05\]  So, and of course, Colin McKay and John Forrest and the talking about this from the clinical
+- \[00:28:12\]  observation of the patient eyes, this swirling movement of the epithelial layers in the cornea
+- \[00:28:18\]  during healing process. And if this pattern is disrupted and the wound is not healing well,
+- \[00:28:27\]  healing well, and how this special movement pattern happens, there's many kinds of
+- \[00:28:35\]  hypotheses and one including the electromagnetic guidance of the cell movement. So, and as Mike
+- \[00:28:46\]  mentioned about the Burkert's work and the whole, I haven't met them, but I know the work. So,
+- \[00:28:55\]  this field kind of, of course, Mike's work is leading the way and I read his paper again and
+- \[00:29:03\]  again, trying to understand. With my clinical background, I'm not very well known very well
+- \[00:29:13\]  about genetics and molecular biology. So, I learned a lot of the molecular chemistry,
+- \[00:29:22\]  understanding genetics from his work. So, those work are the foundation and keeps
+- \[00:29:33\]  inspiring me and my lab to push this forward.
+- \[00:29:42\]  I'm curious, do you know who were the people working in bioelectricity before Lionel Jaffe's
+- \[00:29:50\]  era? As you said, Lionel Jaffe was sort of the new era in bioelectricity.
+- \[00:29:58\]  Yeah. And at the beginning, as I mentioned that the bioelectricity, when it first emerged,
+- \[00:30:10\]  it's like people see this magic effect and a piece of tissue twitch and a piece of muscle
+- \[00:30:17\]  contract and a dead animal start to move and even the corpse move. So, the sensation was there,
+- \[00:30:27\]  but the real development didn't come as like Michael Faraday's discovery showing that this
+- \[00:30:40\]  needle without touching it, it start to move. And Michael Faraday's work actually revolutionized,
+- \[00:30:48\]  well, leading to the revolution, revolutionized the whole society. Now we see it everywhere.
+- \[00:30:56\]  Without him, we would not be here. And then James Clark Marx, well, he really connected this
+- \[00:31:06\]  electricity with everyone, everything. And as Einstein said that James Clark,
+- \[00:31:14\]  Marx, is the giant. He standing the shoulder and developed the relative theory. So, those are
+- \[00:31:27\]  also great people on the line that our whole human society move forward.
+- \[00:31:42\]  I kind of forgot what you asked for. Sorry. No, no, that's fine. I think that answers it. I was curious
+- \[00:31:48\]  who some of the pioneering scientists were before Lionel Jaffe, but I think you answered it.
+- \[00:31:54\]  Okay. Yeah. It was in a more broad sense. But in biology, there are many other, like
+- \[00:32:04\]  Mike mentioned, more clinical relevant people like Becker and he's a clinician and tried many
+- \[00:32:12\]  things. But it's kind of hard that when people look at more fundamental biochemistry,
+- \[00:32:24\]  genetics, and so cell biology. But now I think it's probably a good time that
+- \[00:32:36\]  the bioelectricity gets more connected with what traditional understanding of biology is.
+- \[00:32:46\]  I mean, do you want to go through a few examples? I mean, your work is really extremely impressive
+- \[00:32:52\]  and very close. I think maybe you're the closest to clinical application in this field. And I'm ^19dd79
+- \[00:32:57\]  just curious if you could go through a few, well, skin cornea, all of the, like you've done some
+- \[00:33:04\]  amazing things. So, what are some of your favorite stories so far that have come out of your lab?
+- \[00:33:11\]  Yeah. So, this can go a little bit further in detail. So, as I said, when I left London to
+- \[00:33:22\]  University of Aberdeen in very north of Scotland, and I was thinking that maybe after a few years,
+- \[00:33:29\]  and I finished my postdoc training, I would have went back to be a trauma surgeon again.
+- \[00:33:39\]  But I remember the first thing is the cell movement in electric field is so dramatic.
+- \[00:33:49\]  And that time when I talked to the people in the lab and I said, we don't have a video recorder,
+- \[00:33:54\]  we don't have computer recorded. And what I did is that I took a photo at different time point,
+- \[00:34:00\]  like zero hour, one hour, two hour, and I print them out on the photo paper and compare them to
+- \[00:34:08\]  see whether they move. And the first experiment worked. And I see the cell move directionally.
+- \[00:34:16\]  I was so excited. So, and that kind of made me stay there a little bit longer. And then
+- \[00:34:28\]  we start to ask, well, at the wound, there are so many mechanisms we accept that stimulate and
+- \[00:34:41\]  guide the cell into the wound to heal. Now you say electricity and how important this is.
+- \[00:34:51\]  And there was a postdoc in my lab. Yeah. So, we tried to make a wound and apply electrical field
+- \[00:35:00\]  across. And I remember that time we stopped to have the video recorder. We can see the wound
+- \[00:35:09\]  move. For example, this is the wound, this is the one side of the wound, other side of the wound.
+- \[00:35:14\]  And what people normally do is to measure the area in the middle about the wound and to see how the
+- \[00:35:21\]  wound becomes smaller. And she, after a few months, she never told me the result.
+- \[00:35:29\]  And I keep asking her and it turned out that she thought that I want to see the wound getting
+- \[00:35:37\]  smaller. But what she, her result is that when she applied electrical field across the whole field
+- \[00:35:46\]  and the one side moving, the other side move away. So, the wound area didn't really
+- \[00:35:56\]  become much smaller than the control because the control wound actually moving in the heels.
+- \[00:36:03\]  So, she was quite hesitant to tell me the result. So, I said, well, after this two or three months
+- \[00:36:12\]  experiment, I would like to see the result. So, she bring the video to me and I start to see this
+- \[00:36:20\]  one side moving on the guidance of the electrical field, the other side being guided away. And I
+- \[00:36:27\]  said, wow, so it looks like this is more important because at this experimental wound, we have all
+- \[00:36:36\]  other accepted guidance cues, but applying this electrical field, you override them. So, one side
+- \[00:36:45\]  actually move away and this is more important than I thought. So, I said, well, this is not
+- \[00:36:54\]  just make it go smaller, but it actually override the guidance mechanism like injury stimulation,
+- \[00:37:03\]  contact inhibition release, the population pressure grow into the wound or the chemical release at
+- \[00:37:12\]  the wound to attract cell in. So, this is not just the one of the mechanism. It seems that it override
+- \[00:37:23\]  and being a predominant or master signal guiding the cell into the wound, mobilizing guide the
+- \[00:37:29\]  cell into the wound. So, that time I start to thinking about this. This is more because at
+- \[00:37:36\]  the wound, you have so many different chemicals like glucose factors. You could have hundreds of
+- \[00:37:41\]  them. And if you add each of them there, you will see some sort of effect, but none of them are able
+- \[00:37:48\]  to really make this piece of tissue actually go away or in as you change the guidance direction.
+- \[00:37:57\]  And then we ask the question whether the electricity caused such effect is physiological.
+- \[00:38:06\]  And we look into the literature and we see like the measurement from Ken Robinson's lab and
+- \[00:38:16\]  Nusr-Teli's measurement and Richard Borgan's measurement. And the measurement, I mean,
+- \[00:38:23\]  the field stress are within that you can measure at the in vivo wound. So, this physiological
+- \[00:38:32\]  electrical field are able to guide to have this overriding guidance effect. So, I start thinking,
+- \[00:38:40\]  maybe this is not just one of the mechanism. It could be a predominant or master signal
+- \[00:38:50\]  to mobilize and guide the cell, at least in a simple wound healing model. And we tested in kind
+- \[00:38:58\]  of like a organ culture system and this shows the same effect. So, that getting me more kind of
+- \[00:39:06\]  excited. We talked about the fundamental mechanism, but this experiment make me thinking
+- \[00:39:14\]  about this could be a very important mechanism. And then, so this is kind of like a second
+- \[00:39:25\]  discovery. At that time, nobody actually are able to use other guidance mechanism like
+- \[00:39:33\]  chemotaxis or durotaxis or any other guidance could cause a massive cell movement.
+- \[00:39:42\]  So, this is the other, I think, I remember well, what come out from the lab. And then we start to
+- \[00:39:50\]  thinking about, okay, there are many genetic and molecular mechanisms regulate the cell movement.
+- \[00:39:59\]  Does this electric field or electric guidance actually use those mechanisms or intersect
+- \[00:40:07\]  with those genetic and molecular mechanism? So, I start to get in touch with like Peter Davoutis
+- \[00:40:20\]  at Johns Hopkins and Henry Bond at UCSF and Joseph Penninger at the time at the University
+- \[00:40:28\]  of Toronto, because they all study this chemotactic effect and they use a molecular
+- \[00:40:35\]  and genetic approach to see how cells migrate directionally in chemical gradient. So, I'm
+- \[00:40:45\]  trying to work with them to see. And funny thing is that at the beginning,
+- \[00:40:50\]  we contact them about this electric field guided cell migration. They are very skeptical
+- \[00:40:56\]  and we're thinking, well, where the electric field? And all the other ones, Wicks-Moore in Vienna
+- \[00:41:03\]  and that time I was in Scotland, it's closer, closer in distance. And they're trying to do
+- \[00:41:12\]  similar experiments. It's very hard to repeat because they are, most of the lab members are
+- \[00:41:18\]  trained in biochemistry and molecular biology. They are very, very good and they are leading
+- \[00:41:25\]  experts to manipulate the chemicals. But with electronics, electronics is probably less familiar
+- \[00:41:35\]  to them. So, in the lab, it's difficult to repeat, but I said, well, I can come over to do
+- \[00:41:44\]  the experiment in your lab. And I went there and we reproduced this electric guided cell movement.
+- \[00:41:52\]  And then we start to use a different model organism like Dictyostelium, we knock out genes
+- \[00:41:59\]  and with Neutrophil in Henry Bond's lab, we block out certain signaling pathway. And with
+- \[00:42:07\]  Joseph Penninger, he has this expertise to knock out genes in mice and we can use this cell tissue
+- \[00:42:17\]  to test and see how the cells actually sense or transduce this electric signaling into cell
+- \[00:42:27\]  directional response. And that time we found out that the key molecules like the PI3 kinase
+- \[00:42:35\]  or P10, those like important intercellular signaling mechanism,
+- \[00:42:41\]  kind of participate in this electrical field guided cell migration, I mean wound healing too.
+- \[00:42:49\]  So, that's bring our, with their help and together with them, we start to understand
+- \[00:42:58\]  more about this important mediators or molecular mechanism underlying this electrical guided
+- \[00:43:07\]  cell tissue movement and wound healing. So, those are, I think, the early
+- \[00:43:18\]  experiment I remember in the lab. This is still bringing back a lot of
+- \[00:43:26\]  very good memories to working in different place and working with different people and
+- \[00:43:31\]  people start being very skeptical and later on becomes very enthusiastic and like Peter Davoudis,
+- \[00:43:41\]  we're still working together trying to understand how this, for example, one of the signals,
+- \[00:43:47\]  one of the project we work together is that the cells now are in an environment, they have a
+- \[00:43:54\]  chemical environment, mechanical environment, and with Wolfgang Nusselt and University of
+- \[00:44:04\]  Maryland and also electrical environment, and how the cell integrate them and into a kind of cell
+- \[00:44:12\]  behavior response. Although we are able to understand them in separation, one by one, but
+- \[00:44:20\]  the integration is a key. I think we are not there yet, but I think probably with this
+- \[00:44:35\]  integrated approach, we will eventually be able to combine biochemical, biomechanical,
+- \[00:44:42\]  and bioelectrical together to see how cells are collectively, well, make a collective
+- \[00:44:52\]  decision and respond to such a diverse environmental cues. And we were talking about
+- \[00:45:03\]  mechanical mechanism and Donald Ingeborg is another
+- \[00:45:09\]  man, personally inspired me and I remember we spoke at the meeting and he said,
+- \[00:45:14\]  don't keep going, because at the beginning when you're working on mechanical things and
+- \[00:45:20\]  people are always wondering, well, mechanical force out there and the cells always get the
+- \[00:45:27\]  chemicals and they bounce something and signaling and so respond. And when you talk about
+- \[00:45:33\]  mechanical, how do cells do it? And so he's a big source of inspiration for me as well.
+- \[00:45:48\]  And what are some of the questions that you are exploring currently?
+- \[00:45:52\]  Yeah, so when I moved the lab to the US from the UK and I was thinking
+- \[00:46:05\]  there's kind of three direction I would like to pursue. The first is that,
+- \[00:46:14\]  I mean, we talk about the wound, we can measure the electric field.
+- \[00:46:18\]  We talk about the wound, we can measure the electric field. So how the wound actually
+- \[00:46:23\]  produce such a field and regulate it. And we know that our tissue or the wound are composed
+- \[00:46:31\]  by the cells and the cell form tissue and the cell have this ion channels and pumps,
+- \[00:46:39\]  and those ion channels pumps together with the type junction and the former biological,
+- \[00:46:47\]  electrical circuit. And this circuit actually generate this electricity and it come into being
+- \[00:46:56\]  when the barrier is broken down to change a long time and then when the wound heal it disappeared.
+- \[00:47:04\]  So a fundamental question would be how the wound actually produce and regulate such a signal
+- \[00:47:11\]  to best achieve wound healing. And so we're trying to see whether we can find
+- \[00:47:23\]  the what we call the molecular generator is like a little power plant in the tissue that actually
+- \[00:47:31\]  generate this electricity and in response to injury. So this is one direction. And the other
+- \[00:47:38\]  direction is that how the cell actually sense such an electric field. And this is a longstanding
+- \[00:47:45\]  questions and many people in the field are working on that too. Because when I first
+- \[00:47:53\]  see the cell movement, I talked with traditional electric physiologists and very disappointed to me
+- \[00:48:02\]  is that most people say, oh no, they don't, they won't do anything because the field is so weak.
+- \[00:48:08\]  Because if you need to induce action potential, you need a large, large field, much stronger field
+- \[00:48:16\]  and they don't do anything. But if you look at the video of the cell movement and the wound healing
+- \[00:48:22\]  process, the cell certainly respond to it. And although, as I said, that working with
+- \[00:48:29\]  Joseph Penninger, Henry Bond, Peter Davoudis, we discover some of the important molecule and
+- \[00:48:37\]  genetic element. But we have not found a sensor yet. So for example, we can see light,
+- \[00:48:50\]  light is electromagnetic waves and our retina detect it and we can start to see them. So the
+- \[00:48:57\]  cell sense it, but for such a small DC nature electric field, we don't know what
+- \[00:49:07\]  the sensor they are. We have some clue, we have some indications and we found out some of the
+- \[00:49:14\]  mediators, but the sensor have largely been elusive. We have, so this is another direction
+- \[00:49:26\]  we're trying to see whether we can eventually find the sensor. But maybe sometimes I'm thinking
+- \[00:49:33\]  about Donald Ingeborg's saying about how the cell sense the mechanical force. And I remember one of
+- \[00:49:41\]  his words is that the whole cell is a sensor. So maybe that's true. So this whole cell just sense
+- \[00:49:49\]  as a whole unit, it's not the traditional ways that we have molecule and has a ligand and the
+- \[00:49:56\]  sensor. So the sensor could be more complicated than just a single molecule. It could be a set
+- \[00:50:03\]  of molecule. It could be the cell as a sensor. But still, as I said, working with Peter Davoudis
+- \[00:50:14\]  and we're trying to manipulate genetically the molecule to see whether we can find the sensor.
+- \[00:50:22\]  So the second direction, the third direction is working with Marco Rolandi and other colleagues
+- \[00:50:33\]  from Santa Cruz and Riff Isaroff, a clinician scientist here at UC Davis and together with
+- \[00:50:42\]  Mike, we're trying to see whether we can develop some treatment to precisely regulate the wound
+- \[00:50:51\]  electricity and deliver chemicals electronically to help wound to heal. So this is another direction
+- \[00:51:02\]  is that even if we don't understand fully the mechanism, how the cells sense the electrical
+- \[00:51:12\]  how the wound generate electric field, but we possibly can use it and develop technology to
+- \[00:51:21\]  enhance the wound healing. While at the same time, we're trying to gain more
+- \[00:51:26\]  fundamental understanding. So those are the three directions my lab are pursuing.
+- \[00:51:33\]  You know, one of my one of my favorite papers of yours is the one with us. I think the first author
+- \[00:51:40\]  is Sun, where you've got the the entire cells are going one way in electric field. And if you
+- \[00:51:47\]  fragment them into pieces, all the pieces are going the other way. Yeah, yeah, yeah, yeah.
+- \[00:51:52\]  It's incredible. Yeah, yeah. Yeah. So so I he yeah, I remember, I remember this experiment was
+- \[00:52:01\]  conceived many years ago, before we actually are able to do it. I remember I tried it with Henry
+- \[00:52:08\]  Born. So this, this was back in Aberdeen. And when I saw paper about the fragment of cell,
+- \[00:52:19\]  so fragment of cells means that the cell doesn't have nucleus just part of the cytoplasm come down.
+- \[00:52:27\]  And this, this, this are biological significant to platelets is such a kind of structure. And if we
+- \[00:52:36\]  now exosome, and this, those are membrane, so called structure was a little bit cytoplasm inside.
+- \[00:52:44\]  And what Mike mentioned about this is that when we read this, neutrophil actually release part of
+- \[00:52:54\]  this cytoplasm as a little particle or little fragment to in combat infection. So I went to
+- \[00:53:02\]  his lab and I tried to do that experiment. It turned out it's quite difficult to get enough
+- \[00:53:11\]  cell fragment from neutrophil. So we never been able to get a conclusive result. And later on,
+- \[00:53:18\]  when we were in Aberdeen and the Julie Theorette lab has this, the other lab, the other group showed
+- \[00:53:29\]  that the fish kratocytes, they are very big. So when you treat them with certain chemicals,
+- \[00:53:36\]  the part of the cell body comes off and this little fragment still able to move around.
+- \[00:53:44\]  So we were thinking, oh, so this, this is a good example. And together with Alex Munguna,
+- \[00:53:51\]  that time he was at the University of Aberdeen, oh no, University of California, Davis,
+- \[00:53:57\]  later on moved to NYU. And so we, we talked with Dr. Sun and I said, well, let's culture the cells
+- \[00:54:06\]  and to see, generate this fragment, put them in electric field. And the result is kind of,
+- \[00:54:14\]  we never expected. So the fragment come off, actually move in opposite direction from the
+- \[00:54:21\]  mother cell. And so, so this, so it looks like the, the sensor and the response and decision making
+- \[00:54:34\]  are kind of different part of the whole process. So the cell can sense it and the cell can respond
+- \[00:54:44\]  it to, to, to electric field, but the cell also can make a direction to see whether they want to
+- \[00:54:51\]  go left or right or to go ahead and look at the vocacillate. So this, this makes me thinking more
+- \[00:54:57\]  about that, what Donald Ingebrigtsen saying that maybe the whole system is a sensor. It just doesn't
+- \[00:55:07\]  use a single piece of molecule. I sense it, I respond it. It's like it, it's, it's coordinate
+- \[00:55:14\]  itself and make the decision to go to the cathode or to the anode. So, yeah, thank you, Mike,
+- \[00:55:28\]  that really mind boggling experiment up. We could never ever sort the result like this.
+- \[00:55:39\]  We would think that the fragment come off, well move together with the mother cell,
+- \[00:55:46\]  but no, they didn't. They moved to opposite direction.
+- \[00:55:50\]  Yeah, for me, you know, we spend a lot of time thinking about collective intelligence and how the
+- \[00:55:55\]  preferences of the collective emerged from the preferences of the parts, you know, how the
+- \[00:55:59\]  scaling works. And here you showed us a great example where the parts have a certain preference,
+- \[00:56:05\]  but the collective, once you put them together, the collective actually has a quite different,
+- \[00:56:09\]  quite different preference for its action. So I think that's, I think that's a powerful example.
+- \[00:56:14\]  Yeah. Well, thank you. Thank you so much. You know, this is, this is a real pleasure. I mean,
+- \[00:56:19\]  Min, you and I have known each other for a long time, but I really, I think your work is amazing.
+- \[00:56:23\]  I think it's the closest probably to the clinic of any of us in the field right now. And yeah,
+- \[00:56:29\]  it's just, yeah, it's beautiful. Well, thank you so much.
+- \[00:56:34\]  Thank you so much, Min. Really appreciate you taking the time. This has been amazing.
+- \[00:56:38\]  Yeah. Yeah. Much appreciated.
+- \[00:56:40\]  Well, it's a great pleasure and I hope this field keep moving forward and someday we'll see a kind
+- \[00:56:49\]  of a new horizon.
