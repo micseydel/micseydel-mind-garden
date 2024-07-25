@@ -1,0 +1,425 @@
+- ![](https://www.youtube.com/watch?v=bZPhqwrSC24)
+    - (2024-04-21; 57:27)
+- \[00:00:00\]  Yeah, thanks so much for joining me. How are you doing?
+- \[00:00:02\]  Awesome. And thank you very, very much for having me. I'm excited. This is going to be fun.
+- \[00:00:06\]  Yeah, I'm really looking forward to it. I want to shine the light on some of the younger people that are doing some amazing stuff, and I'm really excited about your work.
+- \[00:00:15\]  Thank you. Yeah, me too.
+- \[00:00:18\]  Cool. Yeah, so maybe just introduce yourself where you are now, and we'll go from there.
+- \[00:00:24\]  Totally. So I am Allie Hansen and I'm in Rafael Yussei's lab here at Columbia.
+- \[00:00:30\]  And how did I don't know that it's time yet to go into a full background, but I'll just suffice it to say that I've completed my psychiatry residency.
+- \[00:00:40\]  But my background was in sort of cellular developmental biology and sort of jumped into the field of neuroscience and using Hydra as a model system to sort of study, let's say, to be able to see the whole nervous system at once.
+- \[00:00:56\]  And from there, what really interested me is the role of spontaneous neural activity, neural activity that's going on when the animal's not behaving.
+- \[00:01:07\]  So I'm now a postdoc finishing that and in the process of figuring out where I'll go next to start my own group.
+- \[00:01:14\]  Yeah, yeah, why don't you maybe talk a little bit about your background and just kind of your journey as far back as makes sense of how you got here.
+- \[00:01:23\]  And I mean, I think maybe far, far back, I'll just broad overview of a person from Iowa thinking, I don't know, no one else is probably paying attention to basketball, but Caitlin Clark went to my high school and she's the newest phenom.
+- \[00:01:39\]  And so I thought I wrote on my thing, I was going to play basketball in the WNBA and then I never grew, but ended up playing basketball in college and studied molecular biology and ended up doing an MD PhD program.
+- \[00:01:54\]  And my PhD at that point was in, yeah, so cellular developmental biology and the molecular mechanisms of Wnt signaling.
+- \[00:02:01\]  So very, very molecular. And so I got sort of trained in that belief system that molecules are king.
+- \[00:02:09\]  And that sort of explains, you know, not only how cells work, but how development works.
+- \[00:02:16\]  And so my thesis was on that sort of the molecular mechanisms of Wnt signaling and ubiquitin relation and these kinds of things.
+- \[00:02:23\]  But then luckily someone clued me into the physiology course at the MBL in Woods Hole, which sort of was like, oh, there's a whole other way to do this.
+- \[00:02:33\]  You can sort of really zoom out and interact with other people in many other different disciplines. Right.
+- \[00:02:39\]  So there I was with pure mathematicians, physicists, computational scientists and people who had no experience with biology.
+- \[00:02:47\]  And I was a biologist coming in. And so it was like this awesome thing, right, where you go and you do two weeks with different scientists on different projects and get really exposed to totally different ways of thinking.
+- \[00:02:59\]  And in that I ended up with Gaudens-Danuser actually as one of my mentors. And I did a two week course on modeling three proteins in the Wnt pathway.
+- \[00:03:06\]  And I was like, oh, wow, like you can really start learning something really counterintuitive, something that you wouldn't know by just saying, hey, you're going to draw the cell signaling pathway in a two dimensional piece of paper and draw a bunch of arrows.
+- \[00:03:20\]  And that's understanding. It's like, oh, shit, that doesn't actually explain anything. Right.
+- \[00:03:24\]  So, yeah, that that was sort of my first way. And then, of course, the likes of like Mark Kirshner and Andrew Murray were on the chalkboard doing all kinds of these things.
+- \[00:03:33\]  And it was like, oh, there's a different way to do this, to find the simplest system possible and try to model as much of it as you can to gain some understanding.
+- \[00:03:41\]  And of course, that was right at the end of my PhD. So I didn't have time to sort of implement that and then went back to do medical training.
+- \[00:03:48\]  And then I took another foray, which I think is important to how I ended up doing this kind of work I'm doing right now, which is art.
+- \[00:03:55\]  So I left in the middle of my MD, PhD training to go study painting in Santa Fe, New Mexico, with an amazing person who is Tony Ryder.
+- \[00:04:04\]  And that totally changed sort of this is going to sound nuts, but how I see and and the way I think it sort of opened up my mind to like how you approach reality with a fixed idea.
+- \[00:04:19\]  And so I went in there and I'm like, oh, I got to paint a he was so it was it was classical realism.
+- \[00:04:23\]  So you're trying to be portraiture and nude models, drawing and painting.
+- \[00:04:26\]  I didn't have any experience with this really at all, except for, you know, childhood classes or something.
+- \[00:04:32\]  And going in there just for an example of like, oh, a shadow is dark, just black or something is like, no, as long as you have this belief, you'll never paint a shadow as it actually is, because there's no such thing as pure black in nature or reality.
+- \[00:04:48\]  Right. There's always some amount of light, some amount of color, something.
+- \[00:04:52\]  And I remember so Ted South Jacobs was Tony's teacher is a very similar sort of lineage in art and science, who wrote a whole book on the anatomy of human forms.
+- \[00:05:00\]  Like if you paint a human eyeball that looks like an almond with a circle in it, you'll never, ever paint an eyeball that is true to reality.
+- \[00:05:08\]  So it's kind of like, oh, all of these concepts that I'm laying on top of these things are not real.
+- \[00:05:13\]  Like, can I get rid of those things?
+- \[00:05:14\]  That was part of that exercise for two years of trying to like unlearn all of the things I had been told about what a human, you know, is and the features of it in order to paint what it actually is.
+- \[00:05:27\]  And at the same time, there was a, Upaya Zen Center was in the backyard of this place.
+- \[00:05:33\]  So I learned of Zen Brain, which is about conscious complex adaptive systems and all of this kind of stuff.
+- \[00:05:38\]  Also, Santa Fe Institute was there.
+- \[00:05:40\]  So I was just all over doing all of this stuff and taking all kinds of classes around all of that.
+- \[00:05:45\]  And ultimately sort of, you know, I was debating, do I go paint full time?
+- \[00:05:50\]  Do I do a postdoc?
+- \[00:05:51\]  And if I was going to just do a straight postdoc, I was going to do on the origin of multicellularity.
+- \[00:05:56\]  Right. Like, how do you go from one cell to a group of cells?
+- \[00:05:59\]  That was what I was interested in.
+- \[00:06:01\]  But then, you know, I got interested in like, I really want to help people in quotes.
+- \[00:06:06\]  And I want to do that through sort of psychiatry.
+- \[00:06:09\]  So I was like, is there a way to put all of that stuff together?
+- \[00:06:12\]  And I was like, well, shit, now I'm going to have to switch fields and study neuroscience.
+- \[00:06:15\]  Which I was like, that's not at the time.
+- \[00:06:18\]  I'm sorry to any neuroscientists out there, but like, that's not science.
+- \[00:06:22\]  That's not molecular.
+- \[00:06:23\]  What is that?
+- \[00:06:24\]  It's, it's like you're putting a human in fMRI scanner.
+- \[00:06:26\]  You're looking at blood flowing all around.
+- \[00:06:28\]  You're not even looking at neural activity.
+- \[00:06:29\]  I was like, this isn't understanding.
+- \[00:06:31\]  This isn't mechanism.
+- \[00:06:32\]  Because for me, mechanism was like, what's the amino acid on the protein?
+- \[00:06:35\]  That, that's a mechanism, right?
+- \[00:06:37\]  That was the kind of thinking.
+- \[00:06:39\]  But going to that Zen Brain Conference actually was, was one of those things where you're like, oh, some of these questions you just can't reduce to an amino acid and a protein.
+- \[00:06:46\]  Like that, that model, that, that way of thinking doesn't, doesn't compute here.
+- \[00:06:51\]  So there was a lot of, you know, things going all around.
+- \[00:06:56\]  But then, yeah, deciding, okay, I am going to pursue a residency in psychiatry and try to figure out what is neuroscience.
+- \[00:07:02\]  And so like you had to do all these interviews.
+- \[00:07:04\]  And I was just essentially using the, the residency interview as a postdoc interview to say, who's doing neuroscience where, what are they up to, and what level of scale are people studying all of this?
+- \[00:07:14\]  I was just trying to see the lay of the land.
+- \[00:07:19\]  Yeah, and I remember, I think actually at one point, somehow got a hold of Sidney Brenner when he was in the hospital in Singapore.
+- \[00:07:26\]  And I was like, hey, what level of scale do you think we should be doing this?
+- \[00:07:30\]  You know, studying the nervous system.
+- \[00:07:32\]  And I'm pretty sure, I can't even remember his answer, but it was like single cells.
+- \[00:07:36\]  You could go down, you can go up and this kind of thing.
+- \[00:07:38\]  And so that kind of question of, of where, how do you tackle this problem?
+- \[00:07:44\]  And then I ended up reading Rafa's article with George Church in Scientific American around that time of like, you know, using complex adaptive systems theory to study the brain, you need to see the whole thing.
+- \[00:07:53\]  I'm like, yes.
+- \[00:07:54\]  So on that interview, I then talked to Rafa and he had a Hydra on the screen.
+- \[00:08:00\]  And it was just one of those moments where I'm like, what?
+- \[00:08:03\]  No way.
+- \[00:08:04\]  This is amazing.
+- \[00:08:05\]  This is, this is exactly what I've been looking for.
+- \[00:08:08\]  Like, oh, my dream's coming true on this screen.
+- \[00:08:10\]  Like it's a simple system.
+- \[00:08:13\]  You can see the whole thing, you know, I don't know.
+- \[00:08:16\]  And it's like, it has a lot of, you know, obviously rich history in cell and developmental biology, evolution.
+- \[00:08:21\]  Like it was all together in one thing.
+- \[00:08:23\]  I'm like, all right, that's what I'm going to have to do.
+- \[00:08:27\]  And yeah, in early saw that there was this spontaneous neural activity in that animal.
+- \[00:08:33\]  And I was like, what is this?
+- \[00:08:34\]  Right.
+- \[00:08:35\]  What is that?
+- \[00:08:36\]  And that got me very curious about where else that was found, which leads to the human brain and all of these things and, and the self and all of that.
+- \[00:08:42\]  So it sort of all was coming together.
+- \[00:08:44\]  And then I was sort of, you know, seeing patients as a resident and then had a little bit of research time.
+- \[00:08:50\]  So I was like really reading and thinking and looking and, and all of that.
+- \[00:08:55\]  Yeah.
+- \[00:08:56\]  And I mean, I'll just disclose too that I'm a, I'm a Zen student.
+- \[00:08:59\]  And so it was also a scientist of my own mind.
+- \[00:09:01\]  So I've been, you know, exploring it from that angle a lot.
+- \[00:09:07\]  So first person point of view and third person with patients.
+- \[00:09:10\]  And then, you know, the, the, the in quotes, third person, objective view of, of, of the system too.
+- \[00:09:16\]  So there's all of that at play all the time.
+- \[00:09:21\]  So yeah, that's the longest version I can muster.
+- \[00:09:25\]  Yeah.
+- \[00:09:26\]  Yes.
+- \[00:09:27\]  Very interesting.
+- \[00:09:28\]  The art, the art angle I think is, is also, is also quite, quite interesting.
+- \[00:09:32\]  I do know, you know, I can't draw or anything like that, but I do a bunch of photography and I agree with you that, that, that watching the light and like trying to, trying to capture what you actually see or what you think you see is, is, is a, is an interesting component of it.
+- \[00:09:45\]  Yeah.
+- \[00:09:46\]  How do you, how do you think about, I'm curious, since you have, you have a background in molecular genetics and, and also now neuroscience.
+- \[00:09:55\]  How do you think about the kinds of things that those systems are good at?
+- \[00:10:00\]  Like how are, how are molecular dynamics and the kinds of things you get out of those different from what you can get out of, out of, you know, for example, electrophysiology, you know, in terms of the computations, the use of like, how are they, how, what, what's different about those systems?
+- \[00:10:13\]  You mean like sort of at the cellular level versus the system level or like the neural?
+- \[00:10:19\]  I mean, I mean, if you were going to, if you were going to build things and your options were gene regulatory networks and diffusion versus electrical networks and, and synaptic kinds of things, what are the different, you know, dynamics that you can expect to get out of those systems?
+- \[00:10:36\]  How, how are they different functionally?
+- \[00:10:38\]  Yes. Great question.
+- \[00:10:41\]  I mean, ultimately this is what I sort of, I mean, and this isn't any big idea or anything.
+- \[00:10:47\]  It's just like one of them is slower, right?
+- \[00:10:50\]  So like molecules diffusing limits you, I think in space and time.
+- \[00:10:57\]  Whereas electricity, right, allows speed and distance.
+- \[00:11:03\]  So it just speeds up processes, right?
+- \[00:11:05\]  So I don't think there's anything particularly special about neurons.
+- \[00:11:08\]  I think you agree with that, right?
+- \[00:11:11\]  That, I don't know.
+- \[00:11:13\]  And if we're talking about, let's say memory or computation, any of those things, those can be implemented in any, any material, right?
+- \[00:11:21\]  There's nothing special about neurons.
+- \[00:11:23\]  This can happen in those molecules.
+- \[00:11:25\]  If you put them together in certain ways and you maintain a pattern, right, that's relevant to the organism, that can be implemented in the molecules.
+- \[00:11:32\]  But it just sort of limits, I would say, yeah, the, the, the, the space and time of that, that molecules are on a shorter length scale, obviously.
+- \[00:11:42\]  And take longer to move and communicate, whereas you can send electricity much faster over a longer distance.
+- \[00:11:53\]  So, yeah, I don't know if that's answering what you're asking, but that's sort of how I think about it.
+- \[00:12:00\]  Yeah. Yeah. Yeah. I agree. That's, that's definitely, that's definitely an important, an important feature.
+- \[00:12:05\]  You know, people, people sometimes ask me like, what's, what's magical about bioelectricity?
+- \[00:12:10\]  Like what's different about electrical networks that's harder or maybe even, even not doable in typical molecular net, you know, the kinds of, the kinds of networks.
+- \[00:12:18\]  Yeah.
+- \[00:12:19\]  Right. And I mean, cause I, what, I mean, I'm just thinking of this like intuitively at some point of like, you know, what do we as human beings use to communicate?
+- \[00:12:29\]  We use electricity because it's the fastest thing, use the smallest thing in electron that can go the fastest. Right.
+- \[00:12:36\]  And that's how we connect globally via the internet and all of this.
+- \[00:12:39\]  So of course, nature would be using the same thing.
+- \[00:12:43\]  And I remember looking this up at some point in, in one of your papers, right.
+- \[00:12:47\]  Of like, when you get a wound, the first thing that happens is electrical communication and then the molecules.
+- \[00:12:53\]  And then I was at some point thinking like one of the things I did, I mean, shit every day, all day was running Jell-O electrophoresis in a lab. Right.
+- \[00:13:01\]  So you're generating an electric field to put your proteins where you want them.
+- \[00:13:06\]  Why wouldn't nature be doing that? Right.
+- \[00:13:10\]  Itself, organizing itself, using electricity.
+- \[00:13:13\]  So the molecules are sort of, you know, and as you know, it's both bottom up and top down, but that, you know, you're using electricity because it's the fastest way to communicate from head to tail, let's say in this organism, something's up on this end.
+- \[00:13:28\]  And then you bring the molecules over there.
+- \[00:13:31\]  Yeah.
+- \[00:13:32\]  So for me, it's, it's, it's about sort of, yeah.
+- \[00:13:35\]  Speed and distance.
+- \[00:13:37\]  That's what I would say.
+- \[00:13:38\]  Yeah.
+- \[00:13:39\]  Yeah.
+- \[00:13:40\]  So, yeah.
+- \[00:13:41\]  So, so what kind of, what are you working on now?
+- \[00:13:43\]  Talk to, you know, talk about.
+- \[00:13:45\]  Yeah.
+- \[00:13:46\]  And I mean, I don't know, I have a few slides I could go up, bring up here.
+- \[00:13:58\]  If you can see, I can't see that.
+- \[00:14:02\]  Right. So, this isn't, we don't really have to do a formal, formal thing, but.
+- \[00:14:08\]  Go for it. Do as much as you want.
+- \[00:14:09\]  Yeah, this is sort of the gist of it, right. As I alluded to is what is going on with this spontaneous neural activity.
+- \[00:14:17\]  And this would be an outline of like sort of why somebody like me mostly interested in studying something like the human brain is some interested in studying as something as simple as this Hydra.
+- \[00:14:28\]  And then sort of that brings us into some kind of history of the spontaneous neural activity, what it might be doing, the tools needed to study that Hydra and some of these future directions.
+- \[00:14:37\]  And so I don't know how much we have time for, but I'll just kind of go as quickly as possible.
+- \[00:14:42\]  And this is one of my favorite things to start with to say, like, just imagine that you're a scientist and you're the first person to ever see an image that looks like this, which is exactly what happened to Golgi when he put the Golgi, say, a neural, like a nervous system for the first time.
+- \[00:14:56\]  And you're trying to make sense of what is this? And he thought that this is just one giant reticular mesh work. It's all one thing.
+- \[00:15:04\]  And other people at the time looked at basically the same image and saw something else. And they zoomed in on these little shapes here, but it looked like these little pyramidal things.
+- \[00:15:13\]  So Sherrington and Ramonica Hall say, oh, what about these little pyramidal things? Like, what if those are how this works? What if those are the functional units of this system?
+- \[00:15:22\]  Sorry, could I ask, the Golgi stain, was that random? Was he just trying random chemicals? Or did he have some idea that that was going to stain something interesting?
+- \[00:15:30\]  I have no idea. Honestly, I would have to look. That's a great question. Like, why, how that ended up happening. But before that, like, there was no ability to sort of see what it looked like.
+- \[00:15:41\]  So there was all kinds of speculations, I think, on behavior and all of that, but no real way to see or visualize the nervous system. And then what you do, then you've got to make sense of it, right?
+- \[00:15:52\]  I think like, this is just a fundamental thing about science. It's like, first of all, the method that you use to view the thing will determine what you see.
+- \[00:15:59\]  And this is exactly what happens in Neil Thies will talk about this. And so this was happening at the same time as, you know, cell theory with Schlatt and Chuan. Because at that time, they see cell boundaries, they see lipid membranes.
+- \[00:16:14\]  And so they're like, oh, what the functional unit of that system of non neural tissues is, is cells. But Neil will make the point, if you had just had a nuclear stain, what you would have seen is just a bunch of dots floating in liquid.
+- \[00:16:27\]  You wouldn't have known that there were these things called membranes. If you had sort of an Eastern conception of what's the functional unit of tissue, right? It would be like, oh, it's fluid with a bunch of dots floating in it.
+- \[00:16:39\]  So here you have this at the beginning, right? This whole picture of a nervous system. And then you're arbitrarily deciding which parts are separate from the rest. And so the decision at that point was sort of, we're going to go with cell theory, and the neuron doctrine that these little parameter shaped things are the units.
+- \[00:17:00\]  And at the same time, Sherrington was going nuts on in reflex arcs. So that sort of solidified this idea that the not only the structural unit might be a single neuron, but the functional one, because you hit your knee, you get one sensory neuron that goes in synapses on another motor neuron, your spinal cord, and that's your reflex, right?
+- \[00:17:19\]  So that sort of gave them two ideas. A, that single neurons are the functional units, and that B, the nervous system is doing nothing unless you stimulate it from the outside. So those are just these two sort of major paradigms taken from mostly spinal cord peripheral nervous system and sort of applied to the cortex.
+- \[00:17:38\]  And that must be how it works. But I would argue that those two major ideas have left us in a situation where we still don't really know the true functional unit, at least of cortex or non spinal cord peripheral nervous systems really are. Is it multiple neurons? Is it all one thing? Is it some amount of, let's say, ensemble? How many neurons are in an ensemble?
+- \[00:18:02\]  How do those things interact to generate complex cognitive states and how do those go awry in neuropsychiatric disorders?
+- \[00:18:09\]  Do you think there's a single objective answer to that question? Like, is there a, you know, the optimal subunit or do you think it's more of a observer dependent kind of, you know?
+- \[00:18:22\]  Oh my God, yes. We got to skip his head till like 20 slides from now, but yes.
+- \[00:18:28\]  Okay, no problem. Keep going.
+- \[00:18:29\]  Totally. And yeah, and I think there's, again, what I'm most interested in, which I think most people are, are general principles. And I think this is going to be, there'll be general principles and that there's not one answer of like what a functional unit is in a particular system, but the general way that that works, I think will probably be general.
+- \[00:18:48\]  Okay.
+- \[00:18:50\]  And so, yeah, I don't need to introduce a complex adaptive system to you, but maybe other people, if anyone ever sees this would be interested.
+- \[00:19:00\]  So basically it's just, you have a bunch of individual simple systems or subunits, right, at this level of scale.
+- \[00:19:08\]  And I should just say that, why am I talking about that? I'm saying because if the brain is actually this complex adaptive system, maybe we're starting at the wrong level of scale.
+- \[00:19:17\]  We can't see the functional units because we're studying one thing at a time. So this is a bunch of units, right? These can be anything. These can be electrons in a magnet, water molecules in water, ants and ant colony birds in a flock, or neurons in a nervous system.
+- \[00:19:28\]  The key is you put enough of them together and they follow simple rules. And if we just think of this as an electron, the simplest example, you have an electron that spin up and its neighbors spin down, then it needs to become spin down.
+- \[00:19:39\]  And you put enough of them together and critically that won't happen with one electron or 10 electrons. And it's a property of many electrons. You get this emergent phenomenon at a higher level scale. In this case, it'd be like magnetism, right?
+- \[00:19:48\]  And then that higher level scale can feed back down and coordinate and constrain the lower level. And the key here, right, is that you're never going to see magnetism if you're looking at this level here at this single electron.
+- \[00:20:01\]  You're only going to see it up here if you're looking at a higher level of scale. And that level of scale also is going to be following sort of totally different rules than this level of scale.
+- \[00:20:09\]  So if that's what we're trying to do in neuroscience in general, we think of this as a TV screen.
+- \[00:20:14\]  Like, you know, for the most of the history of neuroscience, we've been doing these single pixels at a time, you know, single unit electrophysiology, which of course is critical.
+- \[00:20:23\]  We need to do that. We had to understand what a neuron is and doing that one at a time, but you can't really see the whole picture at once.
+- \[00:20:30\]  Alternatively, you can zoom out and do things like I was saying, MRI, EEG, MEG, these kinds of things. You get a global view, but it's very low spatial temporal resolution.
+- \[00:20:40\]  So you can sort of tell that something's happening, but it's hard to sort of see what that is.
+- \[00:20:45\]  So the ultimate goal then, right, is to just look at that TV screen with single pixel resolution to sort of see, OK, now that we can see all these individual neurons, what picture is emerging at this higher level of scale?
+- \[00:20:55\]  What can we see by just looking at it? Right. And again, I'm interested in this big thing here, the human brain, given that I'm interested in the human mind and helping these kinds of folks.
+- \[00:21:06\]  But it's huge. It's 86 billion neurons with trillions of connections. It's not going to fit under the microscope and all of that.
+- \[00:21:12\]  So you can simplify that problem. You can do it in a mouse brain. Right. But even here, how are you going to get all this hardware in here to record all those neurons?
+- \[00:21:19\]  And even if you do that optically, if I don't know, right now we're up to, let's say, let's be generous.
+- \[00:21:24\]  I think I'm really arresting by saying 20,000 neurons. That's out of 71 million. So it's just really not much of the whole TV screen, let's say.
+- \[00:21:34\]  So you could simplify this even further and you can do zebrafish, right, and Drosophila and even C. elegans.
+- \[00:21:40\]  But even these systems are still quite complex, depending on the developmental stage of the zebrafish.
+- \[00:21:45\]  You can have up to 10 million neurons still and lots of different cell types.
+- \[00:21:49\]  And they're all, I think, importantly, sort of shoved together in these complex brains and ganglia that are also sort of hard to disentangle.
+- \[00:21:58\]  So Sydney Brenner sat down with my mentor, Rafa, who we all know Sydney was the one who pioneered the work on C. elegans.
+- \[00:22:07\]  And he said, that's even still too complicated. Right. What if we try something even simpler?
+- \[00:22:12\]  Let's do Hydra, which has 200 to 2000 neurons, depending on the size of the animal and depending on how you cut off the cell sequencing, single cell sequencing data, you get 11 to 12, maybe 13 different neural cell types.
+- \[00:22:25\]  And it doesn't have a true brain or ganglia, as you'll see momentarily.
+- \[00:22:29\]  I got to get that off there. OK, I say. Right. So then it also not only is it simple, but it's an interesting position on the evolutionary tree, at least as far as I'm concerned.
+- \[00:22:41\]  It's right after, in quotes, the non neural lineage and then right before the bilaterians, which is the branch of life that we're sort of used to studying in neuroscience where you have a central midline structure structure and a left and a right side.
+- \[00:22:57\]  Whereas the cnidarians are sort of totally, radially symmetric. They don't have any of those things.
+- \[00:23:03\]  So it's another instance where you can sort of say, hey, what are these general principles? This nervous system looks nothing like that one. And yet it's able to generate complex behavior.
+- \[00:23:13\]  Does it matter what the architecture of this nervous system is? Because it's seemingly right. Everyone's very interested in and obsessed with getting the circuit diagrams. Right.
+- \[00:23:24\]  But does that matter? Can you get essentially the same functionality out of completely different architectures? And I think that's probably what we'll find if we look.
+- \[00:23:37\]  How do I go forward? Oh, there we go. So this is just what an actual hydra looks like with its mouth, tentacles, foot and then this hydra bud.
+- \[00:23:46\]  It's going to be important in a second because hydra can reproduce asexually. So hydra essentially just can clone itself.
+- \[00:23:53\]  If you keep feeding these animals instead of them just getting infinitely big or long, they start budding and reproducing and making a genetically identical copy. Right. I think it's critical for you.
+- \[00:24:06\]  And then they can also reproduce sexually, too. So the same animal can their stem cells can then generate testes or ovaries or an egg here and reproduce sexually. So either way.
+- \[00:24:22\]  And then. Right. So again, it has essentially not exactly the same, but 20,000 genes, very similar to our genome. Right. So the genes here are essentially the same thing as your eye. And yet it's building something completely different.
+- \[00:24:40\]  And then it's small, so it can be anywhere from 500 or one and a half centimeters. And I'm currently sort of figuring out what's the smallest one we can get to make so that we can fit that really under the field of view.
+- \[00:24:52\]  Transparent, robust, you can do all kinds of things to this thing. And then interestingly, also, is that it completely regenerates its nervous system every 20 days. So it's constantly making this nervous system and maintaining itself somehow.
+- \[00:25:07\]  Right. A lot of molecular tools being developed and it has these well-defined behaviors. So these are just so it's resting, right, just laying there doing nothing and then can just do a very simple longitudinal contraction where it goes from long to short.
+- \[00:25:21\]  And then the opposite of that is elongation. So it goes from short to long. And then it has complex behaviors. I mean, these are arbitrary words I'm defining. I'm just saying these are more complex. And this one is eating. So in lab you feed Hydra Artemianopoli, just brine shrimp.
+- \[00:25:36\]  And this is just glutathione. Reduced glutathione will also have them do this feeding response. So they'll rip open. So they'll use their tentacles to capture shrimp, rip open in their mouth and shove a bunch of them inside of their body. And then the most complex, I would say, is somersaulting.
+- \[00:25:53\]  So it will reach out, stick its head and tentacles down, contract, release its foot, flip over, and then put its foot back down. So in this way it can sort of in quotes walk. So it can do all of this with a very, very simple nervous system. And so this is just some quick. Yep.
+- \[00:26:09\]  Sorry, could I just ask on the behavior side, does anybody do, has anybody checked various learning, training? Can you teach these things anything?
+- \[00:26:20\]  Right. So this is, this is the new frontier. But there, it's also the new old frontier. So as is all science that, that there were some old studies, I think some of the first was 1900 and then 1950 of habituation in Hydra.
+- \[00:26:38\]  So if you just sort of, if you pinch them or even stick an electrode in them, they'll contract. And if, if you keep doing that over and over again with it, with the proper inter stimulus interval, they'll stop, they'll habituate. But that hasn't, there hasn't been like in, in the last, I don't know, 50 years, any of that has not been repeated.
+- \[00:27:03\]  And I don't think it's because people have tried and failed. I think most people haven't really revisited that. But yeah, that's, that's on the docket. Yeah. And, and I mean, there's so, I guess was, I think it was Nematostella showing associative learning there. So other cnidarians now have been shown to be doing, you know, more complex things than meet the eye.
+- \[00:27:29\]  Right. So you get this hypostome, this is just a cartoon of the, of the same thing, this nerve net, the tentacles, this is where they would have the buds coming off. This is the basal disc and this is the tissue. So it's a, it's just two layers. It's not a true three layer thing. There's no true mesoderm. There's just the endoderm on the inside and the exoderm on the outside.
+- \[00:27:51\]  And it's thought that all of these, these are also myoepithelial cells. They're epithelial cells with, let's just go over there, like muscle processes at the bottom. So they're sort of a dual cell type. And they're, it's thought that all of those are connected by gap junctions. And then you have your nerve net in the endoderm with sensory neurons poking into the inside of the gut. And then ganglion neurons in the ectoderm with sensory neurons poking out to the outside environment.
+- \[00:28:18\]  And it's thought that these do not communicate, but I think that might not be accurate, but that's the current idea. And then these three different cell types, you have eye cells, which are the stem cells that make the germ cells, the gland cells, nematicites, which are specific to, to cnidaria are super cool cell type that shoot out darts, like with toxins, essentially. And, and then neurons.
+- \[00:28:42\]  And then these all self renew. So the eye cells make these four and the ectoderm and the endoderm self renew themselves also. So that's sort of just the gist of that. And then this is the current view of sort of the connectome, if you will, of Hydra. So this is from Charlie David at LMU using anti-cadherin antibody that they've just shown sort of stains all of the neurons in the animal. And it looks, you know, like, again, this could just diffuse nerve net.
+- \[00:29:08\]  And in the ectoderm, it's sort of this North South highway where you have more of a bipolar neuron. And in the endoderm, it's a more multipolar thing. That's sort of going more radially around the animal. And then again, this is from Rob Steele at Irvine, where this is just GFP expressed in eye cells.
+- \[00:29:28\]  And you can see that there appears to be a little bit of a condensation of neurons in the, in the foot and in the head. And again, I think this is another thing to keep in mind that what we're seeing is depending on the tool that we're using to look at this thing. So, which is true. Yes, they're both true. But when you look at that, it's unclear, like how that there's no obvious circuitry. There's no anything that you would say that would really tell you just looking at that structure, how that's going to function.
+- \[00:29:55\]  Is it functioning as one thing, as many things, who knows, until Christoph put in GCaMP6. So this is a molecule that will fluoresce every time the neuron fires. And you, he made a transgenic animal expressing this in the eye cells. So all of the neurons had GCaMP6 expressed. He then put the hydra in between two cover slips. So this is just 100 micron spacer. It's swimming around in hydromedia, so it can still behave in two dimensions.
+- \[00:30:22\]  And then just put this on a normal wide field microscope and came up with a movie that looks like this. So it's sort of, you know, this, can you see all the pixels in the movie at the same time? And when you do, what do you see? Are they all firing completely independently? Total chaos? No. And are they all firing as one thing? No, it's, it's something else.
+- \[00:30:44\]  And in order to figure out what the something else was, Christoph had to painstakingly circle every one of those neurons and track it over time to analyze that data and figure out what, what is happening here and came up with this sort of general model and saying that out of that seemingly simple nerve net, you have these three independent sort of units, ensembles or circuits, however you want to call that, groups of neurons that are co-firing together.
+- \[00:31:09\]  And the one that's most consistently associated with muscle activity is CB, where every time it fires, you get a longitudinal contraction. So it gets shorter. That's very, very clear that that's motor. These other two are less clear, rhythmic potential one and rhythmic potential two.
+- \[00:31:24\]  But then potential two in that early paper was most associated with radial contraction. So that's in the endoderm of the animal. When that fires, it gets skinnier and can do some ingestion. So it will spit its food out or water, let's say from its mouth. And then rhythm potential one is in the ectoderm. And when it fires in that paper was correlated with elongation toward light.
+- \[00:31:47\]  But what was most interesting to me was that this was also happening when the, when the animals just sitting there doing nothing, just there. And that again is not new. We're noticing a theme. Reading literature is helpful. So that this was found in the 60s by Pisano and McCullough, where they were just sticking an electrode into hydra. And they found the same thing, that there was this rhythmic, you know, firing of some kind of neural network in the animal they didn't have access to.
+- \[00:32:17\]  And so they were trying to figure out what this was happening with their electrode when the animal was doing nothing. And they're called this cryptic activity. They said, what the hell is this doing? Right? Because again, at the time, the idea is that the nervous system is there to generate behavior. Otherwise it's off.
+- \[00:32:32\]  So why at the base of the tree of life, the simplest nervous system, are we seeing all kinds of activity going on if it's not generating behavior? And so they, he hypothesized in one of his early papers that is this thing coordinating the nervous system? Sort of the quarterback of the thing, the conductor, whatever metaphor you want to use.
+- \[00:32:50\]  And I've been told that he went off and started selling bikes. And so it never finished that work. And so we don't know. But it was discovered there, right? With an electrode and it was rediscovered, let's say with calcium. So it's method independent that you find the same sort of thing.
+- \[00:33:06\]  And that is what got me interested and brings us to this very brief history of what we know about spontaneous neural activity, which is very little. Because as I was saying, Sherrington at that time, the big mantra was reflexive brain is doing nothing otherwise. But his own student actually was finding something very different than that.
+- \[00:33:25\]  And he cut the head off of a cat and deaffirmed the cat. No sensory input whatsoever, zero input to a nervous system. He had all kinds of activity going on to the point where the cat could still walk. So this was clearly internally generated neural activity, had nothing to do with outside input. But that was just ignored. That was like, whatever, that guy's nuts. Whatever he's up to, let him do that.
+- \[00:33:50\]  And then at the same time, or around the same time, Hans Berger was inventing the EEG, where you have humans just sitting in a chair, all kinds of electrical activity going on there as well. And like I was saying, so it wasn't just Bassano and McCulloch discovering this spontaneous activity in hydra. It was sort of anybody looking at any cnidaria were sort of discovering this kind of thing going on.
+- \[00:34:11\]  But of course, no one's talking to each other. And so no one knows. And so it wasn't, of course, until the 2000s when Rakel and others at Wash U put humans into fMRI scanners. And at the time, right, it sort of what was interesting is the task evoked activity. Anything else that you couldn't explain was seen as noise, like white noise on the TV, get rid of it.
+- \[00:34:34\]  What we're interested in is what happens to the brain when you go to do the task. But at some point, he was like, hey, all of those areas in the brain that are active at rest seem to be specific, and they're specifically inhibited when the person is going to do the task.
+- \[00:34:48\]  So he called up this default mode network, which became like, you know, a very hot topic and has reignited interest in study of spontaneous neural activity, which we now know is one of the most highly conserved aspects of all brains.
+- \[00:35:05\]  And so this is from Buzocki's review, and that spans a wide range of frequencies to 600 hertz, very ultra fast, all the way down to ultra slow of like the 0.01 to 0.1 hertz. And this is something that's found in all mammalian brains, regardless of size or structure, you find this, right?
+- \[00:35:24\]  And I think the current idea is that that's just noise, right? That's reverb. You have a complex enough electrical system, you're going to get oscillations, it's not functional, it's not relevant, it's an epiphenomenon of the system. It's not doing anything.
+- \[00:35:39\]  And I think one of the reasons that that still is the idea is because you can't really image it or manipulate them in a specific way to determine if you manipulate this oscillation in particular, does that do anything? Or what does it do?
+- \[00:35:57\]  But again, it's taking 20% of total body energy and one of the most highly conserved aspects of all brains that we've looked at. So the question is why or what is it doing? And again, one of the most highly studied is the default mode network in humans. And this is related to the self in theory.
+- \[00:36:14\]  So it's most active at rest, it's going on all the time and its function continues to be debated. But it's thought to be involved when you're internally focused. So you're either remembering your past, thinking about yourself right now or contemplating your future. And the same sort of midline structures that I'll show you in a second, appear to be activated when you're doing self-related processing.
+- \[00:36:36\]  So if I'm shown a picture of a stranger versus myself, the default mode network lights up when I'm looking at something related to the self. And that's in any modality, whether that's pictures, whether that's hearing my voice, those kinds of things.
+- \[00:36:50\]  And then also it's linked to a number of neuropsychiatric disorders. And so you can't throw like a dart at PubMed right now and not see the default mode network linked to something. And the way I'm simplifying that is to say that the general idea seems to be that you have states like depression and anxiety when you're too internally focused, the default mode network is too active.
+- \[00:37:13\]  This is associated with rumination and worry and depression, anxiety, and vice versa. When in states like psychosis, psychedelics, or meditation, when you disrupt the default mode network, this leads to, in quotes, ego dissolution.
+- \[00:37:26\]  So some of the best data that there are in human studies are when you put humans in and that they can self-report on either psilocybin, LSD, or DMT, that whatever they think they are sort of dissolved. And then you can see what happened in the MRI scanner. And that correlates with disruption of the default mode network.
+- \[00:37:46\]  So the question is, why or how would that have anything to do with the self? What would be the mechanism by which the default mode network could implement something like a self? And there's sort of the structural argument and the functional argument. The structural argument being that it's a central midline structure. So medial prefrontal cortex, the posterior cingulate, the medial temporal lobes, that these are sort of these major rich hubs in the brain that are connecting regions that would otherwise be segregated.
+- \[00:38:16\]  So you could imagine if you had a brain where the visual cortex was not talking to the auditory cortex, it was not talking to the olfactory cortex, and it was not talking to the internal brainstem system, that would be a disintegrated system. So is this this sort of central midline superhighway with these thickly myelinated axons connecting all of those brain areas, sort of getting input from all of them, and then maybe sending information back?
+- \[00:38:43\]  So that's sort of the structural thing. And then the functional piece is that it's one of the lowest frequency oscillators in the brain of 0.01 to 0.1 hertz. And this is where we got to go real crazy. And this is now finally going to answer your question about the observers in the brain.
+- \[00:38:58\]  Which is, so Buzsaki was saying, right, like, this is what we've been doing as a neuroscientist is looking at things from a quote unquote, third party objective view, you're looking at a brain with a bunch of squiggly activity. And then you're looking at its output, this behavior, and you're correlating those two things. And you can say, okay, if I see this squiggly activity, then I can predict that the animal, whatever organism is going to do this behavior.
+- \[00:39:28\]  And that's helpful for us. And it's very useful clinically, right, we could use that. But that's not understanding, that's not what the brain is doing. The brain has to observe itself, the neurons have to observe their own information, and then decide sort of in quotes, decide what to do.
+- \[00:39:48\]  So, right, so if you think of neuron A, B, and C here, neuron A has to sort of observe the upstream activity from its inputs, neurons one, five, and nine. And in order to do that, it has to be integrating that information over a certain period of time. And let's just say that's 100 milliseconds. So it reads that information and decides, not decides, whatever word you want to use, will fire or not, right?
+- \[00:40:16\]  Based on that, that upstream input, and same thing with B and C. So you can think of those as sort of the highest frequency oscillators in the system, the letters, if you want, in the neural code.
+- \[00:40:27\]  Then the downstream observer of A, B, and C is Q, let's say, it has to read out the input from A, B, and C, and therefore has to be integrating that input over a longer period of time to give time for A, B, and C to give it its input. So that would then say, integrate over 200 milliseconds.
+- \[00:40:43\]  So it then reads out A, B, and C. And so reading out, let's say, cab, a neural word. So looking over here, that would be like this frequency. And so you could say you would go from letters to neural words, and then this is going to read out over a longer timescale to get inputs from those to form sentences, and then paragraphs and all the way down.
+- \[00:41:02\]  And so is it possible that you have this thing that's the lowest frequency oscillator, getting all of the input on the longest timescale in the entire nervous system to read all of that information out? And so this is just sort of a picture of what that might look like, laced on top of the brain. And I like to think of this in terms of the visual cortex is sort of the easiest for me to conceptualize.
+- \[00:41:26\]  And if we think of this little red thing here as the highest frequency oscillator, sort of the letter of the neural code, if that's coding in the visual cortex at least for the simplest thing like edges in the visual field, then the next layer, layer two, is getting input from that layer. And that has to be reading that over a longer period of time so it has enough time to get input from, let's say, two edges for it to read out a higher level abstract concept or shape that looks like this.
+- \[00:41:54\]  And then the next lowest layer, lower frequency reading out the input from layer two, right, over a longer timescale so that it has time to read out this shape and this shape to form a higher level abstract concept of this shape, all the way down right to the lowest frequency oscillator.
+- \[00:42:10\]  Let's say in this case, the development network that's reading out all of the visual information, the auditory information, the somatosensory information, olfactory, and internal state of the organism. And in that way, getting all of the highest level view, the highest abstract view of both the external environment, the world, and the internal environment of the organism or the self.
+- \[00:42:30\]  Right, so that's sort of, okay, can it be the reader, sort of the integrator of the information, but then can it also be the coordinator top down? And in this way, we sort of went through that diagram, but in this case, if we're thinking, is it possible that these low frequency oscillators can essentially organize higher frequency oscillators through various mechanisms of cross frequency coupling of like phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-phase coupling, phase-
+- \[00:43:00\]  amplitude coupling, and these kinds of things. So is it possible that this low frequency oscillator is essentially sort of critical for setting up this hierarchy of oscillators and organizing them in sort of space and time in the brain, such that if you get rid of it, that organization, that hierarchy might disappear. And there's some evidence, right, that when you give humans psychedelics, the brain goes into a more disordered or chaotic state. And it's unclear totally if, if you get rid of this default mode network, do you get rid of
+- \[00:43:30\]  something like this, where you have all these other oscillators that are all like this, or do the oscillators themselves go completely out of order and you just get complete chaos, right? And it seems to me that it's not the latter of that complete chaos, because it seems like, you know, if people report psychedelic experiences, it's like, they're still having some kind of experience, it's just less order, that you might be having those ensembles playing in a different order than you normally would. So all this is complete speculation, right? And so because it's very difficult, like I said, to image or manipulate
+- \[00:44:00\]  human brains, so luckily this thing appears to be highly conserved. So you have humans, monkeys, rats,
+- \[00:44:06\]  a hierarchy of brain-wide oscillations have been found in a bunch of insects also. And then this
+- \[00:44:10\]  gets into some, you know, really out there stuff where we're talking about finding these things
+- \[00:44:15\]  in, even in systems that don't have a nervous system. So people have been looking at this kind
+- \[00:44:20\]  of thing in plants for a long time, when you just put a microelectrode array in their root, and you
+- \[00:44:25\]  see these kinds of, let's say, electrical spikes in plants that Belusca and others have been saying
+- \[00:44:33\]  for a long time might be involved in information integration and communication plant-wide.
+- \[00:44:38\]  And then Adamatsky putting these electrodes into oyster mushrooms and just finding the same thing.
+- \[00:44:45\]  Like, yeah, these global organism-wide electrical spikes. Yeah, and this animal,
+- \[00:44:55\]  he's doing all kinds of interesting things too about, is this a fungal language?
+- \[00:45:01\]  And that kind of thing. And then same thing with amoeba, finding these low frequency,
+- \[00:45:07\]  I guess, electrical, like oscillations or spikes, it's unclear what they're made of,
+- \[00:45:11\]  in that case. And then bacteria here in single cells, when Adam Cohen first made the voltage
+- \[00:45:17\]  indicators of putting those into single cells and seeing that even bacteria are having these
+- \[00:45:22\]  low frequency electrical oscillations. That then if you play that movie too, and you didn't,
+- \[00:45:27\]  and I didn't tell you that those are bacteria, you might think that those are like a dish of neurons,
+- \[00:45:33\]  you know, flashing. And then once you put them together, as you know, into a biofilm, right? So
+- \[00:45:40\]  those individual bacteria, you put them together, they generate these global sort of biofilm-wide
+- \[00:45:48\]  potassium waves that help them coordinate themselves as one giant unit. And then not
+- \[00:45:54\]  only can they do that with themselves, but they can do this, you know, long range. So
+- \[00:45:58\]  biofilm one wants to eat and biofilm two wants to eat. If there's enough nutrients, they eat
+- \[00:46:07\]  at the same time, but if there's not, they can coordinate nutrient sharing and then they sort
+- \[00:46:11\]  of oscillate in antiphase. So the general idea then just being that are these low frequency
+- \[00:46:18\]  electrical oscillations, right? Ways to coordinate otherwise autonomous units into coherent holes,
+- \[00:46:25\]  no matter where you are with or without a nervous system. Right. So this gets a little bit, you got
+- \[00:46:32\]  to take a lot of drugs to watch this, but this is what I just showed you, right? We're all very used
+- \[00:46:38\]  to this, the neural tissue being electrical, you get ions flowing through and that's how you,
+- \[00:46:44\]  you know, you generate action potentials. We're all used to that. But this is where people get
+- \[00:46:50\]  confused, get hung up, where you're leading the chart. This is, this is what, yeah, like when I,
+- \[00:46:57\]  when I learned of your stuff, I was like, no way. So yeah, it's like, of course this is how this
+- \[00:47:03\]  works. It's just a different, it's just slower, right? People have a really hard time. And I think
+- \[00:47:08\]  this is going to be out there, but like Einstein's think of like different scales of like planetary
+- \[00:47:13\]  are really small. We can't deal with, and it's like, even in the biological sphere, we can't deal
+- \[00:47:17\]  with like different spatial stuff. But yeah, this is just, it's just slower. So you can have ions
+- \[00:47:24\]  flowing through gap junctions in non-neural tissue. And this, you know, I'd be very curious to know
+- \[00:47:31\]  what you think or what you're finding in terms of any of these, let's say non-neural bioelectric
+- \[00:47:38\]  networks. If, if you're finding anything of the sort, if there are, there are any kind of like,
+- \[00:47:46\]  you know, higher frequency oscillations or lower frequency oscillations. And if there's any of that,
+- \[00:47:51\]  that that's sort of organizing, even the non-neural tissue we can get there in a second, but that
+- \[00:47:57\]  would be the idea is it's a very similar thing as I was just saying up here that yeah, you have
+- \[00:48:04\]  individual cells that would be, you know, that, that the voltage there, if there's some kind of
+- \[00:48:08\]  fluctuation would be oscillating at some higher frequency. And those can be sort of put into groups
+- \[00:48:14\]  of a lower frequency to form, let's say a subunit, like an arm. And then you can have a bunch of
+- \[00:48:19\]  those arms being read out. Right. Yeah. Okay. What time is it? Okay. Yeah. Yeah. And, and, and on up
+- \[00:48:33\]  to sort of like build chunks of bodies based on, on a similar, let's say principle of, of these
+- \[00:48:40\]  voltage circuits being read out by lower and lower frequency oscillators. And then in single cells,
+- \[00:48:49\]  is this possible that instead of proteins being sort of just the structural units of cells, which
+- \[00:48:54\]  is what I've been taught my whole life, is it possible that these things are actually themselves
+- \[00:48:59\]  conducting electricity, which is what I'm forgetting his name now, Stuart Lindsay at Arizona
+- \[00:49:06\]  has shown that you get like nano semen currents flowing through all proteins, no matter he just
+- \[00:49:12\]  picked six at random, like BSA, collagen, so many things that you just wouldn't be like, oh, that's
+- \[00:49:16\]  conducting electricity. Why would it be? So is it the case that, that cells are actually true
+- \[00:49:24\]  little living computer chips where the proteins are forming electrical circuits on and off.
+- \[00:49:30\]  And that metabolism itself we've been taught is sort of generating ATP and energy, but it's also
+- \[00:49:34\]  generating a bunch of hydrogen ions. And so is it also just giving us a pool of hydrogen ions to be
+- \[00:49:40\]  flowing through the computer chip? So that's, that's out there, but that's, that's what I was
+- \[00:49:44\]  thinking on that one. Okay. So, right. So you can build all these things in these different ways
+- \[00:49:48\]  at these different scales. And, and so what might they be doing again? Could they be sort of
+- \[00:49:52\]  maintaining systems at or near criticality, right? If in the human brain, for example with
+- \[00:49:58\]  the default mode network around is thought to be at criticality where I can sort of help the system
+- \[00:50:05\]  form patterns at a useful timescale. But you imagine you can also then have a system that's
+- \[00:50:13\]  totally on or totally off. You either have brain death or totally on just be, it's a tonic, chronic
+- \[00:50:20\]  seizure or totally disordered in terms of total, total chaos. And this appears to be what happens
+- \[00:50:26\]  you go towards chaos if you get rid of this organizer in at least the human brain. So I don't
+- \[00:50:30\]  know what happens in any of these other systems if you get rid of that. So again, integrating all the
+- \[00:50:35\]  bottom of electrical information in the system and then coordinating at top down. And so very quickly
+- \[00:50:41\]  on that, not only would this thing sort of maybe maintain the overall electrical sort of organization
+- \[00:50:49\]  or structure of the system, but then it's the spikes of that oscillator are not totally constant
+- \[00:51:00\]  like a mechanical clock that you get, you know, every 60 seconds. It's variable. And I think that
+- \[00:51:06\]  would be variable in terms of like external and internal input so that it can sort of coordinate
+- \[00:51:12\]  the entire system top down and provide some kind of information about the overall state of the
+- \[00:51:16\]  system by how frequently it's firing. And so that's complete speculation there. Low frequency,
+- \[00:51:22\]  you're sort of saying, okay, within a range of frequencies, everyone that's local gets some kind
+- \[00:51:26\]  of global piece of information that's giving everyone that, that knowledge that this is,
+- \[00:51:32\]  this frequency means everything is cool. Keep doing your local job, however you do it.
+- \[00:51:36\]  And a higher frequency signal means something else to the local function. And there maybe
+- \[00:51:43\]  need to speed up their processes. Right. So, so again, is this, is this thing conserved in Hydra?
+- \[00:51:50\]  And so that's sort of what I want to do is to start testing this thing there. And to just speed
+- \[00:51:54\]  this up is to just say, does the, does the Hydra cell phone service, the organizing, sorry, organisms
+- \[00:51:59\]  unifier and ultimate integrator of both its internal and external input to generate coherent
+- \[00:52:03\]  adaptive behavior, i.e. a unified self. And I'll just breeze through. So again, just to quickly say
+- \[00:52:09\]  that Chris, I've had to do all this manual tracking by hand. And so what I've been spending
+- \[00:52:14\]  my time doing is trying to get all this automatic working with a group of people in Rafa's lab to
+- \[00:52:19\]  sort of make a, I don't know if people can see this or what, but the dual color animals so that
+- \[00:52:25\]  you can use that nucleus that never disappears while the animal's moving. Cause keep in mind,
+- \[00:52:29\]  in all other neural systems, you're putting a microscope on the head of the thing and it's not
+- \[00:52:34\]  moving much, but this entire system is moving. So you have to figure out a way to track it and
+- \[00:52:39\]  extract all of those calcium signals from each neuron and end up down here with individual
+- \[00:52:45\]  spikes from each of those neurons. And what's another interesting, or I think potentially
+- \[00:52:49\]  unique thing about Hydra is from Chris's initial work, when he put an electrode in, at least in one
+- \[00:52:55\]  of the particular neurons in Hydra, it does appear that one calcium spike equates to about one active
+- \[00:52:59\]  potential. So just using optical information from this animal, you can essentially capture
+- \[00:53:06\]  every spike from every neuron and get a real clear picture. Cause in other systems, a calcium
+- \[00:53:13\]  equates to many, many action potentials in the mouse, for example. So it's hard to have that
+- \[00:53:17\]  as your only readout. Okay. Right. So I'll just show you really quickly this beautiful movie.
+- \[00:53:25\]  This is, right. So those are all of the TD tomato and then the GCAMP7 neurons there. So
+- \[00:53:33\]  then you can track all of that and do the signal analysis. And then you can also do
+- \[00:53:42\]  these automatic behavior tracking using deep block cuts so that you can do automated behavior and
+- \[00:53:47\]  automated neural signal and start making sense of this stuff. And so with that, I'll just end with
+- \[00:53:53\]  a few teasers. So this is just to show you, prove that Hydra lays there and rests, and it still has
+- \[00:53:57\]  this neural activity, which will flash in a second right there. So you can start asking,
+- \[00:54:02\]  so what is the relationship between that network and its other two networks? Is that network
+- \[00:54:06\]  actually predictive of global neural activity in this animal and all of those kinds of studies?
+- \[00:54:11\]  What's really, I think, unique about Hydra is this, these two other things that you can do,
+- \[00:54:16\]  where this is the parent animal, this is the foot and the head, and this is a bud. This is an early
+- \[00:54:20\]  bud coming off and you can start to say, okay, this is, again, this is genetically identical
+- \[00:54:24\]  animal. This is one slab of tissue, but at some point, the genetically identical thing becomes
+- \[00:54:28\]  two individuals, right? And how does that happen? You can like, so right at this point, at this stage,
+- \[00:54:35\]  their global neural activity is essentially looking the same and their behavior is essentially
+- \[00:54:40\]  the same. But at some point that tissue becomes three different individuals. So this is a bud
+- \[00:54:46\]  here, a bud here, and the parent here, and they're flashing in so asynchronously, right?
+- \[00:54:51\]  Like different Christmas trees and they start to develop completely independent behavior.
+- \[00:54:55\]  So you can sort of, you know, go to town on all of those kinds of questions. And then you can also
+- \[00:55:00\]  do all kinds of other crazy shit, which is make these two animals, two heads, and you would expect
+- \[00:55:04\]  so it's sort of like a split brain patient. You're sharing one body, you have two heads, one foot.
+- \[00:55:08\]  In this case, these, I would have predicted they're going to, you know, act independently,
+- \[00:55:15\]  but it's also the case that it looks like Hydra's brain, like the plant, might be in its foot. So
+- \[00:55:20\]  these actually start acting basically the same, but you can, and I didn't know if this would be
+- \[00:55:25\]  possible, you can actually break a Hydra. So if you make a split foot, then it starts acting. So
+- \[00:55:32\]  this was contracting independently of this foot. And then all of its sort of nervousness is sort of
+- \[00:55:38\]  broken. That is not, it is no longer one coherent thing. So even the tentacles, it's sort of the
+- \[00:55:42\]  body here is, let's say, flashing independently of this foot, independently of that one. And so
+- \[00:55:49\]  it's sort of having a hard time trying to coordinate itself as one coherent thing. Right.
+- \[00:55:58\]  Right. So yeah. So just to conclude that these things, you know, low frequency electrical
+- \[00:56:02\]  oscillations are found through the living world. We don't really know what they're doing.
+- \[00:56:06\]  This crazy hypothesis is that, are they, you know, overall electrical organism organizers that can do
+- \[00:56:11\]  these three jobs, maintaining systems that are near criticality, that if you get rid of them, you
+- \[00:56:15\]  go more towards chaos, disorder. And then are they integrating the lower level information? And then
+- \[00:56:23\]  from that top level view, coordinating everything from top down. And then I'm going to start trying
+- \[00:56:29\]  to test these things out. These tools have been built. So there's the, the whirlwind tour. And
+- \[00:56:34\]  I'd like to thank all those people that have contributed to all of this. And you for sitting here.
+- \[00:56:39\]  Yeah. That was awesome. Thank you so much. Yes. Super interesting. We're going to, we're going to
+- \[00:56:44\]  have to, we're going to have to schedule a part two because there's a, there's a bunch of things
+- \[00:56:49\]  I want to, I want to ask you and, and, and also talk about the cell phone concept, both in cells
+- \[00:56:54\]  and embryos and then outside of electrophysiology in general, because we're starting to see something
+- \[00:57:01\]  similar in other systems that are not natively electrophysiological at all. So, so I think this
+- \[00:57:06\]  is, this is a more, you know, what you've got here is a very kind of profound generic concept that
+- \[00:57:12\]  I think could apply to a lot of things. Yeah. Awesome. We'd love it. Yeah. All right.
+- \[00:57:19\]  Thank you so much. Yeah. Great. Yeah. We'll talk soon. All right. See you. Okay. Thanks.
