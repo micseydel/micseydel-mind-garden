@@ -26,3 +26,13 @@
 - \[00:02:27\]  That's the point of this not automatically structured, is that's what I actually want to review, and the all is just there for context.
 - \[00:02:36\]  That's kind of the gist of what I wanted to show here, just this idea of an external digital brain being able to do more than what apps typically do,
 - \[00:02:46\]  as well as providing what I call idea provenance, the idea that you can trace back what's going on.
+
+## "Listeners" zoom-in
+
+If I say, "I sifted a pee clump from the front litter box" here's what it looks like:
+
+![[Pasted image 20240725135338.png]]
+
+- Here we see the "Gossiper" (pink 🗣️) on the left
+- It activates multiple listeners
+- Only the cats listener (brown 👂) propagates the voice note
