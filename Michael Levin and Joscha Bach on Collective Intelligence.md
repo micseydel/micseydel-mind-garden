@@ -1717,7 +1717,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:50:32\]  And then you start to act in various spaces, which again, are not predefined for you.
 - \[01:50:39\]  You have to solve problems that are metabolic, physiological, anatomical, maybe behavioral
 - \[01:50:43\]  if you have muscles.
-- \[01:50:46\]  But nobody's defining the space for you.
+- \[01:50:46\]  But nobody's defining the space for you. ^38f8b3
 - \[01:50:49\]  For example, if you're a bacterium, and Chris Fields points this out, if you're a bacterium
 - \[01:50:53\]  and you're in some sort of chemical gradient, you want to increase the amount of sugar in
 - \[01:50:59\]  your environment, you could act in three-dimensional space by physically swimming up the gradient,
