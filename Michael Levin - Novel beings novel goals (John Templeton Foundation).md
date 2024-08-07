@@ -626,11 +626,11 @@
 - \[00:36:05\]  the tail of a tadpole somewhere.
 - \[00:36:07\]  The blue cells are the ones we injected.
 - \[00:36:09\]  Okay.
-- \[00:36:10\]  These are the ones that we gave them the potassium flow to try to convince them to be an eye.
+- \[00:36:10\]  These are the ones that we gave them the potassium flow to try to convince them to be an eye. ^a4756a
 - \[00:36:14\]  But what they did was they recruited a bunch of their neighbors to help because there's
 - \[00:36:17\]  not enough of them to make an eye.
 - \[00:36:18\]  These, these cells, we didn't touch any of these cells directly.
-- \[00:36:21\]  They, they, they recruited their, their neighbors.
+- \[00:36:21\]  They, they, they recruited their, their neighbors. ^c0f18b
 - \[00:36:23\]  And of course, other collective intelligences do this too.
 - \[00:36:25\]  So ants and termites will recruit their buddies to help them move something that's too big
 - \[00:36:29\]  and so on.

@@ -1244,7 +1244,7 @@ updated: 2024-07-17T14:07:24-07:00
 - \[01:21:22\]  I don't need to worry about taking care of getting exactly the right number of cells.
 - \[01:21:28\]  If I'm a little bit over, that's fine.
 - \[01:21:29\]  If I'm way under, also fine.
-- \[01:21:31\]  The system has that competency of recruiting other cells to get the job done.
+- \[01:21:31\]  The system has that competency of recruiting other cells to get the job done. ^ab74c5
 - \[01:21:36\]  That's what I meant.
 - \[01:21:37\]  So to me, to make any kind of a cognitive claim, you have to specify the problem space.
 - \[01:21:41\]  You have to specify the goal towards which it's expressing competencies.
