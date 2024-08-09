@@ -4,4 +4,567 @@ updated: 2024-08-09T15:27:18-07:00
 ---
 - ![](https://www.youtube.com/watch?v=MEOGjISW9-0)
     - (2024-08-01; 31:58)
-- 
+    - Joseph Dumit
+- \[00:00:00\]  Thank you very much. It's really nice to be able to share some of my work with you. I've kind of put together different things here to see what sparks interest and almost all of these things I have lots of like papers and other things connecting them. So if you want to know more, just let me know.
+- \[00:00:20\]  Okay, so I'm a professor of anthropology, science technology studies and chair of a PhD program in performance studies at UC Davis. And I'm also a professor of interdisciplinary data collaborations at the Interacting Mind Center in Aarhus, Denmark, where I am right now.
+- \[00:00:47\]  And as an anthropologist, I study how science and medicine change. And I'm especially interested in the co-creation of language, metaphors and grammar that are invented when existing metaphors are recognized as inadequate to the material processes being explored.
+- \[00:01:02\]  I've tracked how scientists, especially craft and engineering oriented ones, recognize the need to play with language alongside experimenting with instruments and data analysis.
+- \[00:01:13\]  And I'm particularly interested in research where the researchers are at a loss for words like right now in AI, one of the directors of interpretability at Anthropic said, we're just beginning to even find the right words to talk about what's happening.
+- \[00:01:28\]  And so this is a way I think of studying embodied research realizing that all research is embodied by the metaphors one starts with, if nothing else.
+- \[00:01:37\]  And so one part of my research has been into the ways in which scientists come to train in being curious in their capacity to be surprised.
+- \[00:01:44\]  In my work with Natasha Myers, we trace the ways in which scientists were taught to look and then look some more. And then to look again, like through an egg to look at an egg through a microscope for half an hour, and then for a whole day.
+- \[00:01:57\]  And one of the biologists said you just start noticing more things and philosopher Alfred North Whitehead wrote that knowledge requires this in science as well as anthropology.
+- \[00:02:08\]  That by due attention more can be found in the world in nature than that which is observed at first sight.
+- \[00:02:14\]  I'm interested in these kind of practices of attention.
+- \[00:02:17\]  And I don't know why there's sound on this.
+- \[00:02:22\]  One biologist spoke to this issue of learning how to haptically see during a lecture in a course I gave on scientific visualization.
+- \[00:02:30\]  When I first saw him present this he used this looping video to tell a story about the cell as a rock climber.
+- \[00:02:35\]  But here, he started redefining that cell as having sticky feet.
+- \[00:02:40\]  When the cell moves he said parts of the cell move forward and in order to move the cell has to adhere to something.
+- \[00:02:46\]  And so we can infer some forces, but the only way we can see this is by imaging.
+- \[00:02:51\]  And so he said, the more you look at these pictures, the more details you see.
+- \[00:02:56\]  And so by rescaling his seeing he's able to tell a new kind of story.
+- \[00:02:59\]  And this is especially the case in 3D and process exploration where metaphors are often embodied.
+- \[00:03:05\]  And the practitioners have to use their bodies to grapple with understanding what is happening in the data or the situation.
+- \[00:03:11\]  So here's a graduate student at a 3D cave at UC Davis navigating through the MRI of the tendon structure of a horse.
+- \[00:03:18\]  And other researchers trying to figure out confocal microscopy images of neurons affected by a virus.
+- \[00:03:25\]  It's when they can actually like see with their hands how the cell walls are deformed that they start to think about how damage occurs.
+- \[00:03:32\]  And protein crystallographers often describe their work as dancing their molecules as a practice toward understanding the living breathing structures.
+- \[00:03:41\]  And other developmental biologists have described having to get a feeling for the organism.
+- \[00:03:46\]  So in working with researchers in these different kinds of environments, it's sometimes a good idea to use a microscope.
+- \[00:03:53\]  But in working with researchers in these different kinds of environments, it's really interesting to note how much they start playing with the data in order to understand it.
+- \[00:04:02\]  And so again with Natasha Myers, we've worked on how researchers play in order to understand.
+- \[00:04:08\]  And according to one of them, she said, the ease of measurement means that the measurement is limited by the decision of where to measure rather than the mechanics of actually making the measurement.
+- \[00:04:18\]  And this can be seen by the user's hesitation in this example.
+- \[00:04:23\]  And so we draw upon artist, performance artist, Susan Kozel, who said, purpose of decision making covers a certain range of actions of an autonomous agent.
+- \[00:04:34\]  But is a construction of agency generous enough to include other states and actions?
+- \[00:04:39\]  So the acts of listening, prevaricating, meandering, stumbling, thinking, reassessing, and hesitating.
+- \[00:04:45\]  Confusion, uncertainty, frivolity, and intimacy.
+- \[00:04:48\]  And what Kozel is trying to do is help us make a distinction between the intentional control in which one knows the outcome in advance and a mode of engagement that takes more time.
+- \[00:04:58\]  One that embodies a relation to time that doesn't seek to reduce it to a minimum.
+- \[00:05:02\]  This wandering, wavering, and indeterminate form of experimentation is what she calls responsivity.
+- \[00:05:07\]  It's a slippage of control and an unequal exchange of activity and passivity that she talks about as a prolonged and iterative initiation and response and response and response.
+- \[00:05:20\]  So I like this in performance studies, this sense of responding to another response.
+- \[00:05:25\]  And what we find useful is this insight into the interactivity of improvisation.
+- \[00:05:29\]  That the excitedness of the researcher creates an insight.
+- \[00:05:34\]  So when we look at how experimentalists talk about their experiences of responsivity, we notice that even when it's the core of their insight, they have trouble communicating their insight to others.
+- \[00:05:45\]  They speak in a voice that's often interesting to decipher.
+- \[00:05:48\]  The early 20th century medical researcher Ludwig Fleck described discovery as a relation of active living interventions.
+- \[00:05:55\]  Reshaping and being reshaped in brief a creation.
+- \[00:05:59\]  So it's a strange voice.
+- \[00:06:01\]  It reveals something other than the active voice, I moved it, or a passive voice, it was moved by me.
+- \[00:06:06\]  In these voices, the subject is exterior to the action, whether active agent or passive non-agent.
+- \[00:06:13\]  By contrast, these researchers and many reach toward what has been called a middle voice, which is a voice lost to our languages.
+- \[00:06:20\]  It's from ancient Greek and ancient Sanskrit.
+- \[00:06:22\]  And it's where the subject is interior to and affected by the action of the verb.
+- \[00:06:27\]  And there are many terms invented by social scientists and other scientists to talk about this, like interactivity, co-production, and so on.
+- \[00:06:35\]  And in all of these, what's interesting is the actors are themselves at stake, entangled with their objects and instruments.
+- \[00:06:42\]  So I connect this to what we call the middle voice.
+- \[00:06:47\]  So I connect this to work by anthropologist and feminist researcher Donna Haraway, in which we can notice that it matters for science, the stories we tell stories with.
+- \[00:06:58\]  And I think your whole lab does this.
+- \[00:07:00\]  The images we imagine with the metaphors we analogize with and the kinds of practices we practice with.
+- \[00:07:06\]  So I'm interested in also the intentional practice of doing, thinking, writing, reading, noticing, and learning.
+- \[00:07:11\]  So if now I can kind of jump to another part of my work, stepping into history, the neuro-existentialism is a term I started playing with while researching the early history of computing and the work of Warren McCulloch, the chair of the Macy's cybernetics conferences.
+- \[00:07:27\]  And I'll leave a lot of these details, but I want to start with a sign on the door to McCulloch's lab, which was experimental epistemology.
+- \[00:07:35\]  So among other things, McCulloch worked with Walter Pitts on what became the first paper on neural nets.
+- \[00:07:40\]  It was called a logical calculus of ideas imminent in nervous activity.
+- \[00:07:44\]  And they took the nervousness of the nets quite literally.
+- \[00:07:47\]  Pitts had used Rudolf Carnap's logical calculus of the world, but he doubled it, adding temporal markers to the calculus to create temporal propositions that could be formally equivalent to idealized neural activity.
+- \[00:07:59\]  So in the top left diagram, if neuron one fires at time t minus one, then neuron two fires at time t.
+- \[00:08:05\]  And with this technique, they proved that neurons could be Turing machines in terms of calculability.
+- \[00:08:10\]  And that was enough for the paper.
+- \[00:08:12\]  But the conclusion, I think, is more startling and little discussed.
+- \[00:08:16\]  To understand such a neuronal circuit, one cannot just look at it.
+- \[00:08:20\]  And this is crucial.
+- \[00:08:22\]  And McCulloch, in a lot of his work, insisted one must take the perspective of the net itself.
+- \[00:08:25\]  One must enact it as discrete live time, as a psyche who moved from neuron to neuron.
+- \[00:08:31\]  And he often called these psychons.
+- \[00:08:33\]  For instance, one of the key properties of a nervous net is that when looked at from the outside, they're deterministic forward in time, but undetermined backward.
+- \[00:08:42\]  That is, given the state of a net at time t, the state at the net at time t plus one is predictable.
+- \[00:08:47\]  But the state of the net at t minus one is not.
+- \[00:08:49\]  In the case where two different neurons like A or B could have caused an action, the previous state might have been either one.
+- \[00:08:55\]  And he always points out a third possibility is that there was a misfiring.
+- \[00:08:59\]  As a psyche, if you were in such a circuit enacting it, as you must, then you could find no difference among these three possibilities.
+- \[00:09:07\]  And so at the end of the paper, they suggest that you could not know the definite ringing in your ears is truly happening outside or not.
+- \[00:09:13\]  You could not know if what you really saw is what you remember.
+- \[00:09:15\]  Here, they suggested was a logical basis for understanding tinnitus, hallucination, delusion and confusion.
+- \[00:09:21\]  My colleague thus came to call these existential devices.
+- \[00:09:25\]  To the extent that our brains have structures like these nets, which they do, our brains can be structurally and logically delusional, hallucinatory, confused, and so on.
+- \[00:09:34\]  And to the extent that mechanisms have subjects, they too must be thought through as neurotic, deluded, haunted, and so on.
+- \[00:09:41\]  And McCulloch was a psychiatrist as well as an engineer and philosopher, and he thought continually through the example of patients.
+- \[00:09:48\]  I think today we might say he is someone who thought with neurodiversity of humanity.
+- \[00:09:53\]  Not every person a psychiatrist sees is to be returned to normality if such a centroid existed.
+- \[00:09:59\]  Rather, they were seen by McCulloch as part of the space of possibility for psychological and sensorial functioning.
+- \[00:10:05\]  That might be helped by thinking about the possibility of a psychosocial state.
+- \[00:10:09\]  That might be helped by thinking through functional forms of circuits.
+- \[00:10:14\]  So he coined this term, this process of investigation, experimental epistemology, and it involved asking about the existential being of mechanisms and the mechanistic being of subjects.
+- \[00:10:25\]  In one paper, he explored a topology of circular preferences.
+- \[00:10:30\]  If you are in it, and at this moment you prefer A, then the next moment you'll prefer B over both A and C.
+- \[00:10:36\]  And then once you have B, you'll prefer C, and so on in an endless loop.
+- \[00:10:42\]  He pointed out that these neural topologies are easy to build with circuit materials, and they've been identified in brains.
+- \[00:10:48\]  And then he wondered in this paper whether such a circuit, should it be at the heart of our motivational structure, would put us on an endless treadmill.
+- \[00:10:55\]  Preferring love to leisure, leisure to work, and work to love in a never-ending yet always motivated cycle.
+- \[00:11:02\]  So, I was interested because McCulloch started drawing these circuits that included the environment as part of the feedback loop.
+- \[00:11:08\]  And then he kept noting that what was inside and outside of a circuit depended on the perspective one took.
+- \[00:11:13\]  Each cut between two neurons potentially defined a self-world relation of feedback.
+- \[00:11:18\]  A perspective from the inside and the outside.
+- \[00:11:21\]  Each one creates the possibility of the question, is this the same self? Is this signal true for me?
+- \[00:11:28\]  So from this perspective, each neuron is in an existential relation to previous ones.
+- \[00:11:33\]  He said, quote, because light falling on the rod in the eye may or may not start a signal, that signal implies, but only implies the light.
+- \[00:11:42\]  Thus what goes on in our brains implies, but only implies the world given in sensation.
+- \[00:11:48\]  His point in this implication is that trust and doubt, psyche in general, is constitutive in life because it runs in circuits.
+- \[00:11:54\]  And trust for us is more than physics.
+- \[00:11:57\]  A signal is both physically on and off, but it's also semiotically true or false.
+- \[00:12:02\]  He does suggest that one must take an engineering approach to this neuropsychology.
+- \[00:12:08\]  Quote, the signal is just as physical as ever, but because it arose in the wrong way or the wrong place, it's a false signal.
+- \[00:12:15\]  Thus it's just as false as a ring on a telephone when lightning strikes the wires.
+- \[00:12:19\]  It's because communication engineering deals with signals, true or else false, that neuropsychology is part of engineering and not merely of physics.
+- \[00:12:27\]  I think he's referring to Shannon here.
+- \[00:12:30\]  To give one example, in 1949, McCulloch delivered a paper on psychoneuroses to psychiatrists,
+- \[00:12:37\]  explaining to them how engineering systems with certain kinds of loops have what the engineers call gremlins,
+- \[00:12:43\]  and that this is similar to the way a person is able to communicate with a computer.
+- \[00:12:47\]  And that this is similar to the way a problem in an automobile's carburetor can cause a problem in the engine block that can then cause a problem in the exhaust.
+- \[00:12:55\]  And knowing that it started somewhere doesn't help you figure out what to do about the problem now.
+- \[00:13:00\]  In humans, he cited this example of Kysalgia, a condition in which snakebite on a finger causes tremendous pain,
+- \[00:13:08\]  first in the fingertip, then the hand, then arm, spine, brain, where it persists interminably.
+- \[00:13:13\]  He showed a circuit arranged such that Kysalgia was not a misfiring, but rather a form of action in the circuit created by the snakebite,
+- \[00:13:21\]  that sustains itself then on as a circuit action.
+- \[00:13:24\]  It causes the nerve to fire too much, but that causes the next nerve to fire too much.
+- \[00:13:29\]  So he suggested viewing this as a self-sustaining demon that doesn't have physical existence except as this temporal repetition,
+- \[00:13:36\]  a soul that starts at one point of a large circuit and travels through it.
+- \[00:13:40\]  My colleague's insight was that this was not a flaw, but part of how nerves worked,
+- \[00:13:45\]  adjusting their sensitivity to local conditions, and that the venom was making an unexpected use of this property to create a chain reaction.
+- \[00:13:52\]  Even a circuit action could be agential. In Levin's terms, it was hacking the system.
+- \[00:13:57\]  At the same time, he told psychologists that they need to ask engineering questions.
+- \[00:14:02\]  He gave a lecture to engineers about the need to consider certain types of electrical systems as suffering from neuroses
+- \[00:14:07\]  and benefiting from considerations of psychology.
+- \[00:14:11\]  So I like the way he poses to each discipline the need to attend to the problems of time, feedback, and agency that arise in others.
+- \[00:14:19\]  So now I want to flip almost completely to thinking of our sensorium as agential materials,
+- \[00:14:26\]  and shift to social and experiential experiments now.
+- \[00:14:31\]  To describe work I've learned from practitioners of contact improvisation.
+- \[00:14:33\]  This is a community of people since the early 1970s who conduct what could be called practices research,
+- \[00:14:39\]  intentional experiments with embodied attention, where classes are labs of inquiry where everyone learns together,
+- \[00:14:46\]  and where the idea is usually not to learn how to do something, but learning how to be curious about something.
+- \[00:14:52\]  One form of it is this joint improvising, where when you're improvising with someone else,
+- \[00:14:58\]  what counts as your signal is playfully confabulated by your partner.
+- \[00:15:03\]  And as with jazz improvisation, even so-called mistakes can be turned into fantastic riffs
+- \[00:15:09\]  when the others refer to them and you iterate on them.
+- \[00:15:12\]  So new moves that are referenced in future dances are developed all the time,
+- \[00:15:16\]  and old ones deconstructed and put into variation.
+- \[00:15:19\]  Bodies become, through this practice, ever more sensitive and sensitized to subtle movements.
+- \[00:15:23\]  I had a video here, but I didn't turn off the sound.
+- \[00:15:26\]  Asaf Bahrach and I have just written a paper about one-person experiments in a similar vein.
+- \[00:15:33\]  One basic simple practice starts with a stick.
+- \[00:15:36\]  And if we had more time, if we had a workshop, I've done this.
+- \[00:15:39\]  You take a stick, close your eyes, and explore the world with it.
+- \[00:15:43\]  The stick becomes this kind of sensory extension, you and the stick sensing the world.
+- \[00:15:48\]  Then with the same setup and activity, you now attend to how you could be exploring the stick with the you world.
+- \[00:15:55\]  And you're now learning about the properties of the stick.
+- \[00:15:58\]  Or, with the same setup, you could attend to how you are exploring your body through the stick world.
+- \[00:16:04\]  Your palm at first, but then you can notice how even that involves a fixation or habit of attention
+- \[00:16:10\]  or perspective in which your hands are moving.
+- \[00:16:12\]  Your shoulder, your balance, your mass.
+- \[00:16:15\]  So I'm really interested in these practices where with a flicker of attention, you shift, your learning shifts,
+- \[00:16:21\]  the experience, experiment, and reflections become altered.
+- \[00:16:25\]  We do this for hours.
+- \[00:16:28\]  Some practitioners, like Lisa Nelson, have been practicing in this way with a stick for over 20 years.
+- \[00:16:33\]  It's one variation on all embodied practices, but it's a very powerful one.
+- \[00:16:37\]  It's one variation on all embodied practices of movers, crafts people, athletes, scientists, and engineers.
+- \[00:16:43\]  The world we experience is shaped by how we hold our attention and how our attention holds us,
+- \[00:16:48\]  holds our shape for learning and exploring and playing.
+- \[00:16:52\]  Physicists and artists Flor Campis and I have been thinking about and running workshops in this vein as disco-elastic attention.
+- \[00:17:00\]  Noting the relative weirdness of vocabulary and the way we use it,
+- \[00:17:03\]  we've been thinking about disco-elastic attention.
+- \[00:17:06\]  Noting the relative weirdness of vocabularies for disco-elasticity,
+- \[00:17:10\]  even if almost every part of our living being is disco-elastic.
+- \[00:17:14\]  She was a quantum physicist of disco-elasticity and proteins.
+- \[00:17:18\]  So in the paper that Asaf and I were working on on the stick scores,
+- \[00:17:23\]  we discussed them as practices of curiosity.
+- \[00:17:26\]  And we connect these to the work of feminist physicist Karen Barad,
+- \[00:17:29\]  who extended Niels Bohr's analysis of physics insights.
+- \[00:17:33\]  Bohr claimed that the apparatus itself was a perspective choice.
+- \[00:17:37\]  In one of the fundamental experiments proving quantum theories,
+- \[00:17:41\]  it was because a younger, poorer experimentalist Stern was smoking cheap cigars
+- \[00:17:46\]  that his breath contained very high levels of sulfur.
+- \[00:17:49\]  And the smoke in the room allowed them to discover that sulfur was necessary
+- \[00:17:53\]  in order to make visible the silver traces of the experimental manipulation.
+- \[00:17:56\]  And more importantly, they came to notice that the apparatus
+- \[00:18:00\]  they were working with was actually larger or different
+- \[00:18:03\]  from what they had intentionally designed.
+- \[00:18:06\]  As Barad writes,
+- \[00:18:08\]  apparatuses are not static laboratory setups,
+- \[00:18:11\]  but dynamic sets of open-ended practices iteratively refined and reconfigured.
+- \[00:18:16\]  And I'm interested in the playfulness of these moments,
+- \[00:18:19\]  the accident of smoke revealing quantum moments,
+- \[00:18:22\]  and how that becomes noticed for how ground can become figure,
+- \[00:18:26\]  and then I want to ask, can we train in accidents?
+- \[00:18:31\]  So thinking about improvisational research within science,
+- \[00:18:35\]  our sensorium and agential play,
+- \[00:18:38\]  so I want to go to this surprising moment of surprise and play
+- \[00:18:41\]  in this neuroscience lab in 1959,
+- \[00:18:44\]  neuroscientists working to understand the frog's eye
+- \[00:18:47\]  and finding something quite surprising, crazy even.
+- \[00:18:51\]  This was Durham Levin, Macerana, McCulloch, and Pitts
+- \[00:18:56\]  trying to figure out what particular neurons cared about.
+- \[00:18:59\]  They said, we analyzed the activity of single fibers in the optic nerve of a frog.
+- \[00:19:03\]  It said their method was to find what sort of stimulus
+- \[00:19:06\]  caused the largest activity in one nerve fiber,
+- \[00:19:09\]  and then what's exciting about it.
+- \[00:19:11\]  Through lots of creative trials,
+- \[00:19:14\]  they found neurons that responded to small things that move like flies,
+- \[00:19:17\]  and large ones that move like hawks.
+- \[00:19:19\]  So, it's an amazing paper.
+- \[00:19:21\]  But in a follow-up paper, two remarks on the visual system of the frog,
+- \[00:19:24\]  they were thoroughly surprised by what happened when they played with these neurons.
+- \[00:19:29\]  The neurons didn't act like simple switches at all,
+- \[00:19:32\]  but like whole ensembles of neurons, like animals.
+- \[00:19:35\]  They apologized for having to use this lively language.
+- \[00:19:38\]  And then they offered,
+- \[00:19:40\]  perhaps we better say a word about our experimental procedure.
+- \[00:19:43\]  This is a quote.
+- \[00:19:45\]  Our stimuli consisted of silhouettes of different sizes and shapes
+- \[00:19:48\]  moved against the background by means of magnets.
+- \[00:19:50\]  Responses of the nerve fiber was measured roughly by frequency
+- \[00:19:54\]  and duration of firing.
+- \[00:19:56\]  They say we took no records,
+- \[00:19:58\]  except those needed to illustrate our papers.
+- \[00:20:01\]  Our question was not how great the response was to one or another manipulation,
+- \[00:20:05\]  but rather which visual event produced the greatest response,
+- \[00:20:09\]  and which produced the least.
+- \[00:20:11\]  We dealt with our own listening to the patterns of nerve spikes
+- \[00:20:14\]  as the measure of extremes,
+- \[00:20:16\]  just as one does with an AC bridge in electronics.
+- \[00:20:19\]  So, they're listening to the nerve as they're playing
+- \[00:20:21\]  with the shadow on the eye.
+- \[00:20:24\]  So, for contemporary laboratories, maybe this is not a method.
+- \[00:20:28\]  These neuroscientists are taking up a playful relationship to the nerve fibers,
+- \[00:20:32\]  themselves asking, in a sense,
+- \[00:20:34\]  what can we do to the frog's eye that will maximize
+- \[00:20:36\]  the interesting signals produced by the particular nerves?
+- \[00:20:39\]  So, rather than staying with the method,
+- \[00:20:41\]  they were exploring whether they could let the nerve fibers
+- \[00:20:43\]  induce in the researchers a nerve-specific behavior.
+- \[00:20:47\]  Depending on how you define methodology,
+- \[00:20:50\]  I call this anti-methodology by design.
+- \[00:20:51\]  So, when they say this,
+- \[00:20:53\]  we took no records except those needed to illustrate our papers.
+- \[00:20:56\]  Early in our work, we found that taking records hindered,
+- \[00:20:59\]  rather than helped, this kind of research
+- \[00:21:01\]  by leading to premature standardization of method.
+- \[00:21:04\]  And I love that sentence.
+- \[00:21:07\]  They're calling for like a plastic neuroscience,
+- \[00:21:09\]  one whose methods remain adaptable to what is called forth
+- \[00:21:12\]  by the materials one's studying.
+- \[00:21:15\]  So, it's an abductive method.
+- \[00:21:17\]  It's not deductive or inductive,
+- \[00:21:19\]  but one in which the method is invented retroactively
+- \[00:21:21\]  as if abducted or possessed by the object one is trying to study.
+- \[00:21:26\]  So, it's kind of how to not always get answers,
+- \[00:21:29\]  but better questions and new methods.
+- \[00:21:32\]  So, it's quite a nice insight,
+- \[00:21:34\]  and I want to kind of pause and think about
+- \[00:21:36\]  what if this isn't communication,
+- \[00:21:38\]  or rather, what if much of communication is play,
+- \[00:21:40\]  experimentation, and playing back?
+- \[00:21:43\]  And I think it's, I'm just noticing this,
+- \[00:21:45\]  thinking about this paper now,
+- \[00:21:47\]  that the situation is asymmetrical doing.
+- \[00:21:49\]  They were giving light in,
+- \[00:21:51\]  but they were also listening to sound out.
+- \[00:21:53\]  And this playing across mediums,
+- \[00:21:55\]  I think, allowed more playfulness to enter into the situation.
+- \[00:22:01\]  So, it's amazing that these perspective shifts
+- \[00:22:04\]  are not explicitly played with more.
+- \[00:22:06\]  One site I've been collaborating with over the last five years
+- \[00:22:08\]  has been the Interacting Mind Center at Aarhus University,
+- \[00:22:11\]  run by Andreas Roepstorp at the time.
+- \[00:22:14\]  And together with studio Olafur Elias
+- \[00:22:16\]  and this large art studio in Berlin,
+- \[00:22:18\]  we received a five-year research collaboration grant
+- \[00:22:19\]  to create a series of art science experiments
+- \[00:22:22\]  that we've been calling
+- \[00:22:24\]  Experimenting, Experiencing, and Reflecting,
+- \[00:22:26\]  Art and Science at Work in the Public Realm.
+- \[00:22:29\]  Using a performative score in one case
+- \[00:22:31\]  called Sharing Perspectives,
+- \[00:22:33\]  developed by performer and choreographer
+- \[00:22:36\]  and artist Dorte Bergjensen,
+- \[00:22:38\]  at the core of it was giving people first
+- \[00:22:40\]  the opportunity to ground themselves,
+- \[00:22:42\]  to slow down a bit, even in a busy setting
+- \[00:22:44\]  at the Tate Modern in London
+- \[00:22:46\]  during a big retrospective,
+- \[00:22:47\]  to see if we can invite ways
+- \[00:22:49\]  for them to share perspectives with each other.
+- \[00:22:51\]  And this ended up changing the way people met each other
+- \[00:22:54\]  and how they experience art and togetherness.
+- \[00:22:57\]  So first we would ask people to move
+- \[00:22:59\]  at the speed of their attention
+- \[00:23:01\]  and to take 15 minutes to find positions,
+- \[00:23:03\]  three positions that they enjoyed,
+- \[00:23:05\]  and then to come back, find a partner,
+- \[00:23:07\]  and share those three positions with them non-verbally
+- \[00:23:10\]  for a minute each,
+- \[00:23:12\]  joining next to them after you show them
+- \[00:23:14\]  the posture to get into.
+- \[00:23:15\]  And just this little thing
+- \[00:23:17\]  was quite surprising on many levels.
+- \[00:23:20\]  In interviews, one person said,
+- \[00:23:22\]  not only seeing it,
+- \[00:23:24\]  but taking the same physical position
+- \[00:23:26\]  as the other person, it was completely different.
+- \[00:23:28\]  So this small gesture of sharing perspectives
+- \[00:23:30\]  opened up worlds for participants.
+- \[00:23:32\]  In taking the time to see or experience
+- \[00:23:34\]  another's perspective
+- \[00:23:36\]  and not knowing the sensory modality,
+- \[00:23:38\]  they're almost always surprised, delighted,
+- \[00:23:40\]  and intensely curious how they didn't even think
+- \[00:23:42\]  about such a perspective before.
+- \[00:23:43\]  Even people who had worked in these rooms
+- \[00:23:45\]  for six months.
+- \[00:23:47\]  So for many it was transformative
+- \[00:23:49\]  to how they think about attention and perspectives.
+- \[00:23:51\]  I think of scores like this
+- \[00:23:53\]  maybe as treating people as agentive materials.
+- \[00:23:56\]  In pedagogy as treating students
+- \[00:23:58\]  as agentive materials.
+- \[00:24:00\]  What if we trust that they have perspectives
+- \[00:24:02\]  that we can't imagine
+- \[00:24:04\]  and we work to make it possible
+- \[00:24:06\]  to share those perspectives?
+- \[00:24:08\]  How can we investigate what might be interesting
+- \[00:24:10\]  about improvisation and ask better questions about it?
+- \[00:24:12\]  Now in my surprising turn of events,
+- \[00:24:14\]  I want to talk about lichen briefly.
+- \[00:24:16\]  It's my last bit of research
+- \[00:24:18\]  that I'm obsessed with
+- \[00:24:20\]  and slow improvisation.
+- \[00:24:22\]  I've been researching the research on lichen.
+- \[00:24:24\]  It's wildly unruly.
+- \[00:24:26\]  It seems to refuse to be an object of science at all.
+- \[00:24:28\]  Lichen calls forth poetic surprise from researchers.
+- \[00:24:31\]  Lichens are highly successful
+- \[00:24:33\]  yet confounding entities.
+- \[00:24:35\]  And through this,
+- \[00:24:37\]  I started to notice how much
+- \[00:24:38\]  the concept of time got in the way
+- \[00:24:40\]  of both my thinking and theirs.
+- \[00:24:42\]  Slowness emerged as a term to work with.
+- \[00:24:45\]  My current hypothesis is that lichen
+- \[00:24:47\]  are slow partying and supportive napping.
+- \[00:24:50\]  And I don't have enough time here
+- \[00:24:52\]  to show how much more useful this language is,
+- \[00:24:54\]  but I want to point to some of the limits
+- \[00:24:56\]  of understanding lichen.
+- \[00:24:58\]  Slowness, I've learned,
+- \[00:25:00\]  is one of their superpowers.
+- \[00:25:02\]  It also makes it really hard to study.
+- \[00:25:04\]  Some lichen grow one millimeter every hundred years.
+- \[00:25:05\]  Some lichen are 9,000 years old.
+- \[00:25:07\]  So we are a blip.
+- \[00:25:09\]  So we might start with a couple observations.
+- \[00:25:11\]  Lichens are the dominant life forms
+- \[00:25:13\]  in about 12% of the Earth's land surface.
+- \[00:25:16\]  They are everywhere.
+- \[00:25:18\]  The largest amount of biomass in the air we breathe
+- \[00:25:20\]  are lichenizable components,
+- \[00:25:22\]  spores of fungi, algae, and bacteria.
+- \[00:25:24\]  Much of these are lighter than air.
+- \[00:25:26\]  Effectively, we can say that lichen potential
+- \[00:25:28\]  is always landing.
+- \[00:25:30\]  And if you're a lichen lover,
+- \[00:25:32\]  you know that lichen is a very
+- \[00:25:33\]  important part of our ecosystem.
+- \[00:25:35\]  Lichen potential is always landing,
+- \[00:25:37\]  and it's the slowness of a surface
+- \[00:25:39\]  that helps determine whether detectable,
+- \[00:25:41\]  visible lichen appear.
+- \[00:25:43\]  Turtles, trees, glass, rocks,
+- \[00:25:45\]  these are all venue managers for slow partying.
+- \[00:25:47\]  In many cases, lichen forms where,
+- \[00:25:49\]  for all other life, there is no environment.
+- \[00:25:52\]  Lichenization effectively brings environment
+- \[00:25:54\]  into existence,
+- \[00:25:56\]  creating microenvironments that facilitate
+- \[00:25:58\]  more diverse lichen,
+- \[00:26:00\]  and eventually litters or filters soil
+- \[00:26:01\]  and potential ecologies into existence.
+- \[00:26:04\]  And if you're a fan of tardigrades,
+- \[00:26:06\]  they and lichen both survive in space
+- \[00:26:08\]  and hang out together a lot.
+- \[00:26:10\]  More than 18,000 named species of fungi
+- \[00:26:12\]  participate in lichen,
+- \[00:26:14\]  so they're both super slow and super promiscuous.
+- \[00:26:17\]  They definitely force their researchers
+- \[00:26:19\]  to reach toward a language like hacking,
+- \[00:26:21\]  though I haven't seen that language used
+- \[00:26:23\]  in their work so far.
+- \[00:26:25\]  These researchers are constantly surprised
+- \[00:26:27\]  at the level of improvisation
+- \[00:26:29\]  taking place continually within lichen.
+- \[00:26:31\]  They note,
+- \[00:26:33\]  unlike majority partner symbionts
+- \[00:26:35\]  that provide a backbone or scaffold,
+- \[00:26:37\]  the components of lichen symbiosis
+- \[00:26:39\]  do not undergo cell fate differentiation
+- \[00:26:41\]  in subsequent tissue development.
+- \[00:26:43\]  Although the dominant fungi in lichen
+- \[00:26:45\]  are multicellular,
+- \[00:26:47\]  every cell is totipotent.
+- \[00:26:49\]  The complex three-dimensionality
+- \[00:26:51\]  and structural integrity characteristic
+- \[00:26:53\]  of many lichens instead results
+- \[00:26:55\]  from component parts gluing each other
+- \[00:26:57\]  into place with extracellular polymers
+- \[00:26:59\]  as the assemblage grows.
+- \[00:27:01\]  Researchers Rosemary Honiger
+- \[00:27:03\]  stated in 1992 in an overview
+- \[00:27:05\]  on the developmental biology of lichens,
+- \[00:27:07\]  quote,
+- \[00:27:08\]  it's important to note that most lichen
+- \[00:27:10\]  are consortia with an unknown number
+- \[00:27:12\]  of participants rather than individuals.
+- \[00:27:14\]  Neither the fungal biomass
+- \[00:27:16\]  nor the photobiont cell population
+- \[00:27:18\]  of an individual thallus
+- \[00:27:20\]  needs to be genetically uniform
+- \[00:27:22\]  as many parts from different origins
+- \[00:27:24\]  may join in pre-thalli
+- \[00:27:26\]  and later stages of development,
+- \[00:27:28\]  joining up with other lichen in amazing ways.
+- \[00:27:29\]  Almost 10 years later,
+- \[00:27:31\]  that perspective hadn't changed.
+- \[00:27:33\]  Quote,
+- \[00:27:34\]  viewing lichens as self-sustaining
+- \[00:27:36\]  and adaptable systems of partnerships.
+- \[00:27:38\]  However,
+- \[00:27:39\]  that view overcomes the need
+- \[00:27:41\]  to perpetuate debates
+- \[00:27:43\]  as to particular unchanging natures
+- \[00:27:45\]  of essential symbionts.
+- \[00:27:47\]  So the official term for lichen now
+- \[00:27:49\]  is consortia or lifestyle.
+- \[00:27:51\]  Lichen pulls researchers into poetry.
+- \[00:27:53\]  This top image is from an article
+- \[00:27:55\]  about the cryptogamic crust
+- \[00:27:57\]  that forms in the Atacama Desert in Chile
+- \[00:27:59\]  and the title of the paper is Desert Breath.
+- \[00:28:01\]  Seeing our own playfulness
+- \[00:28:03\]  reflected in the playfulness of lichen,
+- \[00:28:05\]  and I emphasize this
+- \[00:28:07\]  since the evidence seems to point
+- \[00:28:09\]  to lichen as hanging out
+- \[00:28:11\]  and slow parting in most of its formations,
+- \[00:28:13\]  constantly exploring possible pattern spaces,
+- \[00:28:15\]  morphologies, and partnerships.
+- \[00:28:17\]  You could say its nonchalant attitude
+- \[00:28:19\]  toward environmental constraints
+- \[00:28:21\]  and scarcity derived from not viewing it
+- \[00:28:23\]  as an already committed organism
+- \[00:28:25\]  or community.
+- \[00:28:27\]  Trevor Gower,
+- \[00:28:29\]  the author of The World of the Lichen,
+- \[00:28:31\]  has perhaps put forward
+- \[00:28:33\]  the closest thing to a manifesto
+- \[00:28:35\]  for letting lichen lead biology.
+- \[00:28:37\]  He calls himself a pattern ecologist
+- \[00:28:39\]  and he tends directly to the ways
+- \[00:28:41\]  that the questions we ask,
+- \[00:28:43\]  the perspectives we take as researchers,
+- \[00:28:45\]  determine the kinds of answers
+- \[00:28:47\]  and the liveliness and intelligence
+- \[00:28:49\]  of the things we study.
+- \[00:28:51\]  And I love Levin's notion
+- \[00:28:53\]  that it is us who are always taking
+- \[00:28:55\]  the intelligence test
+- \[00:28:57\]  when we ask what's happening.
+- \[00:28:59\]  When we look out this portal
+- \[00:29:01\]  in one direction through the microscope,
+- \[00:29:03\]  what we see is multiplicity.
+- \[00:29:05\]  The lichen has its parts as fungus,
+- \[00:29:07\]  as algae, symbiosis, and ecosystem.
+- \[00:29:09\]  But when we peer through the same portal
+- \[00:29:11\]  in the other direction at a macro scale,
+- \[00:29:13\]  what comes into focus now is unity.
+- \[00:29:15\]  The lichen is emergent property,
+- \[00:29:17\]  as physiologic entity, as organism.
+- \[00:29:19\]  To me, he says,
+- \[00:29:21\]  the real conceptual challenge
+- \[00:29:23\]  posed by the lichen thallus
+- \[00:29:25\]  derives from its unsettling capacity
+- \[00:29:27\]  for transmutation
+- \[00:29:29\]  and for its own evolution.
+- \[00:29:31\]  Some examples taken from the lichen literature
+- \[00:29:33\]  might include lichen as dietary strategy
+- \[00:29:35\]  of certain fungi,
+- \[00:29:37\]  as ecological strategy of certain algae,
+- \[00:29:39\]  as controlled parasitism,
+- \[00:29:41\]  as mutualism,
+- \[00:29:43\]  as fungal agriculture,
+- \[00:29:45\]  as fungal greenhouse,
+- \[00:29:47\]  lichen as gall,
+- \[00:29:49\]  lichen as culture chamber,
+- \[00:29:51\]  as symbiotic phenotype,
+- \[00:29:53\]  organism, ecosystem,
+- \[00:29:55\]  emergent property, and so on.
+- \[00:29:57\]  Other researchers propose
+- \[00:29:59\]  that many species biofilms
+- \[00:30:01\]  and lichen are coterminous.
+- \[00:30:03\]  One could even posit that lichen began as biofilms
+- \[00:30:05\]  and through millions of years of co-evolution
+- \[00:30:07\]  with symbiont partners,
+- \[00:30:09\]  developed into the highly coordinated
+- \[00:30:11\]  and more permanent lichen thallus.
+- \[00:30:14\]  Using electron microscopy
+- \[00:30:16\]  and other techniques,
+- \[00:30:18\]  Ursula Goodenough a few years ago
+- \[00:30:20\]  found that numerous bacterial species
+- \[00:30:22\]  produce structurally diverse matrices
+- \[00:30:24\]  on the lichen surfaces,
+- \[00:30:26\]  helping create and maintain a polyol fog
+- \[00:30:27\]  that enables some of lichen's superpowers,
+- \[00:30:29\]  a fog produced by fungi and lichen
+- \[00:30:31\]  that the fungi produces nowhere else.
+- \[00:30:33\]  Hence, bacteria provide not only metabolic products,
+- \[00:30:35\]  but also physically participate
+- \[00:30:37\]  in lichen construction.
+- \[00:30:39\]  And lichen are slow-growing
+- \[00:30:41\]  and long-living host organisms
+- \[00:30:43\]  that have been proposed also as bacterial hubs
+- \[00:30:45\]  in these environments,
+- \[00:30:47\]  facilitating the survival of bacteria
+- \[00:30:49\]  by nutrient and water supply,
+- \[00:30:51\]  offering a habitat with various micro-niches.
+- \[00:30:53\]  Thereby, the lichen could be sources
+- \[00:30:55\]  of residues and bacteria
+- \[00:30:57\]  and reservoirs of beneficial bacterial strains
+- \[00:30:59\]  for other habitats.
+- \[00:31:01\]  I want to conclude by thinking with Goward
+- \[00:31:03\]  as with lichen as conversation.
+- \[00:31:05\]  So, returning to this question
+- \[00:31:07\]  of hacking, playing, and conversing,
+- \[00:31:09\]  the language with which we language agency.
+- \[00:31:11\]  This is much like saying that the inner,
+- \[00:31:13\]  this is a quote from Goward,
+- \[00:31:15\]  this is much like saying
+- \[00:31:17\]  that the inner workings of the lichen
+- \[00:31:19\]  have the form of a conversation
+- \[00:31:21\]  between the constituent parts.
+- \[00:31:23\]  For the lichen truly is the conversation
+- \[00:31:25\]  of which the constituent parts
+- \[00:31:27\]  and the thallus,
+- \[00:31:29\]  the outward physical manifestation.
+- \[00:31:31\]  Here it helps to recall that though
+- \[00:31:33\]  they look and behave like organisms,
+- \[00:31:35\]  nevertheless operate as systems.
+- \[00:31:37\]  This means, for example,
+- \[00:31:39\]  it's not quite right to say that lichens grow.
+- \[00:31:41\]  As a matter of fact,
+- \[00:31:43\]  plants and animals and fungi, hyphae,
+- \[00:31:45\]  all grow, but lichen thalli elaborate.
+- \[00:31:47\]  Lichens are more like a good conversation,
+- \[00:31:49\]  each following its own internal logic,
+- \[00:31:51\]  no two thalli coming out quite the same.
+- \[00:31:54\]  So, with that, I want to conclude
+- \[00:31:55\]  and open up for conversation.
