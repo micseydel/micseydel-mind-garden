@@ -178,7 +178,7 @@
 - \[00:15:41\]  So there was all kinds of speculations, I think, on behavior and all of that, but no real way to see or visualize the nervous system. And then what you do, then you've got to make sense of it, right?
 - \[00:15:52\]  I think like, this is just a fundamental thing about science. It's like, first of all, the method that you use to view the thing will determine what you see.
 - \[00:15:59\]  And this is exactly what happens in Neil Thies will talk about this. And so this was happening at the same time as, you know, cell theory with Schlatt and Chuan. Because at that time, they see cell boundaries, they see lipid membranes.
-- \[00:16:14\]  And so they're like, oh, what the functional unit of that system of non neural tissues is, is cells. But Neil will make the point, if you had just had a nuclear stain, what you would have seen is just a bunch of dots floating in liquid.
+- \[00:16:14\]  And so they're like, oh, what the functional unit of that system of non neural tissues is, is cells. But Neil will make the point, if you had just had a nuclear stain, what you would have seen is just a bunch of dots floating in liquid. ^cec48f
 - \[00:16:27\]  You wouldn't have known that there were these things called membranes. If you had sort of an Eastern conception of what's the functional unit of tissue, right? It would be like, oh, it's fluid with a bunch of dots floating in it.
 - \[00:16:39\]  So here you have this at the beginning, right? This whole picture of a nervous system. And then you're arbitrarily deciding which parts are separate from the rest. And so the decision at that point was sort of, we're going to go with cell theory, and the neuron doctrine that these little parameter shaped things are the units.
 - \[00:17:00\]  And at the same time, Sherrington was going nuts on in reflex arcs. So that sort of solidified this idea that the not only the structural unit might be a single neuron, but the functional one, because you hit your knee, you get one sensory neuron that goes in synapses on another motor neuron, your spinal cord, and that's your reflex, right?
@@ -218,7 +218,7 @@
 - \[00:22:12\]  Let's do Hydra, which has 200 to 2000 neurons, depending on the size of the animal and depending on how you cut off the cell sequencing, single cell sequencing data, you get 11 to 12, maybe 13 different neural cell types.
 - \[00:22:25\]  And it doesn't have a true brain or ganglia, as you'll see momentarily.
 - \[00:22:29\]  I got to get that off there. OK, I say. Right. So then it also not only is it simple, but it's an interesting position on the evolutionary tree, at least as far as I'm concerned.
-- \[00:22:41\]  It's right after, in quotes, the non neural lineage and then right before the bilaterians, which is the branch of life that we're sort of used to studying in neuroscience where you have a central midline structure structure and a left and a right side.
+- \[00:22:41\]  It's right after, in quotes, the non neural lineage and then right before the bilaterians, which is the branch of life that we're sort of used to studying in neuroscience where you have a central midline structure structure and a left and a right side. ^4e5cba
 - \[00:22:57\]  Whereas the cnidarians are sort of totally, radially symmetric. They don't have any of those things.
 - \[00:23:03\]  So it's another instance where you can sort of say, hey, what are these general principles? This nervous system looks nothing like that one. And yet it's able to generate complex behavior.
 - \[00:23:13\]  Does it matter what the architecture of this nervous system is? Because it's seemingly right. Everyone's very interested in and obsessed with getting the circuit diagrams. Right.
@@ -246,7 +246,7 @@
 - \[00:29:28\]  And you can see that there appears to be a little bit of a condensation of neurons in the, in the foot and in the head. And again, I think this is another thing to keep in mind that what we're seeing is depending on the tool that we're using to look at this thing. So, which is true. Yes, they're both true. But when you look at that, it's unclear, like how that there's no obvious circuitry. There's no anything that you would say that would really tell you just looking at that structure, how that's going to function.
 - \[00:29:55\]  Is it functioning as one thing, as many things, who knows, until Christoph put in GCaMP6. So this is a molecule that will fluoresce every time the neuron fires. And you, he made a transgenic animal expressing this in the eye cells. So all of the neurons had GCaMP6 expressed. He then put the hydra in between two cover slips. So this is just 100 micron spacer. It's swimming around in hydromedia, so it can still behave in two dimensions.
 - \[00:30:22\]  And then just put this on a normal wide field microscope and came up with a movie that looks like this. So it's sort of, you know, this, can you see all the pixels in the movie at the same time? And when you do, what do you see? Are they all firing completely independently? Total chaos? No. And are they all firing as one thing? No, it's, it's something else.
-- \[00:30:44\]  And in order to figure out what the something else was, Christoph had to painstakingly circle every one of those neurons and track it over time to analyze that data and figure out what, what is happening here and came up with this sort of general model and saying that out of that seemingly simple nerve net, you have these three independent sort of units, ensembles or circuits, however you want to call that, groups of neurons that are co-firing together.
+- \[00:30:44\]  And in order to figure out what the something else was, Christoph had to painstakingly circle every one of those neurons and track it over time to analyze that data and figure out what, what is happening here and came up with this sort of general model and saying that out of that seemingly simple nerve net, you have these three independent sort of units, ensembles or circuits, however you want to call that, groups of neurons that are co-firing together. ^4933b1
 - \[00:31:09\]  And the one that's most consistently associated with muscle activity is CB, where every time it fires, you get a longitudinal contraction. So it gets shorter. That's very, very clear that that's motor. These other two are less clear, rhythmic potential one and rhythmic potential two.
 - \[00:31:24\]  But then potential two in that early paper was most associated with radial contraction. So that's in the endoderm of the animal. When that fires, it gets skinnier and can do some ingestion. So it will spit its food out or water, let's say from its mouth. And then rhythm potential one is in the ectoderm. And when it fires in that paper was correlated with elongation toward light.
 - \[00:31:47\]  But what was most interesting to me was that this was also happening when the, when the animals just sitting there doing nothing, just there. And that again is not new. We're noticing a theme. Reading literature is helpful. So that this was found in the 60s by Pisano and McCullough, where they were just sticking an electrode into hydra. And they found the same thing, that there was this rhythmic, you know, firing of some kind of neural network in the animal they didn't have access to.
@@ -318,25 +318,25 @@
 - \[00:47:08\]  this is going to be out there, but like Einstein's think of like different scales of like planetary
 - \[00:47:13\]  are really small. We can't deal with, and it's like, even in the biological sphere, we can't deal
 - \[00:47:17\]  with like different spatial stuff. But yeah, this is just, it's just slower. So you can have ions
-- \[00:47:24\]  flowing through gap junctions in non-neural tissue. And this, you know, I'd be very curious to know
-- \[00:47:31\]  what you think or what you're finding in terms of any of these, let's say non-neural bioelectric
+- \[00:47:24\]  flowing through gap junctions in non-neural tissue. And this, you know, I'd be very curious to know ^c205e3
+- \[00:47:31\]  what you think or what you're finding in terms of any of these, let's say non-neural bioelectric ^455761
 - \[00:47:38\]  networks. If, if you're finding anything of the sort, if there are, there are any kind of like,
 - \[00:47:46\]  you know, higher frequency oscillations or lower frequency oscillations. And if there's any of that,
-- \[00:47:51\]  that that's sort of organizing, even the non-neural tissue we can get there in a second, but that
+- \[00:47:51\]  that that's sort of organizing, even the non-neural tissue we can get there in a second, but that ^f7008f
 - \[00:47:57\]  would be the idea is it's a very similar thing as I was just saying up here that yeah, you have
 - \[00:48:04\]  individual cells that would be, you know, that, that the voltage there, if there's some kind of
 - \[00:48:08\]  fluctuation would be oscillating at some higher frequency. And those can be sort of put into groups
 - \[00:48:14\]  of a lower frequency to form, let's say a subunit, like an arm. And then you can have a bunch of
 - \[00:48:19\]  those arms being read out. Right. Yeah. Okay. What time is it? Okay. Yeah. Yeah. And, and, and on up
 - \[00:48:33\]  to sort of like build chunks of bodies based on, on a similar, let's say principle of, of these
-- \[00:48:40\]  voltage circuits being read out by lower and lower frequency oscillators. And then in single cells,
+- \[00:48:40\]  voltage circuits being read out by lower and lower frequency oscillators. And then in single cells, ^088152
 - \[00:48:49\]  is this possible that instead of proteins being sort of just the structural units of cells, which
 - \[00:48:54\]  is what I've been taught my whole life, is it possible that these things are actually themselves
 - \[00:48:59\]  conducting electricity, which is what I'm forgetting his name now, Stuart Lindsay at Arizona
 - \[00:49:06\]  has shown that you get like nano semen currents flowing through all proteins, no matter he just
 - \[00:49:12\]  picked six at random, like BSA, collagen, so many things that you just wouldn't be like, oh, that's
 - \[00:49:16\]  conducting electricity. Why would it be? So is it the case that, that cells are actually true
-- \[00:49:24\]  little living computer chips where the proteins are forming electrical circuits on and off.
+- \[00:49:24\]  little living computer chips where the proteins are forming electrical circuits on and off. ^b266b4
 - \[00:49:30\]  And that metabolism itself we've been taught is sort of generating ATP and energy, but it's also
 - \[00:49:34\]  generating a bunch of hydrogen ions. And so is it also just giving us a pool of hydrogen ions to be
 - \[00:49:40\]  flowing through the computer chip? So that's, that's out there, but that's, that's what I was
@@ -395,7 +395,7 @@
 - \[00:54:35\]  their global neural activity is essentially looking the same and their behavior is essentially
 - \[00:54:40\]  the same. But at some point that tissue becomes three different individuals. So this is a bud
 - \[00:54:46\]  here, a bud here, and the parent here, and they're flashing in so asynchronously, right?
-- \[00:54:51\]  Like different Christmas trees and they start to develop completely independent behavior.
+- \[00:54:51\]  Like different Christmas trees and they start to develop completely independent behavior. ^0af98d
 - \[00:54:55\]  So you can sort of, you know, go to town on all of those kinds of questions. And then you can also
 - \[00:55:00\]  do all kinds of other crazy shit, which is make these two animals, two heads, and you would expect
 - \[00:55:04\]  so it's sort of like a split brain patient. You're sharing one body, you have two heads, one foot.
