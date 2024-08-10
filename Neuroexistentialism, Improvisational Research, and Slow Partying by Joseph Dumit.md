@@ -5,6 +5,7 @@ updated: 2024-08-09T15:27:18-07:00
 - ![](https://www.youtube.com/watch?v=MEOGjISW9-0)
     - (2024-08-01; 31:58)
     - Joseph Dumit
+    - circuits
 - \[00:00:00\]  Thank you very much. It's really nice to be able to share some of my work with you. I've kind of put together different things here to see what sparks interest and almost all of these things I have lots of like papers and other things connecting them. So if you want to know more, just let me know.
 - \[00:00:20\]  Okay, so I'm a professor of anthropology, science technology studies and chair of a PhD program in performance studies at UC Davis. And I'm also a professor of interdisciplinary data collaborations at the Interacting Mind Center in Aarhus, Denmark, where I am right now.
 - \[00:00:47\]  And as an anthropologist, I study how science and medicine change. And I'm especially interested in the co-creation of language, metaphors and grammar that are invented when existing metaphors are recognized as inadequate to the material processes being explored.
