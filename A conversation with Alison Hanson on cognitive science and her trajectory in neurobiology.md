@@ -121,14 +121,14 @@
 - \[00:10:36\]  How, how are they different functionally?
 - \[00:10:38\]  Yes. Great question.
 - \[00:10:41\]  I mean, ultimately this is what I sort of, I mean, and this isn't any big idea or anything.
-- \[00:10:47\]  It's just like one of them is slower, right?
+- \[00:10:47\]  It's just like one of them is slower, right? ^733a30
 - \[00:10:50\]  So like molecules diffusing limits you, I think in space and time.
 - \[00:10:57\]  Whereas electricity, right, allows speed and distance.
 - \[00:11:03\]  So it just speeds up processes, right?
 - \[00:11:05\]  So I don't think there's anything particularly special about neurons.
 - \[00:11:08\]  I think you agree with that, right?
 - \[00:11:11\]  That, I don't know.
-- \[00:11:13\]  And if we're talking about, let's say memory or computation, any of those things, those can be implemented in any, any material, right?
+- \[00:11:13\]  And if we're talking about, let's say memory or computation, any of those things, those can be implemented in any, any material, right? ^cc7619
 - \[00:11:21\]  There's nothing special about neurons.
 - \[00:11:23\]  This can happen in those molecules.
 - \[00:11:25\]  If you put them together in certain ways and you maintain a pattern, right, that's relevant to the organism, that can be implemented in the molecules.
@@ -142,14 +142,14 @@
 - \[00:12:19\]  Right. And I mean, cause I, what, I mean, I'm just thinking of this like intuitively at some point of like, you know, what do we as human beings use to communicate?
 - \[00:12:29\]  We use electricity because it's the fastest thing, use the smallest thing in electron that can go the fastest. Right.
 - \[00:12:36\]  And that's how we connect globally via the internet and all of this.
-- \[00:12:39\]  So of course, nature would be using the same thing.
+- \[00:12:39\]  So of course, nature would be using the same thing. ^b52812
 - \[00:12:43\]  And I remember looking this up at some point in, in one of your papers, right.
 - \[00:12:47\]  Of like, when you get a wound, the first thing that happens is electrical communication and then the molecules.
 - \[00:12:53\]  And then I was at some point thinking like one of the things I did, I mean, shit every day, all day was running Jell-O electrophoresis in a lab. Right.
 - \[00:13:01\]  So you're generating an electric field to put your proteins where you want them.
 - \[00:13:06\]  Why wouldn't nature be doing that? Right.
 - \[00:13:10\]  Itself, organizing itself, using electricity.
-- \[00:13:13\]  So the molecules are sort of, you know, and as you know, it's both bottom up and top down, but that, you know, you're using electricity because it's the fastest way to communicate from head to tail, let's say in this organism, something's up on this end.
+- \[00:13:13\]  So the molecules are sort of, you know, and as you know, it's both bottom up and top down, but that, you know, you're using electricity because it's the fastest way to communicate from head to tail, let's say in this organism, something's up on this end. ^e8e7c4
 - \[00:13:28\]  And then you bring the molecules over there.
 - \[00:13:31\]  Yeah.
 - \[00:13:32\]  So for me, it's, it's, it's about sort of, yeah.
