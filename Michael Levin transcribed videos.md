@@ -28,6 +28,7 @@
 - (2024-05-08; 1:18:57) [[Discussion with Michael Pollan of new ideas on memories and Selves]]
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]
 - (2024-06-18; 1:04:55) [[Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine (Michael Levin)|Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine]]
+- [ ] (2024-05-24; 46:43) [[Tom Froese and Michael Levin discuss Tom's Irruption theory]]
 - [ ] (2024-08-01; 31:58) [[Neuroexistentialism, Improvisational Research, and Slow Partying by Joseph Dumit]]
     - circuits
 - [ ] (2024-08-03; 27:37) [[The Mind of the Body - A Window into Embodiment and our Future]]

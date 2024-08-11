@@ -1,0 +1,836 @@
+---
+created: 2024-08-10T18:43:12-07:00
+updated: 2024-08-10T19:20:14-07:00
+---
+- ![](https://www.youtube.com/watch?v=F-pmWY4c4Dk)
+    - (46:43; 2024-05-24)
+    - > Tom's recent paper on Irruption theory and discussing embodied minds, agency, and models of mind-body interaction
+- \[00:00:00\]  go through it and I'd love to talk about eruption theory and the thing you were saying the other
+- \[00:00:04\]  day about the information that's not lost and all that stuff.
+- \[00:00:10\]  And we can also, if we have time, we can also talk about this issue of how far down it goes
+- \[00:00:14\]  and all that.
+- \[00:00:15\]  Yeah, ideally, we want to have a measure, right?
+- \[00:00:19\]  Like an operationalized criterion for that.
+- \[00:00:21\]  So this is exactly what this is about.
+- \[00:00:24\]  Let me just see what's the best way of sharing this.
+- \[00:00:27\]  I think.
+- \[00:00:28\]  Is it OK if I put up my second screen, I will be a little absent looking to the side,
+- \[00:00:37\]  maybe if I record better, like if I have it in the background.
+- \[00:00:40\]  Well, it's mostly going to be the I mean, just to share the screen.
+- \[00:00:44\]  I don't even know that we're going to see you.
+- \[00:00:46\]  We're just going to see the slide.
+- \[00:00:47\]  So it's fine to share.
+- \[00:00:48\]  OK, all right.
+- \[00:00:49\]  Yeah, because I can see you basically.
+- \[00:00:50\]  It's easier that way.
+- \[00:00:51\]  That's right.
+- \[00:00:52\]  All right.
+- \[00:00:53\]  So far, so good.
+- \[00:00:54\]  All right.
+- \[00:00:55\]  So far, I'm sure.
+- \[00:00:56\]  How's that looking?
+- \[00:00:57\]  Perfect.
+- \[00:00:58\]  Yeah, I can see it.
+- \[00:00:59\]  Great.
+- \[00:01:00\]  OK, let's put this over here.
+- \[00:01:01\]  Yeah, great.
+- \[00:01:02\]  OK, so so this is the new paper that just recently came out, and it's a more mature
+- \[00:01:13\]  version of the rupturing theory that now both consider is not just the mental causation
+- \[00:01:17\]  or like the agency part, but also the other direction.
+- \[00:01:20\]  Like how does something non-mental become part of the mental part of subjective experience,
+- \[00:01:25\]  a part of mental content?
+- \[00:01:27\]  And so now it has these both classic problems, which, you know, come in many varieties.
+- \[00:01:35\]  But I think now in this paper, for the first time, I see a way in which we can do science
+- \[00:01:40\]  with that, which is getting me very excited.
+- \[00:01:41\]  So I'm going to take us through like the main figures because they kind of encapsulate the
+- \[00:01:46\]  different stages of the argument.
+- \[00:01:49\]  So we start here.
+- \[00:01:52\]  OK, so the human version of the mind body problem.
+- \[00:01:57\]  So, you know, we're asking here the big questions.
+- \[00:01:59\]  How is the mind related to matter and vice versa?
+- \[00:02:03\]  And you know, analytic philosophers have been banging their head against this problem for
+- \[00:02:06\]  a long time.
+- \[00:02:08\]  And if you read Kim's kind of like final book account of this, I quite enjoyed it for its
+- \[00:02:13\]  clarity of showing that even if we solve the problem of mental causation by going kind
+- \[00:02:19\]  of a reductionist route and just basically saying that, you know, the mental is the physical
+- \[00:02:23\]  and therefore the physical can cause the physical.
+- \[00:02:26\]  You lose a lot of what is nice about thinking about the mind in terms of its qualities and
+- \[00:02:31\]  teleology and your intentions and free will.
+- \[00:02:34\]  Everything goes out the window, but you might save causality.
+- \[00:02:37\]  Right.
+- \[00:02:38\]  So you still might get mental causation saved that way.
+- \[00:02:41\]  But the problem is that if some of our things that we do depend on conscious experience,
+- \[00:02:48\]  then the problem is not fully solved, because that would mean that you also have to have
+- \[00:02:51\]  an account to solve the hard problem of consciousness, to have a full account of mental causation.
+- \[00:02:56\]  And so right from the start, I want to say I want to be realist about this in the sense
+- \[00:03:00\]  that, you know, I do think that our experiences make a difference for how we behave.
+- \[00:03:04\]  Right.
+- \[00:03:05\]  And if someone wants to say that our experience don't make a difference to how we behave,
+- \[00:03:09\]  we kind of like have two different premises, like the conversation kind of stops there.
+- \[00:03:14\]  But to my mind, you know, it's a very hard sell to try to argue that our experiences
+- \[00:03:18\]  don't make a difference.
+- \[00:03:19\]  You basically lose most of the population of this planet basically just, you know, exits
+- \[00:03:23\]  the conversation.
+- \[00:03:24\]  Right.
+- \[00:03:25\]  So we should do our best not to go down that route.
+- \[00:03:28\]  But what that means is that we also have to solve the problem of consciousness.
+- \[00:03:32\]  So these are interlocked.
+- \[00:03:33\]  Right.
+- \[00:03:34\]  And this is a big problem.
+- \[00:03:35\]  It gets worse because you might think, well, that's just for people, you know, because
+- \[00:03:39\]  that's the problem of consciousness.
+- \[00:03:40\]  You know, if you talk about rats or, you know, even more basal cognition, then this might
+- \[00:03:44\]  not be an issue.
+- \[00:03:46\]  But what I propose is that actually there's a more general mind body problem lurking in
+- \[00:03:50\]  the background.
+- \[00:03:51\]  So on the left hand side, I call this the heart problem of efficacy, which is that for
+- \[00:03:56\]  any mental property, let's say a representation, a goal state or whatever you have, there is
+- \[00:04:03\]  a problem explaining how that state as such as being a mental state makes a difference
+- \[00:04:09\]  to the physical state.
+- \[00:04:11\]  So it's a generalization of the problem of mental causation.
+- \[00:04:13\]  So it's not good enough to say there's a supervenience relationship or something like that.
+- \[00:04:17\]  But the causality at the bottom level maintains, you know, what I want to say is, how do we
+- \[00:04:23\]  say that the goal as being a goal, as being an intention, as having normativity conditions,
+- \[00:04:28\]  as being able to succeed or to fail or to be better or worse and things like that, the
+- \[00:04:33\]  whole normativity of it, that also somehow needs to be able to account it for in this
+- \[00:04:39\]  kind of account. Right.
+- \[00:04:41\]  And that's the heart problem of efficacy.
+- \[00:04:43\]  And then we have the heart problem of content, which is how does anything even become part
+- \[00:04:47\]  of the mind in the first place?
+- \[00:04:49\]  And so representationism, for example, just kind of brushes this away a little bit.
+- \[00:04:54\]  But let's say even if we gave representationists half of this and said, OK, let's don't
+- \[00:05:00\]  worry about how to naturalize content in terms of its origins.
+- \[00:05:03\]  Let's say some future point, we have a story of how you go from something purely
+- \[00:05:08\]  physical to something that has semantic content, has mental content, that has about this
+- \[00:05:12\]  condition or normativity.
+- \[00:05:14\]  Let's assume that problem is solved.
+- \[00:05:16\]  Then we still have the problem of how does that even make a difference to something
+- \[00:05:20\]  physical? You know, take a thing like, I don't know, like a neuron in the brain that's
+- \[00:05:26\]  supposed to represent, I don't know, your place in the maze or something like that, your
+- \[00:05:31\]  classic place cell stuff.
+- \[00:05:33\]  Well, the fact that it's representational, that it has representational content, which is
+- \[00:05:38\]  kind of like Nobel Prize winning material.
+- \[00:05:40\]  Right. So this is exciting stuff.
+- \[00:05:42\]  We find the correlation.
+- \[00:05:44\]  But then where in our analysis of the neural activity itself does the content enter the
+- \[00:05:49\]  picture? All right.
+- \[00:05:51\]  So when we look into the brain and say, here's this neuron and we know it's correlated
+- \[00:05:57\]  with this content outside of the brats, like being in its position in the maze.
+- \[00:06:01\]  But hey, you know, like the rest of what we're seeing here is just physics.
+- \[00:06:05\]  It's just biochemistry.
+- \[00:06:06\]  It's electrical potentials.
+- \[00:06:07\]  Right. It's like, you know, membranes opening and closing and molecules floating around.
+- \[00:06:11\]  There's no content there.
+- \[00:06:13\]  There's no normativity, just physics.
+- \[00:06:15\]  Right. So there's a kind of sense of disconnect here where how do we even work across
+- \[00:06:22\]  this gap? And my feeling is that this is not we can't just, you know.
+- \[00:06:27\]  Talk it away.
+- \[00:06:28\]  My feeling is that we should face it head on and say, yes, there is a big gap here.
+- \[00:06:32\]  Right. On the one hand, we can talk about content and consciousness and the mental and
+- \[00:06:36\]  intentions and norms, health, you know, being worse or better and so on.
+- \[00:06:42\]  Terms that have no frame of reference in the purely physical sciences.
+- \[00:06:46\]  But they do have an existence and we know they make a difference.
+- \[00:06:49\]  So we are realist about it.
+- \[00:06:50\]  So why don't they show up when we do our best science?
+- \[00:06:53\]  You know, and one of the things that, you know, already should come out of this is that
+- \[00:06:58\]  just because they don't show up as such doesn't mean that they don't make any difference.
+- \[00:07:02\]  OK, so that there are two different things here.
+- \[00:07:04\]  One would be a demand for observability and even maybe intelligibility.
+- \[00:07:09\]  So I observe something and it makes sense as a content.
+- \[00:07:13\]  And the other one is to say, well, maybe that's not what I can do here.
+- \[00:07:16\]  But I noticed that something else is happening that wouldn't happen otherwise, you know, if
+- \[00:07:20\]  the system wouldn't be in such a state and so on.
+- \[00:07:23\]  So, you know, so far, most people have demanded that the mechanism should be observable and
+- \[00:07:28\]  intelligible. But why should we assume that?
+- \[00:07:31\]  Right. There's a big gap here.
+- \[00:07:33\]  And we know already from other fields, quantum physics, a prime example, that demanding
+- \[00:07:38\]  intelligibility and observability can be a big stumbling block.
+- \[00:07:42\]  Right. Sometimes you just have to get in and say, yeah, you know, we don't understand why
+- \[00:07:45\]  it's happening, but something's happening and we can measure that and we can work with
+- \[00:07:48\]  that, you know. But so far, cognitive science hasn't done this, allowed itself to
+- \[00:07:53\]  conceive this possibility.
+- \[00:07:56\]  So let's go down.
+- \[00:07:58\]  So what I want to propose is that we do need to make this room for this conception.
+- \[00:08:02\]  That's why I call it a black box framework.
+- \[00:08:04\]  Let's just for a moment accept that we don't understand this relationship.
+- \[00:08:10\]  So we have two versions of that.
+- \[00:08:11\]  Let's stick with the human one for a moment because it's easier for us to relate to.
+- \[00:08:16\]  So we have mental causation.
+- \[00:08:17\]  The scenario is.
+- \[00:08:19\]  You know, putting our neuroscience hats on or whatever, you know, looking inside an
+- \[00:08:23\]  organism. OK, if something mental makes a difference to its material basis of this
+- \[00:08:29\]  behavior, you've got an unobservable mental cause, right?
+- \[00:08:33\]  Like I just said, we just have physical stuff happening.
+- \[00:08:36\]  We don't see the mind as such when we go inside the organism.
+- \[00:08:39\]  Causing an unintelligible material event, and it's unintelligible because we cannot
+- \[00:08:44\]  directly observe what caused it, what made the difference.
+- \[00:08:49\]  That's outside of the scope of observation when we make quantitative assessments.
+- \[00:08:54\]  And the other way around is the same.
+- \[00:08:56\]  So, you know, we know that some things happening in the brain make a difference to
+- \[00:09:00\]  mental content or make a difference to subjective experience.
+- \[00:09:04\]  But we can't measure subjective experience directly inside the brain.
+- \[00:09:08\]  It's not there. It's not something that we can actually quantify directly.
+- \[00:09:11\]  So that would mean that to the extent that something is making a difference to
+- \[00:09:15\]  experience, you've got a cause without an observable effect.
+- \[00:09:19\]  OK, so you've got an unintelligible material effect event here that something is
+- \[00:09:25\]  happening, some changes happening, but we don't understand why it's happening.
+- \[00:09:29\]  OK, so we've got these two categories, and what's interesting is that they point in
+- \[00:09:34\]  different ways. So that already suggests that the signatures for these kinds of
+- \[00:09:40\]  relationships will be different ones.
+- \[00:09:43\]  And so this is then where I introduce my proposal for how to work with this kind of
+- \[00:09:48\]  situation. And this is the eruption theory, where if we have the mind and the matter
+- \[00:09:55\]  relating to each other and we don't know how, OK, this is the hard problem of efficacy
+- \[00:10:00\]  or mental causation or the hard problem of consciousness.
+- \[00:10:02\]  We know that they're related somehow, but when we trace one domain to the other, it
+- \[00:10:06\]  escapes us. So let's just go through this one more time.
+- \[00:10:09\]  Right. I have an intention of saying words, of moving my hand to make a point.
+- \[00:10:15\]  And I can notice that my intention is making a difference to my body.
+- \[00:10:18\]  Right. If not, it would be crazy.
+- \[00:10:20\]  Right. So, you know, I have the experience that there's a coherence between what I want
+- \[00:10:24\]  to do and what my body does, except that I don't know how my body does it.
+- \[00:10:29\]  If something gets lost along the way, I can see the effect of my intention, but I don't
+- \[00:10:33\]  have access to how it has that effect.
+- \[00:10:35\]  So that's one aspect of the black box.
+- \[00:10:38\]  And it's also true on the other side.
+- \[00:10:40\]  So now imagine I'm a neuroscientist and I look at what's happening in the pathway from
+- \[00:10:44\]  my brain to my arm to make my arm move.
+- \[00:10:47\]  If it's really the intention as such that's making my arm move, well, the neuroscientist
+- \[00:10:52\]  doesn't have access to that.
+- \[00:10:54\]  He can't measure intentions using his, you know, I don't know, EEG apparatus or whatever
+- \[00:10:58\]  he might be using. So again, something gets lost.
+- \[00:11:01\]  I can go work backwards from the behavior to all the activity in my body.
+- \[00:11:05\]  But at the end, something gets lost.
+- \[00:11:07\]  I cannot actually make the jump to the other side.
+- \[00:11:10\]  So that's what I mean with the black box.
+- \[00:11:12\]  We know these things are related, but by some reason, maybe by necessity, we can't trace
+- \[00:11:17\]  properly, translate like transparently across.
+- \[00:11:20\]  And so that's why I propose the way to think about this is in terms of absorption and
+- \[00:11:26\]  eruption. Absorption means that on the side of the mental, when I inject my intention
+- \[00:11:31\]  to do something, it basically there's a compression effect.
+- \[00:11:35\]  You know, Dreyfus talked about this in terms of absorbed coping.
+- \[00:11:38\]  Right. So when I'm really engrossed in my activity, actually, you know, there's a
+- \[00:11:42\]  narrowing of my vision.
+- \[00:11:44\]  You know, there's a the world disappears a little bit into the background.
+- \[00:11:47\]  I lose myself and so on.
+- \[00:11:49\]  There's a kind of like compression of the variability of my experience as it's invested
+- \[00:11:53\]  into the activity of my behavior.
+- \[00:11:55\]  But what happens on the other side?
+- \[00:11:56\]  OK, now you're totally involved in generating your behavior.
+- \[00:11:59\]  But that involvement is subjective involvement.
+- \[00:12:02\]  It can't be, you know, quantified.
+- \[00:12:04\]  It can't be translated into something happening purely in quantitative terms.
+- \[00:12:08\]  So then that means that there's a hidden variable.
+- \[00:12:11\]  OK, now there are factors making a difference to how your behavior is generated that
+- \[00:12:15\]  cannot be traced to causes at that level of description.
+- \[00:12:19\]  That's what I call eruption.
+- \[00:12:20\]  Now there's a kind of diversification, an increase in variability that in principle
+- \[00:12:26\]  would remain unexplained at that level of description.
+- \[00:12:29\]  And, you know, we can trace it back to the higher level.
+- \[00:12:32\]  And that was the original proposal of eruption theory in the first paper, and I
+- \[00:12:36\]  like elaborated on that part a lot.
+- \[00:12:38\]  And there's many examples that we can talk about of, you know, how this fits with some
+- \[00:12:42\]  of the empirical data.
+- \[00:12:43\]  And then we talk about neural entropy and complexity and all these kind of things, you
+- \[00:12:47\]  know, and why organisms are such noisy systems in the first place.
+- \[00:12:50\]  You know, like a lot of this starts to make sense from this point of view.
+- \[00:12:54\]  But then let's talk about the other side first for a moment.
+- \[00:12:57\]  That's the absorption. That's a new part of this paper, which is to say that.
+- \[00:13:02\]  If there's a cause that has an effect which can't be observed, it's a little bit like a
+- \[00:13:07\]  reduction in variability.
+- \[00:13:09\]  That difference that would have been made is now not being made because that difference
+- \[00:13:13\]  appearing in a domain that I cannot directly measure in the one that I'm currently
+- \[00:13:17\]  observing. So there's a reduction in variability.
+- \[00:13:20\]  So two things kind of collapsing or canceling each other out.
+- \[00:13:22\]  There's information loss of a different kind as things are getting kind of translated
+- \[00:13:27\]  into the other domain.
+- \[00:13:29\]  And so right now what I'm working on is more on the right hand side, trying to flesh out
+- \[00:13:34\]  that part. And, you know, it's coming together quite nicely with the things we've been
+- \[00:13:40\]  talking about, like bowtie motifs and things like that, which are very nice ways of
+- \[00:13:43\]  cancelling out things.
+- \[00:13:45\]  I think that's pretty much it.
+- \[00:13:46\]  So just let me just end on one final note, which is that in my mind, this is just a first
+- \[00:13:52\]  step of something much more general.
+- \[00:13:54\]  And so what it looks like to me now is that this is just one special case of an
+- \[00:14:00\]  interaction that crosses two ontological domains or regional domains, regional domains
+- \[00:14:05\]  of being. Or if you want, it could also be considered as crossing different scales of
+- \[00:14:09\]  agency, right? Going from the scale of agency of inside your body and all the agents that
+- \[00:14:13\]  are working there to your agency as a person.
+- \[00:14:17\]  But basically, as long as we have a transition between ontologies of some kind, then
+- \[00:14:23\]  this kind of framework probably will apply to.
+- \[00:14:26\]  And that could even be true for cellular biology, for example.
+- \[00:14:29\]  So when I was reading your work on how is it that the higher levels, you know, transform
+- \[00:14:35\]  the lower levels and how do they get incorporated into the higher levels again, you
+- \[00:14:41\]  have very similar notions, actually, as eruption and absorption already.
+- \[00:14:44\]  So with eruption, the way you phrase it is that there is a deformation of the energy
+- \[00:14:49\]  landscape of the lower level.
+- \[00:14:51\]  Right. So suddenly, you know, these guys are happily doing whatever they're doing.
+- \[00:14:55\]  But now there is an unexpected change in the kind of in the game that they're playing and
+- \[00:14:59\]  they would have to adjust.
+- \[00:15:00\]  And from their point of view, well, they will never be able to figure out why that
+- \[00:15:03\]  happened. What just happened?
+- \[00:15:05\]  That's outside of their scope.
+- \[00:15:07\]  Right. So it's a little bit like an eruption in that sense.
+- \[00:15:09\]  There's an increase in a change, unexpected, and it can't be explained at that level of
+- \[00:15:15\]  description. It just goes beyond it.
+- \[00:15:17\]  And at the same time, when you talk about how the components get integrated into the
+- \[00:15:22\]  larger whole, you talk about something like a loss of identity or something like that.
+- \[00:15:26\]  Right. So, for example, the molecules produced by one cell.
+- \[00:15:30\]  Well, you know, they're not tagged with the name.
+- \[00:15:32\]  Right. So if another cell produces it, you know, they can't distinguish where it's
+- \[00:15:36\]  coming from. So they kind of like, you know, the identity starts to merge between the
+- \[00:15:39\]  different little components. So that's that's very close to what I'm talking here in
+- \[00:15:43\]  terms of absorption.
+- \[00:15:45\]  And so one thing that would be very nice to contemplate is whether this kind of
+- \[00:15:50\]  framework gets a quantitative grip on some of the things that are happening at those
+- \[00:15:54\]  scales. So not just talking about the mind-body problem or mental causation, but just
+- \[00:15:59\]  talking about multiscalar integration to some extent.
+- \[00:16:02\]  So principles that would apply to the left hand side, the eruption side, would be
+- \[00:16:07\]  increases in noise, increases in hidden variables, dimensionality, you know,
+- \[00:16:13\]  entropy, these kinds of things.
+- \[00:16:15\]  So there's an expansion of variability and that expansion is unexpected and to some
+- \[00:16:21\]  extent irreducible to the things that are happening normally in that domain.
+- \[00:16:25\]  And on the right hand side, you have things like compression, maybe synchrony,
+- \[00:16:30\]  symmetries, order parameters, this kind of thing where there's a kind of information
+- \[00:16:35\]  loss as multi components that could be behaving differently normally don't behave
+- \[00:16:41\]  differently. And that's maybe the bowtie motive and things like that fit into that
+- \[00:16:45\]  category. So anyway, that's kind of the mini overview of what the paper proposes.
+- \[00:16:54\]  Cool. Yeah, very, very interesting.
+- \[00:16:58\]  What's your thought on, do you think there is a similar problem in the case of, so
+- \[00:17:04\]  let's say we have some sort of classic computational device, it's running some sort
+- \[00:17:10\]  of algorithm, you know, and then there's the physics perspective where you can see the
+- \[00:17:14\]  electrons shuffling around, you don't actually see the algorithm, whatever it's
+- \[00:17:19\]  doing. Do you think there's a similar dynamic going on there or is there something
+- \[00:17:26\]  unique to the biological case that isn't captured in the software hardware dichotomy?
+- \[00:17:34\]  I think it's a really good question.
+- \[00:17:35\]  It's one that I've started exploring now with some colleagues at UNAM.
+- \[00:17:40\]  And I think I'm changing my mind about it.
+- \[00:17:43\]  So I used to be very resistant to that idea.
+- \[00:17:45\]  I'm slowly coming around to it, especially on the side of absorption.
+- \[00:17:48\]  It's almost like computers are the perfect absorption devices.
+- \[00:17:52\]  All that variability that you have at the level of electrons and so on, computers are
+- \[00:17:56\]  designed such that variability does not matter for the kind of algorithms that are being
+- \[00:18:00\]  implemented. Right.
+- \[00:18:02\]  So if anything, that is the most excellent example of the right hand side.
+- \[00:18:10\]  But here's the problem.
+- \[00:18:11\]  It's like one sided.
+- \[00:18:12\]  Right. It's like, I don't want to put it this way, but it's like we create devices that
+- \[00:18:16\]  are super rich in experience possibly.
+- \[00:18:19\]  Right. So they've got lots of variability that they're absorbing and possibly creating
+- \[00:18:23\]  experiences for them, but they can't do anything about it.
+- \[00:18:27\]  You know, it's the eruption side that's blocked, because if you do have things that are
+- \[00:18:31\]  acting on those things, well, that's like, you know, the old school Windows blue screen
+- \[00:18:37\]  of death kind of stuff. Like suddenly you've got an unexplained change that can't be
+- \[00:18:41\]  reduced to the rules at that level.
+- \[00:18:44\]  Well, you've got error correction.
+- \[00:18:45\]  Right. So either gets thrown out or if it can't be thrown out, well, then you just got a
+- \[00:18:50\]  system failure. So it seems to me that, you know, the issues on that side, it's like if
+- \[00:18:55\]  you wanted to make computers that could fit into this framework, the question would be,
+- \[00:19:00\]  how do we loosen them such that the higher levels can make a difference to the lower
+- \[00:19:04\]  levels in their own terms?
+- \[00:19:06\]  Yeah. Yeah.
+- \[00:19:08\]  Yeah. So we have a we have a weird example that might be relevant to this.
+- \[00:19:14\]  And that's maybe, you know, this.
+- \[00:19:18\]  So I'm very interested in higher order behavior that seems to be in some important sense
+- \[00:19:27\]  decoupled from either the algorithm or the mechanisms underneath in that it is not just
+- \[00:19:34\]  emergent complexity, because emergent complexity is easy.
+- \[00:19:37\]  You know, you get that with cellular automata or whatever that that's easy.
+- \[00:19:40\]  I'm talking about more interesting emergent goal directed behaviors.
+- \[00:19:45\]  And, you know, you've seen this this this this preprint of ours on the on the sorting
+- \[00:19:52\]  algorithms. You know, I purposely wanted to start with the dumbest, simplest system that is
+- \[00:19:57\]  transparent, deterministic.
+- \[00:19:59\]  It's, you know, six lines of code.
+- \[00:20:00\]  Everybody thinks they know what these things do.
+- \[00:20:03\]  And these sorting algorithms.
+- \[00:20:05\]  And it turns out that they have some really interesting behaviors, including this
+- \[00:20:10\]  clustering thing, which is by itself nowhere in the algorithm.
+- \[00:20:14\]  And so I wonder now, now, clearly super primitive, but that was kind of the point.
+- \[00:20:18\]  We wanted a very basal example of this.
+- \[00:20:20\]  But I wonder if if it's related to what you just said, where they on the one hand, on
+- \[00:20:28\]  one hand, yes, in our current architectures, they can't do anything with it.
+- \[00:20:32\]  On the other hand, there seems to me and I think this is all over the place in biology, too.
+- \[00:20:37\]  There seems to me that even even though constrained by a deterministic algorithm that
+- \[00:20:44\]  you know, there's no magic, it doesn't screw up.
+- \[00:20:46\]  You know, it follows the algorithm.
+- \[00:20:49\]  There's no there's no error in that sense.
+- \[00:20:51\]  But it also manages to do some things that are not, so to speak, in the algorithm.
+- \[00:20:58\]  And I wonder if and I think biological things are super good at it.
+- \[00:21:01\]  In fact, I think that's probably what we call biology or systems that are really good at
+- \[00:21:05\]  this. But but fundamentally, I feel like it starts very, very early.
+- \[00:21:09\]  I don't think you need much to start seeing these things appear.
+- \[00:21:13\]  And, you know, where do they come from is a whole other thing.
+- \[00:21:17\]  You know, we face that question with our various synthetic xenobots and anthropods and things
+- \[00:21:24\]  where they've never existed before.
+- \[00:21:25\]  There's no evolutionary long history of selection that would explain why they do so, you know,
+- \[00:21:30\]  why they have certain properties.
+- \[00:21:32\]  So so where it comes from.
+- \[00:21:33\]  And I mean, I'm pretty sympathetic to this to this kind of black box approach, because
+- \[00:21:39\]  I think looking for mechanism and looking for explicit representations in terms of how
+- \[00:21:44\]  it works and where things come from, I think may not always be tractable.
+- \[00:21:49\]  But but yeah, I you know, I think I think already we have some of these some of these
+- \[00:21:56\]  issues in a very minimal way with with even just very simple, stupid computer architectures.
+- \[00:22:03\]  And and then and then there's the whole there's the whole polycomputing thing.
+- \[00:22:07\]  So this is this is what Josh Bungard and I have been working on on this notion that when
+- \[00:22:12\]  you have a physical process, what it is that it's computing is in the eye of the of an
+- \[00:22:17\]  observer and multiple observers.
+- \[00:22:20\]  And in fact, Josh has some some some amazing his student, Atusa, has some amazing actual,
+- \[00:22:26\]  you know, data on this showing that the same physical processes can look like very different
+- \[00:22:31\]  computations depending on how you look at them.
+- \[00:22:33\]  And what is it that it's really computing is is is up to is up to an observer's interpretation,
+- \[00:22:40\]  which I think in biology, that's what's going on is that every every subsystem is
+- \[00:22:45\]  interpreting every other subsystem, however, however it can.
+- \[00:22:49\]  And and then and then that that also gets to this issue of like mental content and the
+- \[00:22:55\]  subjectivity of it, which is, you know, what what is it?
+- \[00:22:58\]  What is it really?
+- \[00:22:59\]  What are these what are these?
+- \[00:23:00\]  And then, you know, these mental causes and so on.
+- \[00:23:04\]  What what what is their actual content?
+- \[00:23:06\]  And is there a privileged one answer to say, OK, that that's the content of that, you know,
+- \[00:23:10\]  that mental state?
+- \[00:23:11\]  Or or could we could we do this kind of polycomputing thing and say, well, there are modules
+- \[00:23:19\]  inside and based on what you were telling me before, there may be even physically external
+- \[00:23:24\]  other beings that that you may be coupled with in some way that will also have an interpretation
+- \[00:23:30\]  of what the what any given mental state is.
+- \[00:23:33\]  So, you know, yeah, I think I this is this is partially why, you know, we were talking
+- \[00:23:39\]  about like how far down it goes.
+- \[00:23:42\]  I think these issues are very deep and they crop up very early.
+- \[00:23:46\]  I you know, I don't think they I don't think we have to wait till we get brains before
+- \[00:23:50\]  before these deep questions come up, you know, of interpretation.
+- \[00:23:54\]  I've heard you talk before about this, you know, poly functionalism or what you call
+- \[00:23:59\]  it.
+- \[00:23:59\]  But isn't it the case that was it put now as someone who used the argument that you can
+- \[00:24:04\]  read any kind of function into physical process as I would talk to an observant for computationalism
+- \[00:24:10\]  in the sense that if you want to be realist about the implementation of the algorithm,
+- \[00:24:15\]  then then, you know, it shouldn't just be the observer who, you know, determines what
+- \[00:24:20\]  kind of algorithm is being run.
+- \[00:24:22\]  Because I don't know what this argument was, but it was basically like, you know, if you
+- \[00:24:24\]  take any bunch of molecules and you just sub select, you know, the right kind of properties,
+- \[00:24:29\]  they'll be running windows or something like that, you know, because this is such a mind
+- \[00:24:34\]  blowing degree of freedom that, you know, there's enough there that, you know, you just
+- \[00:24:39\]  have to be selective and then, you know, you get whatever you want.
+- \[00:24:42\]  But, you know, but the question is, like, does that have downstream consequences for
+- \[00:24:46\]  the process?
+- \[00:24:47\]  Right.
+- \[00:24:48\]  And so there you don't want necessarily the observer to be the one who determines what
+- \[00:24:53\]  it is that was there.
+- \[00:24:55\]  Right.
+- \[00:24:56\]  You know, so I don't know what the reductio there is.
+- \[00:24:59\]  Maybe I need to look it up.
+- \[00:25:01\]  But it seems so far, it seems fine.
+- \[00:25:03\]  Everything you just said seems completely fine to me, because what I think happens in
+- \[00:25:07\]  biology is so in computers, we're used to the fact that there's somebody who wrote the
+- \[00:25:11\]  algorithm and we sort of we tend to take that interpretation as the privileged.
+- \[00:25:16\]  Like, I know what this is.
+- \[00:25:18\]  I wrote it.
+- \[00:25:18\]  That's what I'm telling you.
+- \[00:25:19\]  It's a it's a bubble sort of whatever it is.
+- \[00:25:21\]  But but in biology, you don't get that.
+- \[00:25:23\]  And so every every subsystem with cells, subcellular components, tissues are looking at all the
+- \[00:25:29\]  stuff going on around it.
+- \[00:25:31\]  And they don't you know, they don't get a manual to say, well, what the hell does this
+- \[00:25:35\]  mean?
+- \[00:25:36\]  There's signals coming.
+- \[00:25:37\]  What computation is this?
+- \[00:25:38\]  And I think what they have to do for adaptive advantage is interpreted however they can.
+- \[00:25:44\]  So they form their own internal model of what the computation is and say, oh, I see
+- \[00:25:49\]  what this is.
+- \[00:25:50\]  This is this is telling me, you know, that the metabolism is going to shoot up five minutes
+- \[00:25:53\]  from now and somebody else is some other module is looking at that.
+- \[00:25:56\]  No, no, no.
+- \[00:25:57\]  What I see here is that this set of genes is going to be expressed and therefore I'm
+- \[00:26:01\]  going to do this and that.
+- \[00:26:02\]  And it right.
+- \[00:26:03\]  And in that case, and and and and Josh's in Josh's work, you can see this like it's this
+- \[00:26:10\]  particulate material.
+- \[00:26:11\]  And depending on how you look at it, you see an AND gate or an OR gate.
+- \[00:26:14\]  And there is no privileged answer to, well, which one is it really?
+- \[00:26:18\]  I mean, there is no really.
+- \[00:26:19\]  And I think biology has that takes that to to to to an extreme.
+- \[00:26:24\]  Wait a minute, wait a minute.
+- \[00:26:25\]  Hold on for a second.
+- \[00:26:26\]  Maybe I should read this.
+- \[00:26:27\]  But, you know, if I had a computer built and like, you know, there was an ambiguity whether
+- \[00:26:31\]  an AND gate with an AND gate or an OR gate, would the computer work?
+- \[00:26:35\]  No, right.
+- \[00:26:35\]  I mean, like you have to depend on that.
+- \[00:26:37\]  It does a particular translation of its inputs to its outputs.
+- \[00:26:41\]  And if it doesn't, then then, you know, well, then you have a kind of proper holistic machine
+- \[00:26:46\]  or something like that.
+- \[00:26:47\]  But, you know, it would be some kind of other kind of system.
+- \[00:26:50\]  Well, so so so so let me let me push back on that.
+- \[00:26:53\]  I think that that's true if you stick to one observer and an idea and the idea that I there
+- \[00:27:02\]  is a definitive one thing that I that that observer wants it to do.
+- \[00:27:06\]  And and then, yes, if if the observer can't if if one observer can't tell what it's doing,
+- \[00:27:11\]  that's a real problem.
+- \[00:27:13\]  But I don't think it's a problem if you have a physical device and there are multiple observers
+- \[00:27:19\]  and one observer says, oh, this is this is this is great.
+- \[00:27:21\]  This thing's generating prime numbers.
+- \[00:27:23\]  And somebody else looks at it and says, oh, yeah, whatever I what I see is that it's I
+- \[00:27:29\]  don't know, it's doing it's doing some other function.
+- \[00:27:31\]  Now, you know, for us, I mean, it's it's statistically very unlikely that you can say,
+- \[00:27:36\]  oh, look, it's running Windows and somebody else says, oh, no, it's completely different
+- \[00:27:39\]  because it's it's hard to have a process that matches both those descriptions at the same time.
+- \[00:27:45\]  But but but I think what happens in biology, because there's there's noise, there's there's
+- \[00:27:51\]  a high tolerance for fuzziness and all that.
+- \[00:27:54\]  There are lots of systems that that are looking at the same set of events and interpreting
+- \[00:28:00\]  building internal models of those events as completely different, different things.
+- \[00:28:03\]  And it's like, you know.
+- \[00:28:05\]  OK, but I agree with that.
+- \[00:28:06\]  But that's from the point of view of, you know, looking at it.
+- \[00:28:09\]  Right.
+- \[00:28:09\]  So if the point of view is that there are multiple interpretations possible and that
+- \[00:28:14\]  diversity of points of view is helpful in some way for the systems around it, I can
+- \[00:28:20\]  only agree with that.
+- \[00:28:21\]  And I think that's interesting to explore.
+- \[00:28:22\]  But that's very different than saying that those multiple possible perspectives make
+- \[00:28:27\]  a difference to the process itself, which is lending itself to be interpreted in these
+- \[00:28:30\]  multiple ways.
+- \[00:28:31\]  Well, what I think what I think then happens is so the so the second the other side of
+- \[00:28:35\]  the equation, and I think you're absolutely right in how you divide this right into the
+- \[00:28:39\]  two the two sides.
+- \[00:28:40\]  So the other side is Tenenbaum's.
+- \[00:28:43\]  Have you seen this his paper, The Child as a Hacker?
+- \[00:28:47\]  A child is a hacker.
+- \[00:28:48\]  It's also me.
+- \[00:28:50\]  It's it's it's really good.
+- \[00:28:51\]  And it's this notion overall.
+- \[00:28:52\]  I mean, so so like I sort of expand that beyond me.
+- \[00:28:56\]  He's he's studying, you know, the brains and human development and so on.
+- \[00:29:00\]  This the notion of hacking is where what's fundamental there is that you don't know or
+- \[00:29:07\]  care what the correct way to to interact with the system is.
+- \[00:29:12\]  You are going to exploit it however you can.
+- \[00:29:14\]  Right.
+- \[00:29:14\]  That's that's kind of this notion of it.
+- \[00:29:16\]  And so so I think what happens in the in the biology is that part of interpreting these
+- \[00:29:21\]  things however you want is that you are also going to use that to control them however
+- \[00:29:26\]  you can.
+- \[00:29:27\]  So you try to find ways.
+- \[00:29:29\]  Right.
+- \[00:29:29\]  So so I think that's basically what's happening in in biological material is that every both
+- \[00:29:35\]  within levels and across levels, you have systems that are constantly hacking each other
+- \[00:29:39\]  and trying to agree.
+- \[00:29:40\]  So here we're on the same page.
+- \[00:29:41\]  Actually, like, you know, this is something that also follows from the framework I was
+- \[00:29:45\]  proposing, because if there's a black box, basically components at different levels have
+- \[00:29:50\]  to have a high level of tolerance of uncertainty and they have to have to have trust to some
+- \[00:29:55\]  extent.
+- \[00:29:55\]  And sometimes from their point of view, it doesn't make sense what's going on around
+- \[00:29:59\]  But that doesn't mean that they should disengage or kind of like, you know, fight it or try
+- \[00:30:03\]  to resist it or counteract it, because what it could mean is that actually it's a different
+- \[00:30:07\]  level of agency, a higher level of agency, rearranging things, aligning things.
+- \[00:30:12\]  And, you know, you need to just roll with it, even if you don't have everything that
+- \[00:30:16\]  you know is required in order to understand where that's coming from.
+- \[00:30:19\]  And but if because of that, there is a gap for, you know, free riders or pathogens or
+- \[00:30:25\]  something like that, to take advantage of exactly the same trust trusting nature that,
+- \[00:30:30\]  you know, OK, today I'm producing this other molecule.
+- \[00:30:33\]  I don't know why I'm producing it.
+- \[00:30:34\]  Yeah, it turned out you're hijacked by a virus and it's not, you know, the higher levels
+- \[00:30:38\]  that are kind of like, you know, messing with you.
+- \[00:30:39\]  So but yeah, that's kind of built into this system.
+- \[00:30:42\]  So you can't avoid it.
+- \[00:30:44\]  You know, that's because it's such an indirect architecture that which allows the multiscalar
+- \[00:30:49\]  integration is also that which allows like, you know, bad things happening to some extent.
+- \[00:30:53\]  Well, absolutely.
+- \[00:30:54\]  And my guess is and we're now starting to explore this experimentally is that systems
+- \[00:31:01\]  have probably biological systems probably have ways to try to determine whether something
+- \[00:31:07\]  that's happening was caused by me versus.
+- \[00:31:12\]  Nice.
+- \[00:31:13\]  I want to do the same for the brain.
+- \[00:31:14\]  Yeah.
+- \[00:31:14\]  There should be probably some frame of reference in the background that tells you how much
+- \[00:31:18\]  unexpectedness should you be expecting at each moment.
+- \[00:31:22\]  Like what rate of unexpected events, for example.
+- \[00:31:25\]  And if it exceeds your expected rate of unexpected events, something else is messing with you.
+- \[00:31:30\]  Yeah, that's right.
+- \[00:31:32\]  So it's the question of there's a couple of ways to pose it like, am I learning or am
+- \[00:31:36\]  I being trained?
+- \[00:31:37\]  That's an interesting distinction, right?
+- \[00:31:39\]  Because how much agency is there in my environment?
+- \[00:31:42\]  Is there another agenda that's responsible for my learning process?
+- \[00:31:45\]  And if you're a cell, so the way we're going to do it is basically to look at our readout
+- \[00:31:53\]  is going to be stress response and some other things.
+- \[00:31:55\]  But, you know, you can imagine a cell or a group of cells and you can imagine messing
+- \[00:31:58\]  with it in progressively different degrees of internal targeting.
+- \[00:32:02\]  So here's a signal that comes from the outside of the cell.
+- \[00:32:05\]  Fine.
+- \[00:32:05\]  Here's a signal that we generated in the second messenger pathway right under the membrane.
+- \[00:32:10\]  Here's something that we did in the nucleus itself.
+- \[00:32:13\]  Right.
+- \[00:32:13\]  At what point does the cell say, yeah, that's cool.
+- \[00:32:17\]  That's what I'm doing versus, you know, oh, no, this is clearly coming from outside.
+- \[00:32:21\]  And I think.
+- \[00:32:22\]  So this has quite a response like a brain stimulation.
+- \[00:32:25\]  So I want to get into that for our lab.
+- \[00:32:28\]  And one reason is that if eruption theory is on the right track, you know, doing TMS
+- \[00:32:32\]  to the brain or whatever stimulation is basically eruption simulation, right?
+- \[00:32:36\]  So suddenly you have an uncaused fluctuation in activity.
+- \[00:32:40\]  But from the point of view of the local components in the brain, they're used to that.
+- \[00:32:44\]  That's the always that's already how they always get impacted by higher levels of organization.
+- \[00:32:49\]  So then it's kind of like we're speaking the language of the higher levels of organization
+- \[00:32:54\]  by injecting this, you know, external variability.
+- \[00:32:58\]  And that's nice because then we can actually play with this.
+- \[00:33:01\]  Like, you know, we can say, what's the rate of agency that the system is currently expecting?
+- \[00:33:06\]  And there's all kinds of interesting things like, you know, why is deep brain stimulation
+- \[00:33:10\]  helpful for overcoming, I don't know, obsessive compulsive disorder or maybe like helpful
+- \[00:33:15\]  in depression and so on.
+- \[00:33:16\]  So certain conditions where our agency becomes constricted, somehow compressed or limited
+- \[00:33:21\]  are helped by what otherwise look like kind of crude interventions.
+- \[00:33:24\]  Like, you know, why should just putting this kind of like, you know, random stimulation
+- \[00:33:28\]  somewhere in your brain, you know, have the same effect as you opening up your space of
+- \[00:33:32\]  agency possibilities.
+- \[00:33:34\]  That's very strange.
+- \[00:33:35\]  But if the way in which agency of a personal level connects with the subpersonal level
+- \[00:33:40\]  is only indirectly through this deformation of the state space in unexpected ways, basically,
+- \[00:33:45\]  well, then all you have to do is deform it in unexpected ways to mimic to some extent
+- \[00:33:49\]  the signals that they're expecting from the higher levels.
+- \[00:33:53\]  That's a really interesting point.
+- \[00:33:56\]  I wonder if, and this is like totally beyond my expertise, but I wonder if some aspects
+- \[00:34:04\]  of plastigens and psychedelics and things like this can be understood by what you're
+- \[00:34:08\]  really doing is lowering the vigilance of the system to act from the higher levels.
+- \[00:34:15\]  Right.
+- \[00:34:16\]  So that you're more willing to sort of not resist.
+- \[00:34:19\]  I mean, this issue of resistance, right, knowing that you're being hacked, whether right,
+- \[00:34:23\]  whether laterally, whether by a parasite, whether by a miss, like a malfunctioning component
+- \[00:34:29\]  or from above by some, you know, some higher level of organization, that resistance like
+- \[00:34:35\]  biomedically, this is huge, because one reason I think why we have some trouble designing
+- \[00:34:40\]  new drugs that actually fix anything.
+- \[00:34:42\]  I mean, we have almost other than antibiotics and surgery, we have basically nothing that
+- \[00:34:46\]  fixes anything, right?
+- \[00:34:47\]  These drugs hold down some symptoms, best case scenario, but they don't really fix anything.
+- \[00:34:52\]  And I think part of it is that we are operating in a way that's very easy for the cells to
+- \[00:34:58\]  tell and try to fight back.
+- \[00:35:00\]  I like it.
+- \[00:35:01\]  Yes.
+- \[00:35:01\]  That's the limit, right?
+- \[00:35:03\]  The limit of electromagnetism.
+- \[00:35:05\]  I know that someone else is messing with me.
+- \[00:35:07\]  That's not coming from the higher level of organization.
+- \[00:35:09\]  Yeah, because it's such micromanagement and the cell, there's this, you know, receptor
+- \[00:35:15\]  that's being targeted by some.
+- \[00:35:17\]  That's why, you know, you see all these drugs and then there's like a list of potential
+- \[00:35:22\]  side effects that are a mile long that, you know, your head will fall off and you'll go
+- \[00:35:25\]  blind.
+- \[00:35:25\]  Yeah, I know you're actually on the right track here.
+- \[00:35:27\]  So I'm thinking that there could be a spectrum of possibilities.
+- \[00:35:30\]  Because we're now we're separating mind and matter a little bit, just a tiny gap between
+- \[00:35:35\]  them.
+- \[00:35:35\]  It opens up two possibilities.
+- \[00:35:37\]  Imagine we have a reduction in agency like dementia.
+- \[00:35:40\]  Okay, so people stop being able to express themselves, language goes away, they stop
+- \[00:35:44\]  being able to, you know, take care of themselves and so on.
+- \[00:35:46\]  But in that case, it could be that the brain itself is no longer, you know, flexible enough
+- \[00:35:52\]  to be able to receive these kinds of perturbations and let them percolate through the system
+- \[00:35:56\]  and scale them up in the right kinds of ways.
+- \[00:35:58\]  Could be that agency is almost intact to some extent, like the mind is still there, but
+- \[00:36:02\]  it just cannot find the channel to express itself.
+- \[00:36:05\]  On the other hand, maybe in some other cases, like I say, depression, it could be that,
+- \[00:36:09\]  you know, the brain is fine, you know, it's actually ready to receive whatever you're
+- \[00:36:12\]  going to send it.
+- \[00:36:13\]  But there's something happening at the level of motivations and will and like experience,
+- \[00:36:17\]  which the person is overwhelmed or for whatever reason, it's not sending the kind of, you
+- \[00:36:22\]  know, impactful interventions that would normally make the body move in the right kind of ways.
+- \[00:36:27\]  So both might from the outside look similar in the sense that there's a reduction of
+- \[00:36:31\]  engagement with the world, but the physiology of it could be very different.
+- \[00:36:35\]  So I like that because it feels more natural to have these two possibility axis.
+- \[00:36:40\]  You know, it's not always everything in the same place.
+- \[00:36:43\]  Yeah.
+- \[00:36:43\]  And what you're saying about the fact that we need to be a little bit more clever about
+- \[00:36:47\]  how we interact with that, I really like that.
+- \[00:36:49\]  So that makes a lot of sense.
+- \[00:36:50\]  So and what you're saying about, you know, intervening in the different levels, we're
+- \[00:36:54\]  starting to think about that too in terms of humans.
+- \[00:36:56\]  Right.
+- \[00:36:56\]  So we can trigger muscles directly, you know, by applying, you know, contraction to your
+- \[00:37:02\]  nerve fibers here.
+- \[00:37:03\]  That's you can grasp like that.
+- \[00:37:05\]  And that also can feel like you're actually doing it if it's doing in a good way.
+- \[00:37:09\]  But what if we do it like, you know, from here or what if we do it by doing something
+- \[00:37:13\]  here?
+- \[00:37:14\]  At which point, you know, is there a sense for, hey, this is not me doing it anymore
+- \[00:37:18\]  or something like that?
+- \[00:37:19\]  Yeah.
+- \[00:37:19\]  Yeah.
+- \[00:37:20\]  That's that's very interesting.
+- \[00:37:21\]  I was I was actually trying to look up some papers on this related to confabulation.
+- \[00:37:25\]  And, you know, people people with like I've seen, you know, examples where somebody has
+- \[00:37:31\]  an electrode in their in their brain and in a triggers laughing.
+- \[00:37:35\]  And so push the button and your mouth starts laughing.
+- \[00:37:39\]  The patient doesn't report.
+- \[00:37:40\]  That's weird.
+- \[00:37:40\]  I was I was having a serious thought and then my mouth starts laughing.
+- \[00:37:44\]  But they say, oh, I had a funny, you know, I thought of a funny joke.
+- \[00:37:47\]  That's what they say.
+- \[00:37:48\]  So so this issue of confabulation and to what extent does the system, as you said, does
+- \[00:37:55\]  the system take this on as, OK, I'm going to tell a coherent story of why it was me
+- \[00:37:59\]  versus I'm going to accept that.
+- \[00:38:02\]  And actually, the dementia and I just wanted to say another quick thing about dementia
+- \[00:38:07\]  and those things.
+- \[00:38:08\]  I have a collaborator who is a hospice nurse and she cares for she's not a scientist, but
+- \[00:38:16\]  she's a she's a long term hospice nurse with a lot of experience.
+- \[00:38:19\]  And we're actually writing a paper on case studies where what seems to there's this
+- \[00:38:24\]  phenomenon called terminal lucidity, which is really interesting, where basically you
+- \[00:38:28\]  have somebody that has been in a very debilitated state for a really long time and and it's
+- \[00:38:33\]  just progressively been going down.
+- \[00:38:35\]  They don't speak, you know, all that stuff.
+- \[00:38:36\]  And you think, OK, you know, that that's it.
+- \[00:38:38\]  Like, it's all gone.
+- \[00:38:39\]  And then I think I forget the exact amount of time, but I think it's like a couple of
+- \[00:38:43\]  days before they actually die.
+- \[00:38:45\]  It all comes back and they have a lucid conversation with people and they, you know, they
+- \[00:38:50\]  remember things and they give some, you know, some some instructions and whatever.
+- \[00:38:53\]  And like there's this like sudden, sudden burst like, you know, and it's and it's right.
+- \[00:38:57\]  I don't think there's a good clinical understanding of it, because if it's just the fact of the
+- \[00:39:01\]  of the hardware degrading, then, you know, that that's nice.
+- \[00:39:05\]  Yeah.
+- \[00:39:05\]  So having a slight gap in our account would allow for that, you know, that possibly.
+- \[00:39:10\]  Exactly.
+- \[00:39:11\]  Yeah.
+- \[00:39:11\]  Yeah.
+- \[00:39:11\]  I like it.
+- \[00:39:13\]  So I think, you know, I think there's that clinical component.
+- \[00:39:15\]  I think it would be cool to study some of that stuff from from the perspective of the
+- \[00:39:19\]  of the model that you're you're putting forward.
+- \[00:39:21\]  I think that could help.
+- \[00:39:22\]  Here's another interesting example, clinical example, which is if we think about the
+- \[00:39:27\]  absorption side, what would be the maximum version of it?
+- \[00:39:32\]  It would be if almost the whole brain is, you know, in synchrony.
+- \[00:39:37\]  OK, so that's like, you know, all the local variability, everything, you know, each neuron
+- \[00:39:40\]  has tens of thousands or connections coming in, all the variability.
+- \[00:39:44\]  Suddenly they're all like firing in unison.
+- \[00:39:46\]  Right.
+- \[00:39:46\]  So it's a huge reduction of complexity, lots of information loss.
+- \[00:39:50\]  But when you do that, agency goes out the window, you collapse.
+- \[00:39:54\]  OK, that also makes sense because now you can't have any more eruption.
+- \[00:39:57\]  Right.
+- \[00:39:58\]  Everything is ordered.
+- \[00:39:59\]  Everything is regimented.
+- \[00:40:00\]  It's no possibility for, you know, injecting spurious variability anymore.
+- \[00:40:03\]  Just gets, you know, there's no room for it.
+- \[00:40:05\]  OK, so no more agency.
+- \[00:40:07\]  But the model would predict that experience might still happen.
+- \[00:40:11\]  In fact, it might even be more happening than in a normal state.
+- \[00:40:15\]  And so I started, you know, just a little bit investigating it.
+- \[00:40:18\]  But for some people, indeed, having an eleptic fit can come with all kinds of experiences,
+- \[00:40:26\]  you know, even like divine intervention kind of experiences.
+- \[00:40:28\]  Right.
+- \[00:40:28\]  So, you know, like, you know, having a, you know, something that changes your life kind
+- \[00:40:33\]  of experience can happen under those states.
+- \[00:40:36\]  So that's interesting in the sense that it fits again with this model that, you know,
+- \[00:40:40\]  on the one hand, although it knocks out agency, now your experience channels have been opening
+- \[00:40:45\]  up, you know, on the other hand.
+- \[00:40:48\]  And so it's and something, you know, like there's something there that, you know, there's
+- \[00:40:54\]  lots of this kind of thing that, you know, you mentioned psychedelics.
+- \[00:40:57\]  We didn't talk about this, but, you know, it's like the other way.
+- \[00:41:00\]  Maybe it's actually loosening things up.
+- \[00:41:01\]  So it becomes easier to integrate with your brain.
+- \[00:41:05\]  And that fits very nicely also with other work that shows that if you're under anesthesia,
+- \[00:41:11\]  you know, if you measure neural entropy, complexity, diversity of signals, it turns out that if
+- \[00:41:16\]  you're doing a cognitive task while you're slowly falling unconscious, if you're doing
+- \[00:41:21\]  the task well, your neural entropy is higher than baseline.
+- \[00:41:24\]  So even though you're falling unconscious, your neural entropy goes up more than expected.
+- \[00:41:28\]  But if you're actually falling unconscious and you're stopped being able to do the task,
+- \[00:41:31\]  then it goes down.
+- \[00:41:33\]  So assuming that both groups of people actually are losing consciousness, then this kind of
+- \[00:41:37\]  entropy is not tracking the state of awareness.
+- \[00:41:40\]  It's tracking your cognitive effort.
+- \[00:41:43\]  How involved are you mentally in what's happening?
+- \[00:41:47\]  And that's going back to dementia.
+- \[00:41:48\]  One of the best things you can do for preventing onset of dementia is learning extra languages,
+- \[00:41:54\]  you know, like, you know, engaging in extra normative frameworks, you know, becoming able
+- \[00:41:58\]  to respond in a much more multifaceted way to your environment.
+- \[00:42:02\]  And if you think about the way in which we lived before, you know, modernization, to
+- \[00:42:06\]  some extent, we were embedded in a symbolic world, you know, everything had meaning, you
+- \[00:42:10\]  know, nothing happens just by chance, you know, like, the fact that this cat crossed
+- \[00:42:13\]  the road might mean that my mother will die, or I don't know, something, you know, so,
+- \[00:42:17\]  so everything had super significance.
+- \[00:42:19\]  And this kind of symbolic framework was overlaying on all of our perception.
+- \[00:42:24\]  And if involvement, mental involvement in our behavior is actually causing eruptions,
+- \[00:42:31\]  well, then that has very loosening effects on everything.
+- \[00:42:35\]  So it makes sense to me that the best way of preventing your, you know, like things
+- \[00:42:40\]  freezing up, so to speak, is to actually become more involved normatively.
+- \[00:42:44\]  And it's not just about, you know, autopilot stuff, this is important, right?
+- \[00:42:48\]  So it's not, if you're just an autopilot, you know, your body can take over.
+- \[00:42:51\]  And maybe that's also a little bit about what you were saying in terms of stimulation.
+- \[00:42:55\]  And then, you know, this kind of confabulation happening, right?
+- \[00:42:58\]  It's kind of like the habit, the habit takes over, it's not like you're really freely
+- \[00:43:01\]  willing the words coming forward, it's just that your body has already made response to
+- \[00:43:05\]  the situation that's kind of like, you know, unfolding in that moment.
+- \[00:43:09\]  And I think a lot of our behavior is like that.
+- \[00:43:11\]  And what I've been speculating a little bit that the success of large language models,
+- \[00:43:16\]  to some extent hints that, you know, even when we talk like this conversation right now,
+- \[00:43:20\]  a lot of it is actually habits and our body's predispositions just unfolding themselves
+- \[00:43:25\]  with the affordances in the environment.
+- \[00:43:27\]  And that's why they can be modeled, you know, by just looking at, you know,
+- \[00:43:30\]  linguistic patterns and so on.
+- \[00:43:31\]  And so this is another consequence of the eruption ideas.
+- \[00:43:35\]  And if you have this little gap, it also means that we're no longer directly in control of
+- \[00:43:38\]  our behavior, right?
+- \[00:43:40\]  We can set the intentions, we can open the space of possibilities, we can make things
+- \[00:43:43\]  more flexible, for example, but then you have to be in the right context.
+- \[00:43:48\]  You have to have the right affordances.
+- \[00:43:49\]  You have to have the right history of interactions.
+- \[00:43:51\]  You have to have the right body for that behavior, then to also express itself in the right way.
+- \[00:43:56\]  And if some of these things start crumbling or deteriorating or something like that, then
+- \[00:44:01\]  maybe intentions don't connect that well anymore with your behavior or with your regulation.
+- \[00:44:06\]  But when things work well, it looks like we're in control because, you know, the body just
+- \[00:44:10\]  makes it happen like magic almost.
+- \[00:44:13\]  But, you know, all we can do really is to open spaces of possibilities.
+- \[00:44:18\]  But to turn those into actualities is coming out of our embodied history of interaction
+- \[00:44:22\]  with the environment.
+- \[00:44:25\]  So it's a different take on free will.
+- \[00:44:26\]  It's interesting because, yeah, you're free in the sense that you still have the choice
+- \[00:44:30\]  of opening possibility spaces, but you don't have the choice of how to close them.
+- \[00:44:35\]  The only way to do that is to cultivate the right kind of environment and the right kind
+- \[00:44:39\]  of skill such that you're always poised to respond in a way that you want to be responding.
+- \[00:44:46\]  Yeah, yeah, yeah.
+- \[00:44:47\]  I completely agree with that.
+- \[00:44:48\]  I like the notion of free will that basically extends it to a longer timescale to the idea
+- \[00:44:55\]  that what's free is modification of self and environment to enable you to do it in different
+- \[00:45:01\]  ways in the future.
+- \[00:45:02\]  That's where you get to really exert it.
+- \[00:45:04\]  Right.
+- \[00:45:05\]  Yeah.
+- \[00:45:05\]  Yeah.
+- \[00:45:06\]  Yeah.
+- \[00:45:07\]  Yeah.
+- \[00:45:07\]  And it's a bit strange to think about that in the first place.
+- \[00:45:11\]  Just thinking about like, hey, I can't directly control the next word that's coming out of
+- \[00:45:15\]  my mouth.
+- \[00:45:15\]  I just have to trust my body that it will choose the right word.
+- \[00:45:18\]  Otherwise, I get a Freudian slip or something like that.
+- \[00:45:22\]  Yeah.
+- \[00:45:22\]  But once you're okay with that, then your focus shifts and says, well, what can I do
+- \[00:45:28\]  today such that tomorrow it will be better?
+- \[00:45:31\]  This kind of thing.
+- \[00:45:32\]  Yeah.
+- \[00:45:32\]  Yeah.
+- \[00:45:33\]  I think that's a much more useful view of it.
+- \[00:45:36\]  Yeah.
+- \[00:45:37\]  And I think that's true of all of biology.
+- \[00:45:39\]  This goes the same way.
+- \[00:45:40\]  So there's a slight indirection, which is basically the higher level of organization
+- \[00:45:46\]  can't directly control what the lower level is going to do.
+- \[00:45:49\]  Right.
+- \[00:45:49\]  But you can set the conditions for it.
+- \[00:45:51\]  It gives you more possibilities to do things or it gives you less.
+- \[00:45:55\]  But within that space, I just have to trust that the tendencies are the right ones.
+- \[00:46:04\]  Yeah.
+- \[00:46:06\]  Excellent.
+- \[00:46:06\]  Yeah.
+- \[00:46:07\]  Thanks so much.
+- \[00:46:08\]  This has been very helpful.
+- \[00:46:10\]  I think it's a really interesting framework.
+- \[00:46:12\]  So, yeah, lots to talk about.
+- \[00:46:15\]  Great.
+- \[00:46:16\]  Yes.
+- \[00:46:16\]  Thank you.
+- \[00:46:16\]  I look forward to seeing how you work with this experimentally when you start intervening
+- \[00:46:20\]  at these different stages.
+- \[00:46:21\]  I think that's going to be very insightful.
+- \[00:46:23\]  Yeah.
+- \[00:46:23\]  Well, we'll talk more because I want to get your thoughts on some of the basically using
+- \[00:46:28\]  some of the brain clinical data to inform how we do some of the things in cells.
+- \[00:46:33\]  So we'll talk.
+- \[00:46:35\]  I think that there's a new horizon opening up with this way of thinking.
+- \[00:46:38\]  Suddenly we can quantify these things and then everything changes.
+- \[00:46:41\]  Yeah.
+- \[00:46:42\]  Yeah.
