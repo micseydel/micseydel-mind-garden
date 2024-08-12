@@ -24,6 +24,8 @@
     - ![[Aastha Jain Simes and I interview Min Zhao, a leader in the role of bioelectricity in wound healing#^19dd79]]
 - (2024-04-17; ==0:42:23==) [[Rethinking Biology]]
 - (2024-04-21; 57:27) [[A conversation with Alison Hanson on cognitive science and her trajectory in neurobiology]] ⭐️
+    - She agrees with Levin that neurons aren't all that special, they're just faster: ![[A conversation with Alison Hanson on cognitive science and her trajectory in neurobiology#^733a30]]
+    - Other similar language: ![[A conversation with Alison Hanson on cognitive science and her trajectory in neurobiology#^203d95]]
 - (2024-04-26; 0:55:02) [[Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you (Michael Levin transcription)|Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you]] ⭐️
 - (2024-05-08; 1:18:57) [[Discussion with Michael Pollan of new ideas on memories and Selves]]
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]

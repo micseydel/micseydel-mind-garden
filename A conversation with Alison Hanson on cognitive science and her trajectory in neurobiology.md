@@ -342,8 +342,8 @@
 - \[00:49:40\]  flowing through the computer chip? So that's, that's out there, but that's, that's what I was
 - \[00:49:44\]  thinking on that one. Okay. So, right. So you can build all these things in these different ways
 - \[00:49:48\]  at these different scales. And, and so what might they be doing again? Could they be sort of
-- \[00:49:52\]  maintaining systems at or near criticality, right? If in the human brain, for example with
-- \[00:49:58\]  the default mode network around is thought to be at criticality where I can sort of help the system
+- \[00:49:52\]  maintaining systems at or near criticality, right? If in the human brain, for example with ^c39060
+- \[00:49:58\]  the default mode network around is thought to be at criticality where I can sort of help the system ^3aa952
 - \[00:50:05\]  form patterns at a useful timescale. But you imagine you can also then have a system that's
 - \[00:50:13\]  totally on or totally off. You either have brain death or totally on just be, it's a tonic, chronic
 - \[00:50:20\]  seizure or totally disordered in terms of total, total chaos. And this appears to be what happens
@@ -410,7 +410,7 @@
 - \[00:55:58\]  Right. So yeah. So just to conclude that these things, you know, low frequency electrical
 - \[00:56:02\]  oscillations are found through the living world. We don't really know what they're doing.
 - \[00:56:06\]  This crazy hypothesis is that, are they, you know, overall electrical organism organizers that can do
-- \[00:56:11\]  these three jobs, maintaining systems that are near criticality, that if you get rid of them, you
+- \[00:56:11\]  these three jobs, maintaining systems that are near criticality, that if you get rid of them, you ^b4dca8
 - \[00:56:15\]  go more towards chaos, disorder. And then are they integrating the lower level information? And then
 - \[00:56:23\]  from that top level view, coordinating everything from top down. And then I'm going to start trying
 - \[00:56:29\]  to test these things out. These tools have been built. So there's the, the whirlwind tour. And
