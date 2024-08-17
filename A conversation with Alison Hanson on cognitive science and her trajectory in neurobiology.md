@@ -1,5 +1,6 @@
 - ![](https://www.youtube.com/watch?v=bZPhqwrSC24)
     - (2024-04-21; 57:27)
+    - 2024-04-19
 - \[00:00:00\]  Yeah, thanks so much for joining me. How are you doing?
 - \[00:00:02\]  Awesome. And thank you very, very much for having me. I'm excited. This is going to be fun.
 - \[00:00:06\]  Yeah, I'm really looking forward to it. I want to shine the light on some of the younger people that are doing some amazing stuff, and I'm really excited about your work.
