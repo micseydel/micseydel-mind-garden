@@ -1,0 +1,1296 @@
+---
+created: 2024-08-18T20:24:14-07:00
+updated: 2024-08-22T13:18:49-07:00
+tags:
+  - transcription
+---
+
+- ![](https://www.youtube.com/watch?v=EnM22BJh7cw)
+    - 2024-08-02; 53:54
+- \[00:00:00\]  Right?
+- \[00:00:01\]  Very, yeah, very much so.
+- \[00:00:02\]  No, I've, there's some great stuff
+- \[00:00:05\]  by a philosopher Bernard Williams on immortality
+- \[00:00:09\]  as I recollect that kind of draws up
+- \[00:00:13\]  some interesting identity questions.
+- \[00:00:15\]  Cause if you have a kind of psychological notion
+- \[00:00:17\]  of an identity condition, then yeah, I mean,
+- \[00:00:20\]  you might think that the biological entity that I am
+- \[00:00:24\]  can be kept immortal indefinitely
+- \[00:00:27\]  and I can keep those processes going,
+- \[00:00:30\]  but if you're committed to the psychological identity,
+- \[00:00:32\]  then it gets more tenuous I think.
+- \[00:00:35\]  Or at least there are good reasons to think it's tenuous.
+- \[00:00:38\]  Yeah, yeah.
+- \[00:00:39\]  I just think we should be really careful
+- \[00:00:41\]  about assuming that, you know,
+- \[00:00:43\]  about a hundred years is great, but otherwise too much,
+- \[00:00:47\]  because it's all relative, right?
+- \[00:00:48\]  You could imagine a species like us that lives
+- \[00:00:51\]  kind of like an octopus, you know, really smart,
+- \[00:00:53\]  but lives very short.
+- \[00:00:54\]  And to them, like you guys live a hundred years.
+- \[00:00:57\]  That's crazy.
+- \[00:00:58\]  Nobody could stay sane for a hundred years, you know?
+- \[00:00:59\]  So, I don't know, maybe like we're being chauvinistic
+- \[00:01:04\]  or maybe not, I don't know.
+- \[00:01:06\]  No, I think that absolutely makes sense.
+- \[00:01:08\]  But I think about somebody like Parfait, right?
+- \[00:01:11\]  Who says that, you know, oh yeah, you know,
+- \[00:01:13\]  I think my identity over my lifetime
+- \[00:01:15\]  is stable and consistent,
+- \[00:01:17\]  but he would actually argue, right?
+- \[00:01:18\]  That we have like my sense of values
+- \[00:01:22\]  and the things that I hold and everything else
+- \[00:01:24\]  are just entirely different than three-year-old me.
+- \[00:01:27\]  So he would say I'm actually just an entirely different
+- \[00:01:29\]  person than I was in three,
+- \[00:01:30\]  and that my identity shifts even over the course
+- \[00:01:33\]  of our lifetimes.
+- \[00:01:34\]  It's not stable enough to point at one consistent thing
+- \[00:01:38\]  that's there.
+- \[00:01:39\]  So, you know, if you construe it in that kind of looser
+- \[00:01:42\]  sense, then again, the biological thing is stable enough
+- \[00:01:46\]  to point at, I think, a single trajectory.
+- \[00:01:49\]  But yeah, the psychological identity, it gets tricky.
+- \[00:01:54\]  But I think that in the biological,
+- \[00:01:57\]  I, a little bit, Dan, you've read some of my stuff.
+- \[00:02:00\]  I've kind of been really interested in immortal cell lines
+- \[00:02:04\]  and kind of looked at the tracking identity
+- \[00:02:08\]  through those over time and kind of some of the interesting
+- \[00:02:11\]  stuff that gets, that you get into when you look at
+- \[00:02:14\]  cell division and whatnot there, though.
+- \[00:02:16\]  I guess some of the latest stuff suggests that
+- \[00:02:19\]  there isn't truly symmetrical division among cells,
+- \[00:02:23\]  but I don't know, you would perhaps know more about that
+- \[00:02:26\]  than I do.
+- \[00:02:27\]  Yeah.
+- \[00:02:28\]  Yeah, well, it's really interesting.
+- \[00:02:30\]  Even the biological version, right?
+- \[00:02:32\]  So the kind of caterpillar butterfly thing,
+- \[00:02:36\]  there was a, I forget who it was, maybe Cymac or Asimov
+- \[00:02:40\]  or somebody, but there was a science fiction story
+- \[00:02:42\]  a long time ago where they got life extension
+- \[00:02:45\]  just a little bit, you know, it wasn't much,
+- \[00:02:47\]  but people were living to like 130 years,
+- \[00:02:49\]  you know, something like that.
+- \[00:02:50\]  But that was enough to get them over a hump
+- \[00:02:52\]  where they would start transforming into whatever
+- \[00:02:55\]  the next developmental stage is.
+- \[00:02:57\]  And it's just that nobody had ever noticed it
+- \[00:02:59\]  because nobody made it, nobody lived that long.
+- \[00:03:02\]  But once you get to it, you know, and they were,
+- \[00:03:03\]  I forget what they were doing, growing wings or something,
+- \[00:03:05\]  I forget, but, you know, so even, right?
+- \[00:03:10\]  Even developmentally, like if we did have longer
+- \[00:03:13\]  biologically, who knows what, you know, what further,
+- \[00:03:17\]  I mean, we study this all the time in terms of,
+- \[00:03:19\]  you know, you got these bioelectric pre-patterns
+- \[00:03:21\]  that kind of get you to adulthood, but then what, right?
+- \[00:03:25\]  And maybe if you were to prevent them from degrading,
+- \[00:03:31\]  which is what happens during aging, I think,
+- \[00:03:34\]  maybe there's more transformation down the line
+- \[00:03:36\]  and maybe more stuff would happen biologically,
+- \[00:03:39\]  you know, I think we don't know.
+- \[00:03:40\]  But the cell line, the other interesting thing
+- \[00:03:43\]  that went with the cell line stuff is, you know,
+- \[00:03:45\]  with the anthrobots, right?
+- \[00:03:46\]  So we've made these anthrobots out of human,
+- \[00:03:50\]  from cells donated by adult human donors.
+- \[00:03:52\]  Maybe many of these donors are very elderly.
+- \[00:03:55\]  And by the time we make these anthrobots,
+- \[00:03:57\]  they may or may not still be around,
+- \[00:03:59\]  but the bots are around and they're running around
+- \[00:04:01\]  and doing interesting things.
+- \[00:04:03\]  And, you know, that's like kind of like the cell lines,
+- \[00:04:06\]  but even more so because unlike the cell lines,
+- \[00:04:09\]  these guys, you can test them for behavior.
+- \[00:04:11\]  And so one of the things I'm interested in is,
+- \[00:04:13\]  for example, you get this,
+- \[00:04:14\]  we get a sheet on the donor, right?
+- \[00:04:16\]  So this was a, you know, white male, this, that,
+- \[00:04:20\]  so some of them are smokers.
+- \[00:04:22\]  So now my question is, do the anthrobots seek out nicotine?
+- \[00:04:26\]  And if they do, what else that we don't know how to test for
+- \[00:04:30\]  is being propagated from the donor, right?
+- \[00:04:33\]  We know information moves through the body
+- \[00:04:35\]  and, you know, in the planaria anyway,
+- \[00:04:37\]  it moves from in and out of the brain pretty readily.
+- \[00:04:40\]  So who knows, right?
+- \[00:04:42\]  And then that's a whole other set
+- \[00:04:43\]  of philosophical identity issues,
+- \[00:04:45\]  if it turns out that these bots
+- \[00:04:46\]  are carrying some behavioral traits.
+- \[00:04:49\]  Yeah, no, absolutely.
+- \[00:04:50\]  That would be a super fascinating
+- \[00:04:53\]  if you could kind of track, yeah,
+- \[00:04:55\]  behavioral traits that have been passed along like that
+- \[00:04:59\]  and then track how long they maintain.
+- \[00:05:02\]  And yeah, that would be absolutely.
+- \[00:05:04\]  Following up on your caterpillar butterfly thing,
+- \[00:05:08\]  there's some bioelectric field or set of fields more likely
+- \[00:05:11\]  that are decaying over time as we age, right?
+- \[00:05:16\]  Are there any fields that are just coming,
+- \[00:05:18\]  that are just developing,
+- \[00:05:19\]  that are headed in the other direction,
+- \[00:05:21\]  that are forming as we age?
+- \[00:05:23\]  Because that would suggest that we're a larval stage
+- \[00:05:26\]  in some or an earlier stage in something longer than that.
+- \[00:05:30\]  These fields are developing on different timescales, right?
+- \[00:05:34\]  Yep, yeah, yeah.
+- \[00:05:35\]  We don't know because whole body imaging
+- \[00:05:38\]  is still extremely hard, even in small model systems.
+- \[00:05:42\]  So we have snapshots of specific stages
+- \[00:05:44\]  in frog and planaria and things like that.
+- \[00:05:47\]  We have hardly anything in human.
+- \[00:05:49\]  We have certainly not good sort of timelines like that,
+- \[00:05:54\]  but we're working on those technologies.
+- \[00:05:57\]  So I think that will exist.
+- \[00:05:59\]  And I think it's completely possible.
+- \[00:06:02\]  I think the conventional suggestion would be
+- \[00:06:06\]  that that probably isn't gonna happen
+- \[00:06:08\]  because if that didn't exist as an evolutionary history,
+- \[00:06:11\]  then, because there's all these theories
+- \[00:06:14\]  of disposable bodies.
+- \[00:06:16\]  But I don't-
+- \[00:06:17\]  You know, hen's teeth and horse's toes,
+- \[00:06:20\]  it could be the formulas could be in there
+- \[00:06:24\]  and serving other purposes as well,
+- \[00:06:26\]  which could maintain them evolutionarily.
+- \[00:06:30\]  We're just having fun here anyway.
+- \[00:06:31\]  I'm sure it's not like that.
+- \[00:06:33\]  Tommy, in the Tadpole,
+- \[00:06:35\]  are there adult frog bioelectric fields
+- \[00:06:39\]  that are measurable and changing and documentable ways?
+- \[00:06:44\]  Sure, sure, sure.
+- \[00:06:45\]  Is the adult active during the Tadpole stage?
+- \[00:06:48\]  It's just invisible.
+- \[00:06:49\]  It's absolutely, yeah.
+- \[00:06:51\]  Adult animals absolutely have them.
+- \[00:06:53\]  The question is, what are they doing?
+- \[00:06:55\]  And so the evidence from the adult,
+- \[00:06:57\]  the functional evidence from the adult data
+- \[00:07:00\]  is that they're operating in cancer suppression.
+- \[00:07:04\]  They're operating in wound healing.
+- \[00:07:06\]  They're operating in like local tissue maintenance.
+- \[00:07:10\]  It's unclear whether they're doing
+- \[00:07:13\]  the same very large scale instruction,
+- \[00:07:15\]  the way that they are in development.
+- \[00:07:17\]  But for example, it is known.
+- \[00:07:18\]  So if you take in a rat and you de-nerve it,
+- \[00:07:23\]  like cut the lingual nerve,
+- \[00:07:25\]  the rosettes on the tongue, the papillae,
+- \[00:07:28\]  histologically, they fall apart, they become disorganized.
+- \[00:07:31\]  So that suggests that you need,
+- \[00:07:33\]  now that happens to be neural.
+- \[00:07:35\]  I think the vast majority of it is probably not neural,
+- \[00:07:36\]  but the point is it needs constant upkeep,
+- \[00:07:39\]  and that's a multi-cell type tissue histology kind of thing.
+- \[00:07:44\]  So I wouldn't be surprised at all
+- \[00:07:46\]  if these things were actually,
+- \[00:07:48\]  and that's one of our hypotheses
+- \[00:07:50\]  in our aging regeneration program here,
+- \[00:07:53\]  is that what's happening is that
+- \[00:07:57\]  with age, those patterns become fuzzier.
+- \[00:08:00\]  They sort of degrade and it becomes harder,
+- \[00:08:02\]  and they sort of scale down to the point
+- \[00:08:04\]  where you're just trying to keep individual cells identity,
+- \[00:08:07\]  but the tissue is starting to not have that precise pattern.
+- \[00:08:12\]  So yeah, but they're absolutely measurable
+- \[00:08:15\]  and they do have tissue level roles.
+- \[00:08:17\]  Right.
+- \[00:08:19\]  So I have one item on my agenda with you.
+- \[00:08:23\]  Go for it.
+- \[00:08:25\]  I have to make sure this doesn't come out as garbage,
+- \[00:08:28\]  so let me look at what I wrote here.
+- \[00:08:33\]  One item agenda after, but you go, Dan.
+- \[00:08:36\]  Oh, okay, you wanna go first?
+- \[00:08:38\]  That's fine.
+- \[00:08:39\]  No, no, no, you go, you go.
+- \[00:08:40\]  Okay.
+- \[00:08:42\]  So your notion of encoding of goals,
+- \[00:08:44\]  I both like and dislike that language.
+- \[00:08:47\]  I dislike it because it's the language of machines
+- \[00:08:51\]  and we wanna get away from machine metaphors.
+- \[00:08:53\]  On the other hand, if you're gonna reach people
+- \[00:08:55\]  who already have machine metaphors in their heads
+- \[00:08:58\]  and communicate with them,
+- \[00:08:59\]  it sure helps to use their own, use their language.
+- \[00:09:02\]  So encoding of goals, I think I know,
+- \[00:09:05\]  it's a top-down kind of thing.
+- \[00:09:07\]  It's totally consistent with our view of field theory
+- \[00:09:10\]  of how fields govern lower level things within them.
+- \[00:09:13\]  We've got a lot to agree about there.
+- \[00:09:16\]  One, not roadblock, but one issue for us
+- \[00:09:19\]  is how human motivation is encoded.
+- \[00:09:24\]  And the first pass at this,
+- \[00:09:27\]  the first thought about it would be
+- \[00:09:29\]  that it's gonna be neurally encoded,
+- \[00:09:30\]  that there's gonna be some large-scale pattern
+- \[00:09:32\]  of neural activation that forms the higher level field
+- \[00:09:37\]  in our terms that governs lower level neural activity
+- \[00:09:41\]  like moving and thinking and talking.
+- \[00:09:45\]  First, is this way of thinking about it
+- \[00:09:47\]  consistent with yours?
+- \[00:09:49\]  And then do you know anything about these neural fields?
+- \[00:09:53\]  Yeah, let's see.
+- \[00:09:54\]  Okay, let's talk about that, the human case first.
+- \[00:09:58\]  So I think Earl Miller at MIT has done
+- \[00:10:01\]  some of the most amazing recent work on that topic.
+- \[00:10:04\]  Now, his is mostly for memory
+- \[00:10:06\]  and other aspects of behavior.
+- \[00:10:07\]  I'm not sure he covers goals specifically,
+- \[00:10:09\]  but absolutely he's been a pioneer
+- \[00:10:13\]  in really talking about how the field,
+- \[00:10:16\]  the actual field of the neuronal network,
+- \[00:10:18\]  not the individual neuronal states,
+- \[00:10:20\]  but the field is critical for behavior.
+- \[00:10:23\]  And so you probably wanna take a look at that.
+- \[00:10:26\]  I think it's fantastic stuff,
+- \[00:10:28\]  and we're using a lot of it as an inspiration
+- \[00:10:30\]  to look for that outside the brain.
+- \[00:10:34\]  So the name again was the MIT guy?
+- \[00:10:36\]  Miller, Earl.
+- \[00:10:38\]  Yeah, Earl Miller.
+- \[00:10:40\]  Yeah, M-I-L-L-E-R.
+- \[00:10:41\]  Yeah, really, really, really high,
+- \[00:10:43\]  like state of the art neuroscience.
+- \[00:10:45\]  But so I think that's perfectly reasonable.
+- \[00:10:49\]  The other thing, like, yes, I think that's quite likely.
+- \[00:10:51\]  The other thing I would add to that is
+- \[00:10:53\]  to the extent that goal mechanisms in the human brain
+- \[00:10:58\]  are dependent on memory mechanisms,
+- \[00:11:00\]  I think that this is,
+- \[00:11:02\]  the substrate of memory is a very contentious topic still,
+- \[00:11:05\]  and there's been a bunch of conferences
+- \[00:11:08\]  and lots of people recently kind of putting cracks
+- \[00:11:12\]  in this idea that it's the classic story of synaptic,
+- \[00:11:16\]  that it's all in synaptic plasticity.
+- \[00:11:18\]  And so, right?
+- \[00:11:20\]  And so if that's the case,
+- \[00:11:22\]  a Glantzman had an amazing conference recently
+- \[00:11:26\]  that covered a lot of this stuff at UCLA.
+- \[00:11:29\]  And if that's the case,
+- \[00:11:31\]  then yes, you've got the field and those kinds of things,
+- \[00:11:36\]  but you also have substrates, subcellular substrates
+- \[00:11:40\]  that whether they be cytoskeleton,
+- \[00:11:42\]  some people are into RNA, you know,
+- \[00:11:44\]  as the basis of memories,
+- \[00:11:45\]  there's gonna be that multiscale thing going on, right?
+- \[00:11:49\]  Where, and my conjecture on all of this is that
+- \[00:11:53\]  I don't think there is one mechanism of memory.
+- \[00:11:55\]  I think that basically what the neural nervous system
+- \[00:11:57\]  is doing is using all kinds of things in the cell
+- \[00:12:01\]  as a reservoir, and then it's interpreting
+- \[00:12:04\]  that what the neurons are for,
+- \[00:12:05\]  really for interpreting the information that's there
+- \[00:12:08\]  and confabulating about it because it doesn't,
+- \[00:12:11\]  you know, it can't have the ground truth.
+- \[00:12:14\]  So yeah, but I agree with you that the field
+- \[00:12:17\]  is actually a really important top-down controller.
+- \[00:12:21\]  Just to clarify what you just said,
+- \[00:12:24\]  when we get down to the subcellular level,
+- \[00:12:26\]  whether it's synapses or whether it's
+- \[00:12:28\]  intracellular chemistry or cytoskeleton, whatever it is,
+- \[00:12:32\]  the memory can't be there.
+- \[00:12:34\]  Memory of my cat when I was a kid,
+- \[00:12:36\]  there's no cats down in those cells,
+- \[00:12:38\]  nothing cat-like, nothing cat image-like.
+- \[00:12:41\]  What there is is a pattern of interaction, right?
+- \[00:12:45\]  With that cell and other cells
+- \[00:12:47\]  based on their subcellular machinery,
+- \[00:12:50\]  and that higher level pattern constitutes the memory.
+- \[00:12:54\]  Yes or no?
+- \[00:12:54\]  I agree with you.
+- \[00:12:55\]  Yes, I completely agree with you.
+- \[00:12:56\]  And I further have been recently looking into the notion of
+- \[00:13:03\]  the idea that all of those things are basically messages,
+- \[00:13:07\]  those engrams, whatever the encoded medium is,
+- \[00:13:09\]  are basically messages from your past self
+- \[00:13:12\]  that they, in order to decode them,
+- \[00:13:15\]  you need a creative process because the squeezing down
+- \[00:13:19\]  of rich experience into some kind of
+- \[00:13:21\]  compressed representation where you throw away
+- \[00:13:23\]  all the correlations and everything,
+- \[00:13:26\]  you get this compressed engram.
+- \[00:13:28\]  Decoding it again later is a creative process
+- \[00:13:32\]  because you don't know what it meant before.
+- \[00:13:35\]  You have to do your best to guess, right?
+- \[00:13:37\]  And so, yeah, and so I think it's a constant construction.
+- \[00:13:40\]  And the butterfly caterpillar gives a kind of a,
+- \[00:13:43\]  really, the drastic version of that.
+- \[00:13:44\]  But for all of us, I think we're constantly reconstructing
+- \[00:13:47\]  from the evidence that has been left in the subcellular.
+- \[00:13:51\]  Right, so all that makes sense,
+- \[00:13:54\]  but let me pursue it another step further.
+- \[00:13:55\]  If I were to pluck out one given cell
+- \[00:13:57\]  that's involved, whose subcellular machinery
+- \[00:13:59\]  is involved in the memory of my cat somehow,
+- \[00:14:02\]  pluck it out, there's nothing I could do to that cell,
+- \[00:14:05\]  no experiment I could do that would derive
+- \[00:14:08\]  the notion of my cat from it,
+- \[00:14:10\]  because I need thousands or millions of those cells
+- \[00:14:13\]  with their subcellular machineries programmed
+- \[00:14:15\]  in the right way in order to get the cat idea.
+- \[00:14:19\]  I understand why you're saying that,
+- \[00:14:21\]  and that may well be true,
+- \[00:14:23\]  but I am not 100% sure that's true.
+- \[00:14:25\]  And the reason I'm not sure that's true.
+- \[00:14:27\]  And I don't have a brilliant theory
+- \[00:14:30\]  of how it would be otherwise,
+- \[00:14:32\]  so I totally know why you're saying this,
+- \[00:14:33\]  like it makes sense.
+- \[00:14:35\]  But we've had a number of examples
+- \[00:14:39\]  where very small pieces of tissue
+- \[00:14:44\]  transplanted from one animal to another,
+- \[00:14:46\]  and most of this, by the way, is not classic behavior.
+- \[00:14:48\]  This is behavior in anatomical space.
+- \[00:14:50\]  So it could be that that doesn't hold,
+- \[00:14:52\]  maybe.
+- \[00:14:53\]  But one thing that we see is that very small pieces
+- \[00:14:58\]  from one animal of one state into another
+- \[00:15:02\]  tend to carry across and actually
+- \[00:15:07\]  not only become interpreted correctly,
+- \[00:15:09\]  but actually push the whole host
+- \[00:15:13\]  in a completely different direction.
+- \[00:15:15\]  And I think, I don't know why that is,
+- \[00:15:17\]  but I think it has something to do
+- \[00:15:18\]  with amplification of novelty.
+- \[00:15:21\]  When you get new information,
+- \[00:15:22\]  that it's sort of the flip side
+- \[00:15:25\]  of the surprise minimization.
+- \[00:15:29\]  Like on the one hand, you wanna minimize surprise.
+- \[00:15:30\]  On the other hand, you don't want to be,
+- \[00:15:35\]  you need to explore too, right?
+- \[00:15:36\]  So when you get information that suddenly doesn't agree
+- \[00:15:39\]  with the rest of the body,
+- \[00:15:40\]  you might wanna take that seriously,
+- \[00:15:41\]  something like that, I don't know.
+- \[00:15:43\]  So I'm not sure that even across,
+- \[00:15:49\]  and so this is why we wanna do things
+- \[00:15:51\]  like this anthropo, right?
+- \[00:15:52\]  So I wanna take, so here was a human
+- \[00:15:55\]  whose neurons were adapted to nicotine.
+- \[00:16:00\]  And then now you've made anthropo,
+- \[00:16:02\]  anthropo have no neurons.
+- \[00:16:04\]  They're entirely skin epithet, tracheal.
+- \[00:16:07\]  So if they still have the behavior,
+- \[00:16:09\]  that means that it's crossed over right from that neural,
+- \[00:16:13\]  and we don't have these data yet.
+- \[00:16:14\]  So who knows how this will turn out.
+- \[00:16:17\]  But other people have done things,
+- \[00:16:19\]  cross species memory transplants,
+- \[00:16:21\]  and in planar you can do tail to brain and things like that.
+- \[00:16:25\]  So I don't know how much,
+- \[00:16:29\]  if the information really is,
+- \[00:16:33\]  if the N-grams really are, for example,
+- \[00:16:34\]  cytoskeletal states,
+- \[00:16:37\]  maybe the interpretation machinery
+- \[00:16:38\]  doesn't have to be tons of neurons.
+- \[00:16:40\]  Maybe it can be a lot of the molecular networks
+- \[00:16:43\]  inside of a single cell,
+- \[00:16:45\]  such that maybe you get quite a bit already.
+- \[00:16:50\]  I don't know, I'm not sure.
+- \[00:16:53\]  Okay, it runs against the grain of my thinking,
+- \[00:16:56\]  but that doesn't make it false.
+- \[00:16:58\]  Yeah, and I think we don't, I don't know.
+- \[00:17:00\]  I think what you said is more probable,
+- \[00:17:03\]  but I'm just not sure that it has to be that way.
+- \[00:17:06\]  So the basic notion that there are processes
+- \[00:17:08\]  for encoding things at lower levels has to be right,
+- \[00:17:12\]  because that's how DNA serves as a memory molecule,
+- \[00:17:16\]  natural selection over a gazillion years,
+- \[00:17:18\]  takes all this dynamical function
+- \[00:17:20\]  and encodes it somehow over time
+- \[00:17:23\]  into this stone cold dead molecule DNA.
+- \[00:17:27\]  And so it can be extracted by the same dynamical processes
+- \[00:17:30\]  when they come along.
+- \[00:17:31\]  So we know this encoding at a lower level works.
+- \[00:17:36\]  It's just that things like behavior,
+- \[00:17:38\]  which seem to be operating at a high scale,
+- \[00:17:43\]  dynamically operating at a high scale.
+- \[00:17:47\]  There hasn't been evolutionary time
+- \[00:17:48\]  to encode love of nicotine.
+- \[00:17:51\]  It doesn't mean that that didn't happen.
+- \[00:17:53\]  Doesn't mean there aren't processes for doing it overnight
+- \[00:17:56\]  for all I know.
+- \[00:17:58\]  It'd just be weird if there were.
+- \[00:18:01\]  Anyway.
+- \[00:18:02\]  Yeah, so I think a couple of things there.
+- \[00:18:06\]  One is that, and we should go back
+- \[00:18:08\]  and talk about the goal encoding thing too,
+- \[00:18:11\]  because I'm interested in your thoughts on this.
+- \[00:18:20\]  So first of all, behavior,
+- \[00:18:22\]  like I expand that to behavior in other spaces.
+- \[00:18:24\]  So for example, behavior in anatomical space,
+- \[00:18:26\]  behavior in transcriptional space,
+- \[00:18:28\]  in physiological state space.
+- \[00:18:29\]  And in those spaces,
+- \[00:18:31\]  we also see incredible plasticity
+- \[00:18:36\]  and ability to solve problems
+- \[00:18:38\]  that you have not seen evolutionarily before.
+- \[00:18:41\]  So you've got this,
+- \[00:18:42\]  like evolution produces these problem solving agents
+- \[00:18:45\]  that can solve problems in different spaces.
+- \[00:18:48\]  And I think it's a hugely interesting
+- \[00:18:51\]  and important question is for really novel agents,
+- \[00:18:55\]  like synthetic biobots, like chimeras,
+- \[00:18:58\]  hybrids, all that kind of stuff.
+- \[00:19:01\]  Where their goals come from,
+- \[00:19:02\]  because in that case,
+- \[00:19:04\]  you don't have eons of selection to lean on
+- \[00:19:06\]  for a specific goal
+- \[00:19:09\]  or any of the kind of really out of the box novelty
+- \[00:19:14\]  that we see them accommodating to.
+- \[00:19:16\]  I don't say adapting, it doesn't take generations.
+- \[00:19:20\]  So the selection of the past produces
+- \[00:19:23\]  all these dynamical processes with enormous capabilities,
+- \[00:19:26\]  many of which are never realized in their time.
+- \[00:19:28\]  Insects have the capability to generate an extra leg pair.
+- \[00:19:31\]  Now, where'd that come from?
+- \[00:19:33\]  But leg pairs had to be selected at one point or another.
+- \[00:19:39\]  And so there are these modules built into the system
+- \[00:19:42\]  that can be invoked in novel contexts
+- \[00:19:44\]  and do wildly different things
+- \[00:19:46\]  and get legs on your head if you're a fruit fly.
+- \[00:19:50\]  So what you just said,
+- \[00:19:52\]  I think is totally consistent
+- \[00:19:54\]  with some sort of combination
+- \[00:19:56\]  of selection embedding capabilities
+- \[00:19:59\]  and those capabilities being deployed
+- \[00:20:00\]  in wildly different contexts and overnight,
+- \[00:20:04\]  in a matter of minutes and hours
+- \[00:20:06\]  to produce new sorts of behaviors.
+- \[00:20:08\]  Yeah, I'm totally on board with that.
+- \[00:20:10\]  Yeah.
+- \[00:20:12\]  So I take it a little bit even further.
+- \[00:20:15\]  I mean, I agree with all of that,
+- \[00:20:16\]  like recombination of past modules
+- \[00:20:20\]  and in new ways like that,
+- \[00:20:22\]  that absolutely is a part of it.
+- \[00:20:24\]  But I think we see them doing new things
+- \[00:20:28\]  that I think there's more to it
+- \[00:20:31\]  than reuse of modules that you've had before.
+- \[00:20:36\]  I think really we're seeing behaviors
+- \[00:20:38\]  that I don't think ever existed before
+- \[00:20:40\]  and you can decompose it.
+- \[00:20:42\]  Well, the pieces of it did,
+- \[00:20:44\]  but eventually if you keep going,
+- \[00:20:47\]  you just sort of shade into,
+- \[00:20:49\]  right, that's a completely novel reuse of physics.
+- \[00:20:52\]  That has all, I mean, the physics, right?
+- \[00:20:55\]  I think eventually you just end up bumping into two things,
+- \[00:20:56\]  physics and in general,
+- \[00:20:58\]  these kind of like wherever the laws of mathematics
+- \[00:21:01\]  come from, these very basic things.
+- \[00:21:04\]  Those things are absolutely being reused,
+- \[00:21:06\]  but these modules get smaller and smaller
+- \[00:21:09\]  when you get weirder and weirder
+- \[00:21:11\]  in terms of the perturbations
+- \[00:21:13\]  that you're doing to these things.
+- \[00:21:15\]  So tell me if the following story
+- \[00:21:17\]  is along the lines you're talking.
+- \[00:21:18\]  It could be wildly off base
+- \[00:21:19\]  and don't be afraid to tell me that.
+- \[00:21:21\]  I did some work with a behavior,
+- \[00:21:24\]  human evolution guy interested in primatology and so on.
+- \[00:21:28\]  And he thinks that one of the basis of civilization
+- \[00:21:31\]  and success of human beings
+- \[00:21:33\]  is our ability to recognize when interactions are working.
+- \[00:21:37\]  So you and I carrying a couch upstairs,
+- \[00:21:40\]  we've never done it before.
+- \[00:21:41\]  It falls all over the place.
+- \[00:21:43\]  We hurt ourselves.
+- \[00:21:44\]  Finally, we find a pattern with you in front,
+- \[00:21:46\]  me in back, turning it on its side,
+- \[00:21:48\]  where as it's happening in the moment,
+- \[00:21:50\]  we have a module that just says,
+- \[00:21:52\]  shit, this is working, right?
+- \[00:21:55\]  And so what we come up with,
+- \[00:21:57\]  the behavior we come up with
+- \[00:21:59\]  to actually get the couch upstairs is completely novel.
+- \[00:22:02\]  There was no module for twisting large things
+- \[00:22:04\]  in three dimensions at all.
+- \[00:22:06\]  There's just a, this is working module.
+- \[00:22:08\]  If you pitch these modules
+- \[00:22:10\]  at a high enough level of generality,
+- \[00:22:13\]  I think you'll get a lot of what you see out of it.
+- \[00:22:16\]  And it'll look just miraculous from the outside.
+- \[00:22:21\]  Yeah, 100%.
+- \[00:22:22\]  I think that's right,
+- \[00:22:24\]  but I think that begins at the microbial level.
+- \[00:22:28\]  Yes.
+- \[00:22:28\]  Right, so we see this kind of like
+- \[00:22:30\]  generic stress response that tells you,
+- \[00:22:33\]  how are we doing?
+- \[00:22:34\]  Is this working?
+- \[00:22:35\]  Is this not working?
+- \[00:22:36\]  Yes.
+- \[00:22:36\]  Yeah, and it's this generic stress response
+- \[00:22:39\]  that starts extremely early on
+- \[00:22:40\]  and it starts around things like protein folding
+- \[00:22:44\]  and DNA damage
+- \[00:22:45\]  and these very tiny things.
+- \[00:22:48\]  And then evolution apparently scaled it up.
+- \[00:22:50\]  And this is a bunch of stuff that isn't published yet
+- \[00:22:51\]  that'll come out hopefully this year
+- \[00:22:53\]  where what evolution is doing
+- \[00:22:55\]  is reusing some of those same loops,
+- \[00:22:57\]  but it's in the,
+- \[00:23:00\]  so this loop, like measure where we are,
+- \[00:23:05\]  compare it to where you want it to be.
+- \[00:23:07\]  And then the stress is proportional to the error
+- \[00:23:09\]  and then you try to adjust, right?
+- \[00:23:10\]  This kind of like homeostatic thing.
+- \[00:23:12\]  So what I think evolution is able to do
+- \[00:23:15\]  is to replace the wild cards in that basic loop.
+- \[00:23:17\]  Like what do we measure?
+- \[00:23:18\]  What do we remember?
+- \[00:23:20\]  You can put whatever you want
+- \[00:23:22\]  and the loop still works.
+- \[00:23:24\]  And so it seems to be reusing a lot of those same things
+- \[00:23:27\]  for very high level stuff.
+- \[00:23:29\]  Like how many eyes do we have?
+- \[00:23:30\]  What is our primary axis like?
+- \[00:23:33\]  And then keeps going and you can do the couch,
+- \[00:23:36\]  couch moving and everything else.
+- \[00:23:38\]  But I agree with you.
+- \[00:23:38\]  I think that basic feedback of stress
+- \[00:23:43\]  is driving a lot of this.
+- \[00:23:46\]  Yeah.
+- \[00:23:47\]  Which allows you to do some crazy experiments.
+- \[00:23:49\]  For example, you can use anxiolytics on,
+- \[00:23:52\]  because you can cut that loop.
+- \[00:23:54\]  You can cut the loop with anxiolytic drugs
+- \[00:23:56\]  and you can say, you know what?
+- \[00:23:58\]  Measure the error, but don't worry about it.
+- \[00:24:00\]  If the error is high, it doesn't matter.
+- \[00:24:02\]  And so if you do that, you can do that with embryos.
+- \[00:24:05\]  You can do that with regenerating organs.
+- \[00:24:07\]  You can do that with cells.
+- \[00:24:08\]  You get some very interesting results
+- \[00:24:10\]  when you decouple,
+- \[00:24:13\]  when you lower the effort that they put in,
+- \[00:24:18\]  in reducing error.
+- \[00:24:19\]  It becomes very interesting.
+- \[00:24:22\]  Decreasing tolerances as a route to novelty.
+- \[00:24:25\]  Yep.
+- \[00:24:27\]  I wanna jump in and ask what,
+- \[00:24:30\]  forgive me if this is just an incredibly obvious question,
+- \[00:24:32\]  but when something's working,
+- \[00:24:34\]  because it seems like when you set
+- \[00:24:36\]  kind of the expectation of the goal
+- \[00:24:38\]  or what something's driving towards
+- \[00:24:41\]  or a system there,
+- \[00:24:41\]  when it's working still seems to be measured
+- \[00:24:44\]  in terms of kind of survivability or fitness success,
+- \[00:24:48\]  which works on the lower scale stuff.
+- \[00:24:51\]  But once you get up to the couch,
+- \[00:24:53\]  it's not necessarily going to be working at that level.
+- \[00:24:56\]  Right?
+- \[00:24:59\]  Sorry, say that again.
+- \[00:25:00\]  Yeah, go ahead.
+- \[00:25:01\]  Say it again.
+- \[00:25:03\]  Well, so if regeneration increases something's fitness,
+- \[00:25:08\]  you get a certain cycle,
+- \[00:25:09\]  and then I can kind of evaluate
+- \[00:25:11\]  whether or not a process is working or not,
+- \[00:25:13\]  kind of on the basis of whether or not
+- \[00:25:15\]  it's helping achieve fitness goals,
+- \[00:25:17\]  then I'm kind of using the same,
+- \[00:25:19\]  you know, measurement scale of a natural selection process
+- \[00:25:24\]  or something like that.
+- \[00:25:25\]  But once you get up to the goal
+- \[00:25:27\]  of getting a couch upstairs, right?
+- \[00:25:28\]  There it's unclear whether or not
+- \[00:25:31\]  that's in fact increasing my fitness.
+- \[00:25:33\]  So it seems like we're sort of,
+- \[00:25:37\]  we're somewhere,
+- \[00:25:39\]  there is, we're conflating something
+- \[00:25:42\]  that's happening in those processes.
+- \[00:25:44\]  Because the story that I tell down there,
+- \[00:25:47\]  it seems like the goal or what I'm using to evaluate
+- \[00:25:50\]  whether or not a system's working
+- \[00:25:51\]  is just entirely different
+- \[00:25:53\]  than it's going to be for other questions that I might ask
+- \[00:25:56\]  at kind of higher level processes.
+- \[00:25:59\]  So I'll throw in the story that I just told you,
+- \[00:26:03\]  this is working module if there is such a thing,
+- \[00:26:07\]  or a general capability,
+- \[00:26:08\]  is hypothesized to have evolved in early primates
+- \[00:26:11\]  as a way of doing collaborative hunting,
+- \[00:26:14\]  where one individual goes after the prey, it doesn't work.
+- \[00:26:17\]  Two of them go after it chaotically, it only sort of works.
+- \[00:26:20\]  Five of them go after it, well, it works a little bit.
+- \[00:26:23\]  Whoa, three circle around from the front,
+- \[00:26:25\]  three from the back.
+- \[00:26:26\]  And there's some recognition of the fact
+- \[00:26:29\]  that we're getting disproportionate returns
+- \[00:26:32\]  on our labor here.
+- \[00:26:34\]  Selection never envisioned that actual strategy
+- \[00:26:36\]  of coming around from the front
+- \[00:26:37\]  and coming around from the back of the prey animal.
+- \[00:26:40\]  It's not wired in there.
+- \[00:26:41\]  What is wired in there is the recognition strategy
+- \[00:26:45\]  that some collaboration is producing results
+- \[00:26:49\]  that are close to the target.
+- \[00:26:52\]  Does that make sense?
+- \[00:26:53\]  That afford a selective advantage.
+- \[00:26:57\]  The whole process, it has a selective advantage.
+- \[00:27:01\]  The recognition has a selective advantage,
+- \[00:27:04\]  but how the recognition plays out,
+- \[00:27:05\]  producing this strategy,
+- \[00:27:07\]  which is inherited from one primate tribe to the next,
+- \[00:27:12\]  this strategy of encirclement of prey
+- \[00:27:14\]  was never wired in there,
+- \[00:27:17\]  and will never be wired in there.
+- \[00:27:18\]  It's just social collaboration working to produce a goal
+- \[00:27:21\]  is what's wired in there.
+- \[00:27:25\]  Yeah, I think that-
+- \[00:27:29\]  Michael, jump in.
+- \[00:27:31\]  Yeah, I think that makes sense.
+- \[00:27:32\]  I always wanna step back
+- \[00:27:36\]  and try to reflect on when we evaluate a process
+- \[00:27:41\]  or a system as working versus not,
+- \[00:27:43\]  and how the evaluation's being done.
+- \[00:27:46\]  Because it seems like it's easy to...
+- \[00:27:49\]  I see, I think, slippage there sometimes,
+- \[00:27:52\]  not necessarily-
+- \[00:27:53\]  Interesting.
+- \[00:27:54\]  But right.
+- \[00:27:56\]  I mean, I understand the discipline.
+- \[00:28:00\]  This is, for example,
+- \[00:28:01\]  Dan Dennett was always very strong on this,
+- \[00:28:03\]  is the discipline to try to put everything
+- \[00:28:05\]  in the evolutionary, from the evolutionary point of view.
+- \[00:28:09\]  And I think there's great use to that,
+- \[00:28:11\]  but I don't think it's the only way
+- \[00:28:14\]  to see goals or working or any of that.
+- \[00:28:16\]  I think it's one perspective.
+- \[00:28:18\]  So, I think, as Dan was saying,
+- \[00:28:22\]  I think that what is incredibly advantageous
+- \[00:28:25\]  is problem-solving in various guises.
+- \[00:28:27\]  And for example, the kind of thing he was describing,
+- \[00:28:29\]  but various other ways.
+- \[00:28:32\]  And things, individual instances of it
+- \[00:28:34\]  may not themselves be widely applicable or adaptive,
+- \[00:28:38\]  but the capacity to do it,
+- \[00:28:39\]  which then plays out in different ways.
+- \[00:28:42\]  So, one of the things that people are seeing now, ^6a60cb
+- \[00:28:46\]  for example, is, have you seen this stuff
+- \[00:28:47\]  on the thanatotranscriptome? ^463ad1
+- \[00:28:51\]  You've seen this stuff?
+- \[00:28:52\]  So, basically, it's pretty cool.
+- \[00:28:54\]  Basically, what happens is that when animals
+- \[00:28:57\]  or even human patients die,
+- \[00:28:59\]  as the body dies, the individual cells,
+- \[00:29:03\]  most of whom are perfectly fine,
+- \[00:29:05\]  are turning on a whole bunch of new genes. ^8955c2
+- \[00:29:07\]  And so, this is called the thanatotranscriptome.
+- \[00:29:11\]  It's a set of genes that are turned on.
+- \[00:29:13\]  And so, it's not the same as, well,
+- \[00:29:15\]  transcription goes down
+- \[00:29:16\]  because the cells are deprived of oxygen or whatever.
+- \[00:29:18\]  This is a very active, energetic process. ^e9a9a7
+- \[00:29:20\]  They're actually turning on new genes.
+- \[00:29:23\]  And one way to think about it is,
+- \[00:29:26\]  in the case of the human or a mammal
+- \[00:29:30\]  or a bird living in dry air, that's a dead end.
+- \[00:29:33\]  That's not going anywhere.
+- \[00:29:35\]  These cells are not,
+- \[00:29:36\]  there is no second life for these cells.
+- \[00:29:38\]  But in weird scenarios, for example,
+- \[00:29:41\]  in our anthrobots, the collective,
+- \[00:29:44\]  and in fact, in the xenobots, right?
+- \[00:29:46\]  So, to make a xenobot,
+- \[00:29:47\]  the original embryo may no longer be around
+- \[00:29:49\]  because you've dissociated into cells.
+- \[00:29:52\]  So, the original embryo has died,
+- \[00:29:54\]  but the cells have not.
+- \[00:29:55\]  And the fact that they can turn on new genes,
+- \[00:29:58\]  and in fact, they turn on hundreds of new genes
+- \[00:30:00\]  that normal embryos don't have,
+- \[00:30:02\]  and they have a new life doing new things
+- \[00:30:04\]  like kinematic self-replication that never,
+- \[00:30:06\]  like as far as we know, no other animal does this.
+- \[00:30:10\]  They can in fact have a new life.
+- \[00:30:12\]  Now, has that ever been,
+- \[00:30:15\]  has selection ever seen that particular thing?
+- \[00:30:18\]  I'm not sure that it ever has.
+- \[00:30:19\]  And I'm not sure that that in itself,
+- \[00:30:22\]  especially in a mammal, would be of any use.
+- \[00:30:25\]  But the general ability to,
+- \[00:30:28\]  okay, we're in a different scenario now,
+- \[00:30:30\]  and we need to figure out how to get along
+- \[00:30:32\]  in some new anatomical configuration, some new environment,
+- \[00:30:35\]  that I think it was true from day one,
+- \[00:30:38\]  because you can't really count on,
+- \[00:30:41\]  nevermind the environment,
+- \[00:30:42\]  but you can't even really count on your morphology
+- \[00:30:44\]  being the same generation to generation, right?
+- \[00:30:47\]  And this is that plasticity.
+- \[00:30:49\]  This is why, like another thing,
+- \[00:30:52\]  you know about the kidney tubules in the salamander,
+- \[00:30:56\]  so that kind of crazy thing,
+- \[00:30:57\]  you can't, coming into the world, you're a new,
+- \[00:31:00\]  you don't know how many copies
+- \[00:31:01\]  of your genome you're gonna have.
+- \[00:31:02\]  You don't know what your cell size is gonna be.
+- \[00:31:04\]  You don't know how many cells.
+- \[00:31:06\]  You can't assume any of that.
+- \[00:31:07\]  You just have to figure out how you're gonna survive
+- \[00:31:11\]  in whatever internal and external affordances you've got.
+- \[00:31:15\]  So I think that's incredibly adaptive,
+- \[00:31:18\]  and that is what evolution is aiming for.
+- \[00:31:20\]  But then the individual instances of it
+- \[00:31:23\]  will be like the humans.
+- \[00:31:24\]  You try all kinds of stuff.
+- \[00:31:25\]  Some of it helps and some of it doesn't.
+- \[00:31:28\]  Okay, okay, yeah, yeah, yeah.
+- \[00:31:34\]  Are these cells going protist?
+- \[00:31:36\]  Are they turning on the ancient protist machinery?
+- \[00:31:40\]  Thinking all the external constraints are gone.
+- \[00:31:43\]  I'm not part of a multicellular anymore.
+- \[00:31:45\]  The signals coming in from the larger gradients are fading.
+- \[00:31:49\]  Shit, I'm a protist, let's do this.
+- \[00:31:52\]  So they actually are, and this will be,
+- \[00:31:55\]  we'll be pre-printing this in the next week or two.
+- \[00:32:00\]  Yes, they are.
+- \[00:32:01\]  But the thing that has been known along those lines
+- \[00:32:03\]  is that's what cancer cells do too.
+- \[00:32:05\]  So that's the atavistic stuff
+- \[00:32:08\]  that DePaul Davies and others have worked on.
+- \[00:32:10\]  That when you're disconnected from the collective,
+- \[00:32:14\]  the rest of the body is just the outer environment to you.
+- \[00:32:16\]  You're an amoeba again.
+- \[00:32:18\]  Right, and so, yeah.
+- \[00:32:20\]  And so there's a number of scenarios
+- \[00:32:21\]  in which that happens.
+- \[00:32:25\]  Are you also suggesting that there might be enough affordances
+- \[00:32:30\]  that they're trying to look for kind of a new ^8722b0
+- \[00:32:32\]  multicellular assemblage to generate? ^7b989d
+- \[00:32:36\]  Yeah, that's exactly what I think.
+- \[00:32:38\]  And obviously much more work on this is needed.
+- \[00:32:41\]  But I do think that tumors and biobots and all,
+- \[00:32:46\]  it's a kind of reboot of multicellularity.
+- \[00:32:52\]  First you go single cell and you roll back.
+- \[00:32:54\]  And then again, you try your best to assemble
+- \[00:32:57\]  in some new functional form.
+- \[00:32:59\]  And you make something that is not any stage
+- \[00:33:02\]  of normal human development.
+- \[00:33:03\]  You have behaviors that are not normal behaviors
+- \[00:33:06\]  for any human or human tissue.
+- \[00:33:08\]  You have found a new way to be with stock hardware.
+- \[00:33:12\]  So one reason why we haven't immediately gone ahead
+- \[00:33:14\]  and engineered synthetic circuits into all these things
+- \[00:33:17\]  is because I wanna know what the default hardware
+- \[00:33:20\]  is able to do before we add all this stuff to it.
+- \[00:33:24\]  If I've got a factory of well-trained workers
+- \[00:33:27\]  doing their jobs and management goes home
+- \[00:33:29\]  and never comes back, the system is gonna fall apart
+- \[00:33:33\]  and we're gonna lean ever more heavily
+- \[00:33:36\]  on the default hardware in an individual person
+- \[00:33:40\]  deprived of their collective, right?
+- \[00:33:42\]  I wouldn't expect anything constructive to come out of that.
+- \[00:33:45\]  It would be interesting and weird,
+- \[00:33:48\]  but is the analogy appropriate here?
+- \[00:33:52\]  I think the analogy is appropriate except that
+- \[00:33:57\]  what I think is happening in bodies
+- \[00:33:59\]  is multi-level intelligence.
+- \[00:34:02\]  And when one level goes home,
+- \[00:34:04\]  the bottom levels will do what they can.
+- \[00:34:08\]  And they will continue to bend the levels below them.
+- \[00:34:13\]  They distort the other, right?
+- \[00:34:14\]  They distort those levels.
+- \[00:34:15\]  And what I see in our experiments and others
+- \[00:34:19\]  is a constant push of all the levels to make.
+- \[00:34:22\]  It's a kind of sense-making.
+- \[00:34:24\]  They're trying to make sense of their world.
+- \[00:34:26\]  They're trying to do something
+- \[00:34:27\]  that is halfway coherent and adaptive.
+- \[00:34:30\]  And when new levels show up above them
+- \[00:34:33\]  that will distort their option space,
+- \[00:34:35\]  they can be hacked and they will go along.
+- \[00:34:38\]  But if those levels aren't there,
+- \[00:34:39\]  they will come up with something else.
+- \[00:34:41\]  And that novelty, that push to,
+- \[00:34:46\]  it's not even just like it's problem solving, yes,
+- \[00:34:50\]  but it's not just finding solutions to a problem.
+- \[00:34:52\]  It's finding new problems to solve.
+- \[00:34:55\]  And more than that, I think it's finding new spaces
+- \[00:34:58\]  in which to find those problems.
+- \[00:34:59\]  So if you want, you can get along
+- \[00:35:01\]  by solving problems in the anatomical space,
+- \[00:35:04\]  or you can ditch that entirely
+- \[00:35:05\]  and focus on solving it in metabolic space
+- \[00:35:09\]  and being on a unicellular and stuff like that.
+- \[00:35:12\]  I think there's always pressure to do this.
+- \[00:35:17\]  The origin of all metamorphoses.
+- \[00:35:22\]  And so I'm gonna try to get at this again.
+- \[00:35:25\]  I don't know.
+- \[00:35:26\]  I might be totally just not making any coherent sense here,
+- \[00:35:31\]  but in problem solving
+- \[00:35:33\]  and the way that you're talking about it,
+- \[00:35:34\]  the problem being solved,
+- \[00:35:39\]  can I generalize to a sense of saying something like
+- \[00:35:45\]  regeneration or survival or something along those lines,
+- \[00:35:49\]  or is the problem being solved
+- \[00:35:50\]  always going to be unique and specific,
+- \[00:35:52\]  particular to the, yeah,
+- \[00:35:57\]  whatever's going on in individual situations?
+- \[00:36:00\]  Because, so I guess what I'm thinking of is,
+- \[00:36:02\]  could I look at a system that rapidly just falls apart
+- \[00:36:08\]  and disintegrates as solving a problem
+- \[00:36:11\]  in that very action itself?
+- \[00:36:12\]  Or is that just incompatible
+- \[00:36:14\]  with kind of the way that you're thinking
+- \[00:36:16\]  about problem solving?
+- \[00:36:17\]  Yeah.
+- \[00:36:18\]  I mean, philosophically,
+- \[00:36:19\]  I think what's important here is that
+- \[00:36:22\]  everything is from the perspective of some observer.
+- \[00:36:25\]  So I don't think there's an objective,
+- \[00:36:28\]  one answer to what problem is this thing solving
+- \[00:36:30\]  or what space does it live in?
+- \[00:36:33\]  So we as scientists, but also the parasites,
+- \[00:36:36\]  the conspecifics, the parts, the holes,
+- \[00:36:38\]  everybody has some perspective on the problem
+- \[00:36:41\]  and they are all making some kind of model
+- \[00:36:44\]  to different degrees of sophistication.
+- \[00:36:46\]  They're making some kind of model of what the problem is,
+- \[00:36:49\]  what the system's behavior is,
+- \[00:36:51\]  which tells them how to hack it.
+- \[00:36:52\]  So if you're a parasite or an exploiter of some sort,
+- \[00:36:55\]  and also you want to control your own parts,
+- \[00:36:57\]  so you need to understand how your own parts work
+- \[00:36:58\]  to some extent,
+- \[00:37:00\]  they will all have a different view
+- \[00:37:01\]  of what the problem actually is.
+- \[00:37:04\]  And so, I think for us,
+- \[00:37:06\]  we could say that one,
+- \[00:37:09\]  fundamentally that all of this is about persistence
+- \[00:37:11\]  or survival, so bare persistence.
+- \[00:37:14\]  I can't disprove it.
+- \[00:37:15\]  My gut feeling is that it's a lot more than that.
+- \[00:37:18\]  I don't think it's about mere persistence.
+- \[00:37:20\]  I think it's about transformation
+- \[00:37:22\]  and expansion into new spaces.
+- \[00:37:24\]  So I think that's even more fundamental than,
+- \[00:37:29\]  I think it's more,
+- \[00:37:30\]  because here's the thing with persistence,
+- \[00:37:32\]  in order to,
+- \[00:37:35\]  and I wish I could remember,
+- \[00:37:36\]  maybe actually, maybe you guys know who said this.
+- \[00:37:39\]  I don't know whose quote this is,
+- \[00:37:40\]  but this paradox where,
+- \[00:37:44\]  if you try to persist by never changing,
+- \[00:37:47\]  you're going to die out when circumstances change.
+- \[00:37:50\]  But if you do change and adapt,
+- \[00:37:51\]  then you are no longer yourself. ^e28e0a
+- \[00:37:53\]  So you're also gone,
+- \[00:37:53\]  because, right?
+- \[00:37:55\]  So no matter what,
+- \[00:37:56\]  you can't persist as an unchanging thing.
+- \[00:37:59\]  So I think more fundamental,
+- \[00:38:00\]  so I think biology basically bought all into this
+- \[00:38:04\]  from the beginning,
+- \[00:38:05\]  just realizing that, okay,
+- \[00:38:06\]  everything is going to change.
+- \[00:38:07\]  My parts are going to change.
+- \[00:38:08\]  They'll be mutated.
+- \[00:38:09\]  The environment changes.
+- \[00:38:10\]  We're not going to try to persist anything in particular,
+- \[00:38:12\]  which I know this is like not the way that,
+- \[00:38:15\]  neo-Darwinian kind of thinking is supposed to go.
+- \[00:38:18\]  But I think it's way more about
+- \[00:38:22\]  change and exploration and expansion into new spaces
+- \[00:38:26\]  than it is about persistence of a single thing,
+- \[00:38:29\]  identifiably.
+- \[00:38:30\]  So.
+- \[00:38:33\]  I could be wrong,
+- \[00:38:34\]  but if I can track it down,
+- \[00:38:36\]  I'll send it to you.
+- \[00:38:37\]  I don't think that there's a nice little quote
+- \[00:38:40\]  that gets at it,
+- \[00:38:40\]  but that's Aristotle identified this problem.
+- \[00:38:44\]  He talks about the example of grass.
+- \[00:38:46\]  If I can find it,
+- \[00:38:47\]  I'll send it to you.
+- \[00:38:48\]  Okay, okay, cool.
+- \[00:38:49\]  Cool.
+- \[00:38:50\]  Yeah.
+- \[00:38:52\]  So I think,
+- \[00:38:54\]  no, please go ahead.
+- \[00:38:56\]  Well, I don't know if it's actually entirely shifting gears,
+- \[00:38:59\]  but Dan, do you have any follow-ups?
+- \[00:39:02\]  I don't want to shift gears.
+- \[00:39:04\]  I've got three lunches and two dinners worth of follow-ups.
+- \[00:39:08\]  We have limited time, so you go ahead.
+- \[00:39:12\]  Okay.
+- \[00:39:13\]  Well, so here's the question that I wanted to ask.
+- \[00:39:16\]  I was talking with Justin Garson at the Minnesota meeting,
+- \[00:39:21\]  and he has this idea about goal-directedness,
+- \[00:39:24\]  that it's representational,
+- \[00:39:26\]  and that fundamentally, yeah, yeah, yeah.
+- \[00:39:28\]  So that any way that you're gonna be able to
+- \[00:39:35\]  kind of talk about a goal-directed system,
+- \[00:39:37\]  it has to be via some sort of representation.
+- \[00:39:41\]  And I think for him,
+- \[00:39:43\]  that's primarily mental representations.
+- \[00:39:47\]  But I wonder if in your way of thinking,
+- \[00:39:52\]  would you be sympathetic to a view that's so liberal
+- \[00:39:57\]  as to think about kind of a morphogenetic field
+- \[00:40:02\]  that's doing the directing
+- \[00:40:03\]  in the sense that you're often pointing at, Michael,
+- \[00:40:06\]  as a kind of representation?
+- \[00:40:08\]  I mean, would something like Justin's thinking here
+- \[00:40:15\]  possibly fit?
+- \[00:40:16\]  Would you be okay with the idea
+- \[00:40:17\]  of representations in that way?
+- \[00:40:19\]  Yeah.
+- \[00:40:20\]  I'm not doing any justice to Justin's, I mean, I-
+- \[00:40:26\]  You are, sadly, you are.
+- \[00:40:29\]  I think he is kind of committed to a mental representation,
+- \[00:40:32\]  but Dan and I were pressing him a little bit saying,
+- \[00:40:35\]  it seems like there are all these developmental processes
+- \[00:40:38\]  that don't clearly have representations
+- \[00:40:40\]  in the way that you're thinking about them, Justin.
+- \[00:40:42\]  But it did definitely make me wanna ask
+- \[00:40:46\]  if you think representation characterizes the view
+- \[00:40:50\]  that you're working.
+- \[00:40:52\]  So here's my view, which he may hate or not.
+- \[00:40:55\]  I don't know.
+- \[00:40:56\]  Some people think it's worse than the other.
+- \[00:41:00\]  I support it, but maybe in a way that they wouldn't like.
+- \[00:41:02\]  So here's what I, so first of all,
+- \[00:41:05\]  about goals in particular,
+- \[00:41:07\]  I take a very engineering approach to this, ^710cbc
+- \[00:41:09\]  which is I think you're entitled to say
+- \[00:41:12\]  something has a goal state when it is the case
+- \[00:41:15\]  that an efficient way to manipulate the system's behavior
+- \[00:41:19\]  is by altering the goal state
+- \[00:41:20\]  as opposed to bottom up rewiring.
+- \[00:41:22\]  So the only way I know anything has a goal
+- \[00:41:25\]  is if I can tell you where and how that goal is specified
+- \[00:41:29\]  such that I can go in and change it
+- \[00:41:31\]  and now I change the goal.
+- \[00:41:32\]  I don't change your hardware.
+- \[00:41:33\]  I don't change anything about you, but I change the goal. ^05c8f8
+- \[00:41:36\]  And if you are now off and running with some degree,
+- \[00:41:39\]  and I think this is all a matter of degrees.
+- \[00:41:41\]  I don't think there are binaries here,
+- \[00:41:43\]  but if to a useful extent,
+- \[00:41:46\]  if I can change the goal with a minimal manipulation,
+- \[00:41:49\]  and then you are autonomously off and running
+- \[00:41:51\]  to implement that goal, now I think you have goals.
+- \[00:41:53\]  If the only way to change what you do
+- \[00:41:56\]  is to get in there and meet,
+- \[00:41:57\]  and I'm the one micromanaging every aspect of your function,
+- \[00:42:00\]  I'm rewiring every,
+- \[00:42:01\]  then there's not much goal directness going on here.
+- \[00:42:04\]  But if I can do anything from reset your set point,
+- \[00:42:08\]  train you on something,
+- \[00:42:10\]  give you a coherent argument if you're a human,
+- \[00:42:12\]  and now you're off on this thing
+- \[00:42:14\]  that I don't need to micromanage,
+- \[00:42:15\]  then you've got goals.
+- \[00:42:17\]  So that's, I think, a very practical
+- \[00:42:20\]  engineering approach to this.
+- \[00:42:21\]  Now about representation.
+- \[00:42:22\]  So we absolutely have examples in-
+- \[00:42:26\]  Oh, he just froze up for me.
+- \[00:42:28\]  Both of you froze up.
+- \[00:42:29\]  Oh, okay.
+- \[00:42:30\]  Sorry, are we back?
+- \[00:42:31\]  You're back.
+- \[00:42:32\]  Sorry, I lost you.
+- \[00:42:33\]  You both froze, sorry.
+- \[00:42:35\]  Okay, we absolutely have examples in regeneration
+- \[00:42:38\]  that I have referred to as representation.
+- \[00:42:40\]  And I'll give you, and let's keep in mind,
+- \[00:42:44\]  it's by definition,
+- \[00:42:45\]  because this is like very ancient evolutionary stuff,
+- \[00:42:49\]  it isn't full-blown human,
+- \[00:42:51\]  I know what I know, and I know my goals.
+- \[00:42:53\]  I'm not talking about second order,
+- \[00:42:54\]  metacognition or anything like that.
+- \[00:42:56\]  But what does a basal,
+- \[00:42:57\]  like what is a very simple example of representation?
+- \[00:43:00\]  Not only representation,
+- \[00:43:01\]  but I think counterfactual representation.
+- \[00:43:03\]  And here's, I'll tell you what you can do.
+- \[00:43:05\]  You take a planarian,
+- \[00:43:07\]  and it has a particular bioelectrical gradient
+- \[00:43:10\]  that tells you how many heads
+- \[00:43:11\]  the planarian is supposed to have.
+- \[00:43:13\]  And if you cut it into pieces,
+- \[00:43:14\]  the pieces consult the pattern,
+- \[00:43:15\]  and they make exactly how many heads they have.
+- \[00:43:17\]  Now, what we can do is we can go ahead
+- \[00:43:20\]  and we can alter that pattern within an intact worm.
+- \[00:43:25\]  So when you do it within an intact worm,
+- \[00:43:27\]  what you have is something very interesting.
+- \[00:43:28\]  You have a kind of a schizophrenic situation
+- \[00:43:30\]  where the body of the worm is one-headed,
+- \[00:43:32\]  but the memory of what a correct worm
+- \[00:43:34\]  is supposed to look like actually says two heads.
+- \[00:43:36\]  Now, nothing happens until you injure it. ^ba98bc
+- \[00:43:38\]  So that memory is latent, it is not active,
+- \[00:43:41\]  it's just kind of sitting there
+- \[00:43:42\]  until you injure the animal.
+- \[00:43:43\]  As soon as you injure the animal,
+- \[00:43:45\]  the cells consult the pattern.
+- \[00:43:48\]  That is ground truth as far as they're concerned.
+- \[00:43:49\]  There's nothing else for them to compare to.
+- \[00:43:51\]  They make two heads.
+- \[00:43:52\]  So what I think is happening here
+- \[00:43:54\]  when you're looking at that pattern,
+- \[00:43:55\]  I think it's a goal state
+- \[00:43:57\]  because it is a suitable control knob
+- \[00:44:00\]  for you to set how many heads
+- \[00:44:02\]  this thing will autonomously make.
+- \[00:44:03\]  I think it is a representation
+- \[00:44:05\]  because you can read out in a way
+- \[00:44:08\]  that doesn't require you to look at the anatomy
+- \[00:44:11\]  or to know what it's there.
+- \[00:44:12\]  You know what the pattern is going to be
+- \[00:44:14\]  that guides this behavior.
+- \[00:44:16\]  And we have a mapping, at least in this case,
+- \[00:44:18\]  if not all cases,
+- \[00:44:19\]  between what the memory says
+- \[00:44:21\]  and what it's going to do.
+- \[00:44:23\]  And I think it's counterfactual
+- \[00:44:24\]  because in the case of these cryptic worms
+- \[00:44:26\]  that have that pattern,
+- \[00:44:29\]  it is what you are going to do
+- \[00:44:30\]  if you get cut in the future.
+- \[00:44:32\]  It isn't what's true right now.
+- \[00:44:35\]  And that's what,
+- \[00:44:35\]  I spent a lot of time on this in my talks
+- \[00:44:37\]  because people see the pattern,
+- \[00:44:38\]  they go, oh, so that's a pattern
+- \[00:44:40\]  of the two-headed anatomy.
+- \[00:44:42\]  This is the pattern of what will happen in the future.
+- \[00:44:45\]  And in fact, it might not if you never injure it.
+- \[00:44:47\]  So it is not a readout of the current situation.
+- \[00:44:52\]  I think what it is,
+- \[00:44:53\]  is like an extremely early minimal example ^fc48cd
+- \[00:44:55\]  of mental time travel. ^0e01a8
+- \[00:44:57\]  I think this is the kind of thing
+- \[00:44:58\]  that later got evolved into our ability
+- \[00:45:01\]  to remember things that,
+- \[00:45:03\]  envision things that are not true right now.
+- \[00:45:05\]  It is the ability of the network to hold a state ^dec6f5
+- \[00:45:08\]  that does not reflect current circumstances,
+- \[00:45:10\]  but reflects possible future circumstance.
+- \[00:45:12\]  It's minimal.
+- \[00:45:13\]  It's not self-reflective.
+- \[00:45:14\]  It's not what, so that's the second thing.
+- \[00:45:16\]  And then the third thing I would say is,
+- \[00:45:18\]  to what you said, is this.
+- \[00:45:23\]  I think he's kind of right to say
+- \[00:45:25\]  that representation is mental,
+- \[00:45:27\]  not because you need neurons for this
+- \[00:45:29\]  or because it only applies to brains.
+- \[00:45:31\]  And this is the part where people leave the train ^bf889e
+- \[00:45:32\]  that I'm on, they go, oh, forget it now.
+- \[00:45:35\]  Because I say, look, yeah, it's mental,
+- \[00:45:37\]  but mental doesn't mean brainy mammals.
+- \[00:45:41\]  I really think that the cellular collectives
+- \[00:45:45\]  that are solving problems
+- \[00:45:47\]  and navigating anatomical space,
+- \[00:45:48\]  I think they are a kind of mind. ^1a3a38
+- \[00:45:50\]  I don't think they're a human mind.
+- \[00:45:52\]  I don't think they do everything
+- \[00:45:53\]  that brainy minds do,
+- \[00:45:55\]  but I think they are a kind of primitive cognitive system. ^0d9e8b
+- \[00:45:59\]  And therefore I do think that it is not crazy
+- \[00:46:01\]  to say that representation is mental,
+- \[00:46:04\]  but not mental the way most people take it to mean,
+- \[00:46:07\]  which is brainy animals.
+- \[00:46:09\]  Well, I wonder if there's something to say here
+- \[00:46:12\]  that wouldn't be interesting
+- \[00:46:13\]  because a possible response to Justin then
+- \[00:46:15\]  might be something to the effect of,
+- \[00:46:17\]  and I don't know, Dan, if you'll think about this,
+- \[00:46:20\]  but say something to the effect of,
+- \[00:46:21\]  yeah, Justin, you're right.
+- \[00:46:23\]  Maybe goal-directedness does rely on representation
+- \[00:46:28\]  and that's what you need for goal-directed states.
+- \[00:46:30\]  But Justin, the problem is you have a way
+- \[00:46:32\]  too constrained conception
+- \[00:46:33\]  of what counts as a mental representation.
+- \[00:46:35\]  Exactly.
+- \[00:46:36\]  You're really committed to this idea
+- \[00:46:38\]  of mental representation as being kind of a neural process
+- \[00:46:42\]  that has what we think about mental representations.
+- \[00:46:46\]  But if you take a really much more expansive view
+- \[00:46:48\]  like the one you're taking, Michael,
+- \[00:46:49\]  then yeah, then you can get a representational model
+- \[00:46:52\]  of goal-directedness going.
+- \[00:46:55\]  That's exactly what I would say.
+- \[00:46:56\]  And I've had these discussions,
+- \[00:46:57\]  we've had neuroscience conferences and things like that.
+- \[00:47:02\]  And I'll say, what's a neuron?
+- \[00:47:05\]  And they'll say, neurons.
+- \[00:47:06\]  I'm like, no, really, what's a neuron?
+- \[00:47:08\]  And they say, well, it has these properties
+- \[00:47:09\]  and the Lissom property.
+- \[00:47:10\]  They say every cell in the body does it.
+- \[00:47:11\]  I say, well, neural networks, they do this stuff.
+- \[00:47:14\]  And so yeah, all the tissues in your body are doing. ^a2d08f
+- \[00:47:16\]  They're doing it in a different space.
+- \[00:47:18\]  They're not projecting it into three-dimensional space
+- \[00:47:20\]  by moving muscles around.
+- \[00:47:21\]  That's a newer innovation.
+- \[00:47:24\]  But they're doing the same kinds of stuff.
+- \[00:47:26\]  And I've argued that a lot of what we study
+- \[00:47:29\]  in cognitive science is just a pivot,
+- \[00:47:32\]  a speed up, an incredible speed up, of course,
+- \[00:47:34\]  but also a pivot of ancient things that were using,
+- \[00:47:38\]  being used to navigate anatomical space
+- \[00:47:40\]  that now are like, hey, look, we can use the same tricks
+- \[00:47:42\]  to navigate this 3D space.
+- \[00:47:45\]  So I would say almost all of that kind of stuff holds
+- \[00:47:49\]  if you're willing to say that mental doesn't mean human, ^284ed2
+- \[00:47:52\]  it doesn't mean brainy, it means some other things ^f96fc3
+- \[00:47:55\]  as far as perception, action cycles, ^8e20d3
+- \[00:47:57\]  and problem solving, and memory, and things like that.
+- \[00:47:59\]  And those are extremely ancient.
+- \[00:48:03\]  I think we've got a bad language problem here.
+- \[00:48:07\]  And that's my objection to Justin.
+- \[00:48:09\]  Everything you guys said is translatable,
+- \[00:48:12\]  and most of it was in physical terms.
+- \[00:48:14\]  You're not dualists. ^b48841
+- \[00:48:15\]  There's no mind-body separation.
+- \[00:48:17\]  You have no notion of symbols, the idea of something,
+- \[00:48:21\]  manipulating something physical.
+- \[00:48:24\]  Representationalists do.
+- \[00:48:26\]  That's the problem.
+- \[00:48:27\]  They're computer scientists.
+- \[00:48:29\]  And when they're psychiatrists and psychologists, they do.
+- \[00:48:32\]  They're really dualists about these things.
+- \[00:48:35\]  They think the abstract can affect the physical.
+- \[00:48:37\]  Everything you just said is either physical on its face
+- \[00:48:42\]  or translatable easily into physicalist terms.
+- \[00:48:45\]  But that's not the way that language reads out there
+- \[00:48:48\]  in those two worlds, namely, well, three worlds,
+- \[00:48:51\]  AI, computer science generally, and psychology.
+- \[00:48:55\]  So everything you just said is great. ^baba5a
+- \[00:48:58\]  I think it's exactly the wrong language to use out there. ^f4d263
+- \[00:49:02\]  But as Gunnar knows, this is a problem area of mine.
+- \[00:49:09\]  I would love to.
+- \[00:49:11\]  So I think we're going to need another hour on this, I think,
+- \[00:49:14\]  because I would love to dig into this, ^951548
+- \[00:49:16\]  because I understand the reasons to try
+- \[00:49:20\]  to avoid the dualist language and all of that. ^ec4252
+- \[00:49:24\]  But actually, I think there's a way in which it's really helpful. ^905dd4
+- \[00:49:30\]  And I don't think we should toss it entirely. ^642bdf
+- \[00:49:33\]  I'm not saying leave it for metaphorical colloquialism.
+- \[00:49:38\]  No, no, no.
+- \[00:49:41\]  Yeah, you want the language.
+- \[00:49:42\]  You want command of the language. ^38d384
+- \[00:49:43\]  And that's a tact to take.
+- \[00:49:45\]  You can say, I know what you mean by mental.
+- \[00:49:47\]  I know what I mean by mental.
+- \[00:49:48\]  I want to command the scientific social environment
+- \[00:49:52\]  to the point where my view of the mental,
+- \[00:49:54\]  which is purely physicalist, by the way,
+- \[00:49:56\]  is the one that everybody calls to mind.
+- \[00:49:59\]  And if you can succeed at that, more power to you.
+- \[00:50:02\]  Yes, panmentalism, I get it.
+- \[00:50:05\]  But I would jump in and say that there is, it's not quite,
+- \[00:50:10\]  you don't have to necessarily go the dualist route.
+- \[00:50:13\]  I think a lot of people do go the dualist route.
+- \[00:50:15\]  Yeah, that's the problem.
+- \[00:50:17\]  In the teleosomatic literature,
+- \[00:50:19\]  you have people trying to make sense of the phenomenal
+- \[00:50:23\]  experience of a mental representation.
+- \[00:50:25\]  So they're physicalists, but they're saying,
+- \[00:50:27\]  hey, I have this experience of mental representations.
+- \[00:50:32\]  It's this phenomena that you want to make sense of.
+- \[00:50:34\]  And you want to say it's important and different somehow.
+- \[00:50:37\]  And I think that they're the folks that would want to deny
+- \[00:50:42\]  that you get that in the non-brainy stuff.
+- \[00:50:47\]  And I think, but Michael, correct me if I'm wrong,
+- \[00:50:50\]  but I think you're wanting to argue that,
+- \[00:50:53\]  no, there is a sense that if you kind of
+- \[00:50:55\]  talk about that phenomenon in a graded way,
+- \[00:50:58\]  it's going to go much, much lower,
+- \[00:51:00\]  that you're going to get something similar
+- \[00:51:02\]  at much lower levels that you don't need
+- \[00:51:04\]  the neural framework to do that.
+- \[00:51:08\]  Yeah, I mean, yeah.
+- \[00:51:09\]  I don't talk much about consciousness and things like that.
+- \[00:51:12\]  But I think one of the papers that I'm writing now
+- \[00:51:15\]  with Nick Brulot takes all the existing theories
+- \[00:51:18\]  of consciousness and looks at what it is
+- \[00:51:21\]  that they're saying about the brain
+- \[00:51:23\]  that is supposed to give rise to this
+- \[00:51:25\]  and pointing out that all of them,
+- \[00:51:26\]  without exception, that as far as I can tell,
+- \[00:51:29\]  can say the exact same thing about very unconventional systems.
+- \[00:51:34\]  And so, yes, I think if you take that stuff seriously,
+- \[00:51:37\]  I think it absolutely has to go all the way to the bottom.
+- \[00:51:39\]  If you're not looking for human level hopes and dreams
+- \[00:51:42\]  in your paramecium, but you're willing to scale,
+- \[00:51:45\]  appropriately, I think it goes all the way to the bottom.
+- \[00:51:48\]  But I also, and I apologize,
+- \[00:51:49\]  I'm going to have to jump in a couple of minutes,
+- \[00:51:50\]  but I think we should do more on this, Dan,
+- \[00:51:54\]  because I think that what you were saying before,
+- \[00:51:58\]  I want to push back on that a little bit.
+- \[00:51:59\]  And in the sense that I agree with you
+- \[00:52:01\]  that we can tell physicalist,
+- \[00:52:03\]  like bottom-up physicalist stories.
+- \[00:52:05\]  And it's true.
+- \[00:52:06\]  After everything we publish,
+- \[00:52:09\]  the next thing that happens is somebody says,
+- \[00:52:10\]  oh, well, I can see how this happens.
+- \[00:52:12\]  It's just chemistry.
+- \[00:52:14\]  Yeah, but after the fact, you can tell a chemical story,
+- \[00:52:18\]  but inevitably, it's never going to be fairies.
+- \[00:52:21\]  It's always chemistry underneath.
+- \[00:52:23\]  But I do think that there's some stuff
+- \[00:52:26\]  that you would call dualist
+- \[00:52:27\]  that I think is actually worthwhile.
+- \[00:52:30\]  So I'd love to dig into this more.
+- \[00:52:33\]  I have to go too in a moment, but let me just throw in,
+- \[00:52:35\]  you use bottom-up and physicalist together,
+- \[00:52:38\]  like they're a package.
+- \[00:52:40\]  Anti-reductionists like me want to break that package
+- \[00:52:42\]  by physicalist, I don't mean bottom-up.
+- \[00:52:45\]  I mean, top-down as well as bottom-up. ^7a8ac7
+- \[00:52:48\]  And so when we talk about fields or gradients
+- \[00:52:52\]  or whatever causing lower level events,
+- \[00:52:55\]  that's physicalist.
+- \[00:52:57\]  And if what you want to call,
+- \[00:52:58\]  and I could in some moods want to call mental
+- \[00:53:01\]  as downward effects,
+- \[00:53:03\]  because it's a pre-pattern of some kind
+- \[00:53:05\]  of physically instantiated, not reductionistically,
+- \[00:53:07\]  but physically instantiated thing with causal powers.
+- \[00:53:11\]  Yeah, definitely.
+- \[00:53:13\]  I'm just worried about fighting too many battles at once.
+- \[00:53:16\]  Yeah, yeah, yeah.
+- \[00:53:17\]  No, I think that's fantastic.
+- \[00:53:18\]  And what I'm really interested in
+- \[00:53:20\]  is to get your thoughts on.
+- \[00:53:21\]  So fields for sure, top-down and physicalist. ^1598d9
+- \[00:53:26\]  We can get into some other stuff,
+- \[00:53:28\]  virtual governors and quasi particles.
+- \[00:53:30\]  And I want to know if you're going to,
+- \[00:53:32\]  like are those, because you can,
+- \[00:53:34\]  you can, if they're physical to you,
+- \[00:53:36\]  then I think we're good.
+- \[00:53:37\]  But I think a lot of people would say,
+- \[00:53:39\]  because you can get even weirder, right?
+- \[00:53:41\]  So, you can get gliders and you get progressively
+- \[00:53:44\]  less physical with this stuff.
+- \[00:53:45\]  And I think you keep important causality.
+- \[00:53:48\]  And so is that still physical?
+- \[00:53:49\]  I don't know.
+- \[00:53:50\]  I think we need another hour on this.
+- \[00:53:52\]  To be continued.
+- \[00:53:53\]  Yeah, yeah.
+

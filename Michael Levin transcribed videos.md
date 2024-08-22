@@ -34,6 +34,8 @@
 - (2024-07-29; 52:55) [[Prices as Cognitive glue by Benjamin Lyons]]
 - [ ] (2024-08-01; 31:58) [[Neuroexistentialism, Improvisational Research, and Slow Partying by Joseph Dumit 1]]
     - circuits
+- (2024-08-02; 53:54) [[Discussion with Daniel McShea and Gunnar Babcock]]
+    - [[New genes activate in our bodies upon death]]
 - [ ] (2024-08-03; 27:37) [[The Mind of the Body - A Window into Embodiment and our Future]]
 
 ## By channel
