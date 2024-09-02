@@ -1,0 +1,2 @@
+- ![[Michael Levin - Agency, Attractors, and Observer-Dependent Computation in Biology and Beyond#^5d7f6c]]
+- I can totally understand why he says that, and hope that he looks further into it
