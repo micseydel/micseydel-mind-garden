@@ -2,6 +2,7 @@
 > These are generated with OpenAI Whisper, feel free to suggest:
 > - corrections
 > - screenshots to embed
+> - [diarization](https://en.wikipedia.org/wiki/Speaker_diarisation)
 > 
 > I haven't necessarily watched all of them, but I have most.
 
