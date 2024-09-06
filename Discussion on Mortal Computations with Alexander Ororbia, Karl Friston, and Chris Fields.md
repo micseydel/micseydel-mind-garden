@@ -1,0 +1,312 @@
+---
+created: 2024-09-06T14:26:20-07:00
+updated: 2024-09-06T14:26:22-07:00
+---
+- ![](https://www.youtube.com/watch?v=s7JTnNutgYs)
+    - 2024-05-25; 58:34
+- \[00:00:00\]  No, that's great. Okay, so maybe we could start, I think, Alex, if you could start and just give a few more words on the whole notion of mortal computation and specifically the issue of programmability and morphology and how we can sort of distinguish when we're looking at a system,
+- \[00:00:26\]  how can we distinguish what aspects of mortal computation we're looking at? Anything along those lines I think would be very useful for us. Maybe we could start there.
+- \[00:00:36\]  Yeah, so I did, by the way, read last night, the paper you shared with me and Carl and Chris at one point and some of your notions in there.
+- \[00:00:45\]  First of all, a lot of it sounds like parts of mortal computation, just maybe you're not using the word mortal phrase.
+- \[00:00:52\]  So in terms of the morphology part, so the argument that Carl and I make in that paper is just that the structure, right, is critically important to the actual system itself.
+- \[00:01:05\]  So you don't want to divorce, there's a lot of this idea of the amorphic formulation of computational models.
+- \[00:01:14\]  So when you take, and actually Carl and Chris had a paper that predated the mortal computation paper, but we developed that metaphor further. You can draw a dot and arrow diagram of a neural network and that endows it with like this pedagogical morphology, but really at the end of the day, it doesn't matter.
+- \[00:01:33\]  It's just, you know, a pile of linear algebra that will do its calculations. And then we have to go through the von Neumann computing architecture, right, to transmit the weight memory and all that.
+- \[00:01:44\]  And then that's where this great thermodynamic cost. So living systems, I know, as you know very well, Michael, but in general are inherently morphic.
+- \[00:01:55\]  And actually, this is the part where we didn't have it in the paper, but your paper used the word polycomputing, which is the idea that a substance can compute many different things simultaneously is like one way to look at that word.
+- \[00:02:06\]  And the idea is that it's all about the substrate. And so mortal computation then just says, if we're going to think about artificial general intelligence or machine intelligence, we're sort of going about it in the wrong, potentially wrong direction, by having this divorce of the computational architecture
+- \[00:02:23\]  and construct separate from the morphology or the substrate to that this is going to be enacted on. Because living systems, if you change the morphology, you change the properties of the system, you change also what it can compute, what it can do.
+- \[00:02:38\]  Now, you talk about the liquid kind of brain or the idea that we have this self over time, which doesn't actually sit at odds with mortal computation. So the idea is that you're constantly through change, you're persisting, you're almost like I want to persist, but I understand that my system is going through like lots of pieces.
+- \[00:03:00\]  So mortal computation sort of absorbs that and tries to say we should be designing systems from that perspective. So just so I don't keep rambling, you were talking about programmability. And I think that was an interesting part that we didn't really get to chat a whole lot about. And it wasn't 100% clear what was meant by programming the morphology or the system, because actually, after reading your paper, I think that sort of gave the answer as to how, because I said originally,
+- \[00:03:28\]  oh, well, I'm thinking that the morphology or the substrate dictates strictly what you can and can't do. Yes, it will change and it will repair and go through damage or do things like self replication. But I wasn't thinking about the human designer, let's say if we are designing a chimeric system or something new, manipulating that morphology so easily, it's more like, well, we're going to be looking at computational simulations of that, and that would be programmable.
+- \[00:03:55\]  And then that's where I was talking about, oh, we could do like software simulation of Anthrobots or something or Xenobots of that form. And then you could sort of set the properties of the environment in the system roughly according to something you want to look at and then simulate it and see what it does.
+- \[00:04:13\]  But then your paper sort of essentially in your work is an example of you can directly program like the, you know, genetic aspects of a system, or you can kind of manipulate the bioelectrical chemicals. You had an example of like a tadpole or a froglet where if we, you know, apply the right electrical stimulation, you can get it to grow a tail or get it to grow a leg and there's some properties there.
+- \[00:04:40\]  So I think that is where the programmability is. And then that would be more, you would have even actual experience programming the morphologies. Whereas I was thinking more from the perspective of neural networks where, you know, we have the structure and we want that to now be at the very top of what Carl and I call MILs.
+- \[00:04:59\]  And you remember in the paper, there's the mortal inference learning and selection. And at the very, very top is structure. And that would be something that I think is under explored in the area about, oh, maybe we have neurogenesis and apthogenesis. And then the system sort of has to use that as another aspect of how it evolves over time.
+- \[00:05:17\]  But that was thought of, or at least the way I was writing it originally, it's sort of doing that in its own way. You're not really involved in saying, oh, I'm going to help you do model selection. But maybe if you encode priors, that was the other aspect I had. If you are encoding certain constraints, you say, well, I just, I'm going to play, I'm going to skip ahead for what evolution would naturally walk, randomly walk you to and say, these types of structures are invalid.
+- \[00:05:44\]  That would be like programming, maybe structure from that perspective. I don't know if this is making sense, but I think it's a tricky topic because I wasn't entirely sure what exactly two was meant by programmability because you have experience actually doing that. So the answer is yes, it can be done from your perspective. And we would just be translating it to chimeric systems or artificial systems rather than it only just being like biological material.
+- \[00:06:12\]  I hope that makes sense.
+- \[00:06:13\]  Yeah. Yeah. I mean, the kind of programmability I had in mind. So just as an example, we have these flat worms, these planaria, and you can chop them into pieces and every piece regrows a complete perfectly patterned little worm. And you could ask the question, how does it know how many heads to make? And so it turns out that there's an electrical pattern that, sort of a body-wide electrical pattern that dictates the number and the location of the head.
+- \[00:06:38\]  And the amazing thing about that substrate is that if you change that pattern, the tissue will hold it. So we could change the pattern to say, no, two heads instead of one, and it holds. And those worms in perpetuity forevermore, despite their completely normal genetics, will continue to regenerate as two-headed worms.
+- \[00:06:57\]  So, you know, it's a very minimal example of reprogrammability because we don't have anything like complete control yet. I think in the future, maybe we will, but at the moment we don't. But it is an example where the hardware in an important sense, so the genetics are normal, all this, you know, there are no weird nanomaterials, there's no genomic editing, there are no synthetic biology circuits, you know, it's stock hardware.
+- \[00:07:18\]  But because of this experience, this physiological experience that it's had, it now has a different pattern that it uses as the sort of target morphology of what it's going to do if it gets cut. So that's, you know, that's the kind of thing, the kind of plasticity that it has where the material is basically the same, but it has really a memory of a past event and that memory guides how it behaves in anatomical space in the future.
+- \[00:07:44\]  So that's the kind of thing I wanted to sort of explore with respect to this framework.
+- \[00:08:14\]  Yeah.
+- \[00:08:44\]  Yeah.
+- \[00:09:15\]  Carl, was going to add anything that I might be missing or not getting?
+- \[00:09:23\]  No, that was very fluent. I think you covered everything there.
+- \[00:09:26\]  If I can just jump in for a minute, it seems to me that this dimension of programmability could also be expressed as the dimension from uniqueness, which mortal computers, as I understand it, have more of than my laptop, to replicability or exact replication.
+- \[00:09:56\]  Replicability, copyability. And to the extent that a system is really unique, you can't program it. And in part just because you don't have two copies of it, so you can't test what you're doing in any way. You can't test reproducibility if you're working with a system that's completely unique.
+- \[00:10:24\]  Yeah.
+- \[00:10:26\]  And biological systems are somewhere in the middle. Laptops are intended to be way out on the extreme replicability end. And so because a laptop is completely replicable, it's a completely generic entity, it's almost a Turing machine. It's almost just an abstraction.
+- \[00:10:56\]  And so when we're programming, we can treat it as an abstraction. And we don't have to worry about things like where the power comes from and why the thing maintains the same shape over time and etc., etc. I mean, if it doesn't maintain the same shape over time, you take it to the repair shop or recycle it and buy another one.
+- \[00:11:18\]  Whereas in biological systems, you have to worry about all of that stuff. And as you point out in the paper, and as the 4E people kind of have been pointing out for decades now, that's part of the algorithm or that's part of the operating system, that shape.
+- \[00:11:45\]  Whereas it's not involved at all in my laptop, in the operating system. I mean, even the operating system can treat the hardware as an abstraction.
+- \[00:11:56\]  So we can, I think, more or less identify those two axes, the dimension of programmability and the dimension of uniqueness.
+- \[00:12:08\]  And so one of the things that you emphasize in your paper, and I thought this was very interesting, was the energetics of using the body as part of the operating system.
+- \[00:12:25\]  And it meant that you didn't have to pay for a lot of memory, for example, or quite so much processing power. You do, of course, have to pay the cost of keeping the body intact.
+- \[00:12:46\]  But as you pointed out, at least in organisms, that's cheaper than the cost of stamping out more laptops and then equipping them with enough voltage to keep them in the classical domain so that they don't start acting like quantum computers, which they actually are.
+- \[00:13:10\]  So I think that it would be useful to try to relate this issue of resource cost to the issue of uniqueness, as well as the issue of programmability.
+- \[00:13:27\]  I'm not sure whether those are, I suspect those are distinct dimensions, but I think the usable area of that state space involves a lot of correlation between those dimensions.
+- \[00:13:40\]  Yeah, I agree. I think that would be very interesting to explore. I don't know, Michael, if that resonated with you, because I feel like that touches on even pairing the mortal computation paper from me and Carl in the paper you shared with all of us of yours.
+- \[00:13:58\]  I think the two sort of start to get into that idea of uniqueness, programmability, and resource cost. And there are some different dimensions we could explore.
+- \[00:14:07\]  Because, yeah, I also just wanted to comment, Chris, that I, at least when I first was writing the paper and then I shared it with Carl, I wasn't thinking of the, I was thinking of biological systems as sort of an ideal target, right?
+- \[00:14:22\]  You're sort of emulating some aspects of those systems. So I guess I'd be giving up some uniqueness, right? Because you said it lies in between the immortal laptop and the perfectly unique system itself.
+- \[00:14:34\]  I think the other thing I was concerned with is the artificial intelligence community really liking the idea of immortal computation and that complete divorcing.
+- \[00:14:45\]  Because you're right, you do lose the moment you leave even just a few steps away from immortal computation, that reproducibility, because it's that substrate now is important.
+- \[00:14:56\]  And then Carl and I argue even stronger, it's the morphogenesis too, the changing process, which again, complements your paper, Michael, as well.
+- \[00:15:07\]  And so I think that's one of the ideas that change is also very important and that evolution over time, which is not something you're going to have on your typical deep neural network that just lives at the top of the Von Neumann architecture.
+- \[00:15:18\]  And then the last comment I just wanted to make, Chris, is yes, that's exactly the key is that in-memory processing that we want.
+- \[00:15:26\]  And that's why bringing ourselves as close as possible until we eventually just reach what we can, which is the Landauer limit and getting ourselves real close to the hardware.
+- \[00:15:36\]  Now we're optimizing thermodynamic cost. And then, of course, as you and Carl and everyone here has shown over time, that's the flip side to the information theoretic variational free energy, but the thermodynamic free energy.
+- \[00:15:50\]  At the end of the day, we want to be there because that's what biological systems are. They are much closer to the Landauer limit than pretty much anything in machine intelligence that we have today.
+- \[00:16:01\]  And that would argue it's even getting worse because big, big transformers are really bad. And Carl also and I state the carbon footprint. So that's a good motivator.
+- \[00:16:13\]  Yeah, I find that energetic analysis very compelling. I'm very interested in why biological systems can be quite so efficient.
+- \[00:16:27\]  And I think in many cases they're efficient because they're able to use quantum resources when they're doing molecular computing and maybe even when they're doing macromolecular computing.
+- \[00:16:43\]  I guess the one other comment about a dimension that I wanted to throw in, which you mentioned a little bit about in the paper, was this dimension of explainability, which AI is very obsessed with the explanation problem now.
+- \[00:17:09\]  And as one gets away from reproducibility, the explanation problem gets harder and harder. And in the limit of a unique system, the explanation problem is infinitely hard because you can't do experiments, because you can't replicate anything.
+- \[00:17:29\]  So, we have that other access to work with also.
+- \[00:17:36\]  Maybe it would be kind of interesting is since you were bringing up these so far three axes that I caught, you know, uniqueness, programmability, explainability. We also did talk about resource cost, kind of putting out this grid and then you saw Michael and actually I presented, you guys would have seen in the paper, but I presented it a couple of times, like the different types of things that we could do.
+- \[00:18:01\]  variants of mortal computers. And so, obviously, Xenobot is a mortal computer. It actually had a lot more qualities after I reread papers again, looking back. But even, you know, the silicon model that we had for the non-biological model from Ashby, we can never forget the great homeostat or allostat.
+- \[00:18:20\]  And so maybe we could plot these a little bit on those axes too is what degrees that they're trading off. Obviously, we need to figure out which one of these starts to get real close to the, like you said, Chris, the really unique and then, you know, that would be the extreme one where explainability would be, you know, really, really, really difficult. And we could kind of plot where those are.
+- \[00:18:36\]  And I'm sure, Michael, you probably have other examples that Carl and I might have missed. So there might be some other nice biological chimeric systems, things that are even less biological, but have a little bit of it. You did touch on, you know, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the
+- \[00:19:06\]  nanotechnology as well. And I, in your, the polycomputing paper you shared with us. So maybe there might be some in soft robotics, there might be something there too, that could count as variations to mortal computers that trade off on these axes. That's something else I just thought of this Chris explaining.
+- \[00:19:24\]  Yeah. So, so another, another model system to think about and by the way, we do, we do have simulator simulators of some of this stuff. So we, we should, we should be in touch, you know, give you access to some of that because maybe, maybe you can do, you know, do some analyses. You know, we have bioelectric simulators and things like that. You know, another, another kind of model system to think about. And this is, this is something that Patrick is doing at the bench. And then I have, I have somebody who is doing this, you know, the computational analysis of this.
+- \[00:19:54\]  So, but are these gene regulatory networks, right? And so the abstraction of course is, is quite simple. It's just in the, in the continuous case, it's a, it's a few ODEs and they just, you know, they're nodes that turn each other on and off and that's it. But but if you study these things, you find some really interesting features for us.
+- \[00:20:13\]  Yeah. So I think that's one of the most interesting things is that if you, if you do temporary stimulation of the different nodes, right? So you just grab one of the node values and you crank it up or down for a little bit and you keep the, you keep the, the, the structure of the network completely fixed. So you're not changing the weights. You're not changing the topology. The hardware is completely fixed. All you get to do is temporarily raise or lower the, the, the activation of any node and then you wait and you see what happens. Right?
+- \[00:20:40\]  So if you do that, and if you treat it in a sort of behavioral science context, you can show things like habituation, sensitism, basically six different kinds of memory, including Pavlovian conditioning. So these things learn. And we've been very interested in this, this question. I mean, so we have a couple of papers showing how they learn, but one of the really interesting things is because we don't let the hardware vary.
+- \[00:21:07\]  So this is not a scenario where there's some kind of synapse whose weight gets, gets tweaked by experience. The fact that they learn the most, the most, to me, one of the most interesting things about it is where is the learning stored? And this is something that all of the reviewers of the original two papers got hung up on because we say again and again, the hardware does not change. And then they all said, great. What, then, then, then, then it can't, then you can't have it because where, where could the memory possibly be? Right.
+- \[00:21:31\]  And, and it's this dynamical systems thing where they get chased into a regime where future, future stimuli are going to cause very different outcomes because of their history than, than past outcomes. But I wonder, and this is, I was, so, so this is what I was going to ask you guys to, to kind of think of them to, to talk about from, from your frameworks perspective. I wonder if the business of uniqueness is related to this sort of issue. I think, I think maybe, maybe called privacy or something like this idea that there is an inner perspective,
+- \[00:22:01\]  a system that's had a certain set of experiences, right. It has a history of in the world that is not available to outside observers. And this is, you know, we spend a lot of time with my, you know, my postdoc Federico and I spent a lot of time thinking about you, you look at a network.
+- \[00:22:18\]  Can you tell whether it's been trained? And if so, what hasn't been like, can you read its mind? You know, that's kind of neural decoding kind of thing, because you're not going to get it from the hardware. You can, the nodes are no different, right? So, so in fact, we have a visualizer that tries to show various, various aspects of it. And if you, you know, on the left and right of the screen, first, you start off with a hardware view of it, and that never changes throughout the whole time. But as it learns right over multiple experiences and stimuli, something absolutely changes.
+- \[00:22:47\]  And then we have some, some ways of thinking about it. But, but this question of, can you as an outsider, is there anything about moral computation that speaks to this issue of what you can tell as a, about a system as an outside observer, versus what you know, as the system yourself, you know, from from the inner perspective, is that something you guys think about?
+- \[00:23:08\]  I'm gonna give a piece of it. And then I'm gonna hope Carl can tag in a little bit, because I think he can flesh this out a little bit better. So, and this might be confusion over what you might have explained, Michael, about the reviewers. So you said, I fixed the hardware. And on top of that, I fixed the plasticity, because you said we can't change the, you know, the values of the synapses, or the, the connection strengths.
+- \[00:23:34\]  And I do think moral computer, mortal computation, we did address this. So Carl and I decomposed it in, again, it goes back to Mills. But again, I might be misunderstanding. So we're going to decouple the privacy and the perspective, the observer perspective, because I want to hear what Carl might have to say to that.
+- \[00:23:50\]  But for why learning would still happen, even when you fix those things, it's just the inference. And the way that we looked at it in Mills was there's these different timescales of learning. So if you were to pin the structure of the S in Mills, and then pin L, and say, you can't modify those, well, we still had one more piece, which was the very fast timescale.
+- \[00:24:12\]  And you talk in your polycomputing paper, I've done a lot of work in that, Carl obviously has done a lot as well, predictive coding, predictive processing, we always have the inference dynamic. So the idea is that, and I'm sure you thought of this, this is why I was kind of surprised the reviewers were maybe not understanding. So there's like short term plasticity, right?
+- \[00:24:32\]  So the idea is that when you're doing expectation maximization in a predictive coding network, I can still change the neuronal activities, the firing rates, or the spiking rates, depending on what model you're constructing. And the synapses never change and forget about the morphology, because that's a whole nother ballgame. And I would get adaptation. And there was a very interesting paper that came out, I don't know now, just like two weeks ago, Wolfgang Maas in spiking neural nets, talked about this.
+- \[00:25:02\]  And he talks about, well, look, I don't need to modify the synapses, I'm going to do everything in my spiking neural architecture with just homeostatic variables, which is, he didn't call it them, but it's just the adaptive thresholds. He's like, if these change, so we have this short term kind of non-synaptic adaptation, you get all these effects. And he actually showed it again, it's a machine intelligence task, but showing in all these tasks without learning in the sense of modifying synapses.
+- \[00:25:31\]  And that was very interesting that you can go very far. And I'll try to dig up that paper. It was something I wanted to go in more detail later myself.
+- \[00:25:39\]  So in MILS, right, we're just saying, well, okay, we're obviously under mortal, but the inference dynamics and the fact that these still follow the gradient flow of the variational free energy that defines your system or your functionals that you're looking at, would explain why that adaptation that you found would happen. And I'm sure you thought of that. I don't know why the reviewers specifically wouldn't have said, well, this doesn't make sense. How could you learn?
+- \[00:26:07\]  If you pinned all three, well, it's a static system. You are freezing it in time. And then I would be, that would baffle me.
+- \[00:26:14\]  So that's my comment that I do think the framework definitely speaks to that because Karl and I were very adamant about the separation of timescales, at least these big timescales. I mean, there's all these intermediate ones that I'm sure you could bring up.
+- \[00:26:29\]  And you need them all because there's a causal circularity if you want to build, you know, the most powerful type of mortal computer.
+- \[00:26:37\]  And there was a sentence I can't remember because Karl and I have done many revisions of that paper.
+- \[00:26:42\]  It might have been in one of the earlier ones where we, I mentioned something like, well, you know, even though I'm saying morphology is important, technically, if I was only allowed one, I still have MILS. It's just a very simple search space, right?
+- \[00:26:56\]  It's a, well, we know that you're here. You can't change the architecture. So we didn't break our framework. So that would allow us to subsume machine learning and say, well, machine learning is like this very, very narrow case.
+- \[00:27:08\]  It is doing something that you MILS could explain. It's not mortal, but at least it has like a fixed topology and synaptic plasticity is there. And we are just really, really speeding up the inference dynamics by making it one step because we don't use EM most times in deep neural nets for sure we don't.
+- \[00:27:29\]  So that was my comment about addressing the learning, the fact that things, you know, if you fix so much, why would that still happen? And I definitely think MILS, that piece of the backbone of mortal computation would speak to that.
+- \[00:27:44\]  Now, in terms of the observer effect and what does that tell us about what's going on inside? I've tag team Karl. What do you have to say to that, Karl?
+- \[00:27:52\]  Right. Well, before I address that, which in my world is a very simple answer. You can't. So that was a really interesting exchange and really interesting examples there.
+- \[00:28:11\]  And I was just thinking from the point of view of the sort of the classical flows and physics that would provide a simple picture of how on earth you can remember stuff without changing your connection weights. And I think Alex, you identified the key thing here, which is the temporal scale.
+- \[00:28:35\]  So, you know, well, where to start? It was interesting you introduced Wolfgang Maas because he for many years has been the king of liquid computation and echo state machines, which is not, you know, has the same kind of semantics as liquid brain.
+- \[00:28:51\]  And it's a very powerful black boxy like kind of dynamical system approximator, you know, that has been proposed as one architecture for doing predictive processing and mortal computation of a sort.
+- \[00:29:07\]  But the key, I think the key point that has just been made here is that the dynamics matter and the dynamics are shaped by the landscape, Lagrangian, variation, free energy, whatever you want.
+- \[00:29:27\]  And that is a function of the implicit gradients that depend upon the sensitivity of all, say, the nodes in any given network. That sensitivity can either be read as a connection strength or it can just be read as a sensitivity in terms of to what extent do I change my internal dynamics given this particular external perturbation.
+- \[00:29:54\]  And of course, that becomes time and context sensitive with any nonlinearities. So if you're talking about a nonlinear system, then there is a, the bright line between the connection strengths and the current effective connectivity at this point of time in this context, in this part of phase space or state space becomes very blurred.
+- \[00:30:19\]  So if you're writing down the differential equations, you could go one of two ways. You could just write down a random differential equation with loads of variables representing interactions between different types of states and the response, the rate of change of any particular state that would entail the nonlinearity in question.
+- \[00:30:43\]  Or you could arbitrarily say, okay, now one subset of these variables changes very, very slowly and I'm going to call them connection strengths.
+- \[00:30:52\]  And I'm now going to lift those out of my equation. So I'm now left with a much simpler sort of autonomous differential equations that are now parameterized by other states that change very, very slowly.
+- \[00:31:04\]  Mathematically, you haven't done anything but introduce a separation of temporal time scales. But in so doing, you have now got a different kind of rhetoric where initially you were talking about voltage sensitive receptors and sensitivity and contextualization conductances and the like, which sets the synaptic efficacy, which is fluctuating moment to moment.
+- \[00:31:28\]  And now you're talking about these being the connection strengths, the parameters of your structure in a Millsite context or the strengths of your connections or weights in a machine learning context.
+- \[00:31:46\]  But the only difference I repeat is just the time scale. So you're talking to Mike's example, you know, how can you have memory without changing your connectivity? Well, you know, you're just appealing to initial conditions in the context of a nonlinear dynamical system.
+- \[00:32:04\]  At what point would you start calling this the kind of memory that could be encoded in terms of connection strengths? Well, in those kinds of systems where the key not second order nonlinear interactions rest upon a subset of variables that change very, very slowly.
+- \[00:32:22\]  And you say, well, okay, under that adiabatic approximation, then we'll now call this a different kind of memory. And it's just because it's slightly slower.
+- \[00:32:30\]  So, you know, I thought I think it's I was I liked the emphasis on the separation of time scales, because I think that would have dissolved the reviewers concerns. If you were just talking about like really fast learning in the moment that is all in the nonlinearities and the dynamics.
+- \[00:32:51\]  I can't emphasize the nonlinearities, Mike, because of that sort of
+- \[00:32:57\]  the paradox of change. So as soon as you have nonlinear dynamics in any system that has at one particular time scale, an attracting set or a random pullback attractor, you have that itinerancy, which means that there will be some form of ^a9d5d3
+- \[00:33:17\]  changing sensitivity to all the things that I am coupled to that is definitional of things that have that biotic or sort of characteristic kind of set. So, you know, the nonlinearities,
+- \[00:33:32\]  the nonlinearities, certainly from a classical perspective, I think are absolutely key here and resolve a lot of the distinctions and give you now a relatively simple picture that if there was some way
+- \[00:33:46\]  to tell the next version of me where I started, give me give the next version of me my initial conditions in the past version of me, you can, you know, I would imagine quite simply just write down systems that have this kind of memory, which does not involve in any way a change in the connection weights.
+- \[00:34:07\]  And I'm just wondering whether that, you know, that if you wanted to simulate that remarkable fact that the worms remember that they are on a two headed trajectory, even when they start again.
+- \[00:34:23\]  I mean, I think the deep question here is how on earth did they inherit the initial conditions that, you know, characterized the termination of their parent or the, you know, what they inherited from.
+- \[00:34:37\]  I think, again, that speaks to this coupling between different temporal scales, you know, is this a messenger RNA, you know, is that, you know, and how does that propagate through to the electric fields and how does it get back top down causation get back in again.
+- \[00:34:52\]  Fascinating example. I never heard that before. I'm sure you've told me, but I probably ignored it because it's so remarkable.
+- \[00:35:00\]  Not easy to explain. In answer to the question, can you ever know what's going on inside a system? No.
+- \[00:35:10\]  And I say no polemically from the point of view of the Fiange principle. You can never know what's beneath a Markov blanket. You can never know what's on the other side of a holographic screen.
+- \[00:35:20\]  That's the whole point of a holographic screen or a Markov blanket. All you can do is bring a best guess and as if explanation to the polycomputing, if you like, in the bulk on the other side.
+- \[00:35:33\]  Which means, you know, I think that simple observation, the whole point of that screen or Markov boundary is that there is a conditional independence given what you can measure.
+- \[00:35:50\]  So you can never know other than infer by what you measure from the behavior, the inputs and the outputs of a particular system.
+- \[00:36:02\]  Amazing. So two questions then. One is, is it just a flat no or is there a degree that is easier to know for certain kinds of systems and then for sort of advanced living cognitive systems, it's really no? Or is it just like, is it always the same or is it a matter of degree?
+- \[00:36:21\]  If you're directing at me, the answer I'm afraid is always no. But I don't mean that in a sort of pessimistic or... I mean, the question, how do you infer what kind of Bayesian mechanics or polycomputation is going on underneath a Markov blanket or inside a cell or inside a brain?
+- \[00:36:45\]  That question is, of course, my day job and the day job of nearly every neuroscientist. It's peaking underneath the Markov blanket in a non-invasive way that doesn't destroy it to try and understand the mechanics and to test hypotheses about what is going on.
+- \[00:37:02\]  But you're always testing hypotheses you will never know. So there will be situations where the functional anatomy or the architecture reveals itself through non-invasive imaging, for example, or sort of even invasive techniques of the kind that you use every day.
+- \[00:37:17\]  But all you're doing is basically testing hypotheses about what you think the generative model is under the hood. And once you know that, or put it another way, if you knew the generative model, then you know the Lagrangian. If you know the Lagrangian, you know the intrinsic or internal dynamics.
+- \[00:37:34\]  And you can tell a story about polycomputing, tell a story about Bayesian mechanics, you can tell a story about perception, you can tell a story about memory, you can tell, you know, basal cognition. But these are just stories predicated on the Lagrangian that governs the intrinsic dynamics.
+- \[00:37:54\]  And all that the free energy principle brings to the table is that you can express that Lagrangian as a function of a probabilistic generative model. So your job is now to identify the functional form and structure of that model and all the processes that it entails. But every time you do that, you're just testing a hypothesis, you know, theory of mind for me and theory of mind for your xenobots and theory of mind for yourselves.
+- \[00:38:21\]  Of course, you know, you can break down at different scales. So, you know, it would be possible to ask about the sense making and sentient behavior of a single cell in my brain if you're able to isolate it and get inside there and do molecular biology or do cellular biology.
+- \[00:38:40\]  But you would no longer be looking at my brain at that scale. So, you know, but you could sort of cut across scales in the good old fashioned way and start to tell an internally coherent story about how it all fits together across scales.
+- \[00:38:56\]  I'll say quickly, not to interrupt you, Michael.
+- \[00:38:59\]  And it's partially going to be a question for Carl as he triggered an interesting thought. And then just to quickly say to you, Michael, that's also why I was hesitant because by definition and since mortal computation rests on the Markov blanket and it's underwritten by the free energy principle.
+- \[00:39:17\]  I also commit to that as well. But no, the answer is no, you can't see what's under the Markov blanket. And that's why I was curious to know if Carl would give me anything that I just didn't know about.
+- \[00:39:27\]  So that was one comment to you, to Carl and to everyone really.
+- \[00:39:33\]  So mortal computation also subsumes artificial systems. So this is where I was curious to know if Carl we were to design the internal states, all the dynamics, we, again, we have the environment, but let's just say you've dissimulated, you're designing the environment, and you design the Markov blanket because we talk about even in our paper,
+- \[00:39:56\]  potential sketches of things that you could use to build the boundary and the transduction pumps and all the sub pumps and, you know, to actually build a viable artificial organism.
+- \[00:40:07\]  Now we have the internal dynamics, we have specified, we are the designer, and we have specified internal, external and the boundary.
+- \[00:40:16\]  Is there something I'm missing that we would still because we've created the Markov blanket. So now we know what's on the other side. So the answer to Michael is not for natural systems that we obviously cannot, you know, did not create, but we made it.
+- \[00:40:29\]  So we made the internal systems. Is there some other concept I'm missing because you would be able to now say I know everything because I built the internal states I specified every bit of the dynamics.
+- \[00:40:42\]  And let's say the environment, you know, we've constructed that we've constructed the Markov blanket, the boundary.
+- \[00:40:50\]  What about that case is it's now we are inspecting because we made it. So we obviously don't need to infer it, we know it. What about that. I was curious to know your thought of designed internal states and designed external states and designed to Markov blankets.
+- \[00:41:07\]  If that makes any sense.
+- \[00:41:08\]  Yeah, well, I go, Mike's gone to the door. So I'll
+- \[00:41:13\]  I'll respond to that.
+- \[00:41:17\]  So, yeah, I'm not, I'm not going to give you any deep philosophical insight. You don't already have, but just a very practical one. I mean, you know what you just described is an application of
+- \[00:41:34\]  The free energy principle as a method to simulate various mortal computations.
+- \[00:41:43\]  In the service of building hypotheses about how this thing might work mortally.
+- \[00:41:49\]  So practically, that's what we use the free energy principle for and the design is, you know, is at least mathematically
+- \[00:41:58\]  Very straightforward in the sense I repeat, all you need to know is the generative model. So all you need to be able to write down is a probability distribution.
+- \[00:42:08\]  All the causes and consequences that constitute your system. That's it. If you can write that down and you can instantiate that in a Von Neumann architecture.
+- \[00:42:17\]  You then just solve the equations of motion that are the gradient flows that will have a certain oil component
+- \[00:42:23\]  On that Lagrangian and you can simulate sentient behavior and sense making perceptual action self organization, everything that you
+- \[00:42:29\]  You want to do. Why would you ever want to do that. Well, in order to test hypotheses that this reproduces the kind of behavioral thing of interest, which is something like maybe be a psychiatric patient for somebody like
+- \[00:42:42\]  Like might be a, you know, a multicellular organism.
+- \[00:42:49\]  You know, so
+- \[00:42:51\]  You are now using
+- \[00:42:54\]  A simulation as a way of generating predictions that then you can match against the observable parts of the system of interest, which are just the surface. Yes, just the action on that system.
+- \[00:43:09\]  And to the extent that the sensory inputs that system are also known. That's all you have access to. So literally, that's how we practically use active inference, for example, we just create
+- \[00:43:20\]  simulations of
+- \[00:43:24\]  Bayesian mechanics in a given paradigm and then we adjust the generative model or specifically the priors of that generative model until it renders empirically observed choice behavior.
+- \[00:43:36\]  The most likely under the probability distribution of the actions of my simulated simulated. So in that sense, you're specifying the structure, but one could argue
+- \[00:43:47\]  That even treating the laptop computer that is so non unique because it affords the opportunity to abstract and do these simulations, you know, coming back to Chris's point
+- \[00:43:59\]  Even then, you don't actually know what's going on underneath the hood.
+- \[00:44:03\]  Even then, you don't actually know what's going on underneath the hood.
+- \[00:44:07\]  And certainly in conversation with people designing some risk architectures and sort of looking at the most efficient buses, they have to guess
+- \[00:44:17\]  What's actually being passed here and there, measure it and get proxies like temperature and you know, and that kind of thing. You can certainly specify the initial conditions and the structure.
+- \[00:44:28\]  And you can do a, you know, you can reboot and reset it so you can set you can you can to a certain precision specify the initial conditions.
+- \[00:44:36\]  And the structure of which the, you know, that that the ensuing dynamics will occur, but to actually know the message passing
+- \[00:44:45\]  Of a computer, even in simulation, I think would be
+- \[00:44:50\]  I think you'd be able to return to your hard no
+- \[00:44:54\]  And certainly on the level of, you know, the quantum level that Chris was referring to. Again, it would be unknowable.
+- \[00:45:02\]  But it's an interesting point, but it does foreground the role of simulations in this, I think, and it comes back to, you know, this
+- \[00:45:09\]  You know, why do we want to know all this. Well, it's just to basically build hype formalize hypotheses in terms of
+- \[00:45:18\]  Simulations that now embody our hypothesis and then look at the empirical system to see whether you know that hypothesis was was correct.
+- \[00:45:31\]  And I just
+- \[00:45:32\]  Add another point of view on this.
+- \[00:45:34\]  And if we if we think about what we do in practice with ordinary computers.
+- \[00:45:44\]  Where we have built the thing, etc.
+- \[00:45:47\]  Part of building the thing. It's not just assembling the hardware.
+- \[00:45:52\]  We also put a lot of work into building these interfaces that we call programs.
+- \[00:45:59\]  And so if I'm using some sort of debugging tool or something like that, where I can run a program in one window and see what's happening.
+- \[00:46:14\]  At some level of the execution trace and some other window.
+- \[00:46:19\]  What I've done is constructed a Markov blanket effectively to use that language.
+- \[00:46:27\]  That has a bunch of different I O channels.
+- \[00:46:31\]  That access different parts of what's going on in the device.
+- \[00:46:37\]  So we could think about from a biological perspective.
+- \[00:46:41\]  We have these cells.
+- \[00:46:43\]  That come equipped with their own native.
+- \[00:46:49\]  I O channels.
+- \[00:46:52\]  But there's nothing that says that we couldn't in principle build some more channels into the things.
+- \[00:47:01\]  So that we could see.
+- \[00:47:03\]  We could see more about what was going on in the inside.
+- \[00:47:07\]  Not by penetrating the Markov blanket.
+- \[00:47:10\]  But by adding some I O capacity to the Markov blanket.
+- \[00:47:14\]  What does that mean physically?
+- \[00:47:17\]  It just means you're using a different interaction.
+- \[00:47:21\]  Because it's the it's the interaction that's going to make the thing work.
+- \[00:47:25\]  means you're using a different interaction, because it's the interaction that defines the
+- \[00:47:33\]  blanket as a set of information transmitting states. So I think we always have the hard no
+- \[00:47:47\]  of the Markov blanket, but we also from an engineering perspective, because we can
+- \[00:47:57\]  interact with these systems in ways that other parts of their environments can't interact with
+- \[00:48:04\]  them or don't interact with them at least, we're a part of the environment that can open up
+- \[00:48:10\]  new communication channels through the blanket by changing the interaction
+- \[00:48:18\]  that effectively changes the state space in which the blanket is defined.
+- \[00:48:29\]  Augmenting the model, let's say with reporters or
+- \[00:48:33\]  optogenetics I would imagine is a good example of that.
+- \[00:48:38\]  Yeah, well, I mean, in a sense, you know, fMRI is a good example of that.
+- \[00:48:44\]  Yes, yeah.
+- \[00:48:45\]  Right, we were just adding an I-O channel to the brain that wasn't there before.
+- \[00:48:54\]  I want to...
+- \[00:48:56\]  Sorry.
+- \[00:48:56\]  No, no, please, Carl, keep going.
+- \[00:48:58\]  No, I was just thinking out loud, you know, so the catchword in my world is sort of non-invasive
+- \[00:49:07\]  brain imaging, and that has a meaning, you're not invasive, but there is a whole centuries worth of
+- \[00:49:16\]  legacy of invasive studies and lesion deficit models and depth recordings and the like, which,
+- \[00:49:22\]  you know, I think speak to this, you know, how far into the mark of blanket can you peer
+- \[00:49:28\]  without destroying the thing that you're trying to, in the Heisenberg sense, trying to get at.
+- \[00:49:35\]  I was withering, I'll shut up and have a quiet cigarette while I listen to you now.
+- \[00:49:40\]  I just add that it's non-invasive kind of by convention, and that you're invading the brain
+- \[00:49:47\]  with a magnetic field that wasn't there before, you're just not damaging it much.
+- \[00:49:53\]  That's what Carl said, you know, it's invasive, but, you know, I wonder what that tells us then
+- \[00:49:59\]  about augmenting the mark of blanket, because yeah, Carl usually will say, you know, if we
+- \[00:50:05\]  want to non-invasively understand it, well, then yeah, you can't peer under the mark of blanket.
+- \[00:50:10\]  So, mortal computation, I think, kind of is connecting towards the idea of what you're
+- \[00:50:16\]  saying, Chris, right, because we can augment, we can add I.O. channels, you are designing,
+- \[00:50:21\]  engineering these things, so now this was something that did not exist. I don't know,
+- \[00:50:25\]  Michael, how does that shed light on the question that you originally wanted to get at, which is,
+- \[00:50:31\]  you know, peering at these internal states, because I think this is like an indirect way,
+- \[00:50:36\]  because I was, Carl gave me a great answer about, well, if I just design, because my brain goes to
+- \[00:50:41\]  the ultimate engineering, I'll just design it all myself, and I even was thinking about if I build
+- \[00:50:46\]  the hardware, but Carl's right, even when you, when you get to hardware, you're guessing a lot
+- \[00:50:50\]  of times, even with the best educated guesses, so there's still the markup blanket that you're not
+- \[00:50:56\]  really breaching, but if you perturb or change, it's even like augmenting the cell membrane
+- \[00:51:03\]  with something, and your lab's group is, you know, an example of modifying these things,
+- \[00:51:09\]  what does that do to your question, how does that shed light on what you're thinking?
+- \[00:51:13\]  Yeah, yeah, I mean, I even wanted to do, talk about a much more annoying aspect of this,
+- \[00:51:19\]  as I always do, which is to take it way down, so never mind brains, never mind even cells,
+- \[00:51:25\]  right, my question, you know, also extends like that transition from, you know, you got a pendulum,
+- \[00:51:31\]  you got a thermostat, you've got, you know, right, and you can sort of build these things up,
+- \[00:51:36\]  and then eventually at some point you get to a cell, so I'm still curious about whether this
+- \[00:51:42\]  impenetrability goes all the way down, so we can't read the mind of a pendulum either,
+- \[00:51:46\]  or there is some sense of progressive opacity in, as you climb this sort of continuum of cognition
+- \[00:51:55\]  from extremely simple systems, where I think the conventional story is, hey look, it's all
+- \[00:52:01\]  third-person accessible, we know exactly what's going on, but at some point you don't, and so I'm
+- \[00:52:07\]  curious when does that happen, and if we think there's a phase transition here, or if we think
+- \[00:52:11\]  this is smooth, I mean, I tend to think everything is more or less smooth in these cases, but maybe
+- \[00:52:16\]  I'm wrong, yeah, that's one thing I wanted to kind of probe a little bit, is how does this
+- \[00:52:22\]  play out when you start, not start at the brain, you know, where, okay, we can all agree that's
+- \[00:52:27\]  sort of very opaque, but what about from the most simple physics systems,
+- \[00:52:32\]  right, how do you get to that opacity, yeah, and then on the flip side, and I'm conscious that
+- \[00:52:38\]  I don't want to monopolize this, we only have five minutes left, but you know, something that's
+- \[00:52:43\]  very interesting, I think an implication of this is that we can't really know, and we're all
+- \[00:52:48\]  inferring, if you take the approach that I took in this memories paper, where your future
+- \[00:52:55\]  self has to make a lot of guesses as to what your memories mean, because they were written down by
+- \[00:53:01\]  your past self, and you don't have all the metadata, you have to now interpret these compressed engrams,
+- \[00:53:06\]  then that leads to this kind of a little, just kind of disturbing question, is so we can't
+- \[00:53:12\]  even tell what we used to think, really, right, we can sort of guess, but we don't really know then,
+- \[00:53:17\]  if this is the case, if there's, if that impenetrability holds, then it's there with
+- \[00:53:22\]  respect to our past self and our past memories too, so that's kind of wild, I don't know what
+- \[00:53:28\]  we all have to say about those. I'll refer to this wonderful thing called the Conway-Kochen
+- \[00:53:34\]  theorem, Conway of the game of life, and Kochen of quantum contextuality. This was published
+- \[00:53:42\]  three decades ago now, or something like this, but they proved using mainly relativity theory,
+- \[00:53:49\]  that if they considered a generic observational scenario, and they said, if in any generic
+- \[00:54:01\]  scenario what you consider the observer has free will, in the following defined sense, that what
+- \[00:54:09\]  the observer does is not completely determined by that observer's past light cone. So this is,
+- \[00:54:17\]  if the observer is not subject to local determinism, then the thing being observed is not
+- \[00:54:23\]  subject to local determinism either. And at the end of the paper they say, so, you know, one could ask,
+- \[00:54:30\]  do we really mean that electrons have free will in the same sense that observers do? And the answer
+- \[00:54:37\]  is yes, they say in their paper emphatically. This is the one thing he did on the free will theorem,
+- \[00:54:45\]  yeah, I remember catching this. Yeah, and if you drag quantum theory into the picture, then
+- \[00:54:52\]  you get an equally strong result, that any system has to be able to
+- \[00:55:02\]  effectively choose its own semantics for how it interprets whatever incoming information is.
+- \[00:55:09\]  And if you take that choice away, then you get entanglement. So the system ceases to have a
+- \[00:55:14\]  separate identity. So I think the answer, kind of the in principle answer about opacity is,
+- \[00:55:22\]  yeah, it goes all the way down.
+- \[00:55:27\]  Can I just follow up on that and refer to Chris's inner screen hypothesis and the notion of an
+- \[00:55:34\]  irreducible Markov blanket? If you've got a system that has no internal Markov blankets,
+- \[00:55:42\]  has no deep structure or hierarchical structure or heterarchical structure,
+- \[00:55:46\]  then that is, I think, where the hard no would apply or the hard yes of unknowability. But clearly,
+- \[00:55:54\]  if it has internal Markov blankets, you can peel away and invasively or non-invasively start to get
+- \[00:56:00\]  within that. So I think what you're talking about is in that sort of vague gradation of
+- \[00:56:08\]  things that are knowable and unknowable, it's just the hierarchical, well, the depth of the
+- \[00:56:13\]  Markov blankets, of the Markov blankets. And there is a kernel of either an irreducible Markov
+- \[00:56:20\]  blanket, which you can never get into because you change the thing itself. But there's also
+- \[00:56:27\]  a limiting case from the point of view of classical physics, which is when the inner states,
+- \[00:56:32\]  the internal states are the empty set. So things like inner particles or stones don't have
+- \[00:56:41\]  internal states. They just have Markov boundary states. So I think you're absolutely right to
+- \[00:56:46\]  think of this as a gradation. There are inner things that are defined operationally in the
+- \[00:56:54\]  sense that their internal states are the empty set. And you could also say that there are
+- \[00:57:01\]  sessile things that don't have active states. So they are just, all of their states of this kind of
+- \[00:57:06\]  particle are just sensory states. They're just inputs. Inputs that can also influence the
+- \[00:57:12\]  outside. There's no restriction that sensory states have to not influence the outside. So
+- \[00:57:17\]  they still can be observable. And then you get to things that now have a non-empty active sector of
+- \[00:57:24\]  the holographic screen or the Markov blanket. And these are things that move. So you might think
+- \[00:57:29\]  these are natural kinds that have mobility or motility. And then you get to things that,
+- \[00:57:37\]  whose internal states now have a Markov blanket within them. And these would be the kinds of
+- \[00:57:45\]  things that can fan. And these are usually multicellular things, also certainly compartmentalized
+- \[00:57:50\]  things. I think at each stage, the knowability depends upon whether either the internal sets
+- \[00:57:58\]  are empty or not, or they are irreducible in the sense there are no Markov blankets within those.
+- \[00:58:05\]  I think it's a nice, simple mathematical picture of that gradation that speaks exactly to the
+- \[00:58:12\]  electron through to the pendulum, to the thermostat through to a smart thermostat that
+- \[00:58:19\]  starts to worry about whether you want it warmer or colder or not. And starts to plan ahead and
+- \[00:58:24\]  moves from homeostasis to allostasis. All of this would speak to a different scales,
+- \[00:58:29\]  equipping Markov blankets and Markov blankets and inducing a deep structure.
