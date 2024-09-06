@@ -944,7 +944,7 @@
 - \[00:53:21\]  I've shown you many examples of that, which means that life is incredibly interoperable.
 - \[00:53:26\]  Any combination of evolved material, engineered material and software is some kind of agent.
 - \[00:53:33\]  We already have some examples of cyborgs and hybrids, and you're going to have humans with
-- \[00:53:38\]  all kinds of different proportion of new parts and new, new organs and so on.
+- \[00:53:38\]  all kinds of different proportion of new parts and new, new organs and so on. ^a656d4
 - \[00:53:42\]  All of this, all of this is coming.
 - \[00:53:44\]  Everything that Darwin meant when he said endless forms, most beautiful is a tiny corner
 - \[00:53:49\]  of this state space of possible bodies and minds, which is going to be here with us in
@@ -990,3 +990,5 @@
 - \[00:56:07\]  Absolutely.
 - \[00:56:08\]  Anytime.
 - \[00:56:09\]  Thank you all so much.
+
+
