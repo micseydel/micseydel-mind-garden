@@ -29,6 +29,7 @@
     - Other similar language: ![[A conversation with Alison Hanson on cognitive science and her trajectory in neurobiology#^203d95]]
 - (2024-04-26; 0:55:02) [[Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you (Michael Levin transcription)|Where Minds Come From - the scaling of collective intelligence, and what it means for AI and you]] ⭐️
 - (2024-05-08; 1:18:57) [[Discussion with Michael Pollan of new ideas on memories and Selves]]
+- (2024-05-25; 58:34) [[Discussion on Mortal Computations with Alexander Ororbia, Karl Friston, and Chris Fields]]
 - (2024-06-14; 2:18:44) [[Michael Levin - Consciousness, Cognition, Biology, Emergence|Consciousness, Cognition, Biology, Emergence]]
 - (2024-06-18; 1:04:55) [[Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine (Michael Levin)|Endogenous Bioelectrical Networks - An Interface to Regenerative Medicine]]
 - [ ] (2024-05-24; 46:43) [[Tom Froese and Michael Levin discuss Tom's Irruption theory]]
@@ -39,6 +40,8 @@
 - (2024-08-02; 53:54) [[Discussion with Daniel McShea and Gunnar Babcock]]
     - [[New genes activate in our bodies upon death]]
 - [ ] (2024-08-03; 27:37) [[The Mind of the Body - A Window into Embodiment and our Future]]
+- (2024-08-08; 58:24) [[Discussion with Tim Jackson, Karl Friston, and Chris Fields]]
+- (2024-08-12; ==15:35==) [[The Biggest Insight From Joscha Bach and Michael Levin's Work]] (highlights)
 
 ## By channel
 
