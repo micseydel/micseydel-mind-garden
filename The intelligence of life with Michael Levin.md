@@ -2,7 +2,7 @@
 tags:
   - transcription
 created: 2024-06-27T14:14:28-07:00
-updated: 2024-06-27T14:16:04-07:00
+updated: 2024-10-11T15:29
 ---
 
 - ![The intelligence of life with Michael Levin | Living Mirrors](https://www.youtube.com/watch?v=-pf6poBJ2Bc)
@@ -1487,7 +1487,7 @@ updated: 2024-06-27T14:16:04-07:00
 - \[01:23:26\]  the way the Buddhist philosophy kind of intersects with this stuff, right.
 - \[01:23:29\]  Both in terms of the self, um, but also in terms of the,
 - \[01:23:32\]  this cognitive light cone of like how much you can care about and,
-- \[01:23:36\]  and the Bodhisattva vow of trying to kind of devote yourself to kind of
+- \[01:23:36\]  and the Bodhisattva vow of trying to kind of devote yourself to kind of ^f99f3a
 - \[01:23:40\]  expanding that to, um, to make care of kind of the, you know,
 - \[01:23:44\]  I guess when you see other things as subjects with their own agendas,
 - \[01:23:48\]  expanding your care to take them into account becomes the kind of core of this,

@@ -1,3 +1,7 @@
+---
+created: 2024-06-27T11:15
+updated: 2024-10-11T15:30
+---
 - ![Discussing 3 Recently Published Papers with Michael Levin](https://www.youtube.com/watch?v=KfrEDUv29r0)
     - (2023-07-03; 1:24:54)
 - \[00:00:00\]  Mike, thanks for coming on.
@@ -1869,7 +1873,7 @@
 - \[01:16:46\]  to improve your cognitive, you know,
 - \[01:16:49\]  apparatus and so on.
 - \[01:16:50\]  And the commitment is the last thing, ^dc431f
-- \[01:16:53\]  the bodhisattva vow, which is huge.
+- \[01:16:53\]  the bodhisattva vow, which is huge. ^d0cbd0
 - \[01:16:56\]  It's this commitment.
 - \[01:16:58\]  It's a meta goal.
 - \[01:16:59\]  It's the commitment to enlarge your cognitive apparatus, ^c56f23
@@ -1905,7 +1909,7 @@
 - \[01:18:02\]  but I imagine other folks have worked on this.
 - \[01:18:06\]  The idea of what it's like to perceive,
 - \[01:18:10\]  let's say the self in a broader way.
-- \[01:18:13\]  And like you mentioned with the Bodhisattva vow,
+- \[01:18:13\]  And like you mentioned with the Bodhisattva vow, ^1cbf81
 - \[01:18:16\]  and I think this is actually really nice
 - \[01:18:17\]  because it brings us full circle with our conversation
 - \[01:18:19\]  from our very first one,
@@ -1948,7 +1952,7 @@
 - \[01:19:57\]  It's a wonderful way to put it.
 - \[01:20:00\]  And if you wouldn't mind, I mean,
 - \[01:20:02\]  I'll probably overlay the cognitive light cone
-- \[01:20:05\]  with the Bodhisattva vow one.
+- \[01:20:05\]  with the Bodhisattva vow one. ^2652e4
 - \[01:20:10\]  How has this been,
 - \[01:20:11\]  because this paper came out about a year ago,
 - \[01:20:13\]  how has it been received?

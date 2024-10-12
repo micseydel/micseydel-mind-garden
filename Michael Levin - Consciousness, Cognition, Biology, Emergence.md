@@ -1,6 +1,8 @@
 ---
 tags:
-- transcription
+  - transcription
+created: 2024-06-19T17:49
+updated: 2024-10-11T15:29
 ---
 - ![](https://www.youtube.com/watch?v=c8iFtaltX-s)
     - (2024-06-14; 2:18:44)
@@ -710,7 +712,7 @@ tags:
 - \[00:28:09\]  the Center for the Study of Apparent Selves.
 - \[00:28:12\]  And we talk about this notion of something,
 - \[00:28:15\]  for example, in Buddhism,
-- \[00:28:16\]  they have this notion of a bodhisattva vow.
+- \[00:28:16\]  they have this notion of a bodhisattva vow. ^348e13
 - \[00:28:18\]  And it's basically a commitment
 - \[00:28:20\]  to enlarge one's cognitive light cone
 - \[00:28:22\]  so that over time one becomes able

@@ -2,7 +2,7 @@
 tags:
   - transcription
 created: 2024-06-27T17:54:49-07:00
-updated: 2024-06-27T17:54:49-07:00
+updated: 2024-10-11T15:29
 ---
  - ![What are Cognitive Light Cones?](https://www.youtube.com/watch?v=YnObwxJZpZc)
      - (2023-04-01; 1:20:06)
@@ -165,7 +165,7 @@ updated: 2024-06-27T17:54:49-07:00
 - \[00:14:46\]  you know, if you're told that, well, actually it's not, it's not a thousand people, it was actually
 - \[00:14:50\]  10,000 people that it happened to. Your amount of, of, of active care is not going up tenfold. We
 - \[00:14:56\]  just can't muster that, that level, right. But you could imagine, and, and, and, you know, you could
-- \[00:15:01\]  imagine these sort of bodhisattva like beings with, whose light cone is large enough where
+- \[00:15:01\]  imagine these sort of bodhisattva like beings with, whose light cone is large enough where ^4d41e7
 - \[00:15:06\]  they can actually, they can literally care about, you know, a massive amount of, of possible,
 - \[00:15:12\]  possible sentient beings. So anyway, so that, so that's, that's the point of this cognitive light
 - \[00:15:16\]  cone and the idea behind all of this, and there's a, there's a follow-up paper from, from last year,
