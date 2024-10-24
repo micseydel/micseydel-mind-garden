@@ -3,7 +3,7 @@ This is going to be a bit dense but I'll try to pick up where Annie Murphy Paul 
 > [!abstract] The last sentence of *[The Extended Mind](https://anniemurphypaul.com/books/the-extended-mind/)*
 > "Acknowledging the reality of the extended mind might well lead us to embrace the extended heart."
 
-An "extended mind" example would be people playing **cyborg chess**, where [humans play chess against each](https://www.irishexaminer.com/opinion/commentanalysis/arid-30975938.html) other with access to chess AI engines. This may sound boring, but chess master Garry Kasparov had this [to say](https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/) in 2020:
+An "extended mind" example would be people playing **cyborg chess**, where humans play chess [against each other with access to chess AI engines](https://www.irishexaminer.com/opinion/commentanalysis/arid-30975938.html). This may sound boring, but chess master Garry Kasparov had this [to say](https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/) in 2020:
 
 > [!success] Garry Kasparov (chess master after which [Kasparov's law](https://news.northeastern.edu/2024/06/17/garry-kasparov-chess-humans-ai/) is named)
 > "It was a mistake to think that if we develop very powerful chess machines, the game would be dull \[...] AlphaZero is totally the opposite. For me it was **complementary** \[...] It found that it could actually sacrifice material for aggressive action. **It’s not creative, it just sees the pattern, the odds**."
