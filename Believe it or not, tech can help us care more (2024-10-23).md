@@ -1,4 +1,4 @@
-This is going to be a bit dense but I'll try to pick up where Annie Murphy Paul in 2021:
+This is going to be a bit dense but I'll try to pick up where Annie Murphy Paul left off in 2021:
 
 > [!abstract] The last sentence of *[The Extended Mind](https://anniemurphypaul.com/books/the-extended-mind/)*
 > "Acknowledging the reality of the extended mind might well lead us to embrace the extended heart."
@@ -34,7 +34,7 @@ My goal here is to integrate some of what has resonated from these various exper
 
 Writing isn't the only low-tech way to extend our minds though. Another straightforward way is with analog timers. Someone can be more effective at doing laundry, baking, or whatever else by extending their mind with a simple timer.
 
-A timer allows you to move your **attention** to something new, without giving up care for what you'll come back to when the time is right. A timer is a kind of externalized reference frame, tracking movement through time in instead of space as in the examples above. When time is up, the timer sends you a message that will let you change your behavior to be more consistent with your long-term intentions, with **who you want to be** when empowered.
+A timer allows you to move your **attention** to something new, without giving up care for what you'll come back to when the time is right. A timer is a kind of externalized reference frame, tracking movement through time in instead of space as in the examples above. When time is up, the timer sends you a message (e.g. "ding!") that will let you change your behavior to be more consistent with your long-term intentions, with **who you want to be** when empowered.
 
 We can think of the timer as reliable **externalized agency**, just like a sticky note is **externalized memory**. Combining these two principals can feel like magic!
 
@@ -54,7 +54,7 @@ Peanut (left) has a life-threatening chronic condition that requires monitoring 
 
 ![[Pasted image 20240917181521.png|360]]
 
-By externalizing my mind and my care, I've made my process for taking care of Peanut fewer steps and more robust. All I have to do (most of the time) is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am and I'm sleep deprived, I can open the daily litter sifting note, and if the totals are off I can investigate who produced the latest pee clump using notes that aren't (as) automatically organized.
+By externalizing my mind and my care, I've made my process for taking care of Peanut fewer manual steps. All I have to do (most of the time) is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am and I'm sleep deprived and the totals are off, I can start my investigation with who produced the latest pee clump using notes that aren't (as) automatically organized.
 
 Before building this custom system, I used Google Keep transcribed voice notes. This meant I had to choose between proactively organizing notes when I was able, or hoping I could organize them as needed. Both choices were painful in different ways and at different times. By externalizing these **steps** for computers to take for me, I have the best of both worlds - I don't need to manually organize my notes proactively, and when I need to do so reactively, it's already partly done. This gives me **peace of mind**.
 
