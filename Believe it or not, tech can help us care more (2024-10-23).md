@@ -11,16 +11,16 @@ An "extended mind" example would be people playing **cyborg chess**, where human
 I believe that just like our extended minds can leverage complementary benefits from tech, our extended hearts can as well. But it's not just about our goals or intentions, sometimes we need *systems*:
 
 > [!tip] James Clear ([Atomic Habits](https://jamesclear.com/atomic-habits))
-> "You do not rise to the level of your goals. You fall to the level of your systems" ([[We don't rise to our goals, we fall to our systems|ref]])
+> "You do not rise to the level of your goals. You fall to the level of your systems."
 
 So, in this essay I will talk (briefly) about how to leverage our extended minds, our intelligence, to **care** more or more effectively. "Intelligence" is not the star of this show but it is useful, especially this:
 
 > [!question] Jeff Hawkins ([A Thousand Brains](https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/))
-> "The secret ingredient, if you will, is that intelligence is created through thousands of small models of the world, where each model uses reference frames to store knowledge and create behaviors." ([[The secret ingredient to intelligence|ref]])
+> "The secret ingredient, if you will, is that intelligence is created through thousands of small models of the world, where each model uses reference frames to store knowledge and create behaviors."
 
 To elaborate a little more on what Hawkins is referring to by "reference frames," you can think of a reference frame as tracking some *thing* in some *space*:
 - a point in an (x, y) coordination system space (2D)
-- where you parked in a parking lot (2D or 3D)
+- where you parked in a parking lot (2D or 3D if multiple floors)
 - who you plan to vote for in a democratic election (XD)
 
 Ok, let's get back to the extended heart by quoting someone working on regrowing amputated limbs:
@@ -28,11 +28,11 @@ Ok, let's get back to the extended heart by quoting someone working on regrowing
 > [!example] Michael Levin ([An organicist talks about AI (not really about AI at all), and fear](https://thoughtforms.life/an-organicist-talks-about-ai-not-really-about-ai-at-all-and-fear/))
 > "The goal of my work is fundamentally ethical and spiritual, not technological"
 
-My goal here is to integrate some of what has resonated from these various experts and show how we can **care more** by extending our minds with **externalized reference frames**. For all the examples above, externalizing the final result could be writing on a sticky note or in a notes app, whatever works best for the individual in the particular situation.
+My goal here is to integrate some of what has resonated from these various experts and show how we can **care more** by extending our minds with **externalized reference frames**. For all the examples above, externalizing the final result could be as simple as writing on a sticky note or in a notes app, whatever works best for the individual in the particular situation.
 
 ![[Pasted image 20230105040315.png|360]]
 
-Writing isn't the only low-tech way to extend our minds though. Another straightforward way is with analog timers. Someone can be more effective at doing laundry, baking, or whatever else by extending their mind with a simple timer.
+Writing isn't the only mundane way to extend our minds though. Another straightforward way is with analog timers. Someone can be more effective at doing laundry, baking, or whatever else by extending their mind with a simple timer.
 
 A timer allows you to move your **attention** to something new, without giving up care for what you'll come back to when the time is right. A timer is a kind of externalized reference frame, tracking movement through time instead of space. When time is up, the timer sends you a message (e.g. "ding!") that will let you change your behavior to be more consistent with your [long-term intentions](https://www.mdpi.com/1099-4300/24/5/710), with **who you want to be** when empowered.
 
@@ -74,7 +74,7 @@ I have HALT agents for
 - **tiredness** (sleep data pulled from Fitbit at specific times; at the bottom)
 - **CO2** tracking because it can impair cognition (from an Aranet4 at a regular interval; left of the sleep/Fitbit stuff)
 
-If too much time passes without me eating, I get a push notification. If I seem distressed while thinking out loud, my smart lights flash and I get a push notification. If I'm tired or the CO2 is above 1000PPM... you get the picture. But if I'm hungry *and* tired, the notification specifically says, "Grab food and nap if possible."
+If too much time passes without me eating during the day, I get a push notification. If I seem distressed while thinking out loud, my smart lights flash and I get a push notification. If I'm tired or the CO2 is above 1000PPM... you get the picture. But if I'm hungry *and* tired, the notification specifically says, "Grab food and nap if possible."
 
 By externalizing these various reference frames and then integrating them, I can provide custom messages and get a kind of HALT score. When that score reaches 3, the push notification suggests disengaging from whatever I'm doing to get that score down. HALT is a good idea, but it's like meditation - the more you need it, the harder it is to actually do.
 
@@ -82,7 +82,7 @@ By externalizing these various reference frames and then integrating them, I can
 
 Honestly, I've never felt more empowered by software in my whole life because merely HALTing can be so much work 😆 Obviously simple timers are incredibly useful, and tools like Google Calendar can be a game-changer, but there was no app for organizing notes on my cats automatically (ChatGPT was not reliable when I tried). There might be a HALT app out there, but I'm not interested because I can't network apps together like my atomic agents - I prefer flashing my lights over push notifications to keep my eyes off my phone, for example.
 
-I built this for me but my care is not limited to my household. Because care is my focus rather than popularity or growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
+I built this for me but my care is not limited to my household. Because care is my focus rather than short-term growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
 
 Just like my atomic agents network to empower each other, I want to network with other people who care, to save effort without having to care any less. I've created a private Discourse community and I encourage you to [reach out](mailto:contact@micseydel.me) and if any of this has resonated with you... **what would a day in in your extended mind look like?**
 
