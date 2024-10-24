@@ -34,7 +34,7 @@ My goal here is to integrate some of what has resonated from these various exper
 
 Writing isn't the only low-tech way to extend our minds though. Another straightforward way is with analog timers. Someone can be more effective at doing laundry, baking, or whatever else by extending their mind with a simple timer.
 
-A timer allows you to move your **attention** to something new, without giving up care for what you'll come back to when the time is right. A timer is a kind of externalized reference frame, tracking movement through time in instead of space as in the examples above. When time is up, the timer sends you a message (e.g. "ding!") that will let you change your behavior to be more consistent with your long-term intentions, with **who you want to be** when empowered.
+A timer allows you to move your **attention** to something new, without giving up care for what you'll come back to when the time is right. A timer is a kind of externalized reference frame, tracking movement through time instead of space. When time is up, the timer sends you a message (e.g. "ding!") that will let you change your behavior to be more consistent with your [long-term intentions](https://www.mdpi.com/1099-4300/24/5/710), with **who you want to be** when empowered.
 
 We can think of the timer as reliable **externalized agency**, just like a sticky note is **externalized memory**. Combining these two principals can feel like magic!
 
@@ -80,9 +80,9 @@ By externalizing these various reference frames and then integrating them, I can
 
 ![[Pasted image 20231023092945.png|360]]
 
-Honestly, I've never felt more empowered by software in my whole life because merely HALTing can be so much work 😆 Obviously simple timers are incredibly useful, and tools like Google Calendar can be a game-changer, but there was no app for organizing notes on my cats (ChatGPT was not reliable when I tried). There might be a HALT app out there, but I'm not interested because I can't network them together like my atomic agents - I prefer flashing my lights to keep my eyes off my phone, for example, over push notifications.
+Honestly, I've never felt more empowered by software in my whole life because merely HALTing can be so much work 😆 Obviously simple timers are incredibly useful, and tools like Google Calendar can be a game-changer, but there was no app for organizing notes on my cats automatically (ChatGPT was not reliable when I tried). There might be a HALT app out there, but I'm not interested because I can't network apps together like my atomic agents - I prefer flashing my lights over push notifications to keep my eyes off my phone, for example.
 
-I built this for me but my care is not limited to me and my cats (though there's still [plenty of room to grow my care](https://www.mdpi.com/1099-4300/24/5/710)). Because care is my focus rather than popularity or growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
+I built this for me but my care is not limited to my household. Because care is my focus rather than popularity or growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
 
 Just like my atomic agents network to empower each other, I want to network with other people who care, to save effort without having to care any less. I've created a private Discourse community and I encourage you to reach out and if any of this has resonated with you... **what would a day in in your extended mind look like?**
 
