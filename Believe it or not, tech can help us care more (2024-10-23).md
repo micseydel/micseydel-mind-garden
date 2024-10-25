@@ -84,6 +84,6 @@ Honestly, I've never felt more empowered by software in my whole life because me
 
 I built this for me but my care is not limited to my household. Because care is my focus rather than short-term growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
 
-Just like my atomic agents network to empower each other, I want to network with other people who care, to save effort without having to care any less. I've created a private Discourse community and I encourage you to [reach out](mailto:contact@micseydel.me) and if any of this has resonated with you... **what would a day in in your extended mind look like?**
+Just like my atomic agents network to empower each other, I want to network with other people who care, to save effort without having to care any less. I've created a private Discourse community and I encourage you to [reach out](mailto:contact@micseydel.me) and if any of this has resonated with you... **what would a day in the life of your externalized reference frames look like?**
 
 ![[Screen Recording 2024-10-20 at 6.56.15 PM.mp4]]
