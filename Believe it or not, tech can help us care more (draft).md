@@ -23,7 +23,7 @@ To elaborate a little more on what Hawkins is referring to by "reference frames,
 - where you parked in a parking lot (2D or 3D if multiple floors)
 - who you plan to vote for in a democratic election (XD)
 
-Ok, let's get back to the extended heart by quoting someone working on regrowing amputated limbs:
+Ok, let's get back to the extended heart by quoting someone working on [regrowing amputated limbs](https://www.youtube.com/watch?v=WLHO39qvcO4):
 
 > [!example] Michael Levin ([An organicist talks about AI (not really about AI at all), and fear](https://thoughtforms.life/an-organicist-talks-about-ai-not-really-about-ai-at-all-and-fear/))
 > "The goal of my work is fundamentally ethical and spiritual, not technological"
