@@ -28,7 +28,7 @@ Ok, let's get back to the extended heart by quoting someone working on [regrowin
 > [!example] Michael Levin ([An organicist talks about AI (not really about AI at all), and fear](https://thoughtforms.life/an-organicist-talks-about-ai-not-really-about-ai-at-all-and-fear/))
 > "The goal of my work is fundamentally ethical and spiritual, not technological"
 
-My goal here is to integrate some of what has resonated from these various experts and show how we can **care more** by extending our minds with **externalized reference frames**. For all the examples above, externalizing the final result could be as simple as writing on a sticky note or in a notes app, whatever works best for the individual in the particular situation.
+My intention here is to integrate some of what has resonated from these various experts and show how we can **care more** by extending our minds with **externalized reference frames**. For all the examples above, externalizing the final result could be as simple as writing on a sticky note or in a notes app, whatever works best for the individual in the particular situation.
 
 ![[Pasted image 20230105040315.png|360]]
 
@@ -54,15 +54,15 @@ Peanut (left) has a life-threatening chronic condition that requires monitoring 
 
 ![[Pasted image 20240917181521.png|360]]
 
-By externalizing my mind and my care, I've made my process for taking care of Peanut fewer manual steps. All I have to do (most of the time) is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am and I'm sleep deprived and the totals are off, I can start my investigation with who produced the latest pee clump using notes that aren't (as) automatically organized.
+By externalizing my mind and my care, I've made my process for taking care of Peanut easier. All I have to do (most of the time) is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am, I'm sleep deprived, and the totals are off, I can start my investigation with who produced the latest pee clump using notes that aren't (as) automatically organized.
 
-Before building this custom system, I used Google Keep transcribed voice notes. This meant I had to choose between proactively organizing notes when I was able, or hoping I could organize them as needed. Both choices were painful in different ways and at different times. By externalizing these **steps** for computers to take for me, I have the best of both worlds - I don't need to manually organize my notes proactively, and when I need to do so reactively, it's already partly done. This gives me **peace of mind**.
+Before building my custom system, I used Google Keep transcribed voice notes. This meant I had to choose between proactively organizing notes when I was able, or hoping I could organize them as needed. Both choices were painful in different ways and at different times. By externalizing these **steps** for computers to take for me, I have the best of both worlds - I don't need to manually organize my notes proactively, and when I need to do so reactively, it's already partly done. This gives me **peace of mind**.
 
 I shared about my cats because that was the beginning of this journey for me, but a potentially more relatable example might be [H.A.L.T.](https://health.clevelandclinic.org/halt-hungry-angry-lonely-tired):
 
 > HALT is an acronym that stands for “hunger, anger, lonely, tired.” To use the HALT method, you check in with yourself periodically and ask yourself how you’re feeling in these four categories. Sometimes, check-ins can occur daily. Other times, you may check in with yourself hourly. How often you participate in the HALT method is up to you.
 
-Let's look at my atomic agents graphic again (🥲), with the cat stuff mostly cropped out (😿😿):
+Let's look at my atomic agents graphic again, with the cat stuff mostly cropped out:
 
 ![[Pasted image 20240917142413_cropped.png|360]]
 
@@ -76,11 +76,11 @@ I have HALT agents for
 
 If too much time passes without me eating during the day, I get a push notification. If I seem distressed while thinking out loud, my smart lights flash and I get a push notification. If I'm tired or the CO2 is above 1000PPM... you get the picture. But if I'm hungry *and* tired, the notification specifically says, "Grab food and nap if possible."
 
-By externalizing these various reference frames and then integrating them, I can provide custom messages and get a kind of HALT score. When that score reaches 3, the push notification suggests disengaging from whatever I'm doing to get that score down. HALT is a good idea, but it's like meditation - the more you need it, the harder it is to actually do.
+By externalizing these various reference frames and then integrating them, I can provide custom messages and get a kind of HALT score. When that score reaches 3, the push notification suggests disengaging from whatever I'm doing to get that score down. HALT is a good idea, but it's like meditation - **the more you need it, the harder it is to actually do**.
 
 ![[Pasted image 20231023092945.png|360]]
 
-Honestly, I've never felt more empowered by software in my whole life because merely HALTing can be so much work 😆 Obviously simple timers are incredibly useful, and tools like Google Calendar can be a game-changer, but there was no app for organizing notes on my cats automatically (ChatGPT was not reliable when I tried). There might be a HALT app out there, but I'm not interested because I can't network apps together like my atomic agents - I prefer flashing my lights over push notifications to keep my eyes off my phone, for example.
+Honestly, I've never felt more empowered by software in my whole life because merely HALTing can be so much work 😆 Obviously simple timers are incredibly useful, and tools like Google Calendar can be a game-changer, but there was no app for organizing notes on my cats automatically (ChatGPT was not reliable when I tried). There might be a HALT app out there, but I'm not interested because **I can't network apps together like my atomic agents** - I prefer flashing my lights over push notifications to keep my eyes off my phone, for example.
 
 I built this for me but my care is not limited to my household. Because care is my focus rather than short-term growth (the typical tech-focused stuff) at this phase of things, I am not quite releasing the code to everyone yet. However, if you read this far I'd love to hear from you - what do you care about? What do you want to care more about that today's apps don't help with? How would you care more if you could **externalize reference frames** like I've started tinkering with here?
 
