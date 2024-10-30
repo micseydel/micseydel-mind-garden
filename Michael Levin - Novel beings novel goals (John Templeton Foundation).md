@@ -839,7 +839,7 @@
 - \[00:47:43\]  kind of, or maybe a couple outcomes that we see this, this goes way deeper than just,
 - \[00:47:48\]  um, developmental plasticity.
 - \[00:47:50\]  So I want to show in the last few minutes, I just want to show you some, some examples
-- \[00:47:53\]  of rebooting multicellularity.
+- \[00:47:53\]  of rebooting multicellularity. ^8577e8
 - \[00:47:55\]  This is, uh, this is the beginnings of what we call, um, the construction of xenobots.
 - \[00:48:01\]  What we did was take some, uh, epithelial skin cells off of an early frog embryo.
 - \[00:48:06\]  They could do many things they could do where they could have died.
