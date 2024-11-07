@@ -42,6 +42,7 @@
 - [ ] (2024-08-03; 27:37) [[The Mind of the Body - A Window into Embodiment and our Future]]
 - (2024-08-08; 58:24) [[Discussion with Tim Jackson, Karl Friston, and Chris Fields]]
 - (2024-08-12; ==15:35==) [[The Biggest Insight From Joscha Bach and Michael Levin's Work]] (highlights)
+- (2024-11-04; 1:04:28) [[On Memory as a Self-Adapting Agent]]
 
 ## By channel
 
