@@ -43,6 +43,7 @@
 - (2024-08-08; 58:24) [[Discussion with Tim Jackson, Karl Friston, and Chris Fields]]
 - (2024-08-12; ==15:35==) [[The Biggest Insight From Joscha Bach and Michael Levin's Work]] (highlights)
 - (2024-11-04; 1:04:28) [[On Memory as a Self-Adapting Agent]]
+    - Talks about [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue](https://www.mdpi.com/1099-4300/26/6/481) (MDPI)
 
 ## By channel
 
