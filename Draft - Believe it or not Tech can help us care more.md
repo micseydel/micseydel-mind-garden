@@ -5,7 +5,7 @@ This is going to be a bit dense but I'll try to pick up where Annie Murphy Paul 
 
 An "extended mind" example would be people playing **cyborg chess**, where humans play chess [against each other with access to chess AI engines](https://www.irishexaminer.com/opinion/commentanalysis/arid-30975938.html). This may sound boring, but chess master Garry Kasparov had this [to say](https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/) in 2020:
 
-> [!success] Garry Kasparov (chess master after which [Kasparov's law](https://news.northeastern.edu/2024/06/17/garry-kasparov-chess-humans-ai/) is named)
+> [!success] Garry Kasparov (after whom [Kasparov's law](https://news.northeastern.edu/2024/06/17/garry-kasparov-chess-humans-ai/) is named)
 > "It was a mistake to think that if we develop very powerful chess machines, the game would be dull \[...] AlphaZero is totally the opposite. For me it was **complementary** \[...] It found that it could actually sacrifice material for aggressive action. **It’s not creative, it just sees the pattern, the odds**."
 
 I believe that just like our extended minds can leverage complementary benefits from tech, our extended hearts can as well. But it's not just about our goals or intentions, sometimes we need *systems*:
@@ -13,13 +13,13 @@ I believe that just like our extended minds can leverage complementary benefits 
 > [!tip] James Clear ([Atomic Habits](https://jamesclear.com/atomic-habits))
 > "You do not rise to the level of your goals. You fall to the level of your systems."
 
-So, in this essay I will talk (briefly) about how to leverage our extended minds, our intelligence, to **care** more or more effectively. "Intelligence" is not the star of this show but it is useful, especially this:
+So, in this essay I will talk (briefly) about how to leverage our extended minds, our intelligence, to **care** more or more effectively. "Intelligence" is *not* the star of this show but it is useful, especially this:
 
 > [!question] Jeff Hawkins ([A Thousand Brains](https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/))
 > "The secret ingredient, if you will, is that intelligence is created through thousands of small models of the world, where each model uses reference frames to store knowledge and create behaviors."
 
 To elaborate a little more on what Hawkins is referring to by "reference frames," you can think of a reference frame as tracking some *thing* in some *space*:
-- a point in an (x, y) coordination system space (2D)
+- a mathematical point in an (x, y) coordination system space (2D)
 - where you parked in a parking lot (2D or 3D if multiple floors)
 - who you plan to vote for in a democratic election (XD)
 
@@ -54,9 +54,9 @@ Peanut (left) has a life-threatening chronic condition that requires monitoring 
 
 ![[Pasted image 20240917181521.png|360]]
 
-By externalizing my mind and my care, I've made my process for taking care of Peanut easier. All I have to do (most of the time) is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am, I'm sleep deprived, and the totals are off, I can start my investigation with who produced the latest pee clump using notes that aren't (as) automatically organized.
+By externalizing my mind and my care, I've made my process for taking care of Peanut easier. All I have to do is make a voice note like "I just sifted poop from the back litter box" to add to the summary note. If he's yowling at 2am, I'm sleep deprived, and the totals are off, I can start my investigation with who produced the latest pee clump using notes that aren't (as) automatically organized.
 
-Before building my custom system, I used Google Keep transcribed voice notes. This meant I had to choose between proactively organizing notes when I was able, or hoping I could organize them as needed. Both choices were painful in different ways and at different times. By externalizing these **steps** for computers to take for me, I have the best of both worlds - I don't need to manually organize my notes proactively, and when I need to do so reactively, it's already partly done. This gives me **peace of mind**.
+Before building my custom system, I used Google Keep transcribed voice notes. This meant I had to choose between proactively organizing notes when I was able, or hoping I could organize them as needed. Both choices were painful in different ways at different times. By externalizing these **steps** for computers to take for me, I have the best of both worlds - I don't need to manually organize my notes proactively, and when I need to do so reactively, it's already partly done. This gives me **peace of mind**.
 
 I shared about my cats because that was the beginning of this journey for me, but a potentially more relatable example might be [H.A.L.T.](https://health.clevelandclinic.org/halt-hungry-angry-lonely-tired):
 
