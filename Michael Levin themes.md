@@ -1,4 +1,0 @@
-- [[Michael Levin might promote panpsychism]]
-- message passing / prompting
-- breaking norms
-- forms of collective intelligence
