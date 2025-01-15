@@ -1,4 +1,0 @@
-- High-level Obsidian Canvas
-	- ![[Pasted image 20240603110314.png]]
-- More zoomed-in
-	- ![[Pasted image 20240603110321.png]]
