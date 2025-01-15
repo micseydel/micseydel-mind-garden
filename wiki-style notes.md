@@ -1,0 +1,2 @@
+- > "[Wiki](https://en.wiktionary.org/wiki/wiki#Hawaiian "wikt:wiki")" \[...] is a [Hawaiian](https://en.wikipedia.org/wiki/Hawaiian_language "Hawaiian language") word meaning "quick".
+    - https://en.wikipedia.org/wiki/Wiki
