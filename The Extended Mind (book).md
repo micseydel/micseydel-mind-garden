@@ -1,4 +1,6 @@
 ---
+aliases:
+- Acknowledging the reality of the extended mind might well lead us to embrace the extended heart
 tags:
   - stub
 created: 2024-05-20T15:28:05-07:00
