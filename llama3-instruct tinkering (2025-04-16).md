@@ -1,0 +1,25 @@
+- [[Prompt (2025-04-16)]]
+    - (Note: my summary example was wrong)
+    - Included commentary
+    - Left out backslashes
+    - Did not turn "P-clumps" into an emoji
+    - Incorrect summary
+- [[Prompt 2 (2025-04-16)]]
+    - (summary fixed)
+    - All the issues above
+- [[Prompt 3 (2025-04-16)]]
+    - All the issues above
+- [[Prompt 4 (2025-04-16)]]
+    - Worse - broke the wikilinks, extra commentary
+- [[Prompt 5 (2025-04-16)]]
+    - Worse, changed an existing event
+- [[Prompt 6 (2025-04-16)]]
+    - Still no improvement, incorrect translation to emoji, summary is very wrong
+- [[Prompt 7 (2025-04-16)]]
+    - Still very wrong, this time it stripped out the wikilinks entirely
+- [[Prompt 8 (2025-04-16)]]
+    - No better, included a novel emoji
+- [[Prompt 9 (2025-04-16)]]
+    - (I screwed this one up, it probably did NOT use the `instruct` model)
+- [[Prompt 10 (2025-04-16)]]
+    - This was probably closest, but it's still missing backslashes and the summary is wrong
