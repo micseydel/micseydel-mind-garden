@@ -20,7 +20,7 @@
 - [[Prompt 5 (2025-04-16)]]
     - Worse, changed an existing event
 - [[Prompt 6 (2025-04-16)]]
-    - Still no improvement, incorrect translation to emoji, summary is very wrong
+    - This was quite close, but it's still making incoherent errors
 - [[Prompt 7 (2025-04-16)]]
     - Still very wrong, this time it stripped out the wikilinks entirely
 - [[Prompt 8 (2025-04-16)]]
