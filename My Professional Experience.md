@@ -1,0 +1,7 @@
+- Livongo / Teledoc (2018-2021)
+    - Backend engineering (primarily Scala)
+    - Data engineering (Python, Scala, SQL and Bash)
+- Tile (2016-2018)
+	- Backend engineering in Java
+- LinkedIn (2013-2016)
+	- Software engineer

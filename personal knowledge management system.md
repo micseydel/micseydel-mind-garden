@@ -12,3 +12,4 @@ updated: 2024-05-20T17:38:22-07:00
 # See also
 
 - [[Externalized cognition]]
+- [[wiki-style notes]]

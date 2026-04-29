@@ -1,14 +1,10 @@
-- Michael Seydel (they/them)
-- Recent writing
-    - [Believe it or not, tech can help us care more](https://micseydel.substack.com/p/believe-it-or-not-tech-can-help-us)
-- Current books:
-	- *[Tiny Experiments](https://nesslabs.com/book)* audio book by Anne-Laure Le Cunff
-	- *The Gripping Hand* by Larry Niven
+My name is Michael Seydel. I'm a life-long tinker.
 
-# Recent work
+When I was 15, a Myspace CSS code generator accidentally inspired me to become a programmer, when I saw the word "blue" somewhere in the code and **curiously** tried changing it to red. I've been drunk with power ever since that discovery.
 
-- Livongo / Teledoc (2018-2021)
-    - Backend engineering (primarily Scala)
-    - Data engineering (Python, Scala, SQL and Bash)
-- Personal project
-	- My [tinker-cast](https://github.com/micseydel/tinker-casting)
+I'm building a different kind of digital assistant, which I call my [[My Tinker Cast]], to help me think more like a scientist.
+
+# See also
+
+- [[My Professional Experience]]
+- [[About this mind garden]]

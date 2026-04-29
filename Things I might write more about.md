@@ -1,0 +1,20 @@
+- how I deal with hallucinations in transcription
+	- state machines
+	- voting
+- thinking with code
+	- hypotheses as code
+	- (compare to thinking with AI)
+- The tech stack
+	- Python and the future
+- naming, "curious notes"?
+- Security
+	- stopped using the non-essential npm supply chain in November
+- inspiration
+	- IFS
+	- Thousand Brains project
+	- [[Cognitive Tinker Frame]]
+- See also
+	- [[Tinker Cast - examples]]
+	- [[Tinker Cast - implementation details]]
+	- ==[[Tinker Cast - inspiration]]==
+	- [[Tinker Cast prototype - first video demo]]- two year old video
