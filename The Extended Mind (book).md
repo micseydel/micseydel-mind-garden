@@ -5,9 +5,10 @@ tags:
   - stub
 created: 2024-05-20T15:28:05-07:00
 ---
-*The Extended Mind* is a book by Annie Murphy Paul
-
-Website: https://anniemurphypaul.com/books/the-extended-mind/
+- *The Extended Mind* is a book by [[Annie Murphy Paul]]
+    - Website: https://anniemurphypaul.com/books/the-extended-mind/
+- purchased [[The Extended Mind (audiobook)]] 2021-12-28
+    - released 2021-06-08
 
 # Parts 
 
